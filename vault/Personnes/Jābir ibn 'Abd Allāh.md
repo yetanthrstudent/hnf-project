@@ -101,6 +101,8 @@ SULAYMĀN IBN QAYS AL-YASHKURĪ
 
 Quand un même hadith circule par **plusieurs canaux indépendants**, tous passant par la ṣaḥīfa d'al-Yashkurī, la « pluralité des voies » (ta'addud al-ṭuruq) est un mirage : toutes les routes mènent au **même document écrit**. Le hadith du [[Traditions/Tark al-Ṣalāt|tark al-ṣalāt]] est l'exemple parfait : les deux chaînes de Muslim (al-A'mash ← Abū Sufyān ← Jābir et Ibn Jurayj ← Abū al-Zubayr ← Jābir) passent par des transmetteurs de ṣaḥīfa.
 
+Et le seul canal vérifié — celui d'al-Layth ibn Sa'd, qui a fait trier samā'/non-samā' par Abū al-Zubayr — est lui-même compromis par [[Khālid al-Madā'inī]], faussaire qui a interpolé les livres d'al-Layth. La chaîne de confiance est brisée à **chaque niveau**. Voir [[Concepts/Falsification des nusakh]].
+
 ## Relations
 
 - **Ṣaḥīfa écrite par** Sulaymān ibn Qays al-Yashkurī (mort avant Jābir)
@@ -114,3 +116,5 @@ Quand un même hadith circule par **plusieurs canaux indépendants**, tous passa
 - [[Traditions/Tark al-Ṣalāt]] — le hadith qui passe par les deux voies compromises
 - [[Concepts/Kafaytukum tadlīs thalātha]] — Qatāda parmi les trois mudallis
 - [[Personnes/Al-Aʿmash]] — transmet via Abū Sufyān (ṣaḥīfa)
+- [[Personnes/Khālid al-Madā'inī]] — le faussaire qui a corrompu les livres d'al-Layth
+- [[Concepts/Falsification des nusakh]] — la corruption des manuscrits, point aveugle du système

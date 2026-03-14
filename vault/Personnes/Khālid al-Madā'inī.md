@@ -10,7 +10,10 @@ evaluation:
   positif: "aucun"
   negatif: "kadhdhāb (Yaḥyā ibn Ma'īn) ; kāna yudkhilu al-aḥādīth fī kutub al-Layth (il insérait des hadiths dans les livres d'al-Layth)"
 sources_cles:
-  - {ref: "shamela.ws/book/1293", desc: "Tahdhīb al-Tahdhīb — notice de Khālid al-Madā'inī"}
+  - {ref: "shamela.ws/book/736/5143", desc: "Tārīkh Baghdād (éd. Bashshār) — notice complète"}
+  - {ref: "shamela.ws/book/23764/3413", desc: "Tārīkh Baghdād (éd. 'Ilmiyya) — كان يعمد إلى الحديث المنقطع فيسنده"}
+  - {ref: "shamela.ws/book/2170/1305", desc: "al-Jarḥ wa-l-Ta'dīl (Ibn Abī Ḥātim) — notice"}
+  - {ref: "shamela.ws/book/20881/566", desc: "al-Jāmi' li-'Ulūm al-Imām Aḥmad — لا أروي عنه شيئا"}
 ---
 
 # Khālid al-Madā'inī — le faussaire qui a corrompu al-Layth
@@ -27,13 +30,29 @@ Khālid al-Madā'inī pratiquait une forme spécifique de falsification : il pre
 2. **La falsification** : Khālid insère des noms comme **Sālim** (ibn 'Abd Allāh ibn 'Umar), **'Urwa** (ibn al-Zubayr), **Nāfi'** — des transmetteurs classiques de Médine — pour « connecter » la chaîne
 3. **Le résultat** : le hadith paraît muttaṣil (connecté) et marfū' (attribué au Prophète), alors que l'original d'al-Layth était munqaṭi' (déconnecté)
 
+### La preuve — Tārīkh Baghdād
+
+Al-Khaṭīb al-Baghdādī (Tārīkh Baghdād, [éd. 'Ilmiyya p. 3413](https://shamela.ws/book/23764/3413)) :
+
+> « خالد بن القاسم المدائني، **أجمع أهل الحديث على ترك حديثه، كان يعمد إلى الحديث المنقطع فيسنده** »
+>
+> « Khālid ibn al-Qāsim al-Madā'inī — les gens du hadith sont **unanimes pour abandonner** ses traditions. Il **prenait délibérément le hadith déconnecté (munqaṭi') et le connectait (fa-yusniduh)**.  »
+
+Et via al-Bukhārī ([éd. Bashshār p. 5143](https://shamela.ws/book/736/5143)) :
+
+> « خالد بن القاسم أبو الهيثم المدائني **متروك**، تركه علي والناس »
+>
+> « Khālid ibn al-Qāsim Abū al-Haytham al-Madā'inī — **abandonné** (matrūk). 'Alī [ibn al-Madīnī] et tout le monde l'ont abandonné. »
+
 ### Les verdicts
 
-| Critique | Jugement |
-|----------|----------|
-| **Yaḥyā ibn Ma'īn** | « kadhdhāb » (menteur) |
-| **Aḥmad ibn Ḥanbal** | Rejeté |
-| **al-Nasā'ī** | « matrūk al-ḥadīth » (abandonné) |
+| Critique             | Jugement                                                              | Source                      |
+| -------------------- | --------------------------------------------------------------------- | --------------------------- |
+| **Al-Bukhārī**       | « matrūk — trakahu 'Alī wa-l-nās »                                    | Tārīkh Baghdād              |
+| **Aḥmad ibn Ḥanbal** | « لا أروي عنه شيئا » (je ne transmets rien de lui)                    | al-'Ilal (5335)             |
+| **Dāraquṭnī**        | « لا أضمن لك هذا، جرحوه » (je ne te garantis pas, ils l'ont critiqué) | Mawsū'at Aqwāl al-Dāraquṭnī |
+| **Ijmā'**            | « أجمع أهل الحديث على ترك حديثه » (unanimité pour l'abandon)          | Tārīkh Baghdād              |
+| **Al-Jāmi'**         | « **كذاب يزيد في الأسانيد** » (menteur qui ajoute aux chaînes)        | Aḥwāl al-Rijāl p. 338       |
 
 ## L'ironie structurelle — al-Layth le vérificateur, victime
 

@@ -47,6 +47,7 @@ Al-Layth lui dit : « **Marque pour moi ce que tu as entendu** (أعلم لي ع
 1. **Les deux livres** : Abū al-Zubayr possède une collection écrite, pas une mémoire orale
 2. **Le mélange non marqué** : sans la question d'al-Layth, les hadiths entendus et les hadiths rapportés seraient indistinguables
 3. **Seul al-Layth a fait le tri** : tous les autres transmetteurs d'Abū al-Zubayr (dont [[Personnes/Ibn Jurayj|Ibn Jurayj]]) ont pris le tout sans vérification
+4. **Mais al-Layth lui-même est victime** : ses propres livres ont été **interpolés par [[Khālid al-Madā'inī]]** (insertion de noms dans les isnāds mursal → musnad). Le vérificateur est lui-même victime d'un faussaire. Voir [[Concepts/Falsification des nusakh]]
 
 ## La contamination via Yāsīn al-Zayyāt
 
@@ -64,6 +65,8 @@ Jābir ibn 'Abd Allāh
    ABŪ AL-ZUBAYR (samā' + ṣaḥīfa mêlés)
         │
         ├── AL-LAYTH (a fait le tri — ne transmet que le samā')
+        │       │
+        │   KHĀLID AL-MADĀ'INĪ (faussaire — insère des noms dans les livres d'al-Layth)
         │
         ├── YĀSĪN AL-ZAYYĀT (kadhdhāb — fabrique des mawḍū'āt)
         │       │
@@ -110,4 +113,6 @@ C'est un aveu : la ṣaḥīfa sert de référence croisée. La matière circule
 - [[Personnes/Ibn Jurayj]] — le mudallis qui cache Yāsīn derrière Abū al-Zubayr
 - [[Personnes/Jābir ibn 'Abd Allāh]] — la ṣaḥīfa et ses multiples canaux
 - [[Traditions/Tark al-Ṣalāt]] — le hadith qui passe par les deux voies compromises
+- [[Personnes/Khālid al-Madā'inī]] — le faussaire qui a corrompu les livres d'al-Layth, seul vérificateur d'Abū al-Zubayr
+- [[Concepts/Falsification des nusakh]] — le vérificateur est lui-même victime
 - [[Concepts/Kafaytukum tadlīs thalātha]] — Shu'ba ne couvre pas Ibn Jurayj

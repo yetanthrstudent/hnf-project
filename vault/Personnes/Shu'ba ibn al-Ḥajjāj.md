@@ -131,3 +131,4 @@ Shu'ba est le **point de confiance unique** sur lequel repose l'acceptation des 
 - [[Personnes/Ḥumayd al-Ṭawīl]] — le mudallis qui trompe le vérificateur
 - [[Personnes/Jābir ibn 'Abd Allāh]] — la ṣaḥīfa dont Shu'ba dénonce les canaux (Abū Sufyān, 'Amr ibn Dīnār)
 - [[Traditions/Tark al-Ṣalāt]] — le hadith dont toutes les voies passent par la ṣaḥīfa
+- [[Concepts/Al-Ziyāda fī al-kutub]] — Shu'ba trouve dans son propre livre un hadith qu'il ne reconnaît pas (al-Kifāya p. 847)

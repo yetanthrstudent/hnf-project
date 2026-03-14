@@ -41,8 +41,10 @@ Muslim transmet ce hadith par **deux chaînes** ([p. 268-269](https://shamela.ws
 **Ibn Jurayj** utilise « akhbaranī » — censée garantir le samā' direct selon la règle d'Aḥmad. Mais **Ibn Ḥibbān** affirme que toutes les traditions munkar dans la nuskha d'Ibn Jurayj via Abū al-Zubayr passent par **Yāsīn al-Zayyāt** (kadhdhāb) :
 
 > « وكل ما وقع في نسخة ابن جريج عن أبي الزبير من المناكير كان ذلك مما سمعه ابن جريج عن ياسين الزيات عن أبي الزبير، فدلس عنه »
+>
+> « **Tout ce qui se trouve parmi les munkar** dans la nuskha d'Ibn Jurayj d'après Abū al-Zubayr provient de ce qu'Ibn Jurayj **a entendu de Yāsīn al-Zayyāt** d'après Abū al-Zubayr, et **il l'a caché** (dallasa 'anhu). »
 
-**[[Abū al-Zubayr al-Makkī]]** lui-même mêle samā' et ṣaḥīfa — aveu à al-Layth : « منه ما سمعت ومنه ما حدثت عنه ».
+**[[Abū al-Zubayr al-Makkī]]** lui-même mêle samā' et ṣaḥīfa — aveu à al-Layth : « منه ما سمعت ومنه ما حدثت عنه » — « Partie, je l'ai entendu de lui ; partie, on me l'a rapporté de lui. »
 
 Le circuit réel de la chaîne 2 :
 
@@ -70,6 +72,8 @@ Le Dāraquṭnī ('Ilal, [p. 397](https://shamela.ws/book/9082/397)) documente u
 | 4 | Ibn Ḥasāb | Ḥammād : « J'ai entendu 'Amr, **ou on m'a rapporté de lui** » ← Jābir | **Mawqūf** |
 
 > يرويه حماد بن زيد، واختُلف عنه؛ فرواه أبو الربيع الزهراني، عن حماد بن زيد، عن عمرو بن دينار، عن جابر، عن النبي صلى الله عليه وسلم. وخالفه القواريري، رواه عن حماد، قال: حدثني عمرو، أو بعض أصحابي، عن عمرو، عن جابر، موقوفا
+>
+> « Ḥammād ibn Zayd le transmet, et **on a divergé à son sujet**. Abū al-Rabī' al-Zahrānī l'a transmis de Ḥammād ibn Zayd, de 'Amr ibn Dīnār, de Jābir, du Prophète ﷺ. Al-Qawārīrī l'a contredit : il l'a transmis de Ḥammād qui dit : "'Amr m'a rapporté — **ou l'un de mes compagnons, d'après 'Amr** — de Jābir", **mawqūf** (arrêté au Compagnon). »
 
 ### L'instabilité quadruple
 
@@ -78,7 +82,7 @@ Le Dāraquṭnī ('Ilal, [p. 397](https://shamela.ws/book/9082/397)) documente u
 3. **'Amr ibn Dīnār lui-même** n'a pas entendu de Jābir (aveu à Shu'ba : « أنت سمعته من جابر ؟ قال : لا »)
 4. **Le Jābir en question** pourrait être Jābir ibn Zayd, pas Jābir ibn 'Abd Allāh (correction de Sufyān ibn 'Uyayna)
 
-Le profil scrupuleux de [[Ḥammād ibn Zayd]] — « يقصر في الأسانيد ويوقف المرفوع ويشك كثيرا بتوقفه » (Ya'qūb ibn Shayba) — rend son hésitation cohérente : il doute parce qu'il ne sait réellement pas d'où il tient ce hadith.
+Le profil scrupuleux de [[Ḥammād ibn Zayd]] — « يقصر في الأسانيد ويوقف المرفوع ويشك كثيرا بتوقفه » (« il raccourcissait les isnāds, arrêtait au Compagnon ce qui était attribué au Prophète, et doutait souvent en s'arrêtant » — Ya'qūb ibn Shayba) — rend son hésitation cohérente : il doute parce qu'il ne sait réellement pas d'où il tient ce hadith.
 
 ## Le verdict de Shāfi'ī — Al-Umm
 
