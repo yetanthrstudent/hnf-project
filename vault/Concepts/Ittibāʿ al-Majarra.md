@@ -159,3 +159,4 @@ Dans ces cas-là, l'ittibāʿ al-majarra est **indétectable**. Le système ne p
 - **[[Concepts/Ighrāb]]** — matériel invérifiable importé du lointain
 - **[[Personnes/Thābit al-Bunānī]]** — cas 2 : l'association Thābit → Anas comme attracteur
 - **[[Personnes/Ḥammād ibn Salama]]** — le correcteur dans le cas 2
+- **[[Traditions/Assassinat de Ka'b ibn al-Ashraf]]** — autre cas de faillibilité de Sufyān ibn ʿUyayna (cas 1)
