@@ -321,3 +321,4 @@ L'angle mort reste le même que celui identifié dans la [[Concepts/Falsificatio
 - [[Personnes/Khālid al-Madā'inī]] — faussaire d'al-Layth ibn Sa'd
 - [[Personnes/Al-Aʿmash]] — maître principal d'Abū Mu'āwiya al-Ḍarīr
 - [[Personnes/Shu'ba ibn al-Ḥajjāj]] — ne reconnaît plus ses propres hadiths
+- [[Personnes/Sufyān ibn ʿUyayna]] — cas de wijāda : s'appuie sur le livre d'Ayyūb ibn Mūsā, rejeté par Zuhrī
