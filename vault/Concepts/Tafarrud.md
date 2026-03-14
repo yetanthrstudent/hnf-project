@@ -62,6 +62,7 @@ Le cas paradigmatique est **[[Personnes/Muʿāwiya ibn Ṣāliḥ]]** — un Ḥ
 ## Voir aussi
 
 - [[Concepts/Ighrāb]] — importation de matériel invérifiable du lointain
+- [[Concepts/Ittibāʿ al-Majarra]] — le miroir : détection des chaînes trop familières
 - [[Concepts/Chaînes du Tafsīr d'Ibn ʿAbbās]] — la ṣaḥīfa rapportée par Muʿāwiya ibn Ṣāliḥ
 - [[Concepts/Isrā'īliyyāt]] — autre mécanisme d'importation de contenu étranger
 - [[Concepts/Formule - dans certains Livres]] — formule qui signale une source extérieure
