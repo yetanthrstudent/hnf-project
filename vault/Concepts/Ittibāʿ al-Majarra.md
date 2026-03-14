@@ -145,6 +145,14 @@ L'ittibāʿ al-majarra est un outil de critique **interne** au système classiqu
 
 C'est le **miroir** du [[Concepts/Tafarrud|tafarrud]] : le tafarrud détecte les chaînes **trop isolées** (un seul transmetteur quand il devrait y en avoir plusieurs), la majarra détecte les chaînes **trop familières** (une combinaison célèbre quand la réalité est plus complexe).
 
+### L'angle mort
+
+Tout le raisonnement ci-dessus suppose qu'on dispose d'une **chaîne alternative** pour comparer. Al-Shāfiʿī repère l'erreur de Sufyān parce que Mālik a conservé la bonne version. Abū Ḥātim corrige al-Mubārak parce que Ḥammād ibn Salama a la chaîne réelle.
+
+Mais que se passe-t-il quand la chaîne alternative **n'existe pas** ? Quand un seul isnād nous est parvenu, propre et célèbre — et que personne n'a conservé la version compliquée ? Ou quand **tous** les transmetteurs ont fait la même erreur, parce que l'association était tellement évidente que personne n'a pensé à vérifier ? Ou encore — cas le plus délicat — quand un élève a reçu un hadith *mursal* (interrompu) et a « complété » la chaîne de bonne foi, en branchant sur le maître le plus plausible ?
+
+Dans ces cas-là, l'ittibāʿ al-majarra est **indétectable**. Le système ne peut diagnostiquer que les erreurs pour lesquelles un témoin alternatif a survécu. Les autres sont fossilisées dans les recueils comme des chaînes authentiques — et rien ne permet de les distinguer de l'extérieur.
+
 ## Voir aussi
 
 - **[[Concepts/Tafarrud]]** — le miroir : détection des chaînes trop isolées
