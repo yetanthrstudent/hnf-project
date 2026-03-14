@@ -14,6 +14,7 @@ evaluation:
 sources_cles:
   - {ref: "shamela.ws/book/3722/3462", desc: "Tahdhīb al-Kamāl — notice n° 1481 (shuyūkh, étudiants, jugements)"}
   - {ref: "shamela.ws/book/9938/160", desc: "al-Irshādāt (Ṭāriq ibn ʿAwaḍ Allāh) — preuve du non-samāʿ de Qatāda"}
+  - {ref: "shamela.ws/book/9082/397", desc: "'Ilal al-Dāraquṭnī — iḍṭirāb de Ḥammād ibn Zayd ← 'Amr ibn Dīnār ← Jābir (tark al-ṣalāt)"}
 ---
 
 # Ḥammād ibn Zayd — l'aveugle qui n'a jamais rencontré Qatāda
@@ -83,6 +84,21 @@ Le cas d'étude : Ibn Ḥazm (Muḥallā 1/90) cite un hadith par la chaîne ʿA
 2. ʿAffān transmet ce hadith d'Ibn Salama dans le Musnad d'Aḥmad (6/150)
 3. Ibn Zayd n'a **jamais rencontré** Qatāda (preuve ci-dessus)
 
+## L'iḍṭirāb du tark al-ṣalāt — Dāraquṭnī
+
+Le Dāraquṭnī ('Ilal, [p. 397](https://shamela.ws/book/9082/397)) documente un **iḍṭirāb** majeur dans la chaîne Ḥammād ← 'Amr ibn Dīnār ← [[Jābir ibn 'Abd Allāh|Jābir]] pour le hadith du [[Traditions/Tark al-Ṣalāt|tark al-ṣalāt]] :
+
+| Version | Transmetteur de Ḥammād | Statut |
+|---------|----------------------|--------|
+| 1 | Abū al-Rabī' al-Zahrānī | **Marfū'** (attribué au Prophète) |
+| 2 | Al-Qawārīrī | **Mawqūf** — « 'Amr m'a dit, **ou l'un de mes compagnons d'après 'Amr** » |
+| 3 | Aḥmad al-Mawṣilī | **Marfū'** — « 'Amr m'a dit, **ou il m'est parvenu de lui** » |
+| 4 | Ibn Ḥasāb | **Mawqūf** — « J'ai entendu 'Amr, **ou on m'a rapporté de lui** » |
+
+Ḥammād hésite sur sa propre source : a-t-il entendu de 'Amr directement, ou d'un intermédiaire ? Le statut oscille entre marfū' et mawqūf. Et 'Amr ibn Dīnār lui-même n'a pas entendu de Jābir (aveu à Shu'ba).
+
+Cette hésitation est cohérente avec le profil scrupuleux de Ḥammād : « يقصر في الأسانيد ويوقف المرفوع ويشك كثيرا بتوقفه ». Il doute parce qu'il ne sait réellement pas d'où il tient ce hadith.
+
 ## Relations
 
 - **Transmet de** Ayyūb al-Sakhtiyānī (20 ans), [[Thābit al-Bunānī]], [[Ḥumayd al-Ṭawīl]], [[Hishām ibn ʿUrwa]], Yaḥyā ibn Saʿīd al-Anṣārī (~90 shuyūkh)
@@ -97,3 +113,5 @@ Le cas d'étude : Ibn Ḥazm (Muḥallā 1/90) cite un hadith par la chaîne ʿA
 - [[Personnes/Khālid ibn 'Abd Allāh al-Qasrī]] — le gouverneur chez qui Qatāda séjournait
 - [[Personnes/Thābit al-Bunānī]] — autre transmetteur basrien de la même génération
 - [[Concepts/Kafaytukum tadlīs thalātha]] — Qatāda parmi les trois mudallis « protégés » par [[Shu'ba ibn al-Ḥajjāj|Shuʿba]]
+- [[Traditions/Tark al-Ṣalāt]] — l'iḍṭirāb de Ḥammād dans la chaîne 'Amr ibn Dīnār ← Jābir
+- [[Personnes/Jābir ibn 'Abd Allāh]] — la ṣaḥīfa dont la transmission contamine cette chaîne

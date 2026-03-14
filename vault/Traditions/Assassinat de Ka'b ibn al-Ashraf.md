@@ -9,7 +9,9 @@ problemes: [inqiṭāʿ, confusion de Jābir, narrateur omniscient]
 
 Le Prophète demande : « Qui se charge de Ka'b ibn al-Ashraf ? Car il a offensé Dieu et Son envoyé. » Muḥammad ibn Maslama se porte volontaire, obtient la permission de **mentir**, attire Ka'b hors de son fort par la ruse, et l'assassine de nuit.
 
-Le hadith est dans al-Bukhārī sous deux formes : une version courte (n° 3031, *Kitāb al-Jihād*, bāb « le mensonge à la guerre ») et une version longue (n° 4037, *Kitāb al-Maghāzī*). La chaîne est la même : **Sufyān ibn ʿUyayna → ʿAmr ibn Dīnār → Jābir ibn ʿAbd Allāh**. Les deux versions passent par un seul et même canal — et ce canal pose trois problèmes convergents.
+Le hadith est dans al-Bukhārī sous deux formes : une version courte (n° 3031, *Kitāb al-Jihād*, bāb « le mensonge à la guerre ») et une version longue (n° 4037, *Kitāb al-Maghāzī*). La chaîne est la même : **Sufyān ibn ʿUyayna → ʿAmr ibn Dīnār → Jābir**. Les deux versions passent par un seul et même canal — et ce canal pose plusieurs problèmes.
+
+Le récit circulait aussi à Médine via **al-Zuhrī**, mais sous forme **mursal** (sans chaîne remontant à un Compagnon). C'est Sufyān qui lui donne un isnād connecté — une « belle chaîne » — via ʿAmr ibn Dīnār.
 
 ## La chaîne
 
@@ -55,7 +57,24 @@ Sufyān conclut : **فإذا هو قد أخطأ فيهما جميعا** — « I
 
 **Jābir ibn Zayd** (m. ~93H) est un **Tābiʿī** ibāḍite de Basra — pas un Compagnon témoin oculaire. Si la correction de Sufyān vaut pour le hadith de Ka'b, la chaîne perd son ancrage dans le témoignage direct d'un Compagnon.
 
-L'ironie : c'est **Sufyān ibn ʿUyayna** qui transmet le hadith chez al-Bukhārī avec « Jābir ibn ʿAbd Allāh » — et c'est le même Sufyān qui corrige cette identification chez Abū Ḥanīfa. Il connaît le problème et transmet quand même. On retrouve ici le même Sufyān que dans le cas de l'[[Concepts/Ittibāʿ al-Majarra|ittibāʿ al-majarra]] — al-Shāfiʿī l'avait déjà pris en flagrant délit de « suivre la Voie Lactée » sur la chaîne al-Zuhrī → ʿUrwa.
+### Qui ajoute « ibn ʿAbd Allāh » ?
+
+La comparaison des transmissions des **différents élèves de Sufyān** révèle un schéma net :
+
+| Élève de Sufyān | Dit « Jābir » seul | Dit « Jābir ibn ʿAbd Allāh » |
+|---|---|---|
+| al-Musnadī (Bukhārī 3032) | **oui** | |
+| Qutayba (Bukhārī 3031) | | **oui** |
+| ʿAlī al-Madīnī (Bukhārī 4037) | | **oui** |
+| Zuhrī / Ibn Abī ʿUmar (Muslim 1801) | **oui** | |
+| Aḥmad ibn Ṣāliḥ (Abū Dāwūd) | **oui** | |
+| al-Ḥumaydī (Bayhaqī, éd. ʿIlmiyya) | **oui** | |
+| Ibn Abī al-Wazīr (Tārīkh al-Madīna) | **oui** | |
+| al-Dhahabī (citation directe) | **oui** | |
+
+Le rapport est **6 contre 2** en faveur de « Jābir » seul. Muslim, Abū Dāwūd, al-Dhahabī — tous ont seulement « Jābir ». Le commentateur du Baḥr al-Muḥīṭ al-Thajjāj doit même **ajouter de lui-même** « أي ابن عبد الله » au texte de Muslim — preuve que l'original n'avait que le prénom.
+
+Sufyān disait vraisemblablement **« ʿan Jābir »** — point. Ce sont **Qutayba** et **ʿAlī al-Madīnī**, deux grands muḥaddithūn, qui « complètent » l'identification en présumant qu'il s'agit du Compagnon célèbre. C'est un cas d'[[Concepts/Ittibāʿ al-Majarra|ittibāʿ al-majarra]] en aval : l'association ʿAmr ibn Dīnār → « Jābir » appelle automatiquement « ibn ʿAbd Allāh » dans l'esprit d'un collecteur.
 
 ## Le narrateur omniscient
 
@@ -81,21 +100,23 @@ Le résultat est un texte qui se lit comme un **récit littéraire** avec un nar
 
 Le récit est classé par al-Bukhārī dans le **bāb al-kadhib fī al-ḥarb** (« le mensonge à la guerre ») — chapitre qui fonde juridiquement la **licéité de la tromperie** en contexte de conflit. En cascade, le hadith est invoqué pour légitimer :
 
-- L'**assassinat ciblé** sur ordre de l'autorité religieuse
+- La mise à mort pour un **motif strictement religieux** : Ka'b n'est pas accusé de meurtre, de trahison militaire ou de rupture de traité — il « a offensé Dieu et Son envoyé » (*ādhā Allāh wa-rasūlahu*). Le grief est l'**offense verbale**, pas l'acte de guerre.
+- L'**assassinat ciblé** sur ordre de l'autorité religieuse — sans procès, sans confrontation, sans possibilité de défense
 - Le **mensonge** comme outil licite (Muḥammad ibn Maslama demande et obtient la permission de mentir)
-- L'exploitation de la **confiance personnelle** (Abū Nāʾila est le frère de lait de Ka'b)
+- L'exploitation de la **confiance personnelle** (Abū Nāʾila est le frère de lait de Ka'b — c'est ce lien intime qui permet de l'attirer hors du fort)
 - La mise à mort **de nuit**, par ruse, hors de tout cadre judiciaire
 
-Le tout repose sur une chaîne où le transmetteur central n'a pas entendu du Compagnon, où l'identité du Compagnon est disputée, et où le texte contient des scènes que personne n'a pu rapporter.
+Le tout repose sur une chaîne où le transmetteur central n'a pas entendu du Compagnon, où l'identité du Compagnon est disputée par le transmetteur lui-même, et où le texte contient des scènes que personne n'a pu rapporter.
 
-## Sufyān ibn ʿUyayna — un transmetteur moins fiable qu'il n'y paraît
+## La question Sufyān
 
-Ce hadith s'ajoute au dossier de Sufyān ibn ʿUyayna comme transmetteur **faillible** :
+Sufyān ibn ʿUyayna est le **seul canal** par lequel ce récit passe d'un simple mursal médinois (al-Zuhrī) à un hadith musnad chez al-Bukhārī. C'est lui qui fournit la chaîne ʿAmr → Jābir. Mais il faut être précis sur ce qui lui est imputable et ce qui ne l'est pas.
 
-| Cas | Problème | Diagnostic | Source |
-|-----|----------|------------|--------|
-| Al-Zuhrī → ʿUrwa | Sufyān suit la chaîne célèbre au lieu de la vraie | **[[Concepts/Ittibāʿ al-Majarra\|Ittibāʿ al-majarra]]** — al-Shāfiʿī | Manāqib al-Shāfiʿī ([shamela.ws/book/22797/596](https://shamela.ws/book/22797/596#p6)) |
-| ʿAmr → Jābir (Ka'b) | Transmet « Jābir ibn ʿAbd Allāh » alors qu'il sait que c'est Jābir ibn Zayd | Connaît l'erreur, transmet quand même | Suʾālāt al-Bardhʿī ([shamela.ws/book/812/1030](https://shamela.ws/book/812/1030)) |
+**Ce qui est de Sufyān** : la chaîne elle-même — ʿAmr ibn Dīnār, d'après Jābir. Et le fait qu'il sait, dans un autre contexte, que le « Jābir » de ʿAmr n'est pas toujours Jābir ibn ʿAbd Allāh (Suʾālāt al-Bardhʿī).
+
+**Ce qui n'est probablement pas de lui** : l'identification « ibn ʿAbd Allāh ». La majorité de ses élèves (6 sur 8) transmettent avec « Jābir » seul. Ce sont al-Madīnī et Qutayba qui complètent — par présomption, pas par audition.
+
+Sufyān reste néanmoins un transmetteur dont la faillibilité est documentée ailleurs — al-Shāfiʿī l'a pris en flagrant délit de [[Concepts/Ittibāʿ al-Majarra|majarra]] sur al-Zuhrī → ʿUrwa.
 
 ## Relations
 

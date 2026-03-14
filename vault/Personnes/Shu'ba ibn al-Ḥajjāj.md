@@ -123,3 +123,11 @@ Shu'ba n'accumule pas — contrairement à [[Qatāda ibn Di'āma|Qatāda]] (entr
 ## Synthèse
 
 Shu'ba est le **point de confiance unique** sur lequel repose l'acceptation des transmissions des trois plus grands mudallis du corpus. Sa méthode — observer un suffixe d'un seul phonème sur les lèvres du transmetteur — est fragile par conception et contournable par un mudallis conscient de sa présence. Les exemples de Ṣaḥīḥ Muslim (Abū Isḥāq) montrent qu'il détecte le tadlīs mais que les hadiths circulent malgré tout. Le cas d'Abū al-'Āliya montre que sa propre comptabilité est incohérente. Et l'aveu de Ḥumayd montre que le mudallis peut simplement mentir au vérificateur. Le système de « protection » de Shu'ba est un mécanisme de **légitimation rétrospective**, non de vérification effective.
+
+## Voir aussi
+
+- [[Concepts/Kafaytukum tadlīs thalātha]] — la doctrine et ses failles
+- [[Personnes/Qatāda ibn Di'āma]] — le principal mudallis concerné
+- [[Personnes/Ḥumayd al-Ṭawīl]] — le mudallis qui trompe le vérificateur
+- [[Personnes/Jābir ibn 'Abd Allāh]] — la ṣaḥīfa dont Shu'ba dénonce les canaux (Abū Sufyān, 'Amr ibn Dīnār)
+- [[Traditions/Tark al-Ṣalāt]] — le hadith dont toutes les voies passent par la ṣaḥīfa

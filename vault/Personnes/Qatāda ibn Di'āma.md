@@ -52,6 +52,7 @@ Grand exégète et transmetteur de [[Basra]], **aveugle de naissance**, doté d'
 - **Jamais rencontré par** [[Ḥammād ibn Zayd]] — qui avait préparé les feuillets pour écrire de lui, mais Qatāda mourut avant la rencontre
 - **Contemporain de** [[Ḥumayd al-Ṭawīl]] et [[Thābit al-Bunānī]] — les trois forment le noyau basrien des transmetteurs d'Anas, tous liés à [[Khālid ibn 'Abd Allāh al-Qasrī|Khālid al-Qasrī]]
 - **Source cachée de Ḥumayd** — Ḥumayd confondait ce qu'il avait entendu de Qatāda et Thābit avec ce qu'il avait entendu d'Anas (al-'Uqaylī, [p. 770](https://shamela.ws/book/13041/770))
+- **Mémorise la ṣaḥīfa de** Sulaymān ibn Qays al-Yashkurī — sans l'avoir entendu (mort dans la fitna d'Ibn al-Zubayr). Voir [[Personnes/Jābir ibn 'Abd Allāh]]
 
 ## Le qāṣṣ, pas le muḥaddith
 
