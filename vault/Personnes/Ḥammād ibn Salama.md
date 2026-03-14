@@ -145,7 +145,7 @@ Le témoin de la confusion est lui-même un transmetteur compromis. Le diagnosti
 - **Transmet de** [[Thābit al-Bunānī]] (le plus fiable), [[Ḥumayd al-Ṭawīl]], [[Qatāda ibn Di'āma|Qatāda]], Ayyūb al-Sakhtiyānī
 - **Correcteur de la majarra** : préserve la vraie chaîne Thābit → Ḥabīb → un homme, contre al-Mubārak qui « suit la Voie Lactée » (Thābit → Anas) — voir [[Concepts/Ittibāʿ al-Majarra]]
 - **Transmis par** ʿAffān ibn Muslim, Ḥajjāj ibn Minhāl, Abū al-Walīd al-Ṭayālisī, Mūsā ibn Ismāʿīl
-- **Compromis par** Ibn Abī al-ʿAwjāʾ (beau-fils zindīq — insertion dans les kutub)
+- **Compromis par** Ibn Abī al-ʿAwjāʾ (beau-fils zindīq — insertion dans les kutub) — voir [[Concepts/Al-Ziyāda fī al-kutub]]
 - **Refusé par** al-Bukhārī (un seul ta'līq)
 - **Critiqué puis utilisé par** Muslim (paradoxe al-Tamyīz)
 - **Confondu avec** [[Ḥammād ibn Zayd]] (même ville, même génération)
