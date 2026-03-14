@@ -45,6 +45,10 @@ Thābit est la **source réelle** d'une grande partie des hadiths que [[Ḥumayd
 
 Thābit → Ḥumayd → « Anas a dit » : la chaîne réelle est masquée par le tadlīs. Thābit est ainsi l'intermédiaire invisible de dizaines de hadiths canoniques.
 
+## L'association Thābit → Anas comme « majarra »
+
+L'association Thābit → Anas est tellement automatique (~90% de ses traditions) qu'elle fonctionne comme un **attracteur** : quand un transmetteur prend de Thābit un hadith qui passe par un autre maillon, il le raccorde instinctivement à Anas. C'est le cas documenté d'**al-Mubārak ibn Faḍāla** dans le hadith « quand un homme aime son frère » — Abū Ḥātim diagnostique un **[[Concepts/Ittibāʿ al-Majarra|ittibāʿ al-majarra]]** : la vraie chaîne passe par Ḥabīb ibn Ṣubayʿa al-Ḍubaʿī, pas par Anas. C'est [[Personnes/Ḥammād ibn Salama|Ḥammād ibn Salama]], le plus fiable des élèves de Thābit, qui préserve la chaîne correcte.
+
 ## Relations
 
 - **Transmet de** [[Anas ibn Mālik]]

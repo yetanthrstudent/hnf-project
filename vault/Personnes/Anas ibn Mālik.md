@@ -279,6 +279,7 @@ Le regret est **stratégique** — Anas ne dit pas que le hadith est faux, il re
 - **Ignoré par** Saʿīd ibn al-Musayyab (aucune riwāya)
 - **Qualifié par** Ibn Sīrīn de « أحرص أصحاب محمد على المال » (le plus avide)
 - **Qualifié par** al-Ḥajjāj de « جوّال في الفتنة » (vagabond de fitna)
+- **Attracteur de majarra** : l'association Thābit → Anas est si automatique qu'elle déforme les chaînes réelles — voir [[Concepts/Ittibāʿ al-Majarra]]
 
 ## Le circuit
 
