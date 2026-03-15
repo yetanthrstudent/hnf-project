@@ -136,7 +136,7 @@ Le récit est classé par al-Bukhārī dans le **bāb al-kadhib fī al-ḥarb** 
 
 Le tout repose sur une chaîne où le transmetteur central n'a pas entendu du Compagnon, où l'identité du Compagnon est disputée par le transmetteur lui-même, et où le texte contient des scènes que personne n'a pu rapporter.
 
-## Le mursal d'al-Zuhrī — le récit avant Sufyān
+## Le mursal d'[[al-Zuhrī]] — le récit avant Sufyān
 
 Le récit de l'assassinat de Ka'b circulait à Médine **avant** que Sufyān ne lui fournisse un isnād connecté. Al-Zuhrī le transmettait dans ses maghāzī, et ses élèves en donnent des versions tantôt mursal, tantôt semi-connectées — preuve qu'il disposait du récit par la tradition orale médinoise sans l'attacher systématiquement à un Compagnon.
 
@@ -224,9 +224,9 @@ Sufyān ibn ʿUyayna est le **seul canal** par lequel ce récit passe d'un simpl
 
 Sufyān reste néanmoins un transmetteur dont la faillibilité est documentée ailleurs — al-Shāfiʿī l'a pris en flagrant délit de [[Concepts/Ittibāʿ al-Majarra|majarra]] sur al-Zuhrī → ʿUrwa.
 
-## L'accusation de غدر — le même Sufyān transmet la contestation
+## L'accusation de perfidie — le même Sufyān transmet la contestation
 
-Le même Sufyān ibn ʿUyayna — celui qui fournit la chaîne canonique à al-Bukhārī — transmet aussi le contre-récit. **Ibn Taymiyya** le conserve dans al-Ṣārim al-Maslūl ([Shamela](https://shamela.ws/book/7344/205)) :
+Le même Sufyān ibn ʿUyayna — celui qui fournit la chaîne canonique à al-Bukhārī — transmet aussi la **contestation morale** de l'acte par un Compagnon. Cette narration est conservée avec **isnād complet** dans trois recueils classiques majeurs : **al-Ṭaḥāwī** (Sharḥ Mushkil al-Āthār, [p. 190](https://shamela.ws/book/22547/212)), **al-Bayhaqī** (Dalāʾil al-Nubuwwa, [3/193](https://shamela.ws/book/7478/1290)), et **Ibn ʿAsākir** (Tārīkh Dimashq, [55/275](https://shamela.ws/book/71/25576)). **Ibn Taymiyya** la cite dans al-Ṣārim al-Maslūl ([Shamela](https://shamela.ws/book/7344/205)) :
 
 > روى ابن وهب : أخبرني سفيان بن عيينة عن عمر بن سعيد أخي سفيان بن سعيد الثوري عن أبيه عن عباية قال : ذكر قتل ابن الأشرف عند معاوية فقال ابن يامين : **كان قتله غدرا** فقال محمد بن مسلمة : يا معاوية **أيغدر عندك رسول الله** ﷺ **ثم لا تنكر ؟** و الله لا يظلني و إياك سقف بيت أبدا و لا يخلو لي دم هذا إلا قتله
 
@@ -239,12 +239,16 @@ Le même Sufyān ibn ʿUyayna — celui qui fournit la chaîne canonique à al-B
     │
 Saʿīd ibn Masrūq al-Thawrī (m. ~126H, Kūfa) — thiqa (père de Sufyān al-Thawrī)
     │
-ʿUmar ibn Saʿīd al-Thawrī (Kūfa) — frère de Sufyān al-Thawrī
+ʿUmar ibn Saʿīd al-Thawrī (Kūfa) — ثقة (Taqrīb n° 4906), frère de Sufyān al-Thawrī
     │
 SUFYĀN IBN ʿUYAYNA (m. 198H) ◄── le MÊME que la chaîne Bukhārī
     │
-Ibn Wahb (m. 197H, Égypte)
+    ├── Ibn Wahb (m. 197H, Égypte) → al-Ṭaḥāwī, al-Bayhaqī
+    ├── Muḥammad ibn ʿAbbād al-Makkī → Ibn ʿAsākir
+    └── Suwayd ibn Saʿīd → Ibn ʿAsākir
 ```
+
+Trois transmetteurs indépendants prennent de Sufyān — ce n'est pas un tafarrud en aval.
 
 La chaîne passe par la **famille al-Thawrī** — Saʿīd ibn Masrūq est thiqa par consensus. ʿAbāya ibn Rifāʿa est un tābiʿī médinois anṣārī (petit-fils du Compagnon Rāfiʿ ibn Khadīj), transmetteur principal des traditions de Muḥammad ibn Maslama dans le Siyar. **Yāmīn ibn ʿUmayr ibn Kaʿb ibn ʿAmr ibn Jaḥḥāsh** est identifié dans al-Istīʿāb ([shamela.ws/book/1499/3635](https://shamela.ws/book/1499/3635)) comme un **Compagnon** issu des **Banū al-Naḍīr** — converti à l'islam, « حسن إسلامه ».
 
@@ -254,7 +258,7 @@ La chaîne passe par la **famille al-Thawrī** — Saʿīd ibn Masrūq est thiqa
 - Le hadith « canonique » (ʿAmr → Jābir) — retenu par al-Bukhārī dans le *bāb al-kadhib fī al-ḥarb*
 - La contestation directe — où un Compagnon qualifie l'acte de **perfidie**
 
-Al-Bukhārī connaissait forcément les deux transmissions de Sufyān. Il retient celle qui fonde une règle juridique et ignore celle qui la détruit.
+Al-Bukhārī connaissait vraisemblablement les deux transmissions de Sufyān. Il retient celle qui fonde une règle juridique.
 
 **2. La réponse est violente, pas théologique.** Muḥammad ibn Maslama — l'assassin lui-même selon le récit canonique — ne dit pas : « ce n'était pas du ghadr parce que Ka'b avait offensé le Prophète » ou « parce que les Juifs avaient trahi le traité ». Il ne **réfute pas** la qualification. Il **interdit** qu'on la prononce — sous peine de mort. C'est une réponse d'autorité, pas de raison.
 
@@ -265,6 +269,96 @@ Al-Bukhārī connaissait forcément les deux transmissions de Sufyān. Il retien
 **5. L'ironie structurelle.** L'assassin menace d'**assassiner** quelqu'un pour avoir qualifié l'**assassinat** de trahison. Le cycle se confirme : la seule réponse à la critique est la menace de mort — exactement le motif du hadith lui-même (Ka'b est tué pour avoir « offensé »). Et Ibn Taymiyya cite cette tradition pour **justifier** le meurtre de quiconque accuse le Prophète de ghadr — c'est-à-dire que la tradition destinée à contester l'assassinat est retournée pour légitimer d'autres meurtres.
 
 **6. Ibn Yāmīn est musulman.** Ibn Taymiyya le précise : **هذا الرجل إنما كان مسلما فإن المدينة لم يكن بها يومئذ أحد من غير المسلمين** — « cet homme était musulman, car il n'y avait alors personne à Médine qui ne fût musulman ». Un **Compagnon musulman**, descendant des Banū al-Naḍīr — c'est-à-dire de la communauté juive de Médine — qualifie de perfidie un acte que le récit canonique légitime. Sa perspective est celle d'un témoin interne, pas d'un ennemi.
+
+### Al-Ṭaḥāwī reconnaît le problème — Sharḥ Mushkil al-Āthār
+
+**Al-Ṭaḥāwī** (m. 321H) — un muḥaddith de premier rang, auteur de Sharḥ Maʿānī al-Āthār — consacre un **chapitre entier** à cette contradiction ([shamela.ws/book/22547/212](https://shamela.ws/book/22547/212)) :
+
+> بَابُ بَيَانِ مُشْكِلِ مَا رُوِيَ عَنْ رَسُولِ اللهِ ﷺ فِيمَا كَانَ مِنْ بَعْثِهِ مُحَمَّدَ بْنَ مَسْلَمَةَ لِقَتْلِهِ كَعْبَ بْنَ الْأَشْرَفِ **بِمَا يَدْفَعُ التَّضَادَّ** عَنْ مَا تَوَهَّمَ بَعْضُ النَّاسِ أَنَّهُ قَدْ ضَادَّ مَا فِيهِ
+
+> « Chapitre expliquant le problème de ce qui fut rapporté du Prophète concernant son envoi de Muḥammad ibn Maslama pour tuer Ka'b ibn al-Ashraf — **afin de lever la contradiction** que certaines gens ont cru voir... »
+
+Le titre est un aveu : **des gens voyaient une contradiction** (*taḍādd*). Al-Ṭaḥāwī cite la narration d'Ibn Yāmīn avec isnād complet (Baḥr ibn Naṣr ← Ibn Wahb ← Sufyān ← ʿUmar ibn Saʿīd ← son père ← ʿAbāya), puis cite **immédiatement après** le hadith de **ʿAmr ibn al-Ḥamiq** :
+
+> مَنْ آمَنَ رَجُلًا عَلَى نَفْسِهِ فَقَتَلَهُ **أُعْطِيَ لِوَاءَ غَدْرٍ يَوْمَ الْقِيَامَةِ**
+
+> « Qui accorde sécurité à un homme puis le tue **recevra un étendard de perfidie au Jour du Jugement**. »
+
+La juxtaposition est dévastatrice : Ibn Yāmīn dit *ghadr*, et le hadith prophétique promet un *liwāʾ ghadr* (étendard de perfidie) à quiconque tue celui à qui il a donné confiance. Al-Ṭaḥāwī **doit** alors argumenter que l'amān de Ka'b envers Muḥammad ibn Maslama était « juridiquement nul » (كَانَ كَلَا ائْتِمَانٍ) parce que Ka'b « nuisait à Dieu et à Son Messager ». L'effort apologétique trahit la force de l'objection.
+
+### Les trois recueils — synthèse
+
+| Recueil | Auteur (m.) | Lien | Isnād complet ? | Particularité |
+|---------|-------------|------|-----------------|---------------|
+| Sharḥ Mushkil al-Āthār | **al-Ṭaḥāwī** (321H) | [p. 190](https://shamela.ws/book/22547/212) | **Oui** — Ṭaḥāwī ← Baḥr ← Ibn Wahb ← Sufyān ← ʿUmar ← Saʿīd ← ʿAbāya | Chapitre dédié, juxtaposé avec le hadith du *liwāʾ ghadr* |
+| Dalāʾil al-Nubuwwa | **al-Bayhaqī** (458H) | [3/193](https://shamela.ws/book/7478/1290) | **Oui** — Bayhaqī ← 2 shuyūkh ← Muḥ. ibn Yaʿqūb ← Baḥr ← Ibn Wahb ← même chaîne | Commentaire apologétique (voir ci-dessous) |
+| Tārīkh Dimashq | **Ibn ʿAsākir** (571H) | [55/275](https://shamela.ws/book/71/25576) | **Oui** — 2 versions : (1) via Sufyān, (2) via al-Wāqidī (Marwān) | Version Wāqidī : Muḥ. ibn Maslama bat physiquement Ibn Yāmīn |
+
+### Al-Bayhaqī — le compilateur fidèle malgré lui
+
+Al-Bayhaqī cite la narration avec isnād complet, puis commente :
+
+> قَالَ أَحْمَدُ: مَا ذَكَرْنَا وَمَا نَذْكُرُهُ مِنْ **غَدْرِ كَعْبِ بْنِ الْأَشْرَفِ** وَنَقْضِهِ عَهْدَهُ وَهِجَائِهِ رَسُولَ اللَّه ﷺ وَالْمُسْلِمِينَ وَعَدَاوَتِهِ إِيَّاهُمْ وَتَحْرِيضِهِ عَلَيْهِمْ **يُكَذِّبُ هَذَا الْقَائِلَ**، وَيَدُلُّ عَلَى **سُوءِ رَأْيِهِ وَقُبْحِ قَوْلِهِ**
+
+> « Ce que nous avons mentionné et ce que nous mentionnerons de la **perfidie de Ka'b** [...] **dément cet homme** et montre la **bassesse de son jugement et la laideur de sa parole**. »
+
+Sa stratégie : retourner le mot *ghadr* — c'est Ka'b qui est traître, pas le Prophète. Puis il accumule cinq charges (ghadr, naqḍ al-ʿahd, hijāʾ, ʿadāwa, taḥrīḍ) et conclut que Ka'b « méritait d'être tué ».
+
+Mais cette accumulation **trahit le problème**. Le hadith canonique (Bukhārī) ne donne qu'**un seul motif** pour le meurtre de Ka'b : l'offense au Prophète (hijāʾ). Pas de rupture de traité, pas de trahison, pas d'incitation militaire — juste de la poésie. Al-Bayhaqī **rajoute** quatre charges absentes du texte source. Pourquoi ? Parce que le motif unique du hadith — des vers offensants — ne suffit pas à répondre à l'accusation de *ghadr*. Si Ka'b est tué uniquement pour des poèmes, et tué par ruse après avoir reçu confiance, alors Ibn Yāmīn a raison de nommer l'acte.
+
+L'inventaire de son propre chapitre (Dalāʾil, [3/190-200](https://shamela.ws/book/7478/1284)) le confirme :
+
+| Charge | Source ṣaḥīḥ dans le *bāb* ? | Réalité |
+|--------|-------------------------------|---------|
+| **hijāʾ** (satire) | **Oui** — Bukhārī/Muslim (ādhā Allāh wa-Rasūlahu) | Seule charge attestée par un ṣaḥīḥ |
+| **taḥrīḍ** (incitation) | Partiellement — Abū Dāwūd 3000 : « fī shiʿrih » | Prolongement du hijāʾ, pas d'action diplomatique ou militaire |
+| **ʿadāwa** (hostilité) | **Non** | Sīra uniquement — Ibn Isḥāq et Mūsā ibn ʿUqba, chaînes ḍaʿīf |
+| **naqḍ al-ʿahd** (rupture du pacte) | **Non** | Commentaire éditorial d'al-Bayhaqī — **aucune narration** ne le mentionne |
+| **ghadr** (perfidie de Ka'b) | **Non** | Retournement rhétorique de l'accusation d'Ibn Yāmīn |
+
+Sur cinq charges, **une seule** est attestée par un ṣaḥīḥ. Deux — naqḍ al-ʿahd et ghadr — ne reposent sur **aucune source citée dans le chapitre**. Et une narration ḍaʿīf qu'il cite lui-même (Jābir via Ibrāhīm ibn Jaʿfar, p. 1291) place la rédaction du traité (*kitāb*) entre le Prophète et les Juifs **après** le meurtre de Ka'b — ce qui rend le naqḍ al-ʿahd logiquement impossible.
+
+S'il n'y avait pas de tension réelle dans le patrimoine, al-Bayhaqī aurait pu se contenter de « le Prophète l'a ordonné, fin de la discussion ». Le fait qu'il doive construire un argumentaire à cinq charges — dont deux sont inventées par le commentateur et deux ne reposent que sur des sources de sīra à chaînes faibles — prouve que la tension est **structurelle**, et que la narration d'Ibn Yāmīn la cristallise.
+
+### Ibn Taymiyya contre al-Bayhaqī — la destruction en creux
+
+**Ibn Taymiyya** (m. 728H), dans le même al-Ṣārim al-Maslūl, adopte une approche radicalement différente — et qui détruit involontairement l'argumentaire d'al-Bayhaqī. Son livre est un traité sur le **sabb** (insulte au Prophète) comme motif **unique et suffisant** de mise à mort. Ka'b est son **troisième hadith-preuve** (al-ḥadīth al-thālith, [p. 70](https://shamela.ws/book/7344/71)).
+
+Il **anticipe et réfute** explicitement l'objection que d'autres causes étaient en jeu ([p. 75-76](https://shamela.ws/book/7344/76)) :
+
+> فإن قيل: إن ابن الأشرف كان قد أتى بغير السب والهجاء
+
+> « Si l'on dit : Ka'b avait commis autre chose que l'insulte et le hijāʾ... »
+
+Et sa réponse est catégorique ([p. 80](https://shamela.ws/book/7344/81)) :
+
+> أن النبي ﷺ لم يندب إلى قتله لكونه ذهب إلى مكة وقال ما قال هناك وإنما ندب إلى قتله **لما قدم وهجاه**
+
+> « Le Prophète n'a **PAS** ordonné son assassinat parce qu'il était allé à La Mecque [...]. Il l'a ordonné quand il est **revenu et l'a satirisé**. »
+
+Puis il ferme toute issue ([p. 82](https://shamela.ws/book/7344/83)) :
+
+> أن **جميع** ما أتاه ابن الأشرف إنما هو **أذى باللسان** [...] **ولم يعمل عملا فيه محاربة**
+
+> « **TOUT** ce que Ka'b a fait n'était que tort **par la langue**. [...] Il n'a commis **aucun acte de guerre**. »
+
+Et il conclut ([p. 89](https://shamela.ws/book/7344/90)) :
+
+> وإنما قتلوه **لأجل هجائه وأذاه لله ورسوله** ومن حل قتله بهذا الوجه لم يعصم دمه بأمان ولا عهد
+
+> « Ils ne l'ont tué **QUE** pour son hijāʾ et son tort envers Dieu et Son Messager. »
+
+Le paradoxe est total : Ibn Taymiyya réduit **tout** au sabb verbal — et par conséquent, les quatre charges supplémentaires d'al-Bayhaqī (ghadr, naqḍ al-ʿahd, ʿadāwa, taḥrīḍ militaire) ne sont pas seulement non documentées, elles sont **explicitement réfutées** par le plus grand juriste ḥanbalite. Al-Bayhaqī surcharge le dossier ; Ibn Taymiyya le dégraisse jusqu'à l'os — et l'os, c'est qu'un homme a été tué par ruse pour avoir écrit des vers.
+
+Al-Bayhaqī est néanmoins cohérent dans son approche : c'est un défenseur systématique de la Sunna qui, une fois qu'il tient un texte à isnād solide, le conserve et le défend — comme il le fait ailleurs avec le [[Traditions/Hadith de ʿUkl|hadith de ʿUkl]]. Il **ne cache pas** la narration embarrassante, il la transmet fidèlement puis la neutralise par le commentaire. C'est précisément cette honnêteté de compilateur qui nous fournit la preuve la plus solide de la contestation.
+
+### Note méthodologique — al-Bukhārī et cette narration
+
+**Al-Bukhārī n'a pas retenu cette tradition et on ne peut pas l'en accuser.** Son projet — le Ṣaḥīḥ — est un recueil de hadiths prophétiques répondant à ses critères (musnad, samāʿ confirmé, absence de shādhdh). La narration d'Ibn Yāmīn est un **khabar** historique (un événement post-prophétique entre Compagnons), pas un hadith marfūʿ au sens technique. Elle ne relevait pas du projet du Ṣaḥīḥ.
+
+Ce qu'on constate n'est pas une dissimulation mais un **effet de sélection** : le seul musnad disponible (Sufyān → ʿAmr → Jābir) entre dans le Ṣaḥīḥ, tandis que la contestation — qui circule par le même Sufyān — appartient à un autre genre littéraire (akhbār, siyar) et se retrouve chez Ibn Wahb, puis chez al-Ṭaḥāwī (m. 321H), al-Bayhaqī (m. 458H) et Ibn ʿAsākir (m. 571H) — trois muḥaddithūn de premier rang qui l'ont conservée avec isnād complet.
+
+La solidité de la chaîne ne dépend pas de la validation d'al-Bukhārī. **ʿUmar ibn Saʿīd al-Thawrī** est déclaré **ثقة** (fiable) par Ibn Ḥajar (Taqrīb n° 4906), al-Nasāʾī, Abū Ḥātim, al-ʿIjlī, al-Dāraquṭnī et Ibn Ḥibbān — unanimité totale, aucun jarḥ. Il est dans **Ṣaḥīḥ Muslim** (م), Abū Dāwūd (د) et al-Nasāʾī (س). Son père **Saʿīd ibn Masrūq** est thiqa par consensus. La chaîne est **ṣaḥīḥ** par les critères mêmes du jarḥ wa taʿdīl, indépendamment du fait qu'al-Bukhārī ne l'ait pas intégrée dans son recueil.
 
 ## Relations
 
@@ -290,5 +384,8 @@ Al-Bukhārī connaissait forcément les deux transmissions de Sufyān. Il retien
 - Siyar Aʿlām al-Nubalāʾ, al-Dhahabī — [5/339](https://shamela.ws/book/10906/4111) (al-Zuhrī : « كالمعضل »)
 - Al-Kāmil fī Ḍuʿafāʾ al-Rijāl, Ibn ʿAdī — [1/212](https://shamela.ws/book/12579/136) (citation d'Aḥmad sur les maghāzī)
 - Al-Jāmiʿ li-Akhlāq al-Rāwī, al-Khaṭīb — [n° 1493](https://shamela.ws/book/13012/1723)
-- Al-Ṣārim al-Maslūl, Ibn Taymiyya — [Shamela](https://shamela.ws/book/7344/205) (tradition d'Ibn Yāmīn + commentaire)
+- Sharḥ Mushkil al-Āthār, al-Ṭaḥāwī — [p. 190](https://shamela.ws/book/22547/212) (chapitre dédié + isnād complet de la tradition d'Ibn Yāmīn + hadith du *liwāʾ ghadr*)
+- Dalāʾil al-Nubuwwa, al-Bayhaqī — [3/193](https://shamela.ws/book/7478/1290) (tradition d'Ibn Yāmīn avec isnād complet)
+- Tārīkh Dimashq, Ibn ʿAsākir — [55/275](https://shamela.ws/book/71/25576) (deux versions : Sufyān + al-Wāqidī)
+- Al-Ṣārim al-Maslūl, Ibn Taymiyya — [Shamela](https://shamela.ws/book/7344/205) (tradition d'Ibn Yāmīn + commentaire apologétique)
 - Al-Istīʿāb, Ibn ʿAbd al-Barr — [n° 2770](https://shamela.ws/book/1499/3635) (entrée Yāmīn ibn ʿUmayr)
