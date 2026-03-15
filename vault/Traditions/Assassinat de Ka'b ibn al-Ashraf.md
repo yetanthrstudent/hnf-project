@@ -57,7 +57,7 @@ Al-Ḥākim enfonce le clou dans Maʿrifat ʿUlūm al-Ḥadīth ([p. 111](https:
 
 > « La majorité des hadiths de ʿAmr ibn Dīnār d'après les Compagnons **ne sont pas entendus** [directement]. »
 
-Entre ʿAmr et Jābir, il y a des intermédiaires omis : probablement **ʿAṭāʾ ibn Abī Rabāḥ** ou **Muḥammad ibn ʿAlī ibn al-Ḥusayn** (al-Muʿallimī al-Yamānī, cité dans le Muʿjam al-Mudallisīn, [p. 343](https://shamela.ws/book/794/343#p5)). La chaîne est un **munqaṭiʿ masqué** — elle a l'apparence d'un isnād connecté, mais un maillon manque.
+Entre ʿAmr et Jābir, il y a des intermédiaires omis : probablement **[[Personnes/ʿAṭāʾ ibn Abī Rabāḥ]]** ou **Muḥammad ibn ʿAlī ibn al-Ḥusayn** (al-Muʿallimī al-Yamānī, cité dans le Muʿjam al-Mudallisīn, [p. 343](https://shamela.ws/book/794/343#p5)). La chaîne est un **munqaṭiʿ masqué** — elle a l'apparence d'un isnād connecté, mais un maillon manque.
 
 ### Problème 2 : quel Jābir ?
 
@@ -92,13 +92,17 @@ La comparaison des transmissions des **différents élèves de Sufyān** révèl
 
 Le rapport est **6 contre 2** en faveur de « Jābir » seul. Muslim, Abū Dāwūd, al-Dhahabī — tous ont seulement « Jābir ». Le commentateur du Baḥr al-Muḥīṭ al-Thajjāj doit même **ajouter de lui-même** « أي ابن عبد الله » au texte de Muslim — preuve que l'original n'avait que le prénom.
 
+**L'objection prévisible** : il est courant dans la pratique du hadith de ne mentionner qu'un prénom lorsque l'identité du Compagnon est évidente dans le contexte. « ʿAmr, d'après Jābir » pourrait désigner Jābir ibn ʿAbd Allāh sans qu'il soit nécessaire de le préciser — c'est un usage attesté, et l'argument du simple prénom ne suffirait pas à lui seul. Mais ici, la situation est différente : **la confusion est documentée par le transmetteur lui-même**. Sufyān avertit explicitement que le « Jābir » de ʿAmr ibn Dīnār est parfois **Jābir ibn Zayd** et non Jābir ibn ʿAbd Allāh. Ce n'est donc pas un cas où le prénom va de soi — c'est un cas où l'ambiguïté est avérée.
+
 Sufyān disait vraisemblablement **« ʿan Jābir »** — point. Ce sont **Qutayba** et **ʿAlī al-Madīnī**, deux grands muḥaddithūn, qui « complètent » l'identification en présumant qu'il s'agit du Compagnon célèbre. C'est un cas d'[[Concepts/Ittibāʿ al-Majarra|ittibāʿ al-majarra]] en aval : l'association ʿAmr ibn Dīnār → « Jābir » appelle automatiquement « ibn ʿAbd Allāh » dans l'esprit d'un collecteur.
 
 ### Le silence des élèves de Jābir ibn ʿAbd Allāh
 
-Si ce hadith venait réellement de Jābir ibn ʿAbd Allāh — l'un des Compagnons les plus prolifiques, avec des dizaines d'élèves à Médine et La Mecque — on s'attendrait à ce que d'autres l'aient transmis. Or **aucun** des élèves classiques de Jābir ne rapporte ce récit : ni [[Personnes/Abū al-Zubayr al-Makkī|Abū al-Zubayr al-Makkī]] (qui possède pourtant un *kitāb* entier de Jābir, fût-il contesté), ni Muḥammad al-Bāqir, ni ʿAṭāʾ ibn Abī Rabāḥ, ni Saʿīd ibn Mīnāʾ, ni aucun autre. Le hadith est un **[[Concepts/Tafarrud|tafarrud]] complet** via ʿAmr ibn Dīnār — qui, rappelons-le, n'a pas entendu de Jābir.
+L'ambiguïté du prénom serait anecdotique s'il n'existait pas un moyen de la trancher : vérifier du côté des **élèves de Jābir ibn ʿAbd Allāh**. Si le hadith vient bien de lui, d'autres que ʿAmr ibn Dīnār devraient l'avoir transmis — Jābir est l'un des Compagnons les plus prolifiques, avec des dizaines d'élèves à Médine et La Mecque.
 
-L'explication est simple : le « Jābir » de la chaîne n'a probablement jamais été Jābir ibn ʿAbd Allāh. Si c'est **Jābir ibn Zayd** (tābiʿī ibāḍite de Basra), le silence des Médinois est normal — ils n'ont rien à transmettre de lui. Et le récit rejoint alors la catégorie du mursal : un tābiʿī qui rapporte sans avoir été témoin.
+Or **aucun** d'entre eux ne rapporte ce récit : ni [[Personnes/Abū al-Zubayr al-Makkī|Abū al-Zubayr al-Makkī]] (qui possède pourtant un *kitāb* entier de Jābir, fût-il contesté), ni Muḥammad al-Bāqir, ni ʿAṭāʾ ibn Abī Rabāḥ, ni Saʿīd ibn Mīnāʾ, ni aucun autre. Le hadith est un **[[Concepts/Tafarrud|tafarrud]] complet** via ʿAmr ibn Dīnār — qui, rappelons-le, n'a pas entendu de Jābir.
+
+La vérification tranche : le réseau de Jābir ibn ʿAbd Allāh ne connaît pas ce hadith. Si c'est **Jābir ibn Zayd** (tābiʿī ibāḍite de Basra), le silence des Médinois est normal — ils n'ont rien à transmettre de lui. Et le récit rejoint alors la catégorie du mursal : un tābiʿī qui rapporte sans avoir été témoin.
 
 ## Le narrateur omniscient
 
@@ -154,6 +158,36 @@ Les élèves d'al-Zuhrī donnent le même récit avec des chaînes **divergentes
 
 C'est dans ce contexte que Sufyān ibn ʿUyayna arrive avec une chaîne **entièrement différente** — mecquoise et non médinoise — via ʿAmr ibn Dīnār → Jābir. Une chaîne qui a l'apparence d'un musnad propre, mais dont chaque maillon est contestable.
 
+### Le verdict classique sur les mursals d'al-Zuhrī
+
+Ce n'est pas un détail : les critiques classiques considèrent les mursals d'al-Zuhrī comme **parmi les plus faibles** de toute la littérature du hadith.
+
+**Yaḥyā ibn Saʿīd al-Qaṭṭān** (m. 198H) donne trois verdicts successifs (Jāmiʿ al-Taḥṣīl, [p. 89-90](https://shamela.ws/book/25864/75)) :
+
+> مرسل الزهري شر من مرسل غيره ، لأنه حافظ وكلما قدر أن يسمّي سمّى ، وإنما يترك من لا يستجيز أن يسمّيه
+
+> « Le mursal d'al-Zuhrī est **pire que le mursal d'un autre** — car c'est un ḥāfiẓ : chaque fois qu'il peut nommer (sa source), il la nomme. S'il omet, c'est qu'il ne se permet pas de la nommer. »
+
+Et encore : **مرسل الزهري شبه لا شيء** — « le mursal d'al-Zuhrī, c'est quasi rien ». Et sur le mursal d'al-Zuhrī et de Qatāda en général : **هو بمنزلة الريح** — « c'est comme du vent ».
+
+**Al-Shāfiʿī** (m. 204H) abonde (Siyar, [5/339](https://shamela.ws/book/10906/4111)) :
+
+> إرسال الزهري ليس بشيء ، ذلك أنا نجده يروي عن سليمان بن أرقم
+
+> « Le mursal d'al-Zuhrī **n'est rien** — car on le trouve transmettre de Sulaymān ibn Arqam (transmetteur notoirement faible). »
+
+Le raisonnement est structurel : quand al-Zuhrī envoie un mursal, on ne sait pas s'il ne cache pas un maillon aussi faible que Sulaymān ibn Arqam. **Ibn Maʿīn** (m. 233H) confirme : **مراسيل الزهري ليست بشيء** — « les mursals d'al-Zuhrī ne sont rien » (al-Marāsīl, Ibn Abī Ḥātim, p. 3).
+
+**Al-Dhahabī** (m. 748H) pousse l'analyse plus loin (Siyar, [5/339](https://shamela.ws/book/10906/4111)) :
+
+> مراسيل الزهري كالمعضل ؛ لأنه يكون قد سقط منه اثنان
+
+> « Les mursals d'al-Zuhrī sont **comme des muʿḍal** — car il y a probablement **deux** maillons manquants, pas un seul. »
+
+Al-Zuhrī est un « petit tābiʿī » (ṣaghīr al-tābiʿīn) : quand il omet l'isnād, il a probablement omis un autre tābiʿī *et* le Compagnon. Al-Dhahabī précise : « quiconque met le mursal d'al-Zuhrī au même rang que celui de Saʿīd ibn al-Musayyab **ne sait pas ce qu'il dit** ».
+
+Le récit de Ka'b est donc un mursal d'al-Zuhrī — c'est-à-dire, selon les critiques classiques eux-mêmes, un matériel qui pourrait avoir **deux maillons manquants** et dont la source réelle est inconnue.
+
 ## Pourquoi al-Bukhārī choisit-il le musnad ?
 
 Récapitulons ce qu'al-Bukhārī avait devant lui :
@@ -167,6 +201,18 @@ Récapitulons ce qu'al-Bukhārī avait devant lui :
 Al-Bukhārī disposait du mursal d'al-Zuhrī — il le connaissait forcément, lui qui a passé sa vie dans les cercles de transmission. Il disposait aussi de la critique de Shuʿba. Et pourtant, il retient la seule version qui donne un isnād connecté à un Compagnon, et la place dans un chapitre fondateur du fiqh (*bāb al-kadhib fī al-ḥarb*).
 
 Le choix n'est pas accidentel. Un mursal ne peut pas fonder une règle juridique dans le système de Bukhārī — il lui fallait un musnad. Et le seul musnad disponible était celui de Sufyān. Al-Bukhārī sélectionne donc la chaîne **la plus faible factuellement** mais **la seule qui ait la forme requise** pour entrer dans un recueil de ṣaḥīḥ. Le contenu dicte le choix de la chaîne, pas l'inverse.
+
+## Les maghāzī — un genre fragile
+
+Le hadith de Ka'b appartient au genre des **maghāzī** (expéditions militaires du Prophète) — un corpus dont la fragilité est reconnue par les critiques classiques eux-mêmes. **Aḥmad ibn Ḥanbal** tranche (Ibn ʿAdī, al-Kāmil, [1/212](https://shamela.ws/book/12579/136) ; al-Khaṭīb, al-Jāmiʿ, [n° 1493](https://shamela.ws/book/13012/1723)) :
+
+> ثلاثة كتب ليس لها أصول : المغازي والملاحم والتفسير
+
+> « Trois types de livres **n'ont pas de fondements** : les maghāzī, les malāḥim et le tafsīr. »
+
+La chaîne (Aḥmad → ʿAbd al-Malik al-Maymūnī → Muḥammad ibn Saʿīd al-Ḥarrānī → Ibn ʿAdī) est jugée **ṣaḥīḥ** par al-Judayʿ (Taḥrīr ʿUlūm al-Ḥadīth, [p. 1027](https://shamela.ws/book/1416/1027)). Al-Khaṭīb glose : Aḥmad vise des ouvrages dont les auteurs sont disqualifiés, les transmetteurs non fiables, et le contenu gonflé par les **quṣṣāṣ** (conteurs populaires) — précisément le registre du récit de Ka'b, avec son narrateur omniscient et ses scènes inaccessibles.
+
+Le récit de Ka'b vient des maghāzī d'al-Zuhrī — un matériel transmis sous forme mursal, sans ancrage dans un témoignage direct. Le seul musnad disponible (Sufyān → ʿAmr → Jābir) est une greffe tardive sur un récit qui circulait déjà sans isnād connecté.
 
 ## La question Sufyān
 
@@ -197,3 +243,7 @@ Sufyān reste néanmoins un transmetteur dont la faillibilité est documentée a
 - Dalāʾil al-Nubuwwa, al-Bayhaqī — [3/196](https://shamela.ws/book/7478/1293) à [3/198](https://shamela.ws/book/7478/1295)
 - Sunan al-Kubrā, al-Bayhaqī — [n° 18102](https://shamela.ws/book/7861/20600)
 - Maghāzī al-Wāqidī — [1/184](https://shamela.ws/book/23680/225)
+- Jāmiʿ al-Taḥṣīl, al-ʿAlāʾī — [p. 89-90](https://shamela.ws/book/25864/75) (verdicts sur les mursals d'al-Zuhrī)
+- Siyar Aʿlām al-Nubalāʾ, al-Dhahabī — [5/339](https://shamela.ws/book/10906/4111) (al-Zuhrī : « كالمعضل »)
+- Al-Kāmil fī Ḍuʿafāʾ al-Rijāl, Ibn ʿAdī — [1/212](https://shamela.ws/book/12579/136) (citation d'Aḥmad sur les maghāzī)
+- Al-Jāmiʿ li-Akhlāq al-Rāwī, al-Khaṭīb — [n° 1493](https://shamela.ws/book/13012/1723)

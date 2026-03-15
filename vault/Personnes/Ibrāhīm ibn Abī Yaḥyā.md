@@ -32,7 +32,7 @@ sources_cles:
 | Mort | 184 H (Médine) |
 | Famille | Père Muḥammad, frère Saḥbal (ʿAbd Allāh), oncle Unays — **tous thiqāt**. Seul Ibrāhīm est rejeté |
 | Œuvre | Un **Muwaṭṭaʾ** de plusieurs fois la taille de celui de Mālik |
-| Maîtres | al-Zuhrī, Yaḥyā ibn Saʿīd al-Anṣārī, Muḥammad ibn al-Munkadir, Ṣafwān ibn Sulaym, Jaʿfar al-Ṣādiq, Muḥammad al-Bāqir, ʿAṭāʾ ibn Abī Rabāḥ (7 000 masāʾil revendiquées), « et un grand nombre d'autres » (Siyar) |
+| Maîtres | al-Zuhrī, Yaḥyā ibn Saʿīd al-Anṣārī, Muḥammad ibn al-Munkadir, Ṣafwān ibn Sulaym, Jaʿfar al-Ṣādiq, Muḥammad al-Bāqir, [[Personnes/ʿAṭāʾ ibn Abī Rabāḥ]] (7 000 masāʾil revendiquées), « et un grand nombre d'autres » (Siyar) |
 | Élèves | **Al-Shāfiʿī**, Ibn Jurayj, al-Thawrī, Ibrāhīm ibn Ṭahmān (m. avant lui), Saʿīd ibn Abī Maryam, Abū Nuʿaym, al-Ḥasan ibn ʿArafa (le dernier), ʿAbbād ibn Manṣūr, Yaḥyā ibn Ayyūb — « une petite poignée » (Siyar) |
 | Noms de couverture | Ibn Jurayj : « Ibn Abī ʿAṭāʾ » ou « Abū al-Dhiʾb » ; Marwān ibn Muʿāwiya : « ʿAbd al-Wahhāb » ; al-Shāfiʿī : « أخبرني من لا أتهم » ; al-Thawrī : « un homme » (عن رجل) |
 

@@ -84,7 +84,7 @@ Le contraste avec les **véritables** élèves d'Ibn ʿAbbās est saisissant :
 | **ʿIkrima** (m. ~105H) | **Mawlā** (serviteur affranchi) d'Ibn ʿAbbās — a vécu chez lui, formé par lui pendant des années | Attestation organique — il est *de la maison* | **Samāʿ** prolongé, mais ʿIkrima est controversé (accusations de mensonge, liens khārijites) |
 | **Saʿīd ibn Jubayr** (m. 95H) | Élève direct — « le plus savant des gens » selon Ibn ʿAbbās lui-même | Tué par al-Ḥajjāj — son martyre confirme son indépendance | **Samāʿ** solide |
 | **Ṭāwūs ibn Kaysān** (m. ~106H) | Élève direct au Yémen, parmi les *fuqahāʾ* de la génération | Confirmé par de multiples chaînes | **Samāʿ** solide |
-| **ʿAṭāʾ ibn Abī Rabāḥ** (m. ~114H) | Élève direct à La Mecque | Confirmé par de multiples chaînes | **Samāʿ** solide |
+| **[[Personnes/ʿAṭāʾ ibn Abī Rabāḥ]]** (m. ~114H) | Élève direct à La Mecque | Confirmé par de multiples chaînes | **Samāʿ** solide |
 | **ʿAlī ibn Abī Ṭalḥa** (m. 120/143H) | **N'a jamais rencontré** Ibn ʿAbbās — unanime | Aucune attestation de contact | **Ṣaḥīfa** sans *samāʿ* — **munqaṭiʿ** |
 
 Ibn ʿAbbās avait un **cercle dense** d'élèves directs : Mujāhid, ʿIkrima, Saʿīd ibn Jubayr, Ṭāwūs, ʿAṭāʾ — des hommes qui l'ont fréquenté pendant des années, dont la transmission est attestée par des dizaines de chaînes croisées. ʿAlī ibn Abī Ṭalḥa n'appartient pas à ce cercle. Il transmet un tafsīr complet d'un maître qu'il n'a **jamais vu**, via un intermédiaire (**Mujāhid**) qu'il **omet** de la chaîne.
