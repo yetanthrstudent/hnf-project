@@ -224,10 +224,53 @@ Sufyān ibn ʿUyayna est le **seul canal** par lequel ce récit passe d'un simpl
 
 Sufyān reste néanmoins un transmetteur dont la faillibilité est documentée ailleurs — al-Shāfiʿī l'a pris en flagrant délit de [[Concepts/Ittibāʿ al-Majarra|majarra]] sur al-Zuhrī → ʿUrwa.
 
+## L'accusation de غدر — le même Sufyān transmet la contestation
+
+Le même Sufyān ibn ʿUyayna — celui qui fournit la chaîne canonique à al-Bukhārī — transmet aussi le contre-récit. **Ibn Taymiyya** le conserve dans al-Ṣārim al-Maslūl ([Shamela](https://shamela.ws/book/7344/205)) :
+
+> روى ابن وهب : أخبرني سفيان بن عيينة عن عمر بن سعيد أخي سفيان بن سعيد الثوري عن أبيه عن عباية قال : ذكر قتل ابن الأشرف عند معاوية فقال ابن يامين : **كان قتله غدرا** فقال محمد بن مسلمة : يا معاوية **أيغدر عندك رسول الله** ﷺ **ثم لا تنكر ؟** و الله لا يظلني و إياك سقف بيت أبدا و لا يخلو لي دم هذا إلا قتله
+
+> « L'assassinat d'Ibn al-Ashraf fut mentionné en présence de Muʿāwiya. **Ibn Yāmīn** dit : "Son meurtre fut un **غدر** (une perfidie)." **Muḥammad ibn Maslama** dit : "Ô Muʿāwiya ! On accuse le Prophète de perfidie en ta présence et tu ne réagis pas ? Par Dieu, jamais un toit ne nous abritera ensemble ! Et le sang de cet homme ne sera pas en sûreté — je le tuerai." »
+
+### L'isnād
+
+```
+ʿAbāya ibn Rifāʿa ibn Rāfiʿ al-Zuraqī (tābiʿī, Médine) — thiqa
+    │
+Saʿīd ibn Masrūq al-Thawrī (m. ~126H, Kūfa) — thiqa (père de Sufyān al-Thawrī)
+    │
+ʿUmar ibn Saʿīd al-Thawrī (Kūfa) — frère de Sufyān al-Thawrī
+    │
+SUFYĀN IBN ʿUYAYNA (m. 198H) ◄── le MÊME que la chaîne Bukhārī
+    │
+Ibn Wahb (m. 197H, Égypte)
+```
+
+La chaîne passe par la **famille al-Thawrī** — Saʿīd ibn Masrūq est thiqa par consensus. ʿAbāya ibn Rifāʿa est un tābiʿī médinois anṣārī (petit-fils du Compagnon Rāfiʿ ibn Khadīj), transmetteur principal des traditions de Muḥammad ibn Maslama dans le Siyar. **Yāmīn ibn ʿUmayr ibn Kaʿb ibn ʿAmr ibn Jaḥḥāsh** est identifié dans al-Istīʿāb ([shamela.ws/book/1499/3635](https://shamela.ws/book/1499/3635)) comme un **Compagnon** issu des **Banū al-Naḍīr** — converti à l'islam, « حسن إسلامه ».
+
+### L'analyse
+
+**1. Sufyān transmet les deux.** Le même homme fournit :
+- Le hadith « canonique » (ʿAmr → Jābir) — retenu par al-Bukhārī dans le *bāb al-kadhib fī al-ḥarb*
+- La contestation directe — où un Compagnon qualifie l'acte de **perfidie**
+
+Al-Bukhārī connaissait forcément les deux transmissions de Sufyān. Il retient celle qui fonde une règle juridique et ignore celle qui la détruit.
+
+**2. La réponse est violente, pas théologique.** Muḥammad ibn Maslama — l'assassin lui-même selon le récit canonique — ne dit pas : « ce n'était pas du ghadr parce que Ka'b avait offensé le Prophète » ou « parce que les Juifs avaient trahi le traité ». Il ne **réfute pas** la qualification. Il **interdit** qu'on la prononce — sous peine de mort. C'est une réponse d'autorité, pas de raison.
+
+**3. Muʿāwiya (ou Marwān) ne réagit pas.** Ibn Taymiyya lui-même le note et doit se justifier : **إمساك الأمير إما معاوية أو مروان عن قتل هذا الرجل** — « le fait que l'émir — Muʿāwiya **ou** Marwān — se soit retenu de tuer cet homme ». Même Ibn Taymiyya ne sait pas si c'est le calife ou le gouverneur. Et il doit **excuser** le silence du pouvoir : « son silence n'indique pas une position doctrinale... peut-être n'a-t-il pas examiné le cas... peut-être sa motivation n'a-t-elle pas suffi à appliquer la peine... ». La cascade de « peut-être » trahit l'embarras.
+
+**4. Ibn Yāmīn nomme ce que le hadith décrit.** Le récit canonique est explicite : Muḥammad ibn Maslama demande la permission de **mentir**, utilise le lien de confiance d'Abū Nāʾila (frère de lait) pour attirer Ka'b hors du fort, et le tue de nuit par ruse. Le mot **غدر** (perfidie — trahison de la confiance accordée) est la description exacte de l'acte. Ibn Yāmīn ne fait que nommer ce que le récit raconte.
+
+**5. L'ironie structurelle.** L'assassin menace d'**assassiner** quelqu'un pour avoir qualifié l'**assassinat** de trahison. Le cycle se confirme : la seule réponse à la critique est la menace de mort — exactement le motif du hadith lui-même (Ka'b est tué pour avoir « offensé »). Et Ibn Taymiyya cite cette tradition pour **justifier** le meurtre de quiconque accuse le Prophète de ghadr — c'est-à-dire que la tradition destinée à contester l'assassinat est retournée pour légitimer d'autres meurtres.
+
+**6. Ibn Yāmīn est musulman.** Ibn Taymiyya le précise : **هذا الرجل إنما كان مسلما فإن المدينة لم يكن بها يومئذ أحد من غير المسلمين** — « cet homme était musulman, car il n'y avait alors personne à Médine qui ne fût musulman ». Un **Compagnon musulman**, descendant des Banū al-Naḍīr — c'est-à-dire de la communauté juive de Médine — qualifie de perfidie un acte que le récit canonique légitime. Sa perspective est celle d'un témoin interne, pas d'un ennemi.
+
 ## Relations
 
 - **[[Concepts/Ittibāʿ al-Majarra]]** — Sufyān ibn ʿUyayna, transmetteur du hadith, est aussi le cas n°1 de la majarra
 - **[[Concepts/Tafarrud]]** — le hadith ne passe que par un seul canal (Sufyān → ʿAmr → Jābir)
+- **[[Traditions/Massacre des Banū Qurayẓa]]** — même schéma : récit de violence légitimé par des canaux fragiles, contestation réprimée par la menace
 
 ## Sources
 
@@ -247,3 +290,5 @@ Sufyān reste néanmoins un transmetteur dont la faillibilité est documentée a
 - Siyar Aʿlām al-Nubalāʾ, al-Dhahabī — [5/339](https://shamela.ws/book/10906/4111) (al-Zuhrī : « كالمعضل »)
 - Al-Kāmil fī Ḍuʿafāʾ al-Rijāl, Ibn ʿAdī — [1/212](https://shamela.ws/book/12579/136) (citation d'Aḥmad sur les maghāzī)
 - Al-Jāmiʿ li-Akhlāq al-Rāwī, al-Khaṭīb — [n° 1493](https://shamela.ws/book/13012/1723)
+- Al-Ṣārim al-Maslūl, Ibn Taymiyya — [Shamela](https://shamela.ws/book/7344/205) (tradition d'Ibn Yāmīn + commentaire)
+- Al-Istīʿāb, Ibn ʿAbd al-Barr — [n° 2770](https://shamela.ws/book/1499/3635) (entrée Yāmīn ibn ʿUmayr)
