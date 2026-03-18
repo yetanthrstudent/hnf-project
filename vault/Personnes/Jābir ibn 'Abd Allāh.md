@@ -17,6 +17,9 @@ sources_cles:
   - {ref: "shamela.ws/book/711/269", desc: "Ṣaḥīḥ Muslim — même hadith via Ibn Jurayj ← Abū al-Zubayr ← Jābir"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Jābir ibn 'Abd Allāh — la ṣaḥīfa et ses canaux
 
 L'un des Compagnons les plus prolifiques (~1 540 hadiths), dernier Compagnon à mourir à Médine (~78 H). **Le problème central** : sur ses ~90 transmetteurs, les quatre plus prolifiques (Abū al-Zubayr, Abū Sufyān, 'Amr ibn Dīnār, [[Qatāda ibn Di'āma|Qatāda]]) sont accusés d'avoir utilisé la **ṣaḥīfa de Sulaymān al-Yashkurī** plutôt que d'avoir entendu directement de Jābir. [[al-Ḥasan al-Baṣrī]], dont l'irsāl est notoire, confirme le problème par sa formule « ballaghanī ».

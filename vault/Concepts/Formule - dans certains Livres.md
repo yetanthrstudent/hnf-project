@@ -5,6 +5,9 @@ signification: "Consultation d'un corpus scripturaire étranger à l'islam (Tora
 personnages: ["Ka'b al-Ahbar", "Ibn 'Amr ibn al-'Āṣ", "Wahb ibn Munabbih", "Nawf al-Bikālī", "Khālid ibn Ma'dān"]
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # « Dans certains des Livres » (في بعض الكتب)
 
 ## La formule

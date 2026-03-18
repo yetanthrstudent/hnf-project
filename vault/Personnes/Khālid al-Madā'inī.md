@@ -16,6 +16,9 @@ sources_cles:
   - {ref: "shamela.ws/book/20881/566", desc: "al-Jāmi' li-'Ulūm al-Imām Aḥmad — لا أروي عنه شيئا"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Khālid al-Madā'inī — le faussaire qui a corrompu al-Layth
 
 **Khālid ibn al-Qāsim al-Madā'inī** (Abū al-Haytham) est un faussaire qui a systématiquement **interpolé les livres d'al-Layth ibn Sa'd** — le même al-Layth qui est le **seul** à avoir vérifié le samā' d'[[Abū al-Zubayr al-Makkī]] auprès de Jābir. L'ironie est structurelle : le vérificateur du corpus de Jābir est lui-même victime d'un faussaire.

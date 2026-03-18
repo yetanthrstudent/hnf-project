@@ -16,6 +16,9 @@ sources_cles:
   - {ref: "shamela.ws/book/13055/29", desc: "al-Kifāya — Le Coran a plus besoin de la Sunna"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Makhūl al-Shāmī
 
 **Faqīh du Shām**, figure juridique centrale de la Syrie omeyyade. Mawlā (affranchi), d'origine non-arabe — fait significatif car après la mort des « 'Abdullāhs » (Ibn 'Abbās, Ibn al-Zubayr, Ibn 'Umar, Ibn 'Amr), « le fiqh dans tous les pays passa aux mawālī » (p. 27812).
@@ -66,6 +69,8 @@ Aussi rapporté dans al-Sunna d'al-Marwazī (n° 104) et Sharḥ Madhāhib Ahl a
 Dans le même passage, **Yaḥyā ibn Abī Kathīr** affirme : « السنة قاضية على الكتاب وليس الكتاب قاضيا على السنة » — « La Sunna l'emporte sur le Livre et le Livre ne l'emporte pas sur la Sunna. »
 
 Cette doctrine trouve une illustration concrète dans la [[Traditions/Interdiction des carnassiers|prohibition de la viande des carnassiers]] — un interdit sans fondement coranique, transmis exclusivement par des juristes syriens et inconnu des savants du Ḥijāz.
+
+Elle s'inscrit dans la question 4 du dossier [[Concepts/Kūfa contre le Chām]] : le Chām pose la Sunna au-dessus du Coran, tandis que les Kūfites ([[Personnes/Abū Ḥanīfa|Abū Ḥanīfa]] en tête) rejettent cette hiérarchie et posent le Coran comme source première et suffisante.
 
 ## Connexion au réseau Ka'b
 

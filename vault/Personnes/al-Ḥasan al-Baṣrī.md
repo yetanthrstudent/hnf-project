@@ -18,6 +18,9 @@ sources_cles:
   - {ref: "shamela.ws/book/18686/12081", desc: "Tafsīr al-Tha'labī — Qatāda ← al-Ḥasan ← Ka'b (histoire de David)"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Al-Ḥasan al-Baṣrī
 
 **Figure centrale du réseau basrien**, considéré comme « sayyid al-tābi'īn » (maître des Successeurs). Né à Médine en 21 H, sa mère Khayra était l'affranchie d'Umm Salama — al-Ḥasan a grandi dans l'entourage du foyer prophétique. Il s'installe à Basra, où il devient le pôle intellectuel de toute une génération.
@@ -135,6 +138,8 @@ Même schéma que [[Qatāda ibn Di'āma]], accusé de qadarisme — les deux fig
 - **Transmet de** [[Anas ibn Mālik]] (samāʿ confirmé par Aḥmad)
 - **Blâme Anas** pour le [[Traditions/Hadith de ʿUkl-ʿUraniyya]] — traite al-Ḥajjāj de « shayṭān » (ʿAbd al-Razzāq [9/258](https://shamela.ws/book/13174/18538))
 - **Ne transmet PAS réellement de** Abū Hurayra (ما رآه قط — Yūnus ibn 'Ubayd), 'Alī, Ibn 'Abbās, Jābir
+- **Mursal préféré par ʿAlī ibn al-Madīnī** pour le hadith « al-Imām ḍāmin » — « أحبها إليه وأحسنها إسنادا » — sur les chaînes musnad via Abū Ṣāliḥ → Abū Hurayra (ʿIlal al-Dāraquṭnī Q.1968, [p. 3474](https://shamela.ws/book/9082/3474))
+- **Mursal préféré par al-Dāraquṭnī** pour le hadith « yā maʿshar al-nisāʾ » — « والمرسل أشبه » — sur la chaîne musnad via [[Personnes/ʿAbd Allāh ibn Dīnār]] → Ibn ʿUmar (ʿIlal Q.3086, [p. 5044](https://shamela.ws/book/9082/5044))
 - **Relais des isrā'īliyyāt de** [[Ka'b al-Ahbar]] (chaîne probablement mursal)
 - **Ses livres copiés par** [[Ḥumayd al-Ṭawīl]]
 - **Cible du tadlīs de** [[Qatāda ibn Di'āma]] — « مشهور بالتدليس عنهما » (al-Ḥākim)

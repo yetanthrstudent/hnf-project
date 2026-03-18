@@ -16,6 +16,9 @@ sources_cles:
   - {ref: "shamela.ws/book/794/309", desc: "Mu'jam al-Mudallisīn — Ibn Ḥibbān sur Yāsīn al-Zayyāt derrière la nuskha d'Abū al-Zubayr"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Abū al-Zubayr al-Makkī — la ṣaḥīfa et le faussaire
 
 **Transmetteur le plus prolifique de [[Jābir ibn 'Abd Allāh]]** — environ 360 hadiths dans Tuḥfat al-Ashrāf. Mais al-Layth ibn Sa'd démontre que sa transmission est un **mélange** : partie entendue de Jābir, partie reçue d'intermédiaires non nommés. Et [[Personnes/Ibn Jurayj|Ibn Jurayj]], qui prétend transmettre directement de lui, passe en réalité par **Yāsīn al-Zayyāt** — un faussaire (kadhdhāb).
@@ -76,6 +79,14 @@ Jābir ibn 'Abd Allāh
         │
         └── Zuhayr ibn Mu'āwiya (découvre que la source est Ṣafwān, pas Jābir)
 ```
+
+## Le samāʿ fictif d'Ibn Jurayj — un consensus ignoré par Muslim
+
+Al-Nasāʾī (al-Sunan al-Kubrā, n° 7461-7466, [Shamela](https://shamela.ws/book/8361)) tranche : **ما صنع شيئاً — ابن جريج لم يسمعه من أبي الزبير** — « Ibn Jurayj ne l'a pas entendu d'Abū al-Zubayr. Il n'a rien fait. » Aḥmad identifie l'intermédiaire caché : **إنما سمعهما ابن جريج من ياسين الزيات**. Abū Zurʿa et Abū Ḥātim confirment (al-ʿIlal 1/450).
+
+Le résultat : **tout** le canal « Ibn Jurayj — Abū al-Zubayr — Jābir » est contaminé par un faussaire que quatre des plus grands critiques identifient nommément. Or c'est par ce canal que passe une partie significative des ~360 hadiths de Jābir — et **Ṣaḥīḥ Muslim** y puise avec la formule « akhbaranī » qui prétend garantir un samāʿ direct. Même paradoxe que pour [[Personnes/Ḥammād ibn Salama|Ḥammād]] : le système documente ses propres failles sans les solder.
+
+Le détail de l'argument — l'ironie de la règle d'Aḥmad, le consensus des critiques, les hadiths spécifiques — est développé dans [[Personnes/Ibn Jurayj#Le samāʿ fantôme — al-Nasāʾī, Aḥmad et l'effondrement de la règle|la fiche Ibn Jurayj]].
 
 ## Le témoignage de Zuhayr ibn Mu'āwiya
 

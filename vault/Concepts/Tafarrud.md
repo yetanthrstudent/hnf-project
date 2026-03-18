@@ -4,6 +4,9 @@ definition: "Un seul transmetteur rapporte un texte d'un maître qui avait de no
 personnages: [Al-Awzā'ī, Sulaymān ibn Mūsā, Khālid ibn Ma'dān, Abū Idrīs al-Khawlānī, Ḥumayd al-Ṭawīl]
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Tafarrud (تفرد) — l'isolement dans la transmission
 
 Quand un **seul transmetteur** rapporte un hadith d'un maître qui avait de **nombreux élèves**, c'est un signal d'alerte : si le maître avait réellement enseigné ce texte, d'autres l'auraient aussi transmis. Le problème s'aggrave quand le transmetteur isolé appartient à une **autre région** que le maître — il prétend avoir reçu un texte que personne sur place ne connaît.

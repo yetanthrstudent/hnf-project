@@ -10,7 +10,12 @@ cas_documentes:
   - {victime: "compagnons d'Abū Jaʿfar al-Bāqir", faussaire: "al-Mughīra ibn Saʿīd", methode: "insertion dans les livres chiites"}
   - {victime: "al-Layth ibn Saʿd", faussaire: "Khālid al-Madāʾinī", methode: "mursal → musnad (voir Falsification des nusakh)"}
   - {victime: "ʿAbd al-Razzāq", faussaire: "neveu de Maʿmar", methode: "insertion de faḍāʾil ʿAlī (voir Falsification des nusakh)"}
+  - {probleme: "nuskha mawḍūʿa + vol", victime: "Anas (attr.)", faussaire: "Ghunaym ibn Sālim → Yaḥyā al-Rāzī", methode: "copie forgée, volée et altérée"}
+  - {probleme: "insertion éditoriale", victime: "Jāmiʿ al-Tirmidhī", faussaire: "éditeur tardif", methode: "hadith absent des manuscrits inséré dans l'imprimé"}
 ---
+
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
 
 # Al-Ziyāda fī al-kutub — quand les livres sont corrompus de l'intérieur
 
@@ -95,7 +100,7 @@ Al-Khaṭīb unifie les cas (Mālik, l'aveugle, l'analphabète) sous une seule *
 
 ## II. Les cas documentés — au-delà des « nusakh »
 
-La [[Concepts/Falsification des nusakh|falsification des nusakh]] couvre al-Layth et 'Abd al-Razzāq. Mais les sources nomment **au moins quatre autres victimes** :
+La [[Concepts/Falsification des nusakh|falsification des nusakh]] couvre al-Layth et 'Abd al-Razzāq (voir aussi [[Concepts/Muṣannaf de ʿAbd al-Razzāq]] pour les trois couches de corruption du Muṣannaf). Mais les sources nomment **au moins quatre autres victimes** :
 
 ### 1. [[Personnes/Ḥammād ibn Salama]] — le beau-fils zindīq
 
@@ -151,6 +156,16 @@ Ja'far al-Ṣādiq lui-même dénonce l'opération (via al-Ṭūsī, [p. 669](ht
 
 Le phénomène traverse les frontières confessionnelles : le corpus chiite et le corpus sunnite subissent la même mécanique.
 
+### 5. Ghunaym ibn Sālim — la nuskha mawḍūʿa volée et remaniée
+
+Tadhkirat al-Ḥuffāẓ d'Ibn al-Qaysarānī ([p. 226](https://shamela.ws/book/1578/226)), abrégé du Kitāb al-Majrūḥīn d'Ibn Ḥibbān :
+
+> ورواه غنيم بن سالم، عن أنس [...] وغنيم هذا **له نسخة موضوعة عن أنس**، ولعل الرازي **سرقه منه، وغير الألفاظ، وزاد ونقص**، والله أعلم
+
+> « Ghunaym ibn Sālim l'a transmis d'Anas [...] Ce Ghunaym possédait une **nuskha mawḍūʿa** (copie forgée) attribuée à Anas. Il est vraisemblable qu'al-Rāzī [Yaḥyā ibn al-ʿAlāʾ] lui a **volé** [ce hadith], puis a **modifié les termes, ajouté et retranché**. »
+
+Yaḥyā ibn al-ʿAlāʾ al-Rāzī — décrit comme « s'isolant (yanfarid) des thiqāt avec des choses dont on soupçonne qu'il en est l'auteur intentionnel » et lourdement chargé par Wakīʿ — n'a pas besoin de fabriquer *ex nihilo*. Il puise dans une **nuskha** forgée déjà existante, remanie le texte, et le redistribue sous un nouvel isnād (via Ṣafwān ibn Sulaym → ʿAṭāʾ ibn Yasār → Ibn ʿAbbās). Le **vecteur d'accès** ici est le support matériel lui-même : la copie forgée de Ghunaym devient un **réservoir** dans lequel d'autres puisent pour créer de nouvelles versions.
+
 ### Tableau récapitulatif
 
 | Victime | Faussaire | Méthode | Accès | Source |
@@ -161,6 +176,7 @@ Le phénomène traverse les frontières confessionnelles : le corpus chiite et l
 | Sufyān ibn Wakī' | Son warrāq | insertion dans le hadith | Professionnel (copiste) | al-Irshād [p. 501](https://shamela.ws/book/12993/501) |
 | Ibn Lahī'a | Inconnu | dassasa | Inconnu | al-Manār [p. 99](https://shamela.ws/book/9388/99) |
 | Compagnons d'al-Bāqir | Al-Mughīra ibn Sa'īd | hadiths inventés | Infiltration sectaire | al-Ṭūsī |
+| Anas (attr.) | Ghunaym ibn Sālim → Yaḥyā al-Rāzī | nuskha mawḍūʿa volée et remaniée | Accès au support forgé | Ibn Ḥibbān [p. 226](https://shamela.ws/book/1578/226) |
 
 Le **vecteur d'accès** est frappant : deux cas familiaux (beau-fils, neveu), un professionnel (copiste), un idéologique (sectaire). Le livre n'est pas protégé par un coffre-fort — il circule dans le foyer, passe entre les mains d'un copiste, est accessible à un étudiant. La proximité physique suffit.
 
@@ -268,7 +284,52 @@ La seule protection est la **reconnaissance de sa propre écriture** — et mêm
 
 ---
 
-## V. Le contre-argument — « nos livres sont plus fiables que nous »
+## V. Le support matériel — trois cas complémentaires
+
+Les cas précédents documentent l'**insertion** dans les livres d'autrui. Mais la vulnérabilité du support matériel ne se réduit pas à l'idkhāl. Trois cas tirés des sources classiques illustrent des mécanismes différents : le **naskh fidèle** qui préserve les erreurs, le **document matériel** de provenance incertaine, et l'**insertion éditoriale** qui poursuit le phénomène jusque dans l'ère de l'imprimé.
+
+### 1. Abū Mūsā et le livre de Ghundar — le naskh fidèle et ses conséquences
+
+ʿIlal al-Dāraquṭnī ([p. 1283](https://shamela.ws/book/9082/1283#p5)) :
+
+> قال أبو موسى: **هكذا نسخته من كتاب محمد بن جعفر غندر** أن رسول الله مرت به جنازة فقام
+
+> « Abū Mūsā a dit : **c'est ainsi que je l'ai copié du livre de Muḥammad ibn Jaʿfar Ghundar** — que le Prophète vit passer un convoi funèbre et se leva. »
+
+Le hadith est transmis via Shuʿba → Jābir → al-Shaʿbī → « Abū Saʿīd ibn Zayd ». Le problème : la kunya **Abū Saʿīd** devant « ibn Zayd » est une formulation aberrante. Aḥmad transmet le même hadith simplement comme « Saʿīd ibn Zayd », sans kunya. Al-Dāraquṭnī tranche : « الأشبه بالصواب قول أحمد » (le plus juste est la version d'Aḥmad).
+
+Le cas illustre le paradoxe du **naskh fidèle** : Abū Mūsā copie scrupuleusement le manuscrit de Ghundar, y compris l'anomalie. Son honnêteté (« هكذا نسخته ») ne garantit que la **fidélité au support** — pas la fidélité au hadith original. Le manuscrit est un filtre : il fige les erreurs de son rédacteur, et la copie les perpétue.
+
+### 2. ʿAddāʾ ibn Khālid ibn Hawza — le kitāb matériel
+
+Al-Sunan al-Kubrā d'al-Nasāʾī, ḥadīth 11688 ([p. 16135](https://shamela.ws/book/8361/16135#p1)) :
+
+> قال لي العداء بن خالد: **ألا أقرئك كتابا كتبه لي رسول الله صلى الله عليه وسلم؟** قال: قلت: بلى. **فأخرج لي كتابا** «هذا ما اشترى العداء بن خالد بن هوذة من محمد صلى الله عليه وسلم اشترى منه عبدا - أو أمة - لا داء ولا غائلة ولا خبثة، بيع المسلم المسلم»
+
+> « Al-ʿAddāʾ m'a dit : Veux-tu que je te **lise un document que le Prophète m'a écrit** ? J'ai dit : oui. **Il m'a sorti un document** : "Ceci est ce qu'al-ʿAddāʾ ibn Khālid ibn Hawza a acheté à Muḥammad ﷺ : un esclave (ou une esclave), sans maladie, ni vice caché, ni défaut — vente de musulman à musulman." »
+
+Le cas est singulier : ce n'est pas un hadith transmis oralement, mais un **objet matériel** qu'al-ʿAddāʾ exhibe physiquement (« فأخرج لي كتابا »). Le contenu est un contrat de vente — un acte juridique, pas une parole prophétique. La chaîne passe par ʿAbbād (ṣāḥib al-karābīs) et ʿAbd al-Majīd : qui a vu ce document entre les mains d'al-ʿAddāʾ, et comment vérifier son authenticité matérielle après la mort du détenteur ? Le **support** est ici la seule preuve — et il échappe à tout contrôle de la chaîne orale.
+
+### 3. Insertion éditoriale dans le Jāmiʿ al-Tirmidhī
+
+Sunan al-Tirmidhī, éd. Bashshār ʿAwwād Maʿrūf, note au ḥadīth n° 2300 ([p. 4040](https://shamela.ws/book/7895/4040)) :
+
+Le ḥadīth de Khuraym ibn Fātik sur le faux témoignage (شهادة الزور) a été **supprimé** du texte principal par Bashshār, au motif qu'il **n'appartient pas au Jāmiʿ** :
+
+- Al-Mizzī ne le mentionne pas dans Tuḥfat al-Ashrāf
+- Al-Tabrīzī (Mishkāt al-Maṣābīḥ) l'attribue à Abū Dāwūd et Ibn Māja — pas au Tirmidhī
+- Al-Suyūṭī (al-Durr al-Manthūr) ne mentionne pas le Tirmidhī non plus
+- Le hadith est **absent des manuscrits** consultés
+
+> هذا الحديث ليس من جامع الترمذي قطعا، إذ لم يذكره المزي في تحفة الأشراف، وإنما أضافه محققه [...] فأخطأ في ذلك
+
+> « Ce hadith ne fait **absolument pas** partie du Jāmiʿ al-Tirmidhī. Al-Mizzī ne le mentionne pas dans Tuḥfat al-Ashrāf. C'est son éditeur [précédent] qui l'a **ajouté** — et il s'est trompé. »
+
+Un éditeur moderne a **inséré** un hadith dans le texte imprimé d'une collection canonique. Le mécanisme est identique à l'idkhāl classique — un tiers introduit du matériel étranger dans un corpus qui ne lui appartient pas — mais le **support** a changé : du manuscrit à l'imprimé. La correction de Bashshār montre que la critique du support matériel reste nécessaire, y compris pour les éditions modernes.
+
+---
+
+## VI. Le contre-argument — « nos livres sont plus fiables que nous »
 
 Certains savants défendaient la position inverse. 'Abd Allāh ibn Dāwūd — al-Kifāya ([p. 839](https://shamela.ws/book/13055/839)) :
 
@@ -292,7 +353,7 @@ L'**intégrité des livres** est élevée au rang de condition formelle — au m
 
 ---
 
-## VI. Le phénomène de société — synthèse
+## VII. Le phénomène de société — synthèse
 
 ```
 CINQ VOIX, TROIS GÉNÉRATIONS, TROIS VILLES
@@ -310,7 +371,7 @@ CINQ VOIX, TROIS GÉNÉRATIONS, TROIS VILLES
        └── SYNTHÈSE : une seule 'illa (cause) = al-idkhāl
 ```
 
-Six victimes documentées, cinq voix qui dénoncent, des protocoles de protection qui sont autant d'aveux. Ce n'est pas un accident de transmission — c'est un **phénomène structurel** reconnu par le système lui-même.
+Sept victimes documentées, cinq voix qui dénoncent, des protocoles de protection qui sont autant d'aveux. Ce n'est pas un accident de transmission — c'est un **phénomène structurel** reconnu par le système lui-même.
 
 L'angle mort reste le même que celui identifié dans la [[Concepts/Falsification des nusakh|falsification des nusakh]] : la critique classique du hadith évalue les **hommes** (al-jarḥ wa al-ta'dīl), pas les **manuscrits**. Quand un faussaire externe — beau-fils, copiste, neveu, infiltré — modifie le contenu d'un livre attribué à un thiqa, le système de vérification est court-circuité. Le transmetteur est déclaré fiable ; mais le livre ne l'est plus.
 

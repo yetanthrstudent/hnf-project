@@ -11,6 +11,9 @@ sources_cles:
   - {ref: "shamela.ws/book/1293/257", desc: "Tahdhīb al-Tahdhīb — biographie, mort sous Khālid"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Thābit al-Bunānī
 
 **Transmetteur basrien**, l'un des principaux rapporteurs d'**[[Anas ibn Mālik]]** avec [[Ḥumayd al-Ṭawīl]] et [[Qatāda ibn Di'āma]]. Classé **thiqa ma'mūn** (fiable et sûr) par Ibn Sa'd.

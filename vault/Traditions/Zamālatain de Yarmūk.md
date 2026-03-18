@@ -11,6 +11,9 @@ sources:
   - {ref: "shamela.ws/book/43/6687", desc: "Tafsīr al-Ṭabarī — 'il lisait les Livres'"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Les zamālatain de Yarmūk
 
 Lors de la bataille de **Yarmūk** (15 H / 636 EC), [[Ibn 'Amr ibn al-'Āṣ|'Abd Allāh ibn 'Amr]] récupère **deux zamālatain** (charges de chameau) de **manuscrits scripturaires** (كتب أهل الكتاب / كتب المتقدمين).

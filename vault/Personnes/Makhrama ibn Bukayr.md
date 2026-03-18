@@ -32,6 +32,9 @@ sources_cles:
   - {ref: "shamela.ws/book/794/426", desc: "Makhrama listé parmi les mudallisīn"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Makhrama ibn Bukayr ibn 'Abd Allāh ibn al-Ashaj
 
 Transmetteur médinois, fils de **Bukayr ibn 'Abd Allāh ibn al-Ashaj**. Makhrama est le porteur d'un **livre** (kitāb) attribué à son père — un support écrit que **Mālik ibn Anas** a utilisé comme source majeure pour le Muwaṭṭa'. Le problème : Makhrama **n'a pas entendu de son père**, le livre est contaminé par des traditions de [[Ka'b al-Ahbar]], et Mālik l'a accepté sur parole.

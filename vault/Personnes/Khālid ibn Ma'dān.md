@@ -26,6 +26,9 @@ sources_cles:
   - {ref: "shamela.ws/book/8322/46047", desc: "Siyar — 40 000 tasbīḥ, dates de mort"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Khālid ibn Ma'dān al-Kalā'ī
 
 **Ascète, guerrier du ribāṭ et chef de police de Yazīd ibn Mu'āwiya**, basé à [[Lieux/Homs|Homs]]. Tribu **Kalā'** (Dhū al-Kilā', Ḥimyar). Troisième ṭabaqa des tābi'ūn du Shām (Abū Zur'a, Dimashq [p. 7080](https://shamela.ws/book/71/7080)). Prétend avoir rencontré **70 Compagnons** — auto-déclaration transmise par sa fille et sa servante (Dimashq [p. 7081](https://shamela.ws/book/71/7081)-[7082](https://shamela.ws/book/71/7082), voir ci-dessous). Mort à **Anṭarsūs** (forteresse côtière du ribāṭ), en jeûnant (~103-104 H).

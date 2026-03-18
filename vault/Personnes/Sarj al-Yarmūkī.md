@@ -9,6 +9,9 @@ sources_cles:
   - {ref: "shamela.ws/book/71/8953", desc: "Tārīkh Dimashq — notice n° 2403"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Sarj al-Yarmūkī
 
 **Converti** des Gens du Livre ayant vécu à l'époque du Prophète et s'étant converti après lui. Profil identique à [[Ka'b al-Ahbar]] : un ancien savant scripturaire intégré à la communauté musulmane lors des conquêtes.

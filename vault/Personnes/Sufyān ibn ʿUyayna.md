@@ -18,6 +18,9 @@ sources_cles:
   - {ref: "shamela.ws/book/18091/28", desc: "Naqḍ al-Dārimī — uqtulūhu + ru'ya"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Sufyān ibn ʿUyayna — le « meilleur transmetteur de Zuhrī » réévalué
 
 Imam mecquois, considéré par les critiques classiques comme le transmetteur le plus fiable d'al-Zuhrī — avec Mālik. Pilier des deux Ṣaḥīḥayn. Pourtant, les sources documentent au moins **quatre types de défaillances** dans ses transmissions de Zuhrī : la [[Concepts/Ittibāʿ al-Majarra|majarra]] (substitution d'isnād par mémoire), un **intermédiaire dissimulé** (Wā'il), une **wijāda** (transmission depuis un livre, pas une audition), et un **raf' contesté** (hadith élevé au rang de marfūʿ à tort). Ces problèmes ne sont pas des anecdotes marginales — ils touchent le cœur même de sa spécialité.
@@ -190,4 +193,5 @@ Le cas de la Makhzumiyya fait de Sufyān un exemple direct du phénomène décri
 - [[Concepts/Ittibāʿ al-Majarra]] — cas 1 : Sufyān suit la Voie Lactée dans les isnāds de Zuhrī
 - [[Traditions/Assassinat de Ka'b ibn al-Ashraf]] — seul canal musnad via ʿAmr → Jābir
 - [[Concepts/Al-Ziyāda fī al-kutub]] — le livre d'Ayyūb ibn Mūsā comme illustration
+- [[al-Zuhrī]] — maître principal de Sufyān, source de la majarra et de la wijāda
 - [[Personnes/Ḥammād ibn Salama]] — même milieu ṣifāt/anthropomorphisme

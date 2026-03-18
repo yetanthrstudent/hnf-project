@@ -23,6 +23,9 @@ solidite_source: partielle
 note_source: "Le lien 'cousin de Ka'b' vient de sources secondaires, à vérifier dans la bio Dimashq. La scène 'Awf/Ka'b/qāṣṣ et 'Mu'āwiya se réjouit' non vérifiées dans les sources primaires Shamela."
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Dhū'l-Kilā' al-Ḥimyarī
 
 Chef militaire himyarite, **cousin** de [[Ka'b al-Ahbar]] (même clan tribal). Commandant de l'aile droite de [[Mu'āwiya ibn Abī Sufyān|Mu'āwiya]] à Ṣiffīn (Dimashq [p. 7095](https://shamela.ws/book/71/7095)). Installé à [[Homs]] comme Ka'b.

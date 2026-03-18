@@ -2,3 +2,6 @@
 CLAUDE.md
 recherche-*.md
 archive/
+node_modules/
+public/
+quartz/

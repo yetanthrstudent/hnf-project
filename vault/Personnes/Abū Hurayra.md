@@ -26,6 +26,9 @@ sources_cles:
   - {ref: "shamela.ws/book/2266/9444", desc: "Transmet le hadith de la hijra d'après Ibn 'Amr"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Abū Hurayra — 3 ans, 5 000 hadiths
 
 Compagnon tardif du Prophète (~3 ans de compagnonnage, à partir de Khaybar en 7 H), devenu le **plus prolifique transmetteur de hadiths** de l'histoire (> 5 000 traditions). Sa production dépasse celle de tous les autres Compagnons réunis — un volume que ses propres contemporains ont contesté. Point de sortie du réseau [[Ka'b al-Ahbar]] vers la tradition prophétique canonique.
@@ -267,3 +270,7 @@ Ka'b al-Ahbar (source juive) → traditions d'isrā'īliyyāt
 Abū Hurayra est le **transmetteur le plus prolifique et le plus contesté** de l'islam primitif. Ses propres contemporains l'ont mis en cause : ʿUmar le traite d'ennemi de Dieu, ʿAlī conteste son intimité revendiquée, ʿĀʾisha le contredit sur le jeûne, Shu'ba dénonce son tadlīs. Lui-même avoue mélanger ses propres paroles aux hadiths (« du sac d'Abū Hurayra ») et rétracte en invoquant un témoin mort. Le miracle du ridāʾ — la seule justification de sa mémoire infaillible — est un récit qui résout le problème de sa propre admission d'oubli par un acte surnaturel invérifiable.
 
 Le lien avec [[Ka'b al-Ahbar]] est le nœud central : Ka'b le certifie comme connaisseur de la Torah, lui transmet des traditions juives que Abū Hurayra élève ensuite au rang prophétique (le du'ā' de la mosquée, les 7 jours de la création). ʿUmar les menace ensemble, Mu'āwiya les protège ensemble. Le système accepte le résultat : un corpus massif d'isrā'īliyyāt transformées en sunna par un homme que ses contemporains avaient jugé problématique.
+
+## Voir aussi
+
+- [[Concepts/ʿAmal al-Sulṭān]] — Abū Hurayra comme Compagnon-gouverneur et instrument financier de Mu'āwiya

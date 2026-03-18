@@ -6,6 +6,9 @@ source_principale: "al-Kifāya fī ʿIlm al-Riwāya, al-Khaṭīb al-Baghdādī 
 personnages: [Ibn al-Ṣalāḥ, al-Khaṭīb al-Baghdādī, Mālik, al-Zuhrī, Sufyān ibn ʿUyayna, Ibn Wahb, ʿAbd al-Razzāq, Ibn Jurayj, Ibn Lahīʿa]
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Taḥammul al-ḥadīth (تحمل الحديث) — comment on « reçoit » un hadith
 
 Ibn al-Ṣalāḥ (m. 643/1245) codifie **huit voies** par lesquelles un transmetteur reçoit le hadith. Les traités d'uṣūl les présentent comme une hiérarchie — du *samāʿ* (audition directe, le plus fiable) à la *wijāda* (trouvaille dans un livre, le plus faible). Al-Khaṭīb al-Baghdādī (al-Kifāya, [p. 141](https://shamela.ws/book/13055/141) sqq.) avait posé les fondements deux siècles plus tôt.
@@ -258,7 +261,7 @@ Le terme **أُدخل عليه** est technique : c'est le même verbe que dans [
 
 ### Le cas de ʿAbd al-Razzāq
 
-[[Concepts/Falsification des nusakh|ʿAbd al-Razzāq al-Ṣanʿānī]] devint aveugle à la fin de sa vie. Après sa cécité, des gens venaient lui **souffler des hadiths** qu'il n'avait jamais transmis — et il les acceptait. Aḥmad ibn Ḥanbal distingue : ce qu'il a entendu de ʿAbd al-Razzāq **avant** la cécité est fiable ; ce qui vient **après** est suspect.
+[[Concepts/Falsification des nusakh|ʿAbd al-Razzāq al-Ṣanʿānī]] devint aveugle à la fin de sa vie. Après sa cécité, des gens venaient lui **souffler des hadiths** qu'il n'avait jamais transmis — et il les acceptait. Aḥmad ibn Ḥanbal distingue : ce qu'il a entendu de ʿAbd al-Razzāq **avant** la cécité est fiable ; ce qui vient **après** est suspect. Voir [[Concepts/Muṣannaf de ʿAbd al-Razzāq]] pour l'analyse complète des trois couches de corruption.
 
 ---
 

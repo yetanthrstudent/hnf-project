@@ -22,6 +22,9 @@ sources_cles:
   - {ref: "shamela.ws/book/13005/834", desc: "al-Īmān d'Ibn Mandah — contre-exemple Abū al-'Āliya"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Shu'ba ibn al-Ḥajjāj
 
 **Pilier du système de vérification du hadith**. Shu'ba est le garant sur lequel repose l'acceptation des transmissions des trois plus grands mudallis du corpus sunnite : **[[Qatāda ibn Di'āma]]**, **Abū Isḥāq al-Sabī'ī** et **[[Personnes/Al-Aʿmash|al-Aʿmash]]**. Sans sa garantie (« [[Concepts/Kafaytukum tadlīs thalātha|kafaytukum tadlīs thalātha]] »), une part considérable du Ṣaḥīḥayn serait compromise.

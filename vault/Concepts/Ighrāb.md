@@ -4,6 +4,9 @@ definition: "Transmettre du matériel unique et invérifiable rapporté d'une co
 personnages: [Muʿāwiya ibn Ṣāliḥ]
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Ighrāb (إغراب) — l'importation du lointain
 
 Un transmetteur part dans une **contrée lointaine** (al-Andalus, Khurāsān, Sind), passe des décennies hors des centres de hadith (Ḥijāz, Iraq, Shām), puis revient avec un corpus que **personne ne peut vérifier par croisement**. Le terme est apparenté à *gharīb* (hadith isolé) — mais là où le *gharīb* désigne un hadith ponctuel, l'ighrāb désigne une **condition structurelle** : l'étrangeté d'un corpus entier.

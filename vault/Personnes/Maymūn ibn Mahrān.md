@@ -10,6 +10,9 @@ sources_cles:
   - {ref: "shamela.ws/book/25794/1887", desc: "Musnad Aḥmad n° 2619 — Hadith des carnassiers, Maymūn ← Ibn 'Abbās"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Maymūn ibn Mahrān
 
 **Wālī (gouverneur) de Raqqa** et savant de la **Jazīra**. D'origine persane — captif d'Istakhr (سبي اصطخر — Dimashq, [p. 27812](https://shamela.ws/book/71/27812)). Mawlā de Banī Naṣr (ou al-Azd). S'installa à Raqqa avec sa descendance (Tārīkh al-Raqqa d'al-Qushayrī). L'un des quatre savants régionaux de l'époque de Hishām, selon [[Sulaymān ibn Mūsā]] (p. 27812).

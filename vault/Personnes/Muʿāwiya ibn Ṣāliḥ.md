@@ -12,6 +12,9 @@ sources_cles:
   - {ref: "shamela.ws/book/12579", desc: "al-Kāmil fī al-Ḍuʿafāʾ (Ibn ʿAdī)"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Muʿāwiya ibn Ṣāliḥ al-Ḥaḍramī
 
 Transmetteur ḥimṣī devenu **qāḍī d'al-Andalus** sous les Omeyyades d'Occident. Parti très tôt vers le Maghreb (~125H), il revient en Orient vers 154H avec un corpus de **~200 hadiths uniques** (*ifrādāt*) que personne dans les centres de hadith ne connaît — le cas paradigmatique de l'**[[Concepts/Ighrāb|ighrāb]]**.

@@ -4,6 +4,9 @@ definition: "Suivre la Voie Lactée — un transmetteur emprunte inconsciemment 
 personnages: [Sufyān ibn ʿUyayna, al-Mubārak ibn Faḍāla, al-Mundhir ibn ʿAbd Allāh al-Ḥazāmī, Thābit al-Bunānī]
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Ittibāʿ al-Majarra (اتباع المجرّة) — suivre la Voie Lactée
 
 Quand un transmetteur reçoit un hadith par une chaîne **complexe ou inhabituelle**, il la simplifie inconsciemment en la rattachant à une **chaîne célèbre** qu'il connaît mieux. Le terme est une métaphore astronomique : la *majarra* (المجرّة) est la **Voie Lactée** — le chemin lumineux et évident qui traverse le ciel. « Suivre la majarra », c'est emprunter la route la plus visible au lieu du sentier réel.

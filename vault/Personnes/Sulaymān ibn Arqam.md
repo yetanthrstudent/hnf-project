@@ -20,6 +20,9 @@ sources_cles:
   - {ref: "shamela.ws/book/39268/486", desc: "al-Madkhal ilā l-Sunan al-Kubrā (al-Bayhaqī) — la citation d'al-Shāfiʿī sur les mursals d'al-Zuhrī"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Sulaymān ibn Arqam — le transmetteur qui invalide al-Zuhrī
 
 **Le cas d'école du transmetteur unanimement rejeté** dont l'existence dans l'isnād d'al-Zuhrī a suffi à al-Shāfiʿī pour faire tomber l'ensemble de ses mursals. Basrien, mawlā, transmetteur prolifique d'al-Ḥasan al-Baṣrī et d'al-Zuhrī, il a produit des dizaines de hadiths dont aucun critique ne confirme l'authenticité. Son intérêt dans le projet HNF ne tient pas à sa personne, mais à ce qu'il révèle : **si al-Zuhrī transmettait de quelqu'un comme Sulaymān ibn Arqam, que valent ses sources quand il ne les nomme pas ?**

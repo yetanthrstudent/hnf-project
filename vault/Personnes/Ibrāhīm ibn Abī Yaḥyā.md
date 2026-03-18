@@ -19,6 +19,9 @@ sources_cles:
   - {ref: "shamela.ws/book/9344/1436", desc: "Musnad al-Shāfiʿī — hadith de ʿUkl via Ibrāhīm nommément"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Ibrāhīm ibn Abī Yaḥyā al-Aslamī — le maître effacé
 
 **Le cheikh principal d'al-Shāfiʿī à Médine.** Auteur d'un Muwaṭṭaʾ plusieurs fois plus volumineux que celui de Mālik. Transmetteur de **Jaʿfar al-Ṣādiq**. Rejeté par la quasi-totalité du patrimoine sunnite : traité de menteur, d'hérétique, d'insulte aux Compagnons. Ses livres ont été déchirés, ses hadiths rayés des cahiers. Et pourtant : trois grands savants — **al-Thawrī**, **Ibn Jurayj** et **al-Shāfiʿī** — transmettaient de lui **en cachant son nom**.

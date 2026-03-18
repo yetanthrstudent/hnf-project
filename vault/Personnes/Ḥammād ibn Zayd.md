@@ -17,6 +17,9 @@ sources_cles:
   - {ref: "shamela.ws/book/9082/397", desc: "'Ilal al-Dāraquṭnī — iḍṭirāb de Ḥammād ibn Zayd ← 'Amr ibn Dīnār ← Jābir (tark al-ṣalāt)"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Ḥammād ibn Zayd — l'aveugle qui n'a jamais rencontré Qatāda
 
 **Imam de Basra**, unanimement thiqa, considéré comme le transmetteur le plus fiable d'**Ayyūb al-Sakhtiyānī** (20 ans de fréquentation). Aveugle (ḍarīr), sans livres — il transmettait de mémoire. Toute chaîne « Ḥammād ibn Zayd ← [[Qatāda ibn Di'āma|Qatāda]] » est **munqaṭiʿa** : il ne l'a jamais rencontré.

@@ -16,6 +16,9 @@ sources_cles:
   - {ref: "shamela.ws/book/735/10728", desc: "Bukhārī 6720 — hadith du roi qahtanite, colère de Mu'āwiya"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # 'Abd Allāh ibn 'Amr ibn al-'Āṣ
 
 Compagnon du Prophète, fils du conquérant de l'Égypte ('Amr ibn al-'Āṣ). **Noeud central** du réseau de transmission : le Compagnon auquel convergent les traditions issues de [[Ka'b al-Ahbar]], [[Nawf al-Bikālī]], et [[Wahb ibn Munabbih]].

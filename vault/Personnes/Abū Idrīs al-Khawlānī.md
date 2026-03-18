@@ -10,6 +10,9 @@ sources_cles:
   - {ref: "shamela.ws/book/711/5956", desc: "Ṣaḥīḥ Muslim 1932 — hadith des carnassiers + aveu d'al-Zuhrī"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Abū Idrīs al-Khawlānī
 
 **'Ā'idh Allāh ibn 'Abd Allāh**, qāḍī de Damas sous **'Abd al-Malik ibn Marwān** (Dimashq [p. 11743](https://shamela.ws/book/71/11743)). Né l'année de Ḥunayn (8 H), du vivant du Prophète. Deuxième ṭabaqa des tābi'ūn du Shām (Ibn Samī', Dimashq [p. 11757](https://shamela.ws/book/71/11757)).

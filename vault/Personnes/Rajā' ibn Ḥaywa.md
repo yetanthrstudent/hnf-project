@@ -13,6 +13,9 @@ sources_cles:
   - {ref: "shamela.ws/book/13162/2856", desc: "Chaîne Makhūl ← Rajā' ← Ibn 'Amr (Ṭabarānī)"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Rajā' ibn Ḥaywa
 
 **Conseiller des califes omeyyades**, juge, figure clé de la sacralisation de **Bayt al-Maqdis** (Jérusalem). Abū al-Miqdām al-Kindī al-Shāmī al-Filasṭīnī (p. 7908). Troisième ṭabaqa des tābi'ūn du Shām (Ibn Sa'd, p. 7907).

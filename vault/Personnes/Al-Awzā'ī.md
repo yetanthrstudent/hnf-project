@@ -14,6 +14,9 @@ sources_cles:
   - {ref: "shamela.ws/book/13162/2856", desc: "Chaîne al-Awzā'ī ← Makhūl ← Rajā' ← Ibn 'Amr"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Al-Awzā'ī
 
 Grand juriste du Shām, fondateur de l'école juridique syrienne. Élève de **Makhūl al-Shāmī** (« رأيت مكحولا » — Muṣannaf Ibn Abī Shayba, shamela.ws/book/333/7589). Principal transmetteur : **al-Walīd ibn Muslim**.

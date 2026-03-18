@@ -21,6 +21,9 @@ sources_cles:
   - {ref: "shamela.ws/book/12579/1053", desc: "al-Kāmil — Dieu vu comme jeune homme, via Qatāda"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Ḥammād ibn Salama — le témoin compromis
 
 Imam de Basra, le plus fiable des transmetteurs de [[Thābit al-Bunānī]] et [[Ḥumayd al-Ṭawīl]]. Unanimement thiqa pour ses traditions anciennes — mais ses **livres** sont soupçonnés d'avoir été infiltrés par son beau-fils **Ibn Abī al-ʿAwjāʾ**, zindīq exécuté sous al-Mahdī. Bukhārī ne prend de lui qu'un seul hadith, sous forme de ta'līq. Le résultat : une proportion **anormale** de hadiths anthropomorphistes (ṣifāt) dans son corpus.

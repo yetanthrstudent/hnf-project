@@ -34,7 +34,12 @@ sources_cles:
   - {ref: "shamela.ws/book/16953/30873", desc: "Du'ā' mosquée — parole de Ka'b devenue prophétique via Abū Hurayra"}
   - {ref: "shamela.ws/book/50/3132", desc: "Confusion Ka'b al-Ahbar / Ka'b ibn ʿUjra dans les manuscrits"}
   - {ref: "shamela.ws/book/6048/50", desc: "al-Tamyīz n° 10 — Busr ibn Sa'īd : confusion Ka'b/Prophète chez Abū Hurayra"}
+  - {ref: "shamela.ws/book/1350/3002", desc: "ʿIlal Ibn Abī Ḥātim Q.2022 — Abū Zurʿa : هذا خطأ, Suhayl→Abū Ṣāliḥ→al-Salūlī→Ka'b"}
+  - {ref: "shamela.ws/book/1435/4018", desc: "Tirmidhī n° 2322 — al-dunyā malʿūna via Ibn Ḍamra al-Salūlī"}
 ---
+
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
 
 # Ka'b al-Ahbar
 
@@ -54,7 +59,8 @@ Rabbin yéménite converti à l'islam sous le califat de [[Omar ibn al-Khattab|'
 - **Menacé par** [[Omar ibn al-Khattab|'Umar]] d'exil « au pays des singes »
 - **Dénoncé (via Nawf) par** [[Ibn 'Abbās]] : « a menti, l'ennemi de Dieu »
 - **Contemporain de** [[Wahb ibn Munabbih]] (successeur générationnel dans la transmission d'isrā'īliyyāt)
-- **Matériel transmis via** [[Dhakwān Abū Ṣāliḥ al-Sammān]] (ṣaḥīfa) → [[Personnes/Al-Aʿmash|al-Aʿmash]] → Ṣaḥīḥayn — voir [[Concepts/Silsilat al-Dhahab]]
+- **Matériel transmis via** [[Personnes/ʿAbd Allāh ibn Ḍamra al-Salūlī|ʿAbd Allāh ibn Ḍamra al-Salūlī]] → [[Dhakwān Abū Ṣāliḥ al-Sammān]] (ṣaḥīfa) → [[Personnes/Suhayl ibn Abī Ṣāliḥ|Suhayl]] / [[Personnes/Al-Aʿmash|al-Aʿmash]] → Ṣaḥīḥayn — maillon effacé, rétabli par Abū Zurʿa (Q.2022 : هذا خطأ — voir [[Personnes/ʿAbd Allāh ibn Ḍamra al-Salūlī]])
+- **Matériel transmis via** ʿAṭāʾ ibn Qurra al-Salūlī ← [[Personnes/ʿAbd Allāh ibn Ḍamra al-Salūlī|al-Salūlī]] → Ibn Thawbān → Tirmidhī (n° 2322, al-dunyā malʿūna) et Ibn Mājah (n° 4112)
 - **Matériel confondu avec** celui du Prophète dans la chaîne [[Nāfiʿ mawlā Ibn ʿUmar]] → Ibn ʿUmar (3 divergences Nāfiʿ/Sālim)
 
 ## Le réseau de transmission
@@ -74,6 +80,14 @@ Ka'b al-Ahbar (m. 32 H) — « dans les Livres... »
     │       │
     │       └── Dhakwān Abū Ṣāliḥ (ṣaḥīfa)
     │               └── al-Aʿmash → ṢAḤĪḤAYN
+    │
+    ├── ʿABD ALLĀH IBN ḌAMRA AL-SALŪLĪ (maillon caché)
+    │       │
+    │       ├── Abū Ṣāliḥ al-Sammān → Suhayl → Muslim (shawāhid)
+    │       │     (Abū Zurʿa Q.2022 : هذا خطأ — Ka'b, pas Abū Hurayra)
+    │       │
+    │       └── ʿAṭāʾ ibn Qurra → Ibn Thawbān → Tirmidhī / Ibn Mājah
+    │             (al-dunyā malʿūna, n° 2322 — ḥasan gharīb)
     │
     ├── Ibn 'Amr ibn al-'Āṣ (compagnon, rencontre à La Mecque)
     │

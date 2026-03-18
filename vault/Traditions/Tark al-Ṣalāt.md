@@ -11,6 +11,9 @@ sources_cles:
   - {ref: "shamela.ws/book/9082/397", desc: "'Ilal al-Dāraquṭnī — iḍṭirāb de Ḥammād ibn Zayd"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Hadith du tark al-ṣalāt — « entre l'homme et le shirk/kufr : l'abandon de la prière »
 
 ## Le texte

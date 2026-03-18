@@ -7,6 +7,9 @@ sources:
   - {ref: "shamela.ws/book/71/28829", desc: "Bio de Nawf dans Dimashq", chaine: "Qatāda ← Shahr ← Nawf ← Ibn 'Amr"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Hadith de la hijra vers le Shām
 
 ## Texte (matn)
@@ -33,3 +36,7 @@ Produit pendant la révolte d'Ibn al-Zubayr (64-73 H) pour :
 1. **Sacraliser le Shām** comme terre de hijra d'Ibrahim
 2. **Disqualifier le Ḥijāz** (terre des « pires habitants »)
 3. **Assimiler les opposants aux Kharijites** et au Dajjāl
+
+## Voir aussi
+
+- [[Concepts/Kūfa contre le Chām]] — la sacralisation du Shām s'inscrit dans l'opposition entre les deux camps (question 3 : la capitale sacrée)

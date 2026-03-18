@@ -33,6 +33,9 @@ sources_cles:
   - {ref: "OpenITI/0362AbuFarajIsbahani.Aghani (vol. 22)", desc: "Kitāb al-Aghānī — takhannuth, mathālib, origines contestées"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Khālid ibn 'Abd Allāh al-Qasrī
 
 **Gouverneur omeyyade de La Mecque puis d'Iraq**, figure majeure du pouvoir omeyyade. Fils d'une **chrétienne** (Dimashq [p. 7028](https://shamela.ws/book/71/7028) : « الأشراف من أبناء النصرانيات : خالد بن عبد الله »). Arrière-petit-fils du Compagnon **Asad ibn Kurz** (Ma'rifat al-Ṣaḥāba, [p. 1037](https://shamela.ws/book/10490/1037)), compté parmi les Syriens. Khālid transmet de lui un hadith : « يا أسد بن كرز، لا تدخل الجنة بعمل ولكن برحمة الله » ([p. 1039](https://shamela.ws/book/10490/1037)). Frère de **Asad ibn 'Abd Allāh**, gouverneur du Khurāsān. Fils : **Yazīd** et **Muḥammad** (tous deux actifs dans la politique omeyyade tardive).
@@ -254,3 +257,7 @@ Yaḥyā ibn Ma'īn le qualifie de **rajul sū'** (رجل سوء — homme mauva
 Al-Dhahabī (Siyar) : « وكان جوادا ممدحا معظما عالي الرتبة من نبلاء الرجال، **لكنه فيه نصب معروف** ». À noter : le seul grief qu'al-Dhahabī relève explicitement est le naṣb (hostilité envers 'Alī). Les autres faits — Zamzam, la Ka'ba, l'église, la qulfa, la chaîne d'immunité — ne sont pas mentionnés comme réserves. Cela reflète le cadre doctrinal de son époque (VIIIe s. H) : après la réhabilitation abbasside de 'Alī et la consolidation de la doctrine de **'adālat al-ṣaḥāba**, l'insulte envers un Compagnon est devenue le critère de disqualification principal, tandis que les autres actes sont intégrés dans le bilan sans commentaire négatif.
 
 C'est l'absolutisme omeyyade incarné — le pouvoir politique ne se contente pas d'utiliser le sacré, il le **subordonne** publiquement. Et les quṣṣāṣ comme Qatāda sont ses obligés.
+
+## Voir aussi
+
+- [[Concepts/ʿAmal al-Sulṭān]] — Khālid comme patron du réseau basrien des transmetteurs d'Anas

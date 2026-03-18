@@ -16,6 +16,9 @@ sources_cles:
   - {ref: "shamela.ws/book/1293/257", desc: "Tahdhīb al-Tahdhīb — Thābit meurt sous Khālid, lavé par Ḥumayd"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Ḥumayd al-Ṭawīl
 
 **Transmetteur basrien**, figure clé du réseau de Basra sous le gouvernorat de [[Khālid ibn 'Abd Allāh al-Qasrī]]. Mawlā (affranchi) de Ṭalḥa al-Ṭalaḥāt al-Khuzā'ī. Mort en 142 ou 143 H, à 75 ans, en priant debout.
@@ -167,3 +170,7 @@ L'intégralité du patrimoine de ce hadith repose sur un transmetteur unique —
                                 ↓
                     HADITHS CANONIQUES (Bukhārī, Muslim)
 ```
+
+## Voir aussi
+
+- [[Concepts/ʿAmal al-Sulṭān]] — le عمل السلطان comme critère de jarḥ moral, et le biais structurel pouvoir/transmission

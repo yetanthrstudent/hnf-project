@@ -9,6 +9,9 @@ sources:
   - {ref: "shamela.ws/book/103/13050", desc: "al-'Atīq — al-Ḥakam al-Ghifārī vs Ibn 'Abbās, principe coranique"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Interdiction des carnassiers (نهي عن كل ذي ناب من السباع)
 
 Hadith interdisant la consommation de tout animal à crocs (carnassier) et de tout oiseau à serres. Devenu un pilier du droit alimentaire islamique, mais **inconnu des savants du Ḥijāz** jusqu'à sa transmission par des juges et savants du Shām.
@@ -19,7 +22,7 @@ Hadith interdisant la consommation de tout animal à crocs (carnassier) et de to
 >
 > « Le Messager de Dieu a interdit de manger tout animal à crocs parmi les carnassiers. »
 
-## L'aveu d'al-Zuhrī
+## L'aveu d'[[al-Zuhrī]]
 
 Al-Zuhrī lui-même reconnaît dans Ṣaḥīḥ Muslim (n° 1932, [p. 5956](https://shamela.ws/book/711/5956)) :
 

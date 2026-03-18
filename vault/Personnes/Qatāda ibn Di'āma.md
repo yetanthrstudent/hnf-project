@@ -23,8 +23,12 @@ sources_cles:
   - {ref: "shamela.ws/book/3617/97", desc: "سمعت قتادة يقول في قصصه — Jahannamiyyūn"}
   - {ref: "shamela.ws/book/5997/19", desc: "al-Ḥākim — مشهور بالتدليس عنهما"}
   - {ref: "shamela.ws/book/26743/25", desc: "Provisions de Khālid al-Qasrī à Wāsiṭ"}
+  - {ref: "shamela.ws/book/12579/2195", desc: "Ibn ʿAdī — ziyāda al-Ḥasan entre Qatāda et Anas (jald al-khamr)"}
   - {ref: "shamela.ws/book/10495/7997", desc: "Qatāda ← Ka'b — le cerveau par les narines (Ḥilyat al-Awliyā')"}
 ---
+
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
 
 # Qatāda ibn Di'āma al-Sadūsī
 
@@ -85,26 +89,17 @@ Tahdhīb al-Kamāl (p. 26743/25) : Qatāda meurt à **Wāsiṭ** chez le gouvern
 
 Schéma récurrent : comme [[Nawf al-Bikālī]] (qāṣṣ et soldat omeyyade), comme [[Ka'b al-Ahbar]] (autorisé par Mu'āwiya), Qatāda est un savant **entretenu par le pouvoir**. L'indépendance du prédicateur par rapport à l'État omeyyade est une fiction — les quṣṣāṣ sont des **fonctionnaires du sacré**.
 
-## Étude de cas : le hadith de la flagellation du buveur de vin
+## Le problème Qatāda–Anas : tadlīs et sources réelles
 
-### Le problème
+Quand un hadith est rapporté **seulement par Qatāda** ou **seulement par [[Ḥumayd al-Ṭawīl]]**, la source déclarée est presque toujours soit **al-Ḥasan al-Baṣrī** (souvent sans source explicite), soit **[[Anas ibn Mālik]]**. Or la chaîne al-Ḥasan al-Baṣrī → Anas est considérée comme **non fiable** — al-Ḥasan n'a pas véritablement entendu d'Anas la plupart de ce qu'il transmet.
 
-Quatre versions d'un même hadith passant par Qatāda produisent des récits **contradictoires** :
+Cela crée une nécessité méthodologique : pour vérifier si un hadith attribué à Anas est authentique, il faut **étudier les autres rapporteurs d'après Anas** — ceux qui ne sont pas des mudallisīn basriens — et vérifier s'ils connaissent la même tradition. Quand un hadith n'est connu que par le circuit Qatāda/Ḥumayd → Anas, sans corroboration par d'autres élèves d'Anas, la probabilité qu'il s'agisse d'une projection tardive est élevée.
 
-| Source | Chaîne | Contenu |
-|--------|--------|---------|
-| Nasā'ī (p. 8361/7318) | Qatāda ← Anas | 2 palmes, ~40 coups |
-| Bukhārī (p. 735/10202) | Qatāda ← Anas | Palmes ET sandales, 40 seulement |
-| Bayhaqī (p. 7861/19961) | Qatāda ← Anas | 20 hommes avec sandales |
-| Bayhaqī 2 (p. 7861/19959) | Qatāda ← Anas | Le Prophète avec palmes, Abū Bakr 40, 'Umar monte à 80 |
+## Étude de cas : la flagellation du buveur de vin
 
-### L'analyse
+Quatre versions d'un même hadith passant par Qatāda ← Anas produisent des récits **contradictoires** sur l'instrument, le nombre de coups et les acteurs. Quatre élèves directs de Qatāda (Shuʿba, Hishām, Ibn Abī ʿArūba, Hammām) donnent des versions incompatibles. L'intermédiaire Shabbāba ibn Sawwār, confirmé comme très fiable par Yaḥyā ibn Maʿīn, **ajoute al-Ḥasan al-Baṣrī** entre Qatāda et Anas dans l'isnād — un maillon que tous les autres transmetteurs omettent. C'est le tadlīs décrit par al-Ḥākim en acte.
 
-Le même transmetteur (Qatāda), citant la même source (Anas), produit des versions incompatibles : les instruments changent (palmes seules / palmes + sandales / sandales seules), le nombre de coups varie (40 / 80 / non précisé), les acteurs diffèrent. C'est le signe d'un **qaṣṣ oral** reconstruit différemment à chaque séance, et non d'une tradition mémorisée avec précision.
-
-### L'intermédiaire : Shabbāba ibn Sawwār
-
-Al-Kāmil d'Ibn 'Adī (shamela.ws/book/12579/2194-2195) : **Shabbāba ibn Sawwār** est confirmé comme « très fiable » (ثقة ثقة) par Yaḥyā ibn Ma'īn. L'instabilité ne vient donc pas de l'intermédiaire mais bien de **Qatāda lui-même**.
+Pour l'analyse complète des versions, la ziyāda d'al-Ḥasan, et ce que la divergence des fuqahāʾ révèle sur la datation du hadith, voir **[[Traditions/Jald shārib al-khamr]]**.
 
 ## La question des sources réelles
 
@@ -147,3 +142,7 @@ Ka'b al-Ahbar (« les Livres »)
 ## Synthèse
 
 Qatāda est le **point de conversion** où le qaṣṣ oral (genre libre, mêlant sources scripturaires, coraniques et inventées) se transforme en hadith formel (genre codifié, avec isnād). Son prestige d'exégète aveugle à la mémoire prodigieuse a masqué ce processus. Le résultat : des traditions de [[Ka'b al-Ahbar]] circulant dans les recueils canoniques sous couvert de chaînes « Qatāda ← Anas ← le Prophète » — alors que la source réelle est un flux oral de qaṣaṣ basrien nourri d'isrā'īliyyāt.
+
+## Voir aussi
+
+- [[Concepts/ʿAmal al-Sulṭān]] — Qatāda comme savant patronné par le pouvoir, meurt chez le gouverneur

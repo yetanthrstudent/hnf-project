@@ -37,6 +37,9 @@ sources_cles:
   - {ref: "shamela.ws/book/11766/60", desc: "Tārīkh Wāsiṭ — p. 64, nabīdh de Shuʿba"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Anas ibn Mālik
 
 **Compagnon revendiquant la khidma (service) du Prophète pendant 9-10 ans**, devenu le **nœud central** de la transmission basrienne. Les trois transmetteurs basriens — [[Qatāda ibn Di'āma]] (tadlīs), [[Ḥumayd al-Ṭawīl]] (confusion), [[Thābit al-Bunānī]] — convergent tous vers lui. On lui attribue **2286 hadiths**, ce qui en fait le troisième Compagnon en volume de traditions après Abū Hurayra et ʿAbd Allāh ibn ʿUmar.
@@ -317,3 +320,7 @@ Les sources classiques documentent un **faisceau convergent** de problèmes :
 - **Al-Ḥajjāj** le traite de vagabond opportuniste
 
 Le résultat : 2286 hadiths attribués à un homme dont les contemporains doutent du samāʿ, dont le principal transmetteur (Qatāda) est un mudallis notoire, dont le second (Ḥumayd) avoue avoir masqué ses sources, et dont la reconnaissance politique est postérieure à 75H. Le consensus sunnite a tranché en sa faveur — mais les sources classiques qu'il invoque portent en elles les traces du doute.
+
+## Voir aussi
+
+- [[Concepts/ʿAmal al-Sulṭān]] — Anas comme Compagnon-gouverneur : incarnation du pouvoir ET transmetteur prolifique

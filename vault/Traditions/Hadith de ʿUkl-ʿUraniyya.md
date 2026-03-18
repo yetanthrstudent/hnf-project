@@ -14,6 +14,9 @@ sources:
   - {ref: "shamela.ws/book/3118/915", desc: "Mukhtaṣar Dimashq — même récit condensé"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Hadith de ʿUkl/ʿUraniyya (حديث العرنيين)
 
 Hadith massivement transmis via [[Anas ibn Mālik]] : des hommes apostasient, volent les chamelles de la ṣadaqa, tuent le berger. Le Prophète ordonne de leur couper les mains et les pieds, de leur crever les yeux au fer rouge et de les abandonner dans le désert sans eau.

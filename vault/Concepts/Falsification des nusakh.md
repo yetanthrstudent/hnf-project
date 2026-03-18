@@ -7,6 +7,9 @@ cas_documentes:
   - {probleme: "talqīn après cécité", victime: "'Abd al-Razzāq", methode: "on lui soufflait des hadiths qu'il acceptait sans vérifier"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Falsification des nusakh — quand les livres sont corrompus
 
 La critique du hadith repose sur l'hypothèse que les **livres** (nusakh, kutub) des transmetteurs sont intègres. Or deux cas majeurs documentent la **corruption directe des collections écrites** par des tiers — non pas des erreurs de copie, mais des **interpolations délibérées**.
@@ -33,6 +36,8 @@ La falsification est invisible pour le lecteur tardif : les noms insérés (Sāl
 Al-Layth est le **seul transmetteur** à avoir vérifié le samā' d'[[Abū al-Zubayr al-Makkī]] auprès de [[Jābir ibn 'Abd Allāh]] : « marque pour moi ce que tu as entendu ». Ce tri est la garantie unique du corpus Abū al-Zubayr → Jābir. Or les livres d'al-Layth — qui contiennent ce tri — ont été eux-mêmes **corrompus** par Khālid.
 
 ## Cas 2 : 'Abd al-Razzāq al-Ṣan'ānī — double corruption
+
+> Voir la page dédiée : [[Concepts/Muṣannaf de ʿAbd al-Razzāq]] — qui ajoute une **troisième couche** de corruption : le faussaire externe Muḥammad ibn ʿUkāsha al-Kirmānī.
 
 ### 2a. Le neveu de Ma'mar
 

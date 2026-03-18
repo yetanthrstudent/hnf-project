@@ -28,6 +28,9 @@ sources_cles:
   - {ref: "shamela.ws/book/12288/33", desc: "Istīʿāb — ʿUrwa critique Ibn ʿAbbās"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # ʿUrwa ibn al-Zubayr — entre savoir familial et pouvoir omeyyade
 
 Neveu de ʿĀʾisha, frère du calife rebelle ʿAbd Allāh ibn al-Zubayr, l'un des « sept fuqahāʾ de Médine ». La tradition le reconnaît unanimement comme thiqa et comme l'un des plus grands savants de sa génération. Il est aussi l'auteur des **plus anciennes correspondances conservées sur la vie du Prophète** — des lettres adressées au calife ʿAbd al-Malik et au gouverneur al-Walīd. Ces lettres sont presque toutes **mursal** (sans isnād remontant au Prophète) — la question est de savoir comment elles sont devenues, par l'intermédiaire d'al-Zuhrī et de Hishām, des hadiths formels intégrés dans les Ṣaḥīḥayn.
@@ -224,7 +227,7 @@ L'épisode, rapporté dans le Siyar d'al-Dhahabī, est important pour le portrai
 - **Rapporte de** ʿĀʾisha, Abū Hurayra, Ibn ʿAbbās, Usāma ibn Zayd, Marwān ibn al-Ḥakam
 - **Critique** Ibn ʿAbbās sur la source de sa chronologie mecquoise → [[Concepts/ʿAdālat al-Ṣaḥāba]]
 - **Contredit** [[Personnes/Anas ibn Mālik|Anas ibn Mālik]] sur les ʿumra
-- **Transmis par** al-Zuhrī (principal élève, fonctionnaire omeyyade), **[[Hishām ibn ʿUrwa]]** (fils)
+- **Transmis par** [[al-Zuhrī]] (principal élève, fonctionnaire omeyyade), **[[Hishām ibn ʿUrwa]]** (fils)
 - **Hishām transmis par** [[Personnes/Ḥammād ibn Zayd|Ḥammād ibn Zayd]], Mālik (phase médinoise seulement)
 - **Dans la chaîne de** [[Personnes/Sulaymān ibn Mūsā|Sulaymān ibn Mūsā]] (tafarrud sur le nikāḥ sans walī) → [[Concepts/Tafarrud]]
 

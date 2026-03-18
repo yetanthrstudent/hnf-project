@@ -27,6 +27,9 @@ sources_cles:
   - {ref: "shamela.ws/book/71/28838", desc: "Mort dans la campagne de Muḥammad ibn Marwān"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Nawf al-Bikālī
 
 Beau-fils de [[Ka'b al-Ahbar]] (ابن امرأة كعب — mentionné 5 fois dans sa notice). [[Concepts/Quṣṣāṣ|Qāṣṣ]] à [[Homs]], imam à [[Damas]], mort au combat au service des Omeyyades.

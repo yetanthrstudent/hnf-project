@@ -13,6 +13,9 @@ sources_cles:
   - {ref: "shamela.ws/book/23118/23", desc: "Nuskhat Wakīʿ — hadith n° 21 : shakk dans sa chaîne"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # Dhakwān Abū Ṣāliḥ al-Sammān — le pivot silencieux
 
 **Thiqa unanime**, jamais contesté, jamais questionné. Et pourtant : c'est par lui que passe la chaîne la plus fréquente des Ṣaḥīḥayn vers [[Abū Hurayra]], c'est chez lui que converge le matériel de [[Ka'b al-Ahbar|Kaʿb al-Aḥbār]], et c'est dans sa transmission que se cache le problème de la **ṣaḥīfa**.

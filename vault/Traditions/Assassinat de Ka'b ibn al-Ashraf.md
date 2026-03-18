@@ -5,6 +5,8 @@ chaine: "Sufyān ibn ʿUyayna → ʿAmr ibn Dīnār → Jābir"
 problemes: [inqiṭāʿ, confusion de Jābir, narrateur omniscient]
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
 # L'assassinat de Ka'b ibn al-Ashraf
 
 ## Le texte — version longue (Bukhārī n° 4037)
@@ -352,13 +354,17 @@ Le paradoxe est total : Ibn Taymiyya réduit **tout** au sabb verbal — et par 
 
 Al-Bayhaqī est néanmoins cohérent dans son approche : c'est un défenseur systématique de la Sunna qui, une fois qu'il tient un texte à isnād solide, le conserve et le défend — comme il le fait ailleurs avec le [[Traditions/Hadith de ʿUkl|hadith de ʿUkl]]. Il **ne cache pas** la narration embarrassante, il la transmet fidèlement puis la neutralise par le commentaire. C'est précisément cette honnêteté de compilateur qui nous fournit la preuve la plus solide de la contestation.
 
-### Note méthodologique — al-Bukhārī et cette narration
+### Al-Bukhārī et cette narration
 
-**Al-Bukhārī n'a pas retenu cette tradition et on ne peut pas l'en accuser.** Son projet — le Ṣaḥīḥ — est un recueil de hadiths prophétiques répondant à ses critères (musnad, samāʿ confirmé, absence de shādhdh). La narration d'Ibn Yāmīn est un **khabar** historique (un événement post-prophétique entre Compagnons), pas un hadith marfūʿ au sens technique. Elle ne relevait pas du projet du Ṣaḥīḥ.
+Al-Bukhārī n'a pas retenu la narration d'Ibn Yāmīn. Pourquoi ? Nous ne le savons pas. Plusieurs hypothèses sont possibles :
 
-Ce qu'on constate n'est pas une dissimulation mais un **effet de sélection** : le seul musnad disponible (Sufyān → ʿAmr → Jābir) entre dans le Ṣaḥīḥ, tandis que la contestation — qui circule par le même Sufyān — appartient à un autre genre littéraire (akhbār, siyar) et se retrouve chez Ibn Wahb, puis chez al-Ṭaḥāwī (m. 321H), al-Bayhaqī (m. 458H) et Ibn ʿAsākir (m. 571H) — trois muḥaddithūn de premier rang qui l'ont conservée avec isnād complet.
+1. **Argument du genre** : la narration est un khabar historique (événement post-prophétique entre Compagnons), pas un hadith marfūʿ — elle ne relèverait pas du projet du Ṣaḥīḥ. Mais cet argument a une limite : al-Bukhārī inclut d'autres matériaux non prophétiques, comme le récit de [[Personnes/ʿAmr ibn Maymūn al-Awdī]] (n° 3849, [p. 5824](https://shamela.ws/book/1681/5824)) — l'observation personnelle d'un tābiʿī sur des singes qui lapident une guenon adultère, placée dans un chapitre normatif pour renforcer la thèse du rajm. Le Ṣaḥīḥ n'est donc pas strictement limité aux marfūʿāt.
 
-La solidité de la chaîne ne dépend pas de la validation d'al-Bukhārī. **ʿUmar ibn Saʿīd al-Thawrī** est déclaré **ثقة** (fiable) par Ibn Ḥajar (Taqrīb n° 4906), al-Nasāʾī, Abū Ḥātim, al-ʿIjlī, al-Dāraquṭnī et Ibn Ḥibbān — unanimité totale, aucun jarḥ. Il est dans **Ṣaḥīḥ Muslim** (م), Abū Dāwūd (د) et al-Nasāʾī (س). Son père **Saʿīd ibn Masrūq** est thiqa par consensus. La chaîne est **ṣaḥīḥ** par les critères mêmes du jarḥ wa taʿdīl, indépendamment du fait qu'al-Bukhārī ne l'ait pas intégrée dans son recueil.
+2. **Argument de la chaîne** : al-Bukhārī a peut-être eu une réserve technique sur un lien de la chaîne (Sufyān ← ʿUmar ibn Saʿīd ← Saʿīd ibn Masrūq ← ʿAbāya) que nous ignorons — un samāʿ non confirmé, une connexion qu'il jugeait insuffisante. Chaque maillon est thiqa individuellement (ʿUmar ibn Saʿīd : ثقة par unanimité — Taqrīb n° 4906 ; Saʿīd ibn Masrūq : thiqa par consensus ; ʿAbāya : thiqa), mais cela ne signifie pas que Bukhārī validait cette combinaison.
+
+3. **Choix de contenu** : al-Bukhārī a retenu le récit qui fonde une règle juridique et écarté la contestation. Mais on ne peut pas l'affirmer sans preuve — ce serait un procès d'intention.
+
+**En résumé, nous ne prétendons pas savoir pourquoi al-Bukhārī n'a pas retenu cette narration.** Ce que nous constatons, c'est que la chaîne est jugée solide par les critères généraux du jarḥ wa taʿdīl, et que trois muḥaddithūn de premier rang — al-Ṭaḥāwī (m. 321H), al-Bayhaqī (m. 458H) et Ibn ʿAsākir (m. 571H) — l'ont conservée avec isnād complet. La non-sélection par al-Bukhārī n'est pas un verdict d'inauthenticité.
 
 ## Relations
 

@@ -25,7 +25,12 @@ sources_cles:
   - {ref: "shamela.ws/book/12579/2099", desc: "al-Kāmil (Ibn ʿAdī) — notice et défense"}
   - {ref: "shamela.ws/narrator/2690", desc: "Shamela — page agrégée du narrateur"}
   - {ref: "sunnah.com/muslim:2565a", desc: "Muslim 2565a — tuʿraḍ al-aʿmāl (marfūʿ, Suhayl seul)"}
+  - {ref: "shamela.ws/book/1350/3002", desc: "ʿIlal Ibn Abī Ḥātim Q.2022 — Abū Zurʿa : هذا خطأ، إنما هو عن السلولي عن كعب"}
+  - {ref: "shamela.ws/book/9082/2624", desc: "ʿIlal al-Dāraquṭnī Q.1507 — Suhayl transmet de ʿAbd Allāh ibn Dīnār"}
 ---
+
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
 
 # Suhayl ibn Abī Ṣāliḥ — le fils, la ṣaḥīfa, et la mémoire
 
@@ -168,46 +173,86 @@ Cette transparence (tamyīz) est un argument fort en faveur de son intégrité :
 ## Les deux canaux d'Abū Ṣāliḥ
 
 ```
-              ABŪ HURAYRA (+ matériel de Ka'b al-Aḥbār)
-                         │
-              DHAKWĀN ABŪ ṢĀLIḤ AL-SAMMĀN
-              (ṣaḥīfa + audition — indistingués)
-                    │                │
-                    │                │
-            SUHAYL (fils)      AL-AʿMASH (élève)
-            (Médine)           (Kūfa)
-                │                    │
-         ┌──────┤              ┌─────┤
-    [ṣaḥīfa    [samāʿ ?]   [kataba  [tadlīs
-    héritée]                 1000 h.]  reconnu]
-         │                       │
-    ikhtilāṭ                concession
-    (mémoire)               d'al-Dhahabī
-         │                       │
-    ┌────┴────┐            ┌─────┴─────┐
-    │         │            │           │
-  Mālik    Wuhayb      Shuʿba     Wakīʿ
- (avant    (nuskha     (~500 h.)  (Nuskhat
-  ikhtilāṭ) envoyée)              Wakīʿ)
-    │         │            │           │
-    └────┬────┘            └─────┬─────┘
-         │                       │
-   Ṣaḥīḥ Muslim           Ṣaḥīḥayn (les deux)
-   (shawāhid surtout)
-   + Bukhārī (maqrūnan)
+   ABŪ HURAYRA              KAʿB AL-AḤBĀR
+    (hadiths)              (isrāʾīliyyāt)
+         │                        │
+         │               ʿABD ALLĀH IBN ḌAMRA
+         │                  al-Salūlī (thiqa ?)
+         │                        │
+         └────────┬───────────────┘
+                  │
+       DHAKWĀN ABŪ ṢĀLIḤ AL-SAMMĀN
+       (ṣaḥīfa : les deux sources mêlées)
+              │                │
+              │                │
+      SUHAYL (fils)      AL-AʿMASH (élève)
+      (Médine)           (Kūfa)
+          │                    │
+     ┌────┤              ┌─────┤
+[ṣaḥīfa  [samāʿ ?]  [kataba  [tadlīs
+ héritée]             1000 h.]  reconnu]
+     │                       │
+ ikhtilāṭ              concession
+ (mémoire)             d'al-Dhahabī
+     │                       │
+ ┌───┴───┐             ┌─────┴─────┐
+ │       │             │           │
+Mālik  Wuhayb       Shuʿba     Wakīʿ
+(avant  (nuskha     (~500 h.)  (Nuskhat
+ikhtilāṭ) envoyée)              Wakīʿ)
+ │       │             │           │
+ └───┬───┘             └─────┬─────┘
+     │                       │
+Ṣaḥīḥ Muslim          Ṣaḥīḥayn (les deux)
+(shawāhid surtout)
++ Bukhārī (maqrūnan)
 ```
 
-Le matériel d'Abū Ṣāliḥ transite par deux canaux indépendants avec des problèmes **complémentaires** :
-- **Suhayl** : la ṣaḥīfa héritée + l'ikhtilāṭ → risque de confusion samāʿ/wijāda
+Le diagramme montre les **deux entrées** dans la ṣaḥīfa d'Abū Ṣāliḥ : d'un côté Abū Hurayra (hadiths prophétiques), de l'autre [[Personnes/ʿAbd Allāh ibn Ḍamra al-Salūlī|ʿAbd Allāh ibn Ḍamra al-Salūlī]] (isrāʾīliyyāt de Kaʿb). Abū Zurʿa (Q.2022) prouve que les deux sources se mêlent dans la ṣaḥīfa.
+
+Le matériel transite ensuite par deux canaux indépendants avec des problèmes **complémentaires** :
+- **Suhayl** : la ṣaḥīfa héritée + l'ikhtilāṭ → risque de confusion samāʿ/wijāda, et confusion Ka'b/Prophète
 - **Al-Aʿmash** : les 1 000 hadiths « écrits » + le tadlīs → risque de confusion audition/copie
 
-Les deux canaux posent la même question sous des formes différentes : **d'où vient exactement ce matériel** — de l'audition d'Abū Hurayra, ou d'un manuscrit qui mêle Abū Hurayra et [[Ka'b al-Ahbar|Kaʿb al-Aḥbār]] ?
+Les deux canaux posent la même question sous des formes différentes : **d'où vient exactement ce matériel** — de l'audition d'Abū Hurayra, ou d'un manuscrit qui mêle Abū Hurayra et [[Ka'b al-Ahbar|Kaʿb al-Aḥbār]] ? La réponse d'Abū Zurʿa (section suivante) est sans ambiguïté : une partie du matériel est de Kaʿb, transitant par al-Salūlī — et l'attribution à Abū Hurayra est une **erreur** (خطأ).
+
+## La réponse d'Abū Zurʿa — al-Salūlī et Kaʿb
+
+Les livres de ʿilal répondent directement à cette question. Quand Abū Zurʿa examine la chaîne Suhayl → Abū Ṣāliḥ → Abū Hurayra, il corrige — à au moins deux reprises — : la source n'est pas Abū Hurayra, et le hadith n'est pas prophétique.
+
+**ʿIlal Ibn Abī Ḥātim**, Q.2022 ([p. 3002](https://shamela.ws/book/1350/3002)) :
+
+> سألتُ أبا زرعة عن حديث رواه عبد الرحمن بن أبي الرجال، عن سهيل بن أبي صالح، عن أبيه، عن أبي هريرة ... قال أبو زرعة: **هذا خطأ؛ إنما هو: سهيل، عن أبيه، عن السلولي، عن كعب؛ قوله.**
+>
+> « J'ai interrogé Abū Zurʿa [...]. Abū Zurʿa dit : **C'est une erreur. La [chaîne] correcte est : Suhayl, de son père, d'al-Salūlī, de Kaʿb — sa parole à lui.** »
+
+**Suʾālāt al-Bardhaʿī**, Q.453 ([p. 449](https://shamela.ws/book/812/449)) — même correction :
+
+> **وإنما هو عن سهيل، عن أبيه، عن السلولي، عن كعب.**
+
+**Al-Salūlī** est **ʿAbd Allāh ibn Ḍamra al-Salūlī** — tābiʿī de la 3ᵉ ṭabaqa, thiqa (al-ʿIjlī), transmetteur de **[[Ka'b al-Ahbar|Kaʿb al-Aḥbār]]** et d'Abū Hurayra (Tahdhīb al-Kamāl n° 3345). Et les rijāl confirment le lien : **Abū Ṣāliḥ al-Sammān transmet de ʿAbd Allāh ibn Ḍamra** (Tahdhīb al-Kamāl, [p. 7614](https://shamela.ws/book/3722/7614)).
+
+Al-Dāraquṭnī confirme le même pattern. **ʿIlal Q.1979** ([p. 3490](https://shamela.ws/book/9082/3490)), sur le hadith du takbīr au Ḥajj :
+
+> **وخالفه سليمان بن بلال، رواه، عن سهيل، عن أبيه، عن مرداس، عن كعب، وهو الصحيح.**
+>
+> « Sulaymān ibn Bilāl l'a contredit [...] **de Mirdās, de Kaʿb — et c'est le ṣaḥīḥ.** »
+
+Le schéma est récurrent : derrière « Abū Ṣāliḥ → Abū Hurayra → le Prophète ﷺ (marfūʿ) » se cache « Abū Ṣāliḥ → **al-Salūlī → Kaʿb** (mawqūf) ». Le matériel est des **isrāʾīliyyāt** élevées au rang de hadith prophétique.
+
+### Suhayl transmet aussi de ʿAbd Allāh ibn Dīnār
+
+Le lien avec le réseau d'Ibn ʿUmar est direct. Al-Dāraquṭnī, **ʿIlal Q.1507** ([pp. 2624-2626](https://shamela.ws/book/9082/2624)), pour le hadith « al-Īmān bidʿ wa-sabʿūn shuʿba » :
+
+> **والصحيح قول من قال: عن سهيل، عن عبد الله بن دينار، عن أبي صالح، عن أبي هريرة**
+
+Suhayl transmet d'**[[Personnes/ʿAbd Allāh ibn Dīnār]]** — le même ʿAbd Allāh ibn Dīnār dont la chaîne canonique mène à Ibn ʿUmar. Les deux réseaux (Ibn ʿUmar et Abū Hurayra) ne sont pas parallèles : ils partagent un nœud commun. Voir la fiche [[Personnes/ʿAbd Allāh ibn Dīnār]] pour l'analyse complète du circuit.
 
 ## Relations
 
 - **Fils de** [[Dhakwān Abū Ṣāliḥ al-Sammān]] — héritier de la ṣaḥīfa
 - **Frère de** ʿAbbād ibn Abī Ṣāliḥ (dont la mort provoque l'ikhtilāṭ)
-- **Transmet de** son père (principal), Saʿīd ibn al-Musayyab, ʿAṭāʾ ibn Yazīd al-Laythī, ʿAbd Allāh ibn Dīnār, al-Zuhrī, Rabīʿa al-Raʾy — et aussi **[[Personnes/Al-Aʿmash|al-Aʿmash]]** (de son propre père, via intermédiaire)
+- **Transmet de** son père (principal), **[[Personnes/ʿAbd Allāh ibn Dīnār]]** (Q.1507 — nœud partagé entre les réseaux Ibn ʿUmar et Abū Hurayra), Saʿīd ibn al-Musayyab, ʿAṭāʾ ibn Yazīd al-Laythī, al-Zuhrī, Rabīʿa al-Raʾy — et aussi **[[Personnes/Al-Aʿmash|al-Aʿmash]]** (de son propre père, via intermédiaire)
 - **Transmis par** Mālik ibn Anas (avant ikhtilāṭ), Sufyān al-Thawrī, Sufyān ibn ʿUyayna, Shuʿba, Wuhayb ibn Khālid (reçoit la nuskha), Ḥammād ibn Salama, Ḥammād ibn Zayd, Jarīr, Ibn Jurayj, ʿAbd al-ʿAzīz al-Dārawardī
 - **Évité par** al-Bukhārī (maqrūnan et taʿlīqan seulement)
 - **Utilisé par** Muslim (surtout dans les shawāhid, parfois dans les uṣūl)
@@ -221,11 +266,18 @@ Les deux canaux posent la même question sous des formes différentes : **d'où 
 - [[Personnes/Abū Hurayra]] — source ultime de la chaîne
 - [[Personnes/Ka'b al-Ahbar]] — le matériel qui circule dans les deux sens
 - [[Personnes/Makhrama ibn Bukayr]] — cas parallèle de transmission par ṣaḥīfa héritée
+- [[Personnes/ʿAbd Allāh ibn Dīnār]] — nœud partagé entre les deux réseaux (Q.1507) ; la chaîne dorée et le mursal caché
 
 ## Synthèse
 
 Suhayl ibn Abī Ṣāliḥ est un cas d'école en sciences du hadith. Les critiques classiques sont sincèrement divisés — Sufyān ibn ʿUyayna le loue, Yaḥyā ibn Maʿīn hésite, Abū Ḥātim refuse de l'utiliser comme preuve. Ibn ʿAdī souligne sa transparence sur les intermédiaires — un homme qui distingue ses sources ne cherche pas à tromper. Al-Dāraquṭnī ne comprend pas pourquoi Bukhārī l'évite.
 
-Mais le faisceau documenté reste : une ṣaḥīfa héritée dont on ne sait pas ce qui est samāʿ et ce qui est wijāda ; un ikhtilāṭ qui brouille la mémoire ; et un pattern observable — quand cinq transmetteurs d'un même maître rapportent un hadith, quatre le maintiennent mawqūf et le cinquième l'élève au Prophète, et ce cinquième est Suhayl. Le parallèle avec [[Personnes/Makhrama ibn Bukayr|Makhrama ibn Bukayr]] (qui transmet aussi d'une ṣaḥīfa héritée sans samāʿ, et dont le matériel finit dans le Muwaṭṭaʾ) montre que le mécanisme n'est pas isolé.
+Mais le faisceau documenté va au-delà de la question de la probité de Suhayl. Trois faits convergent :
 
-La question n'est pas la probité de Suhayl — elle est documentée. La question est celle du **support** : quand le canal est un manuscrit hérité plutôt qu'une audition, et que la mémoire du transmetteur s'altère, la frontière entre ce qui est prophétique et ce qui ne l'est pas devient poreuse. Et c'est précisément dans cette porosité que du matériel de [[Ka'b al-Ahbar|Kaʿb al-Aḥbār]] a pu être élevé au rang de hadith.
+1. **La ṣaḥīfa mêle deux sources** — Abū Ṣāliḥ transmet d'Abū Hurayra (hadiths) et de [[Personnes/ʿAbd Allāh ibn Ḍamra al-Salūlī|ʿAbd Allāh ibn Ḍamra al-Salūlī]] (isrāʾīliyyāt de Kaʿb). Abū Zurʿa le prouve deux fois : Q.2022 (هذا خطأ — la chaîne correcte est al-Salūlī → Kaʿb, pas Abū Hurayra → le Prophète) et Q.453 (même correction). Al-Dāraquṭnī confirme (Q.1979 : Mirdās → Kaʿb, وهو الصحيح). Ce n'est pas une hypothèse — c'est le verdict explicite des plus grands critiques de ʿilal.
+
+2. **L'ikhtilāṭ efface les attributions** — Après la mort de son frère et sa maladie, Suhayl ne distingue plus ce qu'il a entendu de ce qu'il a lu, ni ce qui vient d'Abū Hurayra de ce qui vient d'al-Salūlī. Le pattern observable le confirme : quand cinq transmetteurs d'Abū Ṣāliḥ rapportent un même hadith, quatre le maintiennent mawqūf et le cinquième l'élève au Prophète — et ce cinquième est Suhayl (tuʿraḍ al-aʿmāl, ʿIlal n° 1884).
+
+3. **Le nœud partagé** — Suhayl transmet aussi de [[Personnes/ʿAbd Allāh ibn Dīnār]] (Q.1507), le pivot du réseau médinois d'Ibn ʿUmar. Derrière celui-ci se cache al-Ḥasan al-Baṣrī en mursal (Q.3086 : والمرسل أشبه). Les deux réseaux — celui d'Ibn ʿUmar et celui d'Abū Hurayra — convergent vers des sources non prophétiques (al-Ḥasan mursal, Kaʿb mawqūf) que le système a élevées au marfūʿ.
+
+Le parallèle avec [[Personnes/Makhrama ibn Bukayr|Makhrama ibn Bukayr]] (qui transmet aussi d'une ṣaḥīfa héritée sans samāʿ, et dont le matériel finit dans le Muwaṭṭaʾ) montre que le mécanisme n'est pas isolé. Mais le cas de Suhayl est le plus documenté : les critiques classiques **eux-mêmes** identifient nommément la source cachée ([[Ka'b al-Ahbar|Kaʿb al-Aḥbār]]), le maillon effacé ([[Personnes/ʿAbd Allāh ibn Ḍamra al-Salūlī|al-Salūlī]]), et le diagnostic (خطأ). Le système documente sa propre faille sans la solder.

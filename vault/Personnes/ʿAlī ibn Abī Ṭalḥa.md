@@ -11,6 +11,9 @@ sources_cles:
   - {ref: "shamela.ws/book/1451/1330", desc: "al-Jarḥ wa-l-Taʿdīl (Ibn Abī Ḥātim), vol. 6 p. 188"}
 ---
 
+<small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
+
+
 # ʿAlī ibn Abī Ṭalḥa
 
 Un transmetteur ḥimṣī dont le **vrai nom** est **Sālim ibn al-Mukhāriq** — « ʿAlī ibn Abī Ṭalḥa » est un nom de substitution. **Mawlā** des Banū Hāshim, plus précisément de **al-ʿAbbās ibn ʿAbd al-Muṭṭalib** — un client de la famille ʿabbāside.
