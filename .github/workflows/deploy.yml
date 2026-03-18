@@ -32,11 +32,6 @@ jobs:
           path: vault-source
           fetch-depth: 0
 
-      - name: Copier le vault dans content/
-        run: |
-          rm -rf content
-          cp -r vault-source/vault content
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -45,8 +40,33 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build Quartz
+      # --- Build FR (site principal) ---
+      - name: Copier le vault FR dans content/
+        run: |
+          rm -rf content
+          cp -r vault-source/vault content
+
+      - name: Build Quartz FR
         run: npx quartz build
+
+      # --- Build EN (sous-dossier /en/) ---
+      - name: Copier le vault EN dans content/
+        run: |
+          rm -rf content
+          cp -r vault-source/vault-en content
+
+      - name: Swap config pour EN
+        run: |
+          mv quartz.config.ts quartz.config.fr.ts
+          mv quartz.config.en.ts quartz.config.ts
+
+      - name: Build Quartz EN
+        run: npx quartz build -o public/en
+
+      - name: Restaurer config FR
+        run: |
+          mv quartz.config.ts quartz.config.en.ts
+          mv quartz.config.fr.ts quartz.config.ts
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
