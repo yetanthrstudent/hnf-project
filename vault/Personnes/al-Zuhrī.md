@@ -17,6 +17,11 @@ sources_cles:
   - {ref: "shamela.ws/book/711/5956", desc: "Ṣaḥīḥ Muslim 1932 — aveu sur les carnassiers"}
   - {ref: "shamela.ws/book/25864/75", desc: "Jāmiʿ al-Taḥṣīl — verdicts d'al-Qaṭṭān sur les mursals"}
   - {ref: "shamela.ws/book/10906/4111", desc: "Siyar — al-Dhahabī : mursals = muʿḍal"}
+  - {ref: "shamela.ws/book/71/18507", desc: "Tārīkh Dimashq — al-Walīd I ajoute 4 hadiths au dīwān d'al-Zuhrī"}
+  - {ref: "shamela.ws/book/8493/425", desc: "Musnad al-Ḥumaydī — Mecquois transmettent d'un cahier, pas d'audition"}
+  - {ref: "shamela.ws/book/5610/571", desc: "Jāmiʿ Maʿmar — hadith Walīd-Pharaon, mursal fabriqué"}
+  - {ref: "shamela.ws/book/22367/362", desc: "Jāmiʿ Bayān al-ʿIlm — les livres d'al-Zuhrī ne contiennent que de la poésie"}
+  - {ref: "shamela.ws/book/22367/363", desc: "Jāmiʿ Bayān al-ʿIlm — Hishām installe deux scribes pendant un an"}
 ---
 
 <small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
@@ -179,21 +184,125 @@ Al-Zuhrī corrige al-Walīd ibn ʿAbd al-Malik **en face** quand le calife prét
 
 > « Que Dieu réforme l'émir, **ce n'est pas ainsi**. »
 
-Il cite ʿUrwa d'après ʿĀʾisha : le verset vise ʿAbd Allāh ibn Ubayy, pas ʿAlī.
+Il cite ʿUrwa d'après ʿĀʾisha : le verset vise ʿAbd Allāh ibn Ubayy, pas ʿAlī. Il ira plus loin — jusqu'à forger un hadith contre al-Walīd II (voir la section *Le formalisateur qui fabrique* ci-dessous).
 
-Plus grave : al-Zuhrī transmet le hadith (via Saʿīd ibn al-Musayyab ← ʿUmar) sur un homme de Banū Umayya nommé al-Walīd (Musnad Aḥmad) :
+### Le regard des contemporains
 
-> « أشد على هذه الأمة من فرعون على قومه »
+Les savants qui l'ont côtoyé ne sont pas dupes de cette ambivalence.
 
-> « Plus dur envers cette communauté que **Pharaon** envers son peuple. »
+**[[Personnes/Makhūl al-Shāmī|Makhūl]]** — Tārīkh Dimashq 55/368. Makhūl n'est pas un outsider : c'est le **savant de Syrie** dans la formule des quatre (al-Zuhrī pour le Ḥijāz, [[Personnes/al-Ḥasan al-Baṣrī|al-Ḥasan]] pour Basra, Makhūl pour le Shām, [[Personnes/Maymūn ibn Mahrān|Maymūn]] pour la Jazīra). Il vit à Damas, il fréquente les mêmes cercles de pouvoir. Quand c'est lui qui parle, ce n'est ni du rigorisme ni de la jalousie — c'est un constat de l'intérieur :
 
-Il meurt en 124H — un an avant l'accession d'al-Walīd ibn Yazīd (125H), le calife libertin tué en 126H.
+> أَيُّ رَجُلٍ هُوَ لَوْلَا أَنَّهُ أَفْسَدَ نَفْسَهُ بِصُحْبَةِ الْمُلُوكِ
 
-### Ce qu'il perd
+> « **Quel homme ce serait** — s'il n'avait pas gâché sa propre personne en fréquentant les rois. »
 
-Le problème structurel n'est pas la soumission d'al-Zuhrī, c'est la **perte de contrôle** de son matériel. Une fois écrit pour les fils du calife, le hadith entre dans le **dīwān** — la machinerie administrative omeyyade. Al-Zuhrī ne contrôle plus la circulation, la copie, ni l'usage de ce qu'il a produit. La codification du hadith naît d'une contrainte politique, et le matériel échappe immédiatement à celui qui l'a produit.
+**ʿAmr ibn ʿUbayd** — Tārīkh Dimashq 55/370 — l'appelle **منديل الأمراء** — « la **serviette** des émirs ».
+
+**Khārija ibn Muṣʿab** — Mīzān al-Iʿtidāl 1/625 :
+
+> قَدِمْتُ عَلَى الزُّهْرِيِّ وَهُوَ صَاحِبُ شُرَطِ بَنِي أُمَيَّةَ، فَرَأَيْتُهُ رَكِبَ وَفِي يَدَيْهِ حَرْبَةٌ
+
+> « Je suis arrivé chez al-Zuhrī alors qu'il était le **chef de la police des Banū Umayya**. Je l'ai vu monté, une **lance** à la main. »
+
+Khārija refuse désormais de transmettre de lui. L'ambivalence individuelle d'al-Zuhrī — entre résistance ponctuelle et intégration profonde — est un trait biographique. Mais le problème structurel est ailleurs : la **perte de contrôle** de son matériel.
 
 Pour l'analyse systémique : [[Concepts/ʿAmal al-Sulṭān]]
+
+---
+
+## Le dīwān — la chaîne matérielle
+
+Une fois écrit pour les fils du calife, le hadith entre dans le **dīwān** — la machinerie administrative omeyyade. Al-Zuhrī ne contrôle plus la circulation, la copie, ni l'usage de ce qu'il a produit. Ce n'est pas une hypothèse — chaque étape est documentée dans les sources primaires.
+
+### La commande de ʿUmar II — le point de départ
+
+La collecte officielle du hadith est un acte administratif, pas un élan pieux. Jāmiʿ Bayān al-ʿIlm ḥ. 438 :
+
+> أَمَرَنَا عُمَرُ بْنُ عَبْدِ الْعَزِيزِ بِجَمْعِ السُّنَنِ فَكَتَبْنَاهَا دَفْتَرًا دَفْتَرًا، فَبَعَثَ إِلَى كُلِّ أَرْضٍ لَهُ عَلَيْهَا سُلْطَانٌ دَفْتَرًا
+
+> « ʿUmar ibn ʿAbd al-ʿAzīz nous ordonna de compiler les sunans. Nous les avons écrites **cahier par cahier**, et il envoya à chaque province sous son autorité **un cahier**. »
+
+Le hadith naît dans le dīwān, est copié dans le dīwān, distribué par le dīwān. À partir de cet instant, le matériel d'al-Zuhrī est un **bien de l'État**.
+
+### Les scribes de Hishām — la copie systématique
+
+Jāmiʿ Bayān al-ʿIlm ([p. 363](https://shamela.ws/book/22367/363)) :
+
+> أَقَامَ هِشَامُ بْنُ عَبْدِ الْمَلِكِ كَاتِبَيْنِ يَكْتُبَانِ عَنِ الزُّهْرِيِّ، فَأَقَامَا سَنَةً يَكْتُبَانِ عَنْهُ
+
+> « Hishām installa **deux scribes** auprès d'al-Zuhrī, et ils restèrent **un an** à écrire de lui. »
+
+Pendant un an, deux fonctionnaires du palais copient systématiquement le matériel d'al-Zuhrī. Le produit entre dans les archives de l'État.
+
+### Les livres d'al-Zuhrī : que de la poésie
+
+Jāmiʿ Bayān al-ʿIlm ([p. 362](https://shamela.ws/book/22367/362)) :
+
+> قُلْتُ لِلزُّهْرِيِّ، أَخْرِجْ إِلَيَّ كُتُبَكَ: فَأَخْرَجَ إِلَيَّ كُتُبًا فِيهَا شِعْرٌ
+
+> Yūnus ibn Yazīd : « J'ai dit à al-Zuhrī : "Montre-moi tes livres." Il m'a sorti des livres — ils contenaient **de la poésie**. »
+
+Al-Zuhrī lui-même n'avait pas de livres de hadith personnels. Sa production est celle du dīwān d'État — une fois copiée par les scribes, il n'en gardait pas de copie.
+
+### Les dafātir post-mortem — sur des bêtes de somme
+
+Ṭabaqāt Ibn Saʿd 7/435, via Maʿmar :
+
+> كُنَّا نَرَى أَنَّا قَدْ أَكْثَرْنَا عَنِ الزُّهْرِيِّ حَتَّى قُتِلَ الْوَلِيدُ بْنُ يَزِيدَ فَإِذَا الدَّفَاتِرُ قَدْ حُمِلَتْ عَلَى الدَّوَابِّ مِنْ خِزَانَتِهِ يَعْنِي مِنْ عِلْمِ الزُّهْرِيِّ
+
+> Maʿmar : « Nous croyions avoir beaucoup pris d'al-Zuhrī — jusqu'à ce que soit tué al-Walīd ibn Yazīd. Alors les **cahiers furent acheminés sur des bêtes de somme** depuis son trésor — c'est-à-dire : le savoir d'al-Zuhrī. »
+
+Après l'assassinat de Walīd II (126H), les archives du palais sont dispersées. Les cahiers (دفاتر) du dīwān contenant les hadiths d'al-Zuhrī circulent librement — sans contrôle d'authenticité, sans audition, sans ijāza. Ce que Maʿmar croyait tenir directement d'al-Zuhrī n'était qu'une fraction du corpus réel.
+
+### La falsification d'al-Walīd I — 4 hadiths collés au dīwān
+
+Tārīkh Dimashq ([p. 18507](https://shamela.ws/book/71/18507)), via Muṣʿab al-Zubayrī :
+
+> قَالَ الْوَلِيدُ لِلزُّهْرِيِّ حَدِّثْنِي وَلَا تُحَدِّثِ النَّاسَ فَقَالَ لَا أُحَدِّثُكَ أَوْ أُحَدِّثُ النَّاسَ قَالَ حَدِّثْنِي وَحَدِّثِ النَّاسَ قَالَ فَحَدَّثَهُ بِأَحَادِيثَ ثُمَّ كَتَبَهَا وَأَخْرَجَهَا إِلَى النَّاسِ فَحَدَّثَهُمْ بِهَا فَاجْتَمَعَ النَّاسُ عَلَيْهِ وَكَثُرُوا فَقَالَ كُلُّكُمْ لَا يَقْدِرُ عَلَى أَنْ يَأْخُذَ هَذِهِ وَلَكِنْ خُذُوهَا مِنْ دِيوَانِ الْوَلِيدِ فَأَتَوْا دِيوَانَ الْوَلِيدِ فَأَخَذُوهَا مِنْهُ فَإِذْ قَدْ أَلْصَقَ إِلَيْهَا أَرْبَعَةَ أَحَادِيثَ زِيَادَةً لَمْ يُحَدِّثْهُ بِهَا
+
+> Al-Walīd dit à al-Zuhrī : « Transmets-moi [en privé], et ne transmets pas aux gens. » Al-Zuhrī refusa : « Ou je te transmets et je transmets aux gens, ou je ne transmets pas du tout. » Le calife céda. Al-Zuhrī transmit des hadiths, les fit écrire, et les diffusa publiquement. Devant la foule, il dit : « Vous ne pouvez pas tous copier — prenez-les du **dīwān d'al-Walīd**. » Les gens allèrent au dīwān. Et là, on découvrit qu'on y avait **collé quatre hadiths supplémentaires** qu'il n'avait **jamais** transmis.
+
+C'est un cas documenté d'[[Concepts/Al-Ziyāda fī al-kutub|al-ziyāda fī al-kutub]] — la falsification matérielle des recueils écrits — appliquée au dīwān d'État. Le texte même de la transmission est altéré entre la bouche d'al-Zuhrī et le document officiel. Le hadith aura désormais l'étiquette « al-Zuhrī » — mais quatre éléments n'ont jamais été prononcés par lui.
+
+### La validation aveugle
+
+Ṭabaqāt Ibn Saʿd 7/435 :
+
+> يُؤْتَى بِالْكِتَابِ مِنْ كُتُبِهِ فَيُقَالُ لَهُ: يَا أَبَا بَكْرٍ هَذَا كِتَابُكَ وَحَدِيثُكَ نَرْوِيهِ عَنْكَ؟ فَيَقُولُ: نَعَمْ. مَا قَرَأَهُ وَلَا قُرِئَ عَلَيْهِ
+
+> « On lui apportait un livre de ses [propres] écrits et on lui disait : "Abū Bakr, c'est ton livre et ton hadith, on le transmet de toi ?" Et il répondait : "Oui." **Sans l'avoir lu ni qu'on le lui ait lu.** »
+
+Ce n'est plus de la transmission — c'est de la validation à l'aveugle. Le système de munāwala (présentation du livre) est ici réduit à une signature automatique.
+
+### Les Mecquois et le cahier de Ḥumayd al-Aʿraj
+
+Musnad al-Ḥumaydī ([p. 425](https://shamela.ws/book/8493/425)), via Sufyān ibn ʿUyayna :
+
+> إِنَّ الْمَكِّيِّينَ إِنَّمَا أَخَذُوا كِتَابًا جَاءَ بِهِ حُمَيْدٌ الْأَعْرَجُ مِنَ الشَّامِ قَدْ كُتِبَ عَنِ الزُّهْرِيِّ فَوَقَعَ إِلَى ابْنِ حَرْحَرَةَ وَكَانَ الْمَكِّيُّونَ يَعْرِضُونَ ذَلِكَ الْكِتَابَ عَلَى ابْنِ شِهَابٍ فَأَمَّا نَحْنُ فَإِنَّمَا كُنَّا نَسْمَعُ مِنْ فِيهِ
+
+> Sufyān : « Les Mecquois n'ont fait que prendre un **livre** rapporté par Ḥumayd al-Aʿraj depuis la Syrie, écrit d'après al-Zuhrī. Le livre tomba chez Ibn Ḥarḥara, et les Mecquois le présentaient à Ibn Shihāb [pour approbation]. Quant à nous, nous entendions de **sa bouche**. »
+
+Sufyān distingue explicitement les deux modes : lui avait le samāʿ (audition directe) ; les Mecquois — dont [[Personnes/Ibn Jurayj|Ibn Jurayj]] — n'avaient qu'une **wijāda** déguisée en munāwala. Le cahier voyage de Syrie à La Mecque, passe de main en main, et quand al-Zuhrī le valide distraitement, il acquiert le statut de « transmis d'al-Zuhrī » — alors qu'il n'a jamais été auditionné par ses « élèves » mecquois.
+
+Al-Zuhrī est le producteur ; le pouvoir est l'éditeur, le diffuseur, et — dans le cas d'al-Walīd I — le falsificateur.
+
+---
+
+## Le formalisateur qui fabrique — le hadith Walīd-Pharaon
+
+Le dīwān corrompt le matériel d'al-Zuhrī de l'extérieur. Mais al-Zuhrī lui-même est capable de fabriquer quand le besoin politique l'exige.
+
+La version la plus explicite se trouve dans le Jāmiʿ de Maʿmar ([p. 571](https://shamela.ws/book/5610/571)) :
+
+> عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، قَالَ: أَرَادَ رَجُلٌ أَنْ يُسَمِّيَ ابْنًا لَهُ الْوَلِيدَ، فَنَهَاهُ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَقَالَ: إِنَّهُ سَيَكُونُ رَجُلٌ يُقَالُ لَهُ: الْوَلِيدُ يَعْمَلُ فِي أُمَّتِي كَمَا فَعَلَ فِرْعَوْنُ فِي قَوْمِهِ
+
+> Al-Zuhrī [directement, sans chaîne] : « Un homme voulut nommer son fils al-Walīd. Le Prophète l'en interdit et dit : "Il y aura un homme nommé al-Walīd qui agira dans ma communauté **comme Pharaon** avec son peuple." »
+
+C'est un **mursal** sans aucun intermédiaire entre al-Zuhrī et le Prophète — exactement le type de transmission que quatre critiques majeurs jugent « rien » ou « pire que rien » (voir *Les mursals* ci-dessus). Dans la version de Tārīkh Dimashq 63/322, un isnād complet apparaît (al-Walīd ibn Muslim ← al-Awzāʿī ← al-Zuhrī ← Saʿīd ibn al-Musayyab), avec une formulation renforcée : « أضر على أمتي من فرعون على قومه ».
+
+Le contexte est limpide : al-Walīd ibn Yazīd (al-Walīd II), le calife dont les « amours scandaleuses » dérangeaient al-Zuhrī, avait juré de le faire exécuter (Mukhtaṣar Tārīkh Dimashq 26/365 : **قَدْ كُنْتُ عَاهَدْتُ اللَّهَ لَئِنْ أَمْكَنَنِي الْقُدْرَةُ أَنْ أَقْتُلَ الزُّهْرِيَّ**). Al-Zuhrī meurt en 124H — un an avant l'intronisation d'al-Walīd II (125H), tué en 126H.
+
+Le hadith est une **prophétie post eventum** visant un ennemi personnel. Al-Zuhrī ne produit pas un isnād — il produit un **hadith**, un contenu qu'il met directement dans la bouche du Prophète sans intermédiaire. L'isnād complet (via Saʿīd ibn al-Musayyab) n'apparaît qu'après, chez d'autres transmetteurs. Le « père de l'isnād » ne fabrique pas de chaîne — il fabrique du texte. Et c'est le système qu'il a lui-même formalisé qui, après lui, fournira la chaîne manquante.
 
 ---
 
@@ -212,7 +321,7 @@ L'ironie : le « savant du Ḥijāz » est celui dont le matériel provient le p
 
 ## Les problèmes de transmission autour de lui
 
-| Problème | Description | Réf. vault |
+| Problème | Description | Réf. |
 |----------|-------------|-----------|
 | Majarra | Sufyān substitue al-Zuhrī→ʿUrwa à la chaîne correcte al-Zuhrī→Ḥumayd | [[Concepts/Ittibāʿ al-Majarra]] |
 | Wijāda | Sufyān trouve un hadith dans un livre et le transmet comme samāʿ | [[Concepts/Al-Ziyāda fī al-kutub]] |
@@ -221,6 +330,10 @@ L'ironie : le « savant du Ḥijāz » est celui dont le matériel provient le p
 | Attribution | Mālik attribue à al-Zuhrī ce qui vient de [[Personnes/Makhrama ibn Bukayr|Makhrama ibn Bukayr]] | [[Concepts/Al-Ziyāda fī al-kutub]] |
 | Mursals divergents | Ses élèves donnent le même récit avec des isnāds incompatibles (cas Ka'b) | [[Traditions/Assassinat de Ka'b ibn al-Ashraf]] |
 | Opacité terminologique | Ne distingue pas ḥaddathanā/akhbaranā — formules ambiguës | [[Concepts/Taḥammul al-ḥadīth]] |
+| Dīwān falsifié | Al-Walīd I colle 4 hadiths faux au dīwān officiel | Tārīkh Dimashq [p. 18507](https://shamela.ws/book/71/18507) |
+| Validation aveugle | Al-Zuhrī approuve des livres qu'il n'a ni lus ni entendus | Ṭabaqāt Ibn Saʿd 7/435 |
+| Wijāda mecquoise | Les Mecquois transmettent d'un cahier syrien, pas d'audition | Musnad al-Ḥumaydī [p. 425](https://shamela.ws/book/8493/425) |
+| Fabrication | Hadith Walīd-Pharaon : mursal forgé contre un ennemi politique | Jāmiʿ Maʿmar [p. 571](https://shamela.ws/book/5610/571) |
 
 ---
 
@@ -239,9 +352,19 @@ L'ironie : le « savant du Ḥijāz » est celui dont le matériel provient le p
               POUVOIR                           CRITIQUE
 
     ʿAbd al-Malik (patron)           al-Qaṭṭān : mursals = vent
-    al-Walīd (résiste en face)       al-Shāfiʿī : mursals = rien
-    Hishām (le contraint à écrire)   Ibn Maʿīn : mursals = rien
-    fils du calife (précepteur)      al-Dhahabī : mursals = muʿḍal
+    al-Walīd I (4 hadiths faux       al-Shāfiʿī : mursals = rien
+      ajoutés au dīwān)              Ibn Maʿīn : mursals = rien
+    Hishām (2 scribes, 1 an)         al-Dhahabī : mursals = muʿḍal
+    fils du calife (précepteur)      Makhūl : « gâché par les rois »
+    ʿUmar II (commande les dafātir)  ʿAmr ibn ʿUbayd : « serviette des émirs »
+
+              DĪWĀN (la chaîne matérielle)
+
+    Al-Zuhrī dicte → scribes de Hishām (1 an)
+        → dafātir dans le trésor du calife
+            → al-Walīd I colle 4 hadiths faux
+            → cahier voyage en Syrie → La Mecque (wijāda)
+            → post-mortem : dafātir sur bêtes de somme (126H)
 ```
 
 ---

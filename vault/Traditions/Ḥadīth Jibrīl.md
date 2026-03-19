@@ -76,6 +76,8 @@ C'est un **double tafarrud** :
 
 L'entonnoir ne s'ouvre (quatre transmetteurs) qu'au niveau de Kahmas et ses contemporains — c'est-à-dire au IIᵉ siècle.
 
+Note : **[[Personnes/Qatāda ibn Di'āma|Qatāda]]** transmet aussi d'Ibn Burayda, mais **al-Tirmidhī** déclare : « لا نعرف لقتادة سماعا من عبد الله بن بريدة » — on ne lui connaît pas d'audition. Le qāṣṣ basrien se greffe sur une chaîne qui circule dans son milieu sans l'avoir entendue directement — le même mécanisme de wijāda documenté pour ses autres sources.
+
 ### Ce qu'Ibn ʿUmar n'a dit à personne d'autre
 
 Ibn ʿUmar est l'un des Compagnons les plus prolifiques en transmission. Ses élèves célèbres sont nombreux — et **aucun** ne transmet ce hadith :

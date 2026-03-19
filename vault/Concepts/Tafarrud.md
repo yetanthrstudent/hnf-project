@@ -11,7 +11,7 @@ personnages: [Al-Awzā'ī, Sulaymān ibn Mūsā, Khālid ibn Ma'dān, Abū Idrī
 
 Quand un **seul transmetteur** rapporte un hadith d'un maître qui avait de **nombreux élèves**, c'est un signal d'alerte : si le maître avait réellement enseigné ce texte, d'autres l'auraient aussi transmis. Le problème s'aggrave quand le transmetteur isolé appartient à une **autre région** que le maître — il prétend avoir reçu un texte que personne sur place ne connaît.
 
-## Cas documentés dans le vault
+## Cas documentés
 
 | Transmetteur isolé | Maître revendiqué | Hadith | Schéma géographique | Source |
 |---|---|---|---|---|

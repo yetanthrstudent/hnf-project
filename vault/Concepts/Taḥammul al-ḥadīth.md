@@ -227,9 +227,9 @@ Formules propres : **وجدت بخط فلان** ou **قرأت بخط فلان** 
 
 — Ibn al-Ṣalāḥ ([p. 176](https://shamela.ws/book/22870/176))
 
-### Cas du vault : [[Personnes/Sufyān ibn ʿUyayna|Sufyān ibn ʿUyayna]] et la Makhzumiyya
+### Cas documenté : [[Personnes/Sufyān ibn ʿUyayna|Sufyān ibn ʿUyayna]] et la Makhzumiyya
 
-Le cas paradigmatique dans le vault. Sufyān va demander à al-Zuhrī le hadith de la Makhzumiyya — Zuhrī **lui crie dessus** et Sufyān se tait. ʿAlī ibn al-Madīnī le presse :
+Le cas paradigmatique. Sufyān va demander à al-Zuhrī le hadith de la Makhzumiyya — Zuhrī **lui crie dessus** et Sufyān se tait. ʿAlī ibn al-Madīnī le presse :
 
 > قلت لسفيان: فلم تحمله عن أحد؟ قال: **وجدته في كتاب**، قلت لسفيان: كتاب من؟ قال: **كان كتاب أيوب بن موسى**
 
@@ -242,6 +242,26 @@ Sufyān avoue une wijāda — la forme la plus faible de transmission. Le livre 
 ### Autre cas : Makhrama ibn Bukayr
 
 Makhrama ibn Bukayr ibn ʿAbd Allāh ibn al-Ashajj transmet les hadiths de son père depuis ses livres — sans jamais les avoir entendus de lui. C'est une wijāda systématique présentée comme samāʿ.
+
+### Le cas Qatāda — wijāda par un aveugle et le lecteur fantôme
+
+[[Personnes/Qatāda ibn Di'āma|Qatāda]] est **aveugle de naissance** — tout son savoir est officiellement oral. Pourtant il possède au moins deux corpus écrits : la **ṣaḥīfa de Jābir** (via Sulaymān al-Yashkurī, qu'il n'a jamais rencontré — Bukhārī le confirme) et les **ṣaḥīfas de Khilās ibn ʿAmr** (transmetteur de ʿAlī — Yaḥyā ibn Saʿīd refuse la chaîne, voir la fiche [[Personnes/Qatāda ibn Di'āma|Qatāda]]).
+
+Qatāda ne peut pas lire. Quelqu'un a dû lui lire ces manuscrits à voix haute. Ce lecteur est un **intermédiaire réel** dans la chaîne — mais il n'apparaît **jamais** dans les isnāds. Les sources le masquent par la forme passive :
+
+- Aḥmad : **قُرِئَتْ عَلَيْهِ** صحيفة جابر مرة واحدة فحفظها — « la ṣaḥīfa **lui fut lue** une seule fois et il la mémorisa »
+- Sulaymān al-Taymī : **ذَهَبُوا** بصحيفة جابر إلى قتادة — « **on** apporta la ṣaḥīfa à Qatāda »
+
+Le schéma réel de transmission est :
+
+```
+Ce que l'isnād dit :       Qatāda ← Khilās ← ʿAlī
+Ce qui s'est passé :       Qatāda ← [LECTEUR ?] ← [MANUSCRIT] ← Khilās ← ʿAlī
+```
+
+Le seul lecteur nommé dans l'entourage de Qatāda est **Saʿīd ibn Abī ʿArūba**, son transmetteur le plus prolifique, que Qatāda appelle pour lui tenir le muṣḥaf. Mais pour les ṣaḥīfas, aucun nom n'est jamais donné.
+
+C'est un angle mort du muṣṭalaḥ : les traités discutent longuement la hiérarchie samāʿ/ʿarḍ/ijāza/wijāda, mais ne posent jamais la question — quand un transmetteur aveugle reçoit un texte écrit, **qui est le lecteur, et pourquoi n'a-t-il aucun statut dans l'isnād ?** La cécité de Qatāda est connue, documentée, admise — mais ses conséquences épistémologiques pour la chaîne sont passées sous silence.
 
 ---
 
@@ -327,3 +347,4 @@ Le système connaît ses failles — il les documente, les nomme, les hiérarchi
 - **[[Personnes/Sufyān ibn ʿUyayna]]** — le cas paradigmatique de la wijāda (Makhzumiyya)
 - **[[Personnes/Ibn Jurayj]]** — tadlīs systématique derrière le ʿan
 - **[[Personnes/Al-Aʿmash]]** — autre mudallis notoire
+- **[[Personnes/Qatāda ibn Di'āma]]** — wijāda par un aveugle : le lecteur fantôme

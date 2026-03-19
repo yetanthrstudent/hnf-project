@@ -179,7 +179,7 @@ Déjà dans [[Concepts/ʿAdālat al-Ṣaḥāba]] — résumé ici. ʿUrwa ident
 
 Abū al-Ḥasan ibn al-Qaṭṭān : « ses transmissions aux Iraqiens sont faibles » (munkar).
 
-Ce schéma est récurrent dans le vault : les transmissions **régionales** sont fiables, les transmissions **exportées** vers l'Iraq sont suspectes — même pattern que pour Nāfiʿ (fiable au Ḥijāz, mais al-Awzāʿī est seul à rapporter de lui depuis le Shām → [[Concepts/Tafarrud]]).
+Ce schéma est récurrent : les transmissions **régionales** sont fiables, les transmissions **exportées** vers l'Iraq sont suspectes — même pattern que pour Nāfiʿ (fiable au Ḥijāz, mais al-Awzāʿī est seul à rapporter de lui depuis le Shām → [[Concepts/Tafarrud]]).
 
 ## Al-Zuhrī — l'élève qui formalise
 

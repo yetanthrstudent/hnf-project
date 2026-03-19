@@ -31,6 +31,7 @@ sources_cles:
   - {ref: "shamela.ws/book/10490/1037", desc: "Ma'rifat al-Ṣaḥāba — grand-père Asad ibn Kurz, Compagnon"}
   - {ref: "shamela.ws/book/22579/1975", desc: "Fākihī, Akhbār Makka — sermon Zamzam (isnād via al-Wāqidī)"}
   - {ref: "OpenITI/0362AbuFarajIsbahani.Aghani (vol. 22)", desc: "Kitāb al-Aghānī — takhannuth, mathālib, origines contestées"}
+  - {ref: "shamela.ws/book/8660/72", desc: "al-Muḥtasib 1/82 — Khālid consulte Qatāda sur les qirā'āt (fa-qtalū anfusakum)"}
 ---
 
 <small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
@@ -103,6 +104,18 @@ Khālid est entouré de **savants basriens** qui gravitent autour de son pouvoir
 Al-Dhahabī liste les transmetteurs de Khālid : « وعنه **حميد الطويل** وإسماعيل بن أبي خالد وسيار أبو الحكم » (Tārīkh al-Islām, [p. 2468](https://shamela.ws/book/22771/2468)). Ḥumayd est donc l'**homme du gouverneur** dans le patrimoine du hadith.
 
 Les trois Basriens (Qatāda, Ḥumayd, Thābit) forment le noyau des transmetteurs d'**[[Anas ibn Mālik]]** — et tous trois sont liés au pouvoir de Khālid al-Qasrī. Khālid est le **patron** de ce réseau, le même schéma que Mu'āwiya patronnant Ka'b al-Ahbar.
+
+### Consulter Qatāda sur les lectures du Coran
+
+Le patronage de Khālid ne se limite pas au hadith — il s'étend jusqu'à la **lecture du Coran**. Al-Muḥtasib d'Ibn Jinnī 1/82 ([book/8660](https://shamela.ws/book/8660)) :
+
+> أرسلني خالد بن عبد الله القسري إلى قتادة أسأله عن حروف من القرآن
+
+> « Khālid m'envoya auprès de Qatāda pour l'interroger sur **des variantes de lecture du Coran**. »
+
+Parmi les lectures discutées : le verset 2:54 (sourate al-Baqara), où la lecture standard **« fa-qtulū anfusakum »** (فاقتلوا أنفسكم — « tuez-vous les uns les autres ») est remplacée par Qatāda par **« fa-qtalū anfusakum »** (فاقتَلوا — de l'iftiqāl, le combat mutuel). La lecture alternative modifie le sens du verset : non plus un ordre de suicide expiatoire, mais un combat réciproque entre les deux groupes.
+
+Le gouverneur ne se contente pas de financer un prédicateur — il **commande une expertise coranique**. Qatāda, entretenu par Khālid, endetté chez lui, est consulté sur la manière de lire le Livre. La relation savant-pouvoir atteint ici son degré maximal : le qāṣṣ-mudallis est aussi un **consultant en qirā'āt** pour le préfet omeyyade.
 
 Exécute **al-Mughīra ibn Sa'd** (faux prophète) et ses partisans par le feu (Dimashq [p. 7030-7031](https://shamela.ws/book/71/7030)). Crucifie un autre homme qui se prétendait prophète à Kufa.
 

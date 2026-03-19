@@ -527,7 +527,7 @@ Ibn Jurayj est un **compilateur**, pas un transmetteur oral pur — il est consi
 
 ## L'analyse : le témoin qui invalide par son silence
 
-Le cas de ʿAṭāʾ est structurellement différent des problèmes d'isnād traités dans le reste du vault. Ici, ce n'est pas la **chaîne** qui est suspecte — c'est l'**absence** de chaîne qui parle.
+Le cas de ʿAṭāʾ est structurellement différent des problèmes d'isnād traités dans les autres fiches. Ici, ce n'est pas la **chaîne** qui est suspecte — c'est l'**absence** de chaîne qui parle.
 
 Les éléments convergent :
 

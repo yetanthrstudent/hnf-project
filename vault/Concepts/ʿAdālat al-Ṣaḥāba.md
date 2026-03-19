@@ -165,7 +165,7 @@ Ibn Kathīr confirme d'ailleurs dans al-Bidāya (8/109) que Shuʿba faisait **pr
 
 Le geste est un **rejet pur et simple** : Anas ne mérite pas qu'on l'écoute. Un tābiʿī congédie un ṣaḥābī d'un revers de main — dans un ouvrage de méthodologie du hadith.
 
-## Autres cas documentés dans le vault
+## Autres cas documentés
 
 | Critique | Cible | Citation | Fiche |
 |---|---|---|---|
