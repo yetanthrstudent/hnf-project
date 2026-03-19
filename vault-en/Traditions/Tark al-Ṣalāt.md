@@ -2,7 +2,7 @@
 titre_ar: بين الرجل وبين الشرك والكفر ترك الصلاة
 theme: "Abandoning prayer = kufr/shirk"
 recueils: ["Ṣaḥīḥ Muslim n° 82", "Sunan al-Tirmidhī", "Sunan Abī Dāwūd", "Sunan al-Nasā'ī", "Sunan Ibn Mājah"]
-compagnon: "[[Persons/Jābir ibn 'Abd Allāh\|Jābir ibn 'Abd Allāh]]"
+compagnon: "Jābir ibn 'Abd Allāh"
 probleme: "All chains pass through ṣaḥīfa transmitters — the plurality of routes is a mirage"
 sources_cles:
   - {ref: "shamela.ws/book/711/268", desc: "Ṣaḥīḥ Muslim — chain 1: al-A'mash ← Abū Sufyān ← Jābir"}
