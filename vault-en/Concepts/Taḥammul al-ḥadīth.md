@@ -227,9 +227,9 @@ Proper formulas: **وجدت بخط فلان** or **قرأت بخط فلان** (I
 
 — Ibn al-Ṣalāḥ ([p. 176](https://shamela.ws/book/22870/176))
 
-### Vault case: [[Persons/Sufyān ibn ʿUyayna|Sufyān ibn ʿUyayna]] and the Makhzumiyya
+### Project case: [[Persons/Sufyān ibn ʿUyayna|Sufyān ibn ʿUyayna]] and the Makhzumiyya
 
-The paradigmatic case in the vault. Sufyān goes to ask al-Zuhrī the hadith of the Makhzumiyya — Zuhrī **yells at him** and Sufyān falls silent. ʿAlī ibn al-Madīnī presses him:
+The paradigmatic case in our research. Sufyān goes to ask al-Zuhrī the hadith of the Makhzumiyya — Zuhrī **yells at him** and Sufyān falls silent. ʿAlī ibn al-Madīnī presses him:
 
 > قلت لسفيان: فلم تحمله عن أحد؟ قال: **وجدته في كتاب**، قلت لسفيان: كتاب من؟ قال: **كان كتاب أيوب بن موسى**
 
@@ -318,6 +318,23 @@ The system knows its flaws — it documents them, names them, ranks them. What i
 
 ---
 
+## The Qatāda case — wijāda by a blind man and the phantom reader
+
+[[Persons/Qatāda ibn Di'āma|Qatāda]] is **blind from birth**. He cannot physically read a manuscript. Yet the sources document that he absorbed entire written corpora: the **ṣaḥīfa of Jābir**, the **notebooks of Khilās ibn ʿAmr**, and other written material. Someone had to read these to him — but the reader **never appears** in any isnād.
+
+The sources use the **passive voice** systematically: **قُرِئَتْ عَلَيْهِ** ("it was read to him"), **ذَهَبُوا بصحيفة جابر** ("they brought the ṣaḥīfa"). The only named reader in Qatāda's entourage is **Saʿīd ibn Abī ʿArūba** — who served as secretary-reader before becoming his most prolific transmitter.
+
+The structural flaw: in every isnād where Qatāda transmits from a written source, the real schema is:
+
+```
+What the isnād says:     Qatāda ← Khilās ← ʿAlī
+What actually happened:  Qatāda ← [READER] ← [MANUSCRIPT] ← Khilās ← ʿAlī
+```
+
+The reader is a **necessary but invisible** link. The muṣṭalaḥ treatises discuss the hierarchy of reception methods at length but never ask: when a blind man receives a written text, **who is the reader, and why does he have no status in the isnād?** See the full analysis in [[Persons/Qatāda ibn Di'āma]].
+
+---
+
 ## See also
 
 - **[[Concepts/Al-Ziyāda fī al-kutub]]** — the societal phenomenon: insertion into books
@@ -327,3 +344,4 @@ The system knows its flaws — it documents them, names them, ranks them. What i
 - **[[Persons/Sufyān ibn ʿUyayna]]** — the paradigmatic case of wijāda (Makhzumiyya)
 - **[[Persons/Ibn Jurayj]]** — systematic tadlīs behind the ʿan
 - **[[Persons/Al-Aʿmash]]** — another notorious mudallis
+- **[[Persons/Qatāda ibn Di'āma]]** — wijāda by a blind man and the phantom reader

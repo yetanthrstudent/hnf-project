@@ -201,6 +201,16 @@ The Quranic pillars of faith are five: **God, the angels, the Books, the prophet
 
 Qadar as a pillar of faith is not a Quranic datum — it is a **hadithic** datum, carried by a hadith whose only chain goes back to an Umayyad official from Baṣra, solicited in the context of a polemic about predestination.
 
+## Qatāda's graft — a chain without samāʿ
+
+[[Persons/Qatāda ibn Di'āma|Qatāda]] also transmits this hadith via **ʿAbd Allāh ibn Burayda** — the 2nd link in the main chain. Yet **al-Tirmidhī** declares:
+
+> لا نعرف لقتادة سماعا من عبد الله بن بريدة
+
+> "We know of no audition by Qatāda from ʿAbd Allāh ibn Burayda."
+
+Qatāda is not the vector of this hadith — the chain Yaḥyā ibn Yaʿmur ← Ibn Burayda is. But the fact that Qatāda attempts to graft onto this chain **without samāʿ** reveals a mechanism documented throughout his entry: a hadith circulates in the Basran milieu, and Qatāda — the qāṣṣ who transmits everything that reaches him — appropriates it by declaring a source he never heard.
+
 ## See also
 
 - [[Concepts/Arkān al-Islām]] — the variants in the number of pillars (3, 4, 5, 8)

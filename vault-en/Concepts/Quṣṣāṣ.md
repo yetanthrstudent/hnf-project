@@ -45,4 +45,4 @@ This hadith is used by 'Awf ibn Mālik to contest the qaṣṣ of [[Ka'b al-Ahba
 
 ## Academic reference (outside the patrimony — context only)
 
-Lyall R. Armstrong, *The Qussas of Early Islam* (Brill, 2017) — useful synthesis for context, but the demonstrations in the vault rely exclusively on the primary sources cited in each entry.
+Lyall R. Armstrong, *The Qussas of Early Islam* (Brill, 2017) — useful synthesis for context, but the demonstrations in our research rely exclusively on the primary sources cited in each entry.

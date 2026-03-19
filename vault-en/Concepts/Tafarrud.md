@@ -11,7 +11,7 @@ personnages: [Al-Awzā'ī, Sulaymān ibn Mūsā, Khālid ibn Ma'dān, Abū Idrī
 
 When a **single transmitter** reports a hadith from a master who had **numerous students**, it is a warning signal: if the master had actually taught this text, others would have transmitted it too. The problem worsens when the isolated transmitter belongs to a **different region** than the master — he claims to have received a text that nobody on location knows.
 
-## Cases documented in the vault
+## Cases documented in our research
 
 | Isolated transmitter | Claimed master | Hadith | Geographic pattern | Source |
 |---|---|---|---|---|

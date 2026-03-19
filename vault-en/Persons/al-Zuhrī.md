@@ -189,11 +189,121 @@ More seriously: al-Zuhrī transmits the hadith (via Saʿīd ibn al-Musayyab ← 
 
 He dies in 124H — one year before the accession of al-Walīd ibn Yazīd (125H), the libertine caliph killed in 126H.
 
+### The gaze of contemporaries
+
+The scholars who knew him are not fooled by this ambivalence.
+
+**[[Persons/Makhūl al-Shāmī|Makhūl]]** — Tārīkh Dimashq 55/368. Makhūl is not an outsider: he is the **scholar of Syria** in the formula of four (al-Zuhrī for the Ḥijāz, [[Persons/al-Ḥasan al-Baṣrī|al-Ḥasan]] for Basra, Makhūl for al-Shām, [[Persons/Maymūn ibn Mahrān|Maymūn]] for the Jazīra). He lives in Damascus, he frequents the same circles of power. When he speaks, it is neither rigorism nor jealousy — it is an observation from the inside:
+
+> أَيُّ رَجُلٍ هُوَ لَوْلَا أَنَّهُ أَفْسَدَ نَفْسَهُ بِصُحْبَةِ الْمُلُوكِ
+
+> "**What a man he would be** — had he not ruined himself by keeping company with kings."
+
+**ʿAmr ibn ʿUbayd** — Tārīkh Dimashq 55/370 — calls him **منديل الأمراء** — "the **towel** of the emirs."
+
+**Khārija ibn Muṣʿab** — Mīzān al-Iʿtidāl 1/625:
+
+> قَدِمْتُ عَلَى الزُّهْرِيِّ وَهُوَ صَاحِبُ شُرَطِ بَنِي أُمَيَّةَ، فَرَأَيْتُهُ رَكِبَ وَفِي يَدَيْهِ حَرْبَةٌ
+
+> "I arrived at al-Zuhrī's when he was the **chief of the police of the Banū Umayya**. I saw him mounted, with a **lance** in his hand."
+
+Khārija henceforth refuses to transmit from him. Al-Zuhrī's individual ambivalence — between occasional resistance and deep integration — is a biographical trait. But the structural problem lies elsewhere: the **loss of control** of his material.
+
 ### What he loses
 
-The structural problem is not al-Zuhrī's submission, it is the **loss of control** over his material. Once written for the caliph's sons, the hadith enters the **dīwān** — the Umayyad administrative machinery. Al-Zuhrī no longer controls the circulation, copying, or use of what he produced. The codification of hadith is born from political coercion, and the material immediately escapes its producer.
+Once written for the caliph's sons, the hadith enters the **dīwān** — the Umayyad administrative machinery. Al-Zuhrī no longer controls the circulation, copying, or use of what he produced. The codification of hadith is born from political coercion, and the material immediately escapes its producer.
 
 For the systemic analysis: [[Concepts/ʿAmal al-Sulṭān]]
+
+---
+
+## The dīwān — the material chain
+
+Once written for the caliph's sons, the hadith enters the **dīwān** — the Umayyad administrative machinery. Al-Zuhrī no longer controls the circulation, the copying, or the use of what he produced. This is not a hypothesis — each step is documented in the primary sources.
+
+### The commission of ʿUmar II — the starting point
+
+The official collection of hadith is an administrative act, not a pious impulse. Jāmiʿ Bayān al-ʿIlm ḥ. 438:
+
+> أَمَرَنَا عُمَرُ بْنُ عَبْدِ الْعَزِيزِ بِجَمْعِ السُّنَنِ فَكَتَبْنَاهَا دَفْتَرًا دَفْتَرًا، فَبَعَثَ إِلَى كُلِّ أَرْضٍ لَهُ عَلَيْهَا سُلْطَانٌ دَفْتَرًا
+
+> "ʿUmar ibn ʿAbd al-ʿAzīz ordered us to compile the sunans. We wrote them **notebook by notebook**, and he sent to each province under his authority **a notebook**."
+
+The hadith is born in the dīwān, copied in the dīwān, distributed by the dīwān. From this moment, al-Zuhrī's material is a **state asset**.
+
+### The scribes of Hishām — systematic copying
+
+Jāmiʿ Bayān al-ʿIlm ([p. 363](https://shamela.ws/book/22367/363)):
+
+> أَقَامَ هِشَامُ بْنُ عَبْدِ الْمَلِكِ كَاتِبَيْنِ يَكْتُبَانِ عَنِ الزُّهْرِيِّ، فَأَقَامَا سَنَةً يَكْتُبَانِ عَنْهُ
+
+> "Hishām installed **two scribes** at al-Zuhrī's side, and they spent **one year** writing from him."
+
+For one year, two palace officials systematically copy al-Zuhrī's material. The product enters the state archives.
+
+### Al-Zuhrī's books: nothing but poetry
+
+Jāmiʿ Bayān al-ʿIlm ([p. 362](https://shamela.ws/book/22367/362)):
+
+> قُلْتُ لِلزُّهْرِيِّ، أَخْرِجْ إِلَيَّ كُتُبَكَ: فَأَخْرَجَ إِلَيَّ كُتُبًا فِيهَا شِعْرٌ
+
+> Yūnus ibn Yazīd: "I said to al-Zuhrī: 'Show me your books.' He brought out books — they contained **poetry**."
+
+Al-Zuhrī himself did not have personal hadith books. His production is that of the state dīwān — once copied by the scribes, he kept no copy.
+
+### The post-mortem notebooks — on beasts of burden
+
+Ṭabaqāt Ibn Saʿd 7/435, via Maʿmar:
+
+> كُنَّا نَرَى أَنَّا قَدْ أَكْثَرْنَا عَنِ الزُّهْرِيِّ حَتَّى قُتِلَ الْوَلِيدُ بْنُ يَزِيدَ فَإِذَا الدَّفَاتِرُ قَدْ حُمِلَتْ عَلَى الدَّوَابِّ مِنْ خِزَانَتِهِ يَعْنِي مِنْ عِلْمِ الزُّهْرِيِّ
+
+> Maʿmar: "We thought we had taken much from al-Zuhrī — until al-Walīd ibn Yazīd was killed. Then the **notebooks were transported on beasts of burden** from his treasury — that is: al-Zuhrī's knowledge."
+
+After the assassination of Walīd II (126H), the palace archives are dispersed. The notebooks (دفاتر) of the dīwān containing al-Zuhrī's hadiths circulate freely — without authentication control, without audition, without ijāza.
+
+### The falsification by al-Walīd I — 4 hadiths glued to the dīwān
+
+Tārīkh Dimashq ([p. 18507](https://shamela.ws/book/71/18507)), via Muṣʿab al-Zubayrī:
+
+> The people went to the dīwān. And there, they discovered that **four extra hadiths** had been **glued** to it that he had **never** transmitted.
+
+This is a documented case of [[Concepts/Al-Ziyāda fī al-kutub|al-ziyāda fī al-kutub]] — material falsification of written collections — applied to the state dīwān.
+
+### Blind validation
+
+Ṭabaqāt Ibn Saʿd 7/435:
+
+> « On lui apportait un livre... Il répondait : "Oui." **Sans l'avoir lu ni qu'on le lui ait lu.** »
+
+> "They would bring him a book from his [own] writings and say: 'Abū Bakr, this is your book and your hadith, shall we transmit it from you?' And he would say: 'Yes.' **Without having read it or having it read to him.**"
+
+This is no longer transmission — it is blind validation. The munāwala system is here reduced to an automatic signature.
+
+### The Meccans and the notebook of Ḥumayd al-Aʿraj
+
+Musnad al-Ḥumaydī ([p. 425](https://shamela.ws/book/8493/425)), via Sufyān ibn ʿUyayna:
+
+> "The Meccans merely took a **book** brought by Ḥumayd al-Aʿraj from Syria, written from al-Zuhrī [...] As for us, we heard from **his mouth**."
+
+Sufyān explicitly distinguishes the two modes: he had samāʿ (direct audition); the Meccans — including [[Persons/Ibn Jurayj|Ibn Jurayj]] — had only a **wijāda** disguised as munāwala.
+
+Al-Zuhrī is the producer; power is the publisher, the distributor, and — in the case of al-Walīd I — the falsifier.
+
+---
+
+## The formalizer who fabricates — the Walīd-Pharaoh hadith
+
+The dīwān corrupts al-Zuhrī's material from the outside. But al-Zuhrī himself is capable of fabricating when political need demands it.
+
+The most explicit version is in the Jāmiʿ of Maʿmar ([p. 571](https://shamela.ws/book/5610/571)):
+
+> Al-Zuhrī [directly, without chain]: "A man wanted to name his son al-Walīd. The Prophet forbade him and said: 'There will be a man named al-Walīd who will act upon my community **like Pharaoh** upon his people.'"
+
+This is a **mursal** with no intermediary between al-Zuhrī and the Prophet — exactly the type of transmission that four major critics judge "nothing" or "worse than nothing" (see *The mursals* above). In the Tārīkh Dimashq 63/322 version, a complete isnād appears (al-Walīd ibn Muslim ← al-Awzāʿī ← al-Zuhrī ← Saʿīd ibn al-Musayyab).
+
+The context is limpid: al-Walīd ibn Yazīd (al-Walīd II), the caliph whose "scandalous loves" disturbed al-Zuhrī, had sworn to have him executed. Al-Zuhrī dies in 124H — one year before the accession of al-Walīd II (125H), killed in 126H.
+
+The hadith is a **post eventum prophecy** targeting a personal enemy. The "father of the isnād" does not fabricate a chain — he fabricates **text**. And it is the system he himself formalized that, after him, will supply the missing chain.
 
 ---
 
@@ -212,7 +322,7 @@ The irony: the "scholar of the Ḥijāz" is the one whose material comes most fr
 
 ## Transmission problems around him
 
-| Problem | Description | Vault ref. |
+| Problem | Description | Ref. |
 |----------|-------------|-----------|
 | Majarra | Sufyān substitutes al-Zuhrī→ʿUrwa for the correct chain al-Zuhrī→Ḥumayd | [[Concepts/Ittibāʿ al-Majarra]] |
 | Wijāda | Sufyān finds a hadith in a book and transmits it as samāʿ | [[Concepts/Al-Ziyāda fī al-kutub]] |
@@ -221,6 +331,10 @@ The irony: the "scholar of the Ḥijāz" is the one whose material comes most fr
 | Attribution | Mālik attributes to al-Zuhrī what comes from [[Persons/Makhrama ibn Bukayr|Makhrama ibn Bukayr]] | [[Concepts/Al-Ziyāda fī al-kutub]] |
 | Divergent mursals | His students give the same account with incompatible isnāds (Ka'b case) | [[Traditions/Assassination of Kaʿb ibn al-Ashraf]] |
 | Terminological opacity | Does not distinguish ḥaddathanā/akhbaranā — ambiguous formulas | [[Concepts/Taḥammul al-ḥadīth]] |
+| Falsified dīwān | Al-Walīd I glues 4 false hadiths to the official dīwān | Tārīkh Dimashq [p. 18507](https://shamela.ws/book/71/18507) |
+| Blind validation | Al-Zuhrī approves books he has neither read nor heard | Ṭabaqāt Ibn Saʿd 7/435 |
+| Meccan wijāda | The Meccans transmit from a Syrian notebook, not from audition | Musnad al-Ḥumaydī [p. 425](https://shamela.ws/book/8493/425) |
+| Fabrication | Walīd-Pharaoh hadith: mursal forged against a political enemy | Jāmiʿ Maʿmar [p. 571](https://shamela.ws/book/5610/571) |
 
 ---
 
@@ -239,9 +353,19 @@ The irony: the "scholar of the Ḥijāz" is the one whose material comes most fr
               POWER                           CRITICISM
 
     ʿAbd al-Malik (patron)           al-Qaṭṭān: mursals = wind
-    al-Walīd (resists to his face)   al-Shāfiʿī: mursals = nothing
-    Hishām (compels him to write)    Ibn Maʿīn: mursals = nothing
-    caliph's sons (tutor)            al-Dhahabī: mursals = muʿḍal
+    al-Walīd I (4 false hadiths      al-Shāfiʿī: mursals = nothing
+      added to the dīwān)            Ibn Maʿīn: mursals = nothing
+    Hishām (2 scribes, 1 year)       al-Dhahabī: mursals = muʿḍal
+    caliph's sons (tutor)            Makhūl: "ruined by kings"
+    ʿUmar II (commissions notebooks) ʿAmr ibn ʿUbayd: "towel of the emirs"
+
+              DĪWĀN (the material chain)
+
+    Al-Zuhrī dictates → scribes of Hishām (1 year)
+        → notebooks in the caliph's treasury
+            → al-Walīd I glues 4 false hadiths
+            → notebook travels from Syria → Mecca (wijāda)
+            → post-mortem: notebooks on beasts of burden (126H)
 ```
 
 ---

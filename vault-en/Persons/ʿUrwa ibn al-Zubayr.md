@@ -179,7 +179,7 @@ Already in [[Concepts/ʿAdālat al-Ṣaḥāba]] — summarized here. ʿUrwa ide
 
 Abū al-Ḥasan ibn al-Qaṭṭān: "his transmissions to the Iraqis are weak" (munkar).
 
-This pattern is recurring in the vault: **regional** transmissions are reliable, transmissions **exported** to Iraq are suspect — the same pattern as for Nāfiʿ (reliable in the Ḥijāz, but al-Awzāʿī is the only one to report from him in the Shām → [[Concepts/Tafarrud]]).
+This pattern is recurring in our research: **regional** transmissions are reliable, transmissions **exported** to Iraq are suspect — the same pattern as for Nāfiʿ (reliable in the Ḥijāz, but al-Awzāʿī is the only one to report from him in the Shām → [[Concepts/Tafarrud]]).
 
 ## Al-Zuhrī — the student who formalizes
 

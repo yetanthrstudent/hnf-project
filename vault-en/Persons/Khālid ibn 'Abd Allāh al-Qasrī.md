@@ -96,7 +96,7 @@ Khālid was surrounded by **Basran scholars** gravitating around his power:
 
 | Basran scholar            | Link with Khālid                                                                             | Source                                                        |
 | ------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| **[[Persons/Qatāda ibn Di'āma]]** | Dies at his residence in Wāsiṭ (117 H), in debt, sustained by his provisions                        | Tahdhīb al-Kamāl [p. 25](https://shamela.ws/book/26743/25)    |
+| **[[Persons/Qatāda ibn Di'āma]]** | Dies at his residence in Wāsiṭ (117 H), in debt, sustained by his provisions; **consulted on qirā'āt** — Khālid sends emissaries to ask about variant Quran readings (al-Muḥtasib 1/82, [book/8660](https://shamela.ws/book/8660/72)) | Tahdhīb al-Kamāl [p. 25](https://shamela.ws/book/26743/25)    |
 | **[[Persons/Ḥumayd al-Ṭawīl]]**   | **Transmits directly from Khālid** — criticised for "عمل السلطان" (working for the authorities) | Tārīkh al-Islām [p. 2468](https://shamela.ws/book/22771/2468) |
 | **[[Persons/Thābit al-Bunānī]]**  | **Dies under Khālid's governorship** — Ibn Sa'd dates his death by Khālid's reign       | Tahdhīb al-Tahdhīb [p. 257](https://shamela.ws/book/1293/257) |
 

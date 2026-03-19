@@ -165,7 +165,7 @@ Ibn Kathīr moreover confirms in al-Bidāya (8/109) that Shuʿba was **probably*
 
 The gesture is a **pure and simple rejection**: Anas does not deserve to be listened to. A tābiʿī dismisses a ṣaḥābī with a wave of the hand — in a work on hadith methodology.
 
-## Other documented cases in the vault
+## Other documented cases in our research
 
 | Critic | Target | Quote | Entry |
 |---|---|---|---|
