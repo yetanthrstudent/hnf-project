@@ -291,9 +291,44 @@ Deux observations :
 
 En face, la thèse de l'abrogation repose sur **deux Compagnons** seulement : Ibn ʿUmar (Bukhārī 4506 : هِيَ مَنْسُوخَةٌ — « elle est abrogée ») et Salama ibn al-Akwaʿ (Bukhārī 4507).
 
-## L'argument : pourquoi la thèse de l'abrogation est problématique
+## L'argument — la confrontation des sources
 
-### 1. Le Coran ne dit pas « abrogation »
+### Bukhārī est une preuve *pour* nous
+
+Bukhārī (p. 3110) rapporte que des Compagnons **en capacité de jeûner** (مِمَّنْ يُطِيقُهُ) choisissaient la fidya au lieu du jeûne, et que c'était **permis** (رُخِّصَ لَهُمْ فِي ذَلِكَ). Le texte ajoute ensuite : « puis [le verset] "Et il est meilleur pour vous de jeûner" l'a abrogé ».
+
+Celui qui nous oppose ce texte en disant « vous voyez, c'est abrogé ! » n'a pas compris la nature de ce qu'il brandit. **La déclaration d'abrogation est elle-même la preuve que la pratique a existé.** On n'abroge que ce qui était en vigueur. On ne déclare pas la fin d'une licence que personne n'exerçait. Si le jeûne avait toujours été une obligation stricte et évidente, il n'y aurait rien à abroger — et Bukhārī n'aurait rien à rapporter.
+
+**Quel que soit le camp dans lequel on se place**, Bukhārī atteste une phase de facultativité :
+- **Si on accepte le naskh** : il y a bien eu une période où le choix existait — l'abrogation le confirme en l'annulant, elle ne le nie pas.
+- **Si on refuse le naskh** (Ibn ʿAbbās : « لَيْسَتْ بِمَنْسُوخَةٍ ») : la licence est toujours en vigueur.
+
+Notre thèse ne dépend pas de l'acceptation ou du rejet de l'abrogation. Elle dit simplement : **l'obligation stricte est le résultat d'un processus historique**, pas un décret prophétique immédiat. Et c'est Bukhārī lui-même qui en conserve la trace — dans l'acte même de déclarer cette trace abolie.
+
+### Les quatre armes de la neutralisation — et comment elles se sapent entre elles
+
+La tradition a mobilisé **quatre stratégies** pour neutraliser le sens du verset 2:184 et de la position d'Ibn ʿAbbās. Mais ces stratégies sont **mutuellement contradictoires** — chacune sape les fondements des autres, et leur accumulation même trahit la fragilité de la position qu'elles tentent de défendre.
+
+| # | Stratégie | Portée par | Principe | Problème |
+|---|-----------|------------|----------|----------|
+| 1 | **Naskh** — le verset est abrogé | Ibn ʿUmar, Salama ibn al-Akwaʿ, majorité | 2:185 annule 2:184 | Atteste que la pratique **a existé** — et cinq voies d'Ibn ʿAbbās disent le contraire |
+| 2 | **Qirāʾa** — changer le mot | Bukhārī 4505 (يُطَوَّقُونَهُ) | Le verset ne dit pas « ceux qui peuvent » mais « ceux qui en sont accablés » | Al-Ṭabarī la rejette comme **contraire au muṣḥaf** — et le hadith d'Ibn ʿAbbās lui-même utilise يُطِيقُ au sens de « pouvoir » (Abū Dāwūd 2318) |
+| 3 | **Restriction** — réduire la portée | Bukhārī 4505, Nasāʾī 2317 | La fidya ne concerne que ceux qui **ne peuvent pas** jeûner | Le Coran dit يُطِيقُونَهُ (« ceux qui **peuvent** »). Le hadith **inverse** le verbe (لاَ يُطِيقُ). Le Nasāʾī reformule le verset pour lui faire dire le contraire |
+| 4 | **Shādhdh** — disqualifier le hadith | Al-Albānī | La version Saʿīd ibn Jubayr (وَهُمَا يُطِيقَانِ الصِّيَامَ) est « anomale » | Saʿīd ibn Jubayr est un des plus grands élèves d'Ibn ʿAbbās. Qualifier sa version de shādhdh = déclarer que l'élève direct a mal compris son maître |
+
+**Comment elles se sapent mutuellement :**
+
+- **Naskh vs qirāʾa** : si le verset est abrogé (stratégie 1), pourquoi changer le mot (stratégie 2) ? Un verset abrogé n'a plus de portée normative — peu importe ce qu'il dit. Le fait de modifier la lecture montre qu'on ne fait **pas confiance** au naskh pour régler le problème.
+
+- **Qirāʾa vs restriction** : si يُطَوَّقُونَهُ signifie « accablés » (stratégie 2), le verset vise déjà les incapables — pas besoin de **restreindre** la portée (stratégie 3). Le fait d'invoquer les deux montre que ni l'une ni l'autre ne suffit seule.
+
+- **Naskh vs restriction** : si le verset est abrogé (stratégie 1), pourquoi s'efforcer de **restreindre** son sens aux incapables (stratégie 3) ? Un verset abrogé n'a pas besoin d'être réinterprété — il est nul. Restreindre le sens d'un verset qu'on dit abrogé, c'est admettre implicitement qu'il **n'est pas** abrogé.
+
+- **Shādhdh vs le reste** : si les stratégies 1, 2 et 3 étaient suffisantes, il n'y aurait pas besoin de disqualifier le hadith de Saʿīd ibn Jubayr (stratégie 4). L'existence même de cette quatrième ligne de défense prouve que les trois premières **n'ont pas réussi** à éteindre le feu.
+
+**Le fait qu'on ait besoin de quatre stratégies incompatibles pour neutraliser un seul verset est la preuve la plus éloquente que ce verset dit bien ce qu'il semble dire** : ceux qui peuvent jeûner ont le choix de payer la fidya à la place — et le jeûne est « meilleur », pas obligatoire.
+
+### Le Coran ne dit pas « abrogation »
 
 La thèse du naskh de 2:184 par 2:185 n'est pas un argument de circonstance — c'est la position majoritaire, portée par des autorités majeures. Al-Ṭabarī lui-même, tout en rejetant la qirāʾa يُطَوَّقُونَهُ comme contraire au muṣḥaf, accepte une forme de naskh. Le poids de cette position doit être reconnu.
 
@@ -315,7 +350,7 @@ Ce qu'il faut retenir — et ne pas retenir — de cette citation :
 
 **Mais la conclusion d'Ibn al-Jawzī n'est pas la nôtre.** Lui en déduit que Ramaḍān était *toujours* le jeûne prescrit — pas qu'il y eut une phase facultative. Son argument détruit la chronologie du naskh (3 jours/mois → Ramaḍān), mais ne remet pas en cause l'obligation elle-même. Ce que nous retenons, c'est uniquement sa démolition du mécanisme abrogatoire : si 2:185 ne peut pas abroger 2:184, alors **le verset de la fidya reste en vigueur tel quel** — exactement ce que dit Ibn ʿAbbās (« لَيْسَتْ بِمَنْسُوخَةٍ »). Ibn al-Jawzī fournit le levier textuel, Ibn ʿAbbās en tire la conséquence normative.
 
-### 2. La pratique contredit l'abrogation
+### La pratique contredit l'abrogation
 
 Si l'abrogation était un fait établi dès l'époque du Prophète, on ne devrait pas trouver :
 - Des Compagnons choisissant librement la fidya au lieu du jeûne (Bukhārī, p. 3110)
@@ -325,7 +360,7 @@ Si l'abrogation était un fait établi dès l'époque du Prophète, on ne devrai
 
 La déclaration d'abrogation est un acte **normatif**, pas un fait historique. Elle vise à clore un débat qui existait au sein même de la communauté du Ier siècle.
 
-### 3. Le schéma récurrent des hadiths tardifs
+### Le schéma récurrent des hadiths tardifs
 
 Le même phénomène s'observe ailleurs : une divergence ancienne entre savants → l'apparition au IIᵉ siècle de hadiths tranchant dans un sens → la qualification rétroactive de la position perdante comme « abrogée ». Voir [[Traditions/Jald shārib al-khamr]] (divergence sur le ḥadd du vin), [[Traditions/Interdiction des carnassiers]] (interdiction inconnue au Ḥijāz).
 

@@ -291,9 +291,44 @@ Two observations:
 
 Against this, the abrogation thesis rests on **only two Companions**: Ibn ʿUmar (Bukhārī 4506: هِيَ مَنْسُوخَةٌ — "it is abrogated") and Salama ibn al-Akwaʿ (Bukhārī 4507).
 
-## The argument: why the abrogation thesis is problematic
+## The argument — the confrontation of sources
 
-### 1. The Quran does not say "abrogation"
+### Bukhārī is evidence *for* us
+
+Bukhārī (p. 3110) reports that Companions **capable of fasting** (مِمَّنْ يُطِيقُهُ) chose the fidya instead of fasting, and that this was **permitted** (رُخِّصَ لَهُمْ فِي ذَلِكَ). The text then adds: "then [the verse] 'And it is better for you to fast' abrogated it."
+
+Anyone who waves this text at us saying "see, it's abrogated!" has not understood the nature of what they are brandishing. **The declaration of abrogation is itself proof that the practice existed.** One only abrogates what was in force. One does not announce the end of a license that nobody was exercising. If fasting had always been a strict and obvious obligation, there would be nothing to abrogate — and Bukhārī would have nothing to report.
+
+**Whichever camp one stands in**, Bukhārī attests a phase of optionality:
+- **If one accepts the naskh**: there was indeed a period when choice existed — the abrogation confirms it by annulling it, it does not deny it.
+- **If one rejects the naskh** (Ibn ʿAbbās: "لَيْسَتْ بِمَنْسُوخَةٍ"): the license is still in force.
+
+Our thesis does not depend on accepting or rejecting the abrogation. It simply states: **the strict obligation is the result of a historical process**, not an immediate prophetic decree. And it is Bukhārī himself who preserves the trace — in the very act of declaring that trace abolished.
+
+### The four weapons of neutralization — and how they undermine each other
+
+The tradition has mobilized **four strategies** to neutralize the meaning of verse 2:184 and Ibn ʿAbbās's position. But these strategies are **mutually contradictory** — each one undermines the foundations of the others, and their very accumulation betrays the fragility of the position they attempt to defend.
+
+| # | Strategy | Championed by | Principle | Problem |
+|---|----------|---------------|-----------|---------|
+| 1 | **Naskh** — the verse is abrogated | Ibn ʿUmar, Salama ibn al-Akwaʿ, majority | 2:185 annuls 2:184 | Attests that the practice **existed** — and five routes from Ibn ʿAbbās say otherwise |
+| 2 | **Qirāʾa** — change the word | Bukhārī 4505 (يُطَوَّقُونَهُ) | The verse does not say "those who can" but "those who are burdened by it" | Al-Ṭabarī rejects it as **contrary to the muṣḥaf** — and Ibn ʿAbbās's own hadith uses يُطِيقُ meaning "to be able" (Abū Dāwūd 2318) |
+| 3 | **Restriction** — narrow the scope | Bukhārī 4505, Nasāʾī 2317 | The fidya only concerns those who **cannot** fast | The Quran says يُطِيقُونَهُ ("those who **can**"). The hadith **inverts** the verb (لاَ يُطِيقُ). The Nasāʾī reformulates the verse to make it say the opposite |
+| 4 | **Shādhdh** — disqualify the hadith | Al-Albānī | The Saʿīd ibn Jubayr version (وَهُمَا يُطِيقَانِ الصِّيَامَ) is "anomalous" | Saʿīd ibn Jubayr is one of Ibn ʿAbbās's greatest students. Calling his version shādhdh = declaring the direct student misunderstood his master |
+
+**How they undermine each other:**
+
+- **Naskh vs qirāʾa**: if the verse is abrogated (strategy 1), why change the word (strategy 2)? An abrogated verse has no normative force — it does not matter what it says. The fact of modifying the reading shows that one does **not trust** the naskh to settle the problem.
+
+- **Qirāʾa vs restriction**: if يُطَوَّقُونَهُ means "burdened" (strategy 2), the verse already targets the incapable — no need to **restrict** the scope (strategy 3). Invoking both shows that neither suffices alone.
+
+- **Naskh vs restriction**: if the verse is abrogated (strategy 1), why strive to **restrict** its meaning to the incapable (strategy 3)? An abrogated verse does not need to be reinterpreted — it is null. Restricting the meaning of a verse one claims is abrogated is implicitly admitting it is **not** abrogated.
+
+- **Shādhdh vs the rest**: if strategies 1, 2, and 3 were sufficient, there would be no need to disqualify Saʿīd ibn Jubayr's hadith (strategy 4). The very existence of this fourth line of defense proves that the first three **failed** to put out the fire.
+
+**The fact that four incompatible strategies are needed to neutralize a single verse is the most eloquent proof that the verse says exactly what it appears to say**: those who can fast have the choice to pay the fidya instead — and fasting is "better," not obligatory.
+
+### The Quran does not say "abrogation"
 
 The naskh thesis for 2:184 by 2:185 is not a makeshift argument — it is the majority position, supported by major authorities. Al-Ṭabarī himself, while rejecting the qirāʾa يُطَوَّقُونَهُ as contrary to the muṣḥaf, accepts a form of naskh. The weight of this position must be acknowledged.
 
@@ -315,7 +350,7 @@ What to retain — and not retain — from this citation:
 
 **But Ibn al-Jawzī's conclusion is not ours.** He infers that Ramaḍān was *always* the prescribed fast — not that there was an optional phase. His argument destroys the chronology of naskh (3 days/month → Ramaḍān), but does not challenge the obligation itself. What we retain is solely his demolition of the abrogation mechanism: if 2:185 cannot abrogate 2:184, then **the verse of the fidya remains in effect as is** — exactly what Ibn ʿAbbās says ("لَيْسَتْ بِمَنْسُوخَةٍ"). Ibn al-Jawzī provides the textual lever, Ibn ʿAbbās draws the normative consequence.
 
-### 2. The practice contradicts the abrogation
+### The practice contradicts the abrogation
 
 If the abrogation were an established fact from the Prophet's era, one should not find:
 - Companions freely choosing the fidya instead of fasting (Bukhārī, p. 3110)
@@ -325,7 +360,7 @@ If the abrogation were an established fact from the Prophet's era, one should no
 
 The declaration of abrogation is a **normative** act, not a historical fact. It aims to close a debate that existed within the 1st-century community itself.
 
-### 3. The recurring pattern of late hadiths
+### The recurring pattern of late hadiths
 
 The same phenomenon is observed elsewhere: an ancient divergence among scholars → the appearance in the 2nd century of hadiths ruling in one direction → the retroactive qualification of the losing position as "abrogated." See [[Traditions/Jald shārib al-khamr]] (divergence on the wine ḥadd), [[Traditions/Prohibition of carnivores]] (prohibition unknown in the Ḥijāz).
 
