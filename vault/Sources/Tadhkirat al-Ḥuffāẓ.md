@@ -4,7 +4,6 @@ auteur: al-Dhahabī (Shams al-Dīn Muḥammad ibn Aḥmad, m. 748H)
 titre_ar: تذكرة الحفاظ
 titre_complet: "Tadhkirat al-Ḥuffāẓ = Ṭabaqāt al-Ḥuffāẓ"
 shamela: 1583
-lien_hnfp: "https://fr.hnfp.org/w/Category:Tadhkirat_al-Huffadh"
 genre: ṭabaqāt / rijāl
 ---
 
@@ -15,37 +14,36 @@ genre: ṭabaqāt / rijāl
 L'absence d'un individu dans cette liste n'implique pas nécessairement qu'il n'était pas un personnage-clé — c'est un choix éditorial d'al-Dhahabī, centré sur les *ḥuffāẓ* (ceux réputés pour leur mémoire du hadith).
 
 - **Shamela** : [shamela.ws/book/1583](https://shamela.ws/book/1583)
-- **HNFP (version antérieure)** : [fr.hnfp.org — Tadhkirat al-Huffadh](https://fr.hnfp.org/w/Category:Tadhkirat_al-Huffadh)
 
 ---
 
 ## Première génération (ṭabaqa 1) — les Compagnons
 
-| Page | ID | Nom court | Translittération | Mort | Fiche |
-|------|-----|-----------|-----------------|------|-------|
-| 4 | 1 | أبو بكر الصديق | Abū Bakr al-Ṣiddīq | | |
-| 6 | 2 | عمر بن الخطاب | ʿUmar b. al-Khaṭṭāb | | |
-| 8 | 3 | عثمان بن عفان | ʿUthmān b. ʿAffān | | |
-| 8 | 4 | علي بن أبي طالب | ʿAlī b. Abī Ṭālib | | |
-| 11 | 5 | عبد الله ابن مسعود | ʿAbdallāh b. Masʿūd | 32 H | [[Personnes/Ibn Mas'ūd]] |
-| 13 | 6 | أبي بن كعب | Ubay b. Kaʿb | 30 H | |
-| 13 | 7 | أبو ذر الغفاري | Abū Dharr al-Ghifārī | 31-32 H | |
-| 14 | 8 | معاذ بن جبل | Muʿādh b. Jabal | 18 H | |
-| 16 | 9 | سعد بن أبي وقاص | Saʿd b. Abī Waqqāṣ | 55 H | |
-| 17 | 10 | أبو موسى الأشعري | Abū Mūsā al-Ashʿarī | 42-53 H | |
-| 18 | 11 | أبو الدرداء | Abū al-Dardā | 31-38 H | |
-| 19 | 12 | عبد الله بن سلام | ʿAbdallāh b. Salām | | |
-| 20 | 13 | عائشة | ʿĀʾisha | 58 H | |
-| 21 | 14 | عمران بن حصين | ʿImrān b. Ḥuṣayn | | |
-| 22 | 15 | زيد بن ثابت | Zayd b. Thābit | | |
-| 23 | 16 | أبو هريرة | Abū Hurayra | | [[Personnes/Abū Hurayra]] |
-| 26 | 17 | عبد الله بن عمر | ʿAbdallāh b. ʿUmar | 73 H | |
-| 28 | 18 | عبد الله بن عباس | ʿAbdallāh b. ʿAbbās | 68 H | |
-| 29 | 19 | عبد الله بن عمرو بن العاص | ʿAbdallāh b. ʿAmr b. al-ʿĀṣ | 65 H | [[Personnes/Ibn 'Amr ibn al-'Āṣ]] |
-| 30 | 20 | عقبة بن عامر | ʿUqba b. ʿĀmir | 58 H | |
-| 30 | 21 | جابر بن عبد الله | Jābir b. ʿAbdallāh | 73-78 H | [[Personnes/Jābir ibn 'Abd Allāh]] |
-| 31 | 22 | أبو سعيد الخدري | Abū Saʿīd al-Khudrī | 74 H | |
-| 32 | 23 | أنس بن مالك | Anas b. Mālik | 93 H | [[Personnes/Anas ibn Mālik]] |
+| Page | ID  | Nom court                 | Translittération            | Mort    | Fiche                              |
+| ---- | --- | ------------------------- | --------------------------- | ------- | ---------------------------------- |
+| 4    | 1   | أبو بكر الصديق            | Abū Bakr al-Ṣiddīq          |         |                                    |
+| 6    | 2   | عمر بن الخطاب             | ʿUmar b. al-Khaṭṭāb         |         |                                    |
+| 8    | 3   | عثمان بن عفان             | ʿUthmān b. ʿAffān           |         |                                    |
+| 8    | 4   | علي بن أبي طالب           | ʿAlī b. Abī Ṭālib           |         |                                    |
+| 11   | 5   | عبد الله ابن مسعود        | ʿAbdallāh b. Masʿūd         | 32 H    | [[Personnes/Ibn Mas'ūd]]           |
+| 13   | 6   | أبي بن كعب                | Ubay b. Kaʿb                | 30 H    |                                    |
+| 13   | 7   | أبو ذر الغفاري            | Abū Dharr al-Ghifārī        | 31-32 H |                                    |
+| 14   | 8   | معاذ بن جبل               | Muʿādh b. Jabal             | 18 H    |                                    |
+| 16   | 9   | سعد بن أبي وقاص           | Saʿd b. Abī Waqqāṣ          | 55 H    |                                    |
+| 17   | 10  | أبو موسى الأشعري          | Abū Mūsā al-Ashʿarī         | 42-53 H |                                    |
+| 18   | 11  | أبو الدرداء               | Abū al-Dardā                | 31-38 H |                                    |
+| 19   | 12  | عبد الله بن سلام          | ʿAbdallāh b. Salām          |         |                                    |
+| 20   | 13  | عائشة                     | ʿĀʾisha                     | 58 H    |                                    |
+| 21   | 14  | عمران بن حصين             | ʿImrān b. Ḥuṣayn            |         |                                    |
+| 22   | 15  | زيد بن ثابت               | Zayd b. Thābit              |         |                                    |
+| 23   | 16  | أبو هريرة                 | Abū Hurayra                 |         | [[Personnes/Abū Hurayra]]          |
+| 26   | 17  | عبد الله بن عمر           | ʿAbdallāh b. ʿUmar          | 73 H    |                                    |
+| 28   | 18  | عبد الله بن عباس          | ʿAbdallāh b. ʿAbbās         | 68 H    |                                    |
+| 29   | 19  | عبد الله بن عمرو بن العاص | ʿAbdallāh b. ʿAmr b. al-ʿĀṣ | 65 H    | [[Personnes/Ibn 'Amr ibn al-'Āṣ]]  |
+| 30   | 20  | عقبة بن عامر              | ʿUqba b. ʿĀmir              | 58 H    |                                    |
+| 30   | 21  | جابر بن عبد الله          | Jābir b. ʿAbdallāh          | 73-78 H | [[Personnes/Jābir ibn 'Abd Allāh]] |
+| 31   | 22  | أبو سعيد الخدري           | Abū Saʿīd al-Khudrī         | 74 H    |                                    |
+| 32   | 23  | أنس بن مالك               | Anas b. Mālik               | 93 H    | [[Personnes/Anas ibn Mālik]]       |
 
 ## Deuxième génération (ṭabaqa 2) — grands tābiʿīn
 
