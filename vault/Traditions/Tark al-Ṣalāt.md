@@ -83,7 +83,7 @@ Le Dāraquṭnī ('Ilal, [p. 397](https://shamela.ws/book/9082/397)) documente u
 1. **Ḥammād hésite sur sa propre source** : a-t-il entendu directement de 'Amr, ou d'un intermédiaire ?
 2. **Le statut oscille** entre marfū' et mawqūf selon le transmetteur de Ḥammād
 3. **'Amr ibn Dīnār lui-même** n'a pas entendu de Jābir (aveu à Shu'ba : « أنت سمعته من جابر ؟ قال : لا »)
-4. **Le Jābir en question** pourrait être Jābir ibn Zayd, pas Jābir ibn 'Abd Allāh (correction de Sufyān ibn 'Uyayna)
+4. **Le Jābir en question** pourrait être Jābir ibn Zayd, pas Jābir ibn ʿAbd Allāh — voir [[Personnes/Sufyān ibn ʿUyayna#La confusion des deux Jābir — correction d'Abū Ḥanīfa|la correction de Sufyān ibn ʿUyayna]]
 
 Le profil scrupuleux de [[Ḥammād ibn Zayd]] — « يقصر في الأسانيد ويوقف المرفوع ويشك كثيرا بتوقفه » (« il raccourcissait les isnāds, arrêtait au Compagnon ce qui était attribué au Prophète, et doutait souvent en s'arrêtant » — Ya'qūb ibn Shayba) — rend son hésitation cohérente : il doute parce qu'il ne sait réellement pas d'où il tient ce hadith.
 
@@ -122,3 +122,4 @@ La « pluralité des voies » (ta'addud al-ṭuruq) est un **mirage** : toutes l
 - [[Personnes/Ḥammād ibn Zayd]] — le scrupuleux qui doute
 - [[Personnes/Al-Aʿmash]] — mudallis transmettant via Abū Sufyān
 - [[Personnes/Qatāda ibn Di'āma]] — autre canal vers la même ṣaḥīfa
+- [[Concepts/Mawqūf élevé en marfūʿ]] — le cas Ḥammād ibn Zayd illustre l'oscillation mawqūf/marfūʿ

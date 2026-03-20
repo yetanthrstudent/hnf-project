@@ -143,6 +143,25 @@ Al-Nasāʾī commente :
 
 Le même schéma que la défaillance 2 : Sufyān « connecte » un isnād là où Mālik le transmet de façon plus prudente.
 
+## La confusion des deux Jābir — correction d'Abū Ḥanīfa
+
+Sufyān corrige Abū Ḥanīfa sur l'identité du « Jābir » dans les chaînes de ʿAmr ibn Dīnār. Suʾālāt al-Bardhʿī ([p. 1030](https://shamela.ws/book/812/1030)) :
+
+> حدثنا عمرو عن جابر بن عبد الله : في أخباري
+>
+> فقلت : حدثنا عمرو عن **جابر بن زيد** ، ليس جابر بن عبد الله
+
+> « [Abū Ḥanīfa dit :] ʿAmr nous a transmis d'après Jābir ibn ʿAbd Allāh. [Sufyān dit :] ʿAmr nous a transmis d'après **Jābir ibn Zayd** — ce n'est pas Jābir ibn ʿAbd Allāh. »
+
+Sufyān conclut : **فإذا هو قد أخطأ فيهما جميعا** — « Il s'est trompé dans les deux cas. »
+
+**Jābir ibn Zayd** (m. ~93 H) est un **Tābiʿī** ibāḍite de Basra — pas un Compagnon, pas un témoin oculaire. Quand ʿAmr ibn Dīnār dit « Jābir » sans préciser, l'identification au Compagnon Jābir ibn ʿAbd Allāh n'est **pas automatique**. Ce problème se pose concrètement dans au moins deux dossiers :
+
+- **[[Traditions/Assassinat de Ka'b ibn al-Ashraf#Problème 2 : quel Jābir ?]]** — 6 élèves de Sufyān sur 8 transmettent « ʿan Jābir » sans patronyme ; Qutayba et ʿAlī al-Madīnī ajoutent « ibn ʿAbd Allāh » de leur propre chef
+- **[[Traditions/Tark al-Ṣalāt#L'instabilité quadruple]]** — la chaîne Ḥammād ibn Zayd ← ʿAmr ibn Dīnār ← « Jābir » : Sufyān avertit que ce Jābir pourrait être Ibn Zayd, pas Ibn ʿAbd Allāh
+
+C'est un cas récurrent d'[[Concepts/Ittibāʿ al-Majarra|ittibāʿ al-majarra]] en aval : l'association ʿAmr → « Jābir » appelle automatiquement « ibn ʿAbd Allāh » dans l'esprit des collecteurs, là où la source disait peut-être autre chose.
+
 ## La position sur la ru'ya — « Tuez-le ! »
 
 Sufyān adopte une position intransigeante sur la ru'yat Allāh (la vision de Dieu au Jour du Jugement) — position théologique typiquement **shāmī/sunnī** des IIe-IIIe siècles, opposée aux Muʿtazila et aux Jahmiyya.

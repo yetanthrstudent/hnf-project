@@ -98,6 +98,66 @@ Pour l'analyse complète : [[Concepts/Ittibāʿ al-Majarra]]
 
 ---
 
+## Le tadlīs — Ibn Ḥajar, 3e catégorie
+
+Al-Zuhrī est classé par Ibn Ḥajar al-ʿAsqalānī dans la **3e catégorie** (ṭabaqat al-thālitha) des Ṭabaqāt al-Mudallisīn — le seuil à partir duquel la transmission ne peut plus servir de preuve, sauf si le transmetteur dit explicitement « samiʿtu » (j'ai entendu).
+
+C'est la même catégorie qu'[[Personnes/Ibn Jurayj|Ibn Jurayj]] — l'autre « autoroute » du ḥadīth qualifiée de **waḥsh al-tadlīs** par al-Dāraquṭnī.
+
+### Deux niveaux de tadlīs
+
+Le tadlīs d'al-Zuhrī opère à **deux niveaux** :
+
+**Niveau 1 — le ʿan.** Al-Zuhrī dit « ʿan fulān » (d'après Untel) sans préciser s'il a entendu directement. L'auditeur suppose le samāʿ — al-Zuhrī ne l'a jamais affirmé. C'est le tadlīs « standard », celui que les critiques acceptent sous certaines conditions.
+
+**Niveau 2 — le akhbaranā trompeur.** Quand le ʿan ne suffit plus à convaincre, al-Zuhrī utilise « akhbaranā » (il nous a informés) — formule normalement réservée à l'audition directe. Sauf que chez al-Zuhrī, « akhbaranā » peut signifier : « j'ai lu dans son livre ». C'est l'équivalent de dire « Sheikh Untel m'a informé » alors qu'on a lu un texte qu'il a écrit. Al-Zuhrī et Ibn Jurayj sont tous deux **notoires** pour cet usage trompeur du akhbaranā.
+
+Mālik ibn Anas, pourtant le meilleur transmetteur d'al-Zuhrī, **ne distingue pas** entre ḥaddathanā et akhbaranā dans sa transmission — ce qui rend impossible, chez Mālik, de savoir si l'information vient d'une audition ou d'une lecture.
+
+### Mālik et le récipient scellé
+
+Mālik est unanimement reconnu comme le **plus fiable** des transmetteurs d'al-Zuhrī. Et pourtant, il ne transmet que ~300 ḥadīths de lui — une fraction du corpus total d'al-Zuhrī. Après la mort de Mālik, on découvrit un grand récipient contenant des ḥadīths d'al-Zuhrī qu'il n'avait **jamais transmis**. Le meilleur élève lui-même ne faisait pas confiance à la totalité du matériel de son maître.
+
+Al-Zuhrī est l'une des quatre [[Concepts/Caisses de résonance|caisses de résonance]] — les autoroutes par lesquelles transite la majorité du corpus canonique.
+
+---
+
+## Le goulot d'étranglement — 40% des chaînes, 90% de la Sīra
+
+Al-Zuhrī n'est pas un transmetteur parmi d'autres — c'est un **monopole structurel**. Environ **40% des chaînes de transmission** du corpus canonique passent par lui. Ce chiffre, à lui seul, suffit à poser la question : comment un seul homme peut-il être l'intermédiaire obligé de près de la moitié du matériel prophétique ?
+
+Le problème est encore plus aigu dans la **Sīra** : **plus de 90% des récits de la Sīra passent exclusivement par al-Zuhrī**. Quand un récit de la Sīra n'a pas d'autre chemin que lui, il faut le considérer avec la plus grande prudence — car il était le savant officiel du régime omeyyade, le précepteur des fils du calife, et l'homme dont le matériel était confisqué par le dīwān d'État.
+
+### Monopole sur la Hijra vers l'Abyssinie
+
+Le cas de la **Hijra vers l'Abyssinie** illustre ce monopole. Les listes d'émigrés vers l'Abyssinie passent **exclusivement** par al-Zuhrī — et elles divergent entre elles. Les variantes dans les noms des émigrés, leur nombre, et les circonstances du départ ne sont pas des divergences mineures : elles montrent que la mémoire de cet épisode a été **reconstruite** par un seul homme, sans contrôle croisé possible.
+
+### Le récit de la Ṣaqīfa
+
+De même, le récit de la **Ṣaqīfa** (la réunion qui désigne Abū Bakr comme premier calife) passe par al-Zuhrī. L'événement fondateur de la succession politique en islam est transmis par l'homme du pouvoir omeyyade — un pouvoir qui avait un intérêt direct dans la narration de cette succession.
+
+### Le tadlīs entre Égypte et Médine
+
+Al-Zuhrī pratique un **tadlīs géographique** documenté : il transmet en Égypte du matériel qu'il présente comme médinois, et inversement. Cette pratique brouille la traçabilité régionale des traditions et rend impossible la vérification de l'origine réelle de certains hadiths.
+
+---
+
+## La pratique avant le ḥadīth — l'aveu de Maʿmar
+
+**Muṣannaf ʿAbd al-Razzāq n° 1280** ([book/13174](https://shamela.ws/book/13174/1247)), Maʿmar > al-Zuhrī :
+
+Al-Zuhrī déclare que « **tout le monde pratiquait cela et ce n'est pas dans toutes choses que nous retrouvons une chaîne de transmission** ». Aveu capital : la **pratique précède le ḥadīth**. Al-Zuhrī reconnaît que les isnāds n'existaient pas pour toutes les prescriptions courantes — le système qu'il a lui-même formalisé est, de son propre aveu, une construction *a posteriori* appliquée à des pratiques préexistantes.
+
+---
+
+## Le rattrapage de la prière — Bukhārī 597
+
+Le ḥadīth du rattrapage de la prière (Bukhārī [597](https://shamela.ws/book/1681/1028)) est un cas d'école de la **production** du ḥadīth au début du 2e siècle. Al-Dāraquṭnī montre qu'al-Zuhrī rapporte cette tradition comme **parole de Saʿīd ibn al-Musayyab** (mursal). Mālik, Maʿmar et Ibn Ḥuwayna le rapportent eux aussi en **mursal** — c'est-à-dire sans chaîne remontant au Prophète.
+
+Le schéma est familier : une pratique ou un avis juridique d'un tābiʿī (Saʿīd ibn al-Musayyab) est **élevé** au rang de ḥadīth prophétique dans la génération suivante, via al-Zuhrī. La convergence des versions mursals chez ses propres élèves (Mālik, Maʿmar) confirme que la version originale ne remontait pas au Prophète.
+
+---
+
 ## Les mursals — le verdict unanime
 
 Les critiques classiques considèrent les mursals d'al-Zuhrī comme **parmi les plus faibles** de toute la littérature du hadith.
@@ -284,13 +344,15 @@ Musnad al-Ḥumaydī ([p. 425](https://shamela.ws/book/8493/425)), via Sufyān i
 
 Sufyān distingue explicitement les deux modes : lui avait le samāʿ (audition directe) ; les Mecquois — dont [[Personnes/Ibn Jurayj|Ibn Jurayj]] — n'avaient qu'une **wijāda** déguisée en munāwala. Le cahier voyage de Syrie à La Mecque, passe de main en main, et quand al-Zuhrī le valide distraitement, il acquiert le statut de « transmis d'al-Zuhrī » — alors qu'il n'a jamais été auditionné par ses « élèves » mecquois.
 
-Al-Zuhrī est le producteur ; le pouvoir est l'éditeur, le diffuseur, et — dans le cas d'al-Walīd I — le falsificateur.
+L'ironie est que **Sufyān lui-même est concerné par le même phénomène** qu'il dénonce chez les Mecquois. Sa propre fiche ([[Personnes/Sufyān ibn ʿUyayna#Défaillance 3 : La Makhzumiyya — le livre d'Ayyūb ibn Mūsā|voir détail]]) documente qu'il a transmis le ḥadīth de la Makhzumiyya à partir d'un **livre d'Ayyūb ibn Mūsā** — une wijāda — après que Zuhrī lui a crié dessus et refusé le samāʿ ([ʿIlal al-Dāraquṭnī, p. 5605](https://shamela.ws/book/9082/5605)). Il a caché un intermédiaire nommé **Wā'il** dans le ḥadīth de māl Abī Bakr ([p. 5603](https://shamela.ws/book/9082/5603)), et al-Shāfiʿī l'a pris en flagrant délit de **[[Concepts/Ittibāʿ al-Majarra|majarra]]** — substitution d'isnād par automatisme mémoriel ([Manāqib al-Shāfiʿī, p. 596](https://shamela.ws/book/22797/596)). Le « nous entendions de sa bouche » est donc une vantardise qui ne résiste pas à l'examen de ses propres transmissions.
+
+Al-Zuhrī est le producteur ; le pouvoir est l'éditeur, le diffuseur, et — dans le cas d'al-Walīd I — le falsificateur documenté : le calife a **collé quatre ḥadīths** au dīwān officiel d'al-Zuhrī (Tārīkh Dimashq, [p. 18507](https://shamela.ws/book/71/18507)) — voir [[#La falsification d'al-Walīd I — 4 hadiths collés au dīwān|ci-dessous]]. Et ce n'est que ce que le patrimoine a bien voulu documenter. Si un calife a pu insérer quatre ḥadīths dans un corpus officiel **et que cela a été découvert**, combien d'insertions n'ont jamais été détectées — dans le dīwān d'al-Zuhrī ou ailleurs ?
 
 ---
 
-## Le formalisateur qui fabrique — le hadith Walīd-Pharaon
+## Le matériel politique — le hadith Walīd-Pharaon
 
-Le dīwān corrompt le matériel d'al-Zuhrī de l'extérieur. Mais al-Zuhrī lui-même est capable de fabriquer quand le besoin politique l'exige.
+Le dīwān corrompt le matériel d'al-Zuhrī de l'extérieur. Mais al-Zuhrī lui-même **utilise** du matériel qui sert ses intérêts politiques. Qui a inventé ce matériel — lui, un transmetteur en amont, un scribe en aval ? Impossible à trancher. Ce qui est certain, c'est qu'il le met en circulation.
 
 La version la plus explicite se trouve dans le Jāmiʿ de Maʿmar ([p. 571](https://shamela.ws/book/5610/571)) :
 
@@ -300,9 +362,9 @@ La version la plus explicite se trouve dans le Jāmiʿ de Maʿmar ([p. 571](http
 
 C'est un **mursal** sans aucun intermédiaire entre al-Zuhrī et le Prophète — exactement le type de transmission que quatre critiques majeurs jugent « rien » ou « pire que rien » (voir *Les mursals* ci-dessus). Dans la version de Tārīkh Dimashq 63/322, un isnād complet apparaît (al-Walīd ibn Muslim ← al-Awzāʿī ← al-Zuhrī ← Saʿīd ibn al-Musayyab), avec une formulation renforcée : « أضر على أمتي من فرعون على قومه ».
 
-Le contexte est limpide : al-Walīd ibn Yazīd (al-Walīd II), le calife dont les « amours scandaleuses » dérangeaient al-Zuhrī, avait juré de le faire exécuter (Mukhtaṣar Tārīkh Dimashq 26/365 : **قَدْ كُنْتُ عَاهَدْتُ اللَّهَ لَئِنْ أَمْكَنَنِي الْقُدْرَةُ أَنْ أَقْتُلَ الزُّهْرِيَّ**). Al-Zuhrī meurt en 124H — un an avant l'intronisation d'al-Walīd II (125H), tué en 126H.
+Le contexte est limpide : al-Walīd ibn Yazīd (al-Walīd II), le calife dont la débauche (*mujūn*) est unanimement rapportée par les sources, avait juré de faire exécuter al-Zuhrī (Mukhtaṣar Tārīkh Dimashq 26/365 : **قَدْ كُنْتُ عَاهَدْتُ اللَّهَ لَئِنْ أَمْكَنَنِي الْقُدْرَةُ أَنْ أَقْتُلَ الزُّهْرِيَّ**). Al-Zuhrī meurt en 124H — un an avant l'intronisation d'al-Walīd II (125H), tué en 126H.
 
-Le hadith est une **prophétie post eventum** visant un ennemi personnel. Al-Zuhrī ne produit pas un isnād — il produit un **hadith**, un contenu qu'il met directement dans la bouche du Prophète sans intermédiaire. L'isnād complet (via Saʿīd ibn al-Musayyab) n'apparaît qu'après, chez d'autres transmetteurs. Le « père de l'isnād » ne fabrique pas de chaîne — il fabrique du texte. Et c'est le système qu'il a lui-même formalisé qui, après lui, fournira la chaîne manquante.
+Ce matériel a tout d'une **prophétie post eventum** visant un ennemi personnel. Ce qui est remarquable, c'est le format : al-Zuhrī le transmet en **mursal** — directement du Prophète, sans aucun intermédiaire. L'isnād complet (via Saʿīd ibn al-Musayyab) n'apparaît qu'après, chez d'autres transmetteurs. Qui a produit ce texte ? Al-Zuhrī ? Un transmetteur en amont ? Quelqu'un en aval qui l'a rattaché à son nom ? Impossible à trancher. Ce qui est documenté, c'est que le matériel **circule** à partir de lui, sous forme de mursal d'abord, puis avec un isnād complet fourni par d'autres — le système qu'il a lui-même formalisé se charge de combler le vide.
 
 ---
 
@@ -323,6 +385,12 @@ L'ironie : le « savant du Ḥijāz » est celui dont le matériel provient le p
 
 | Problème | Description | Réf. |
 |----------|-------------|-----------|
+| Monopole | ~40% des chaînes, ~90% de la Sīra — goulot d'étranglement massif | Module 1, Module 2 |
+| Ṣaqīfa | Le récit fondateur de la succession passe par le savant omeyyade | Module 10 |
+| Hijra Abyssinie | Monopole de transmission, listes d'émigrés divergentes | Module 2 |
+| Tadlīs géographique | Transmission croisée entre Égypte et Médine | Module 12 |
+| Rattrapage prière | Bukhārī [597](https://shamela.ws/book/1681/1028) — mursal de Saʿīd ibn al-Musayyab élevé au marfūʿ | Module 11 |
+| Aveu Maʿmar | « Ce n'est pas dans toutes choses que nous retrouvons un isnād » (n° [1280](https://shamela.ws/book/13174/1247)) | [[Concepts/Muṣannaf de ʿAbd al-Razzāq]] |
 | Majarra | Sufyān substitue al-Zuhrī→ʿUrwa à la chaîne correcte al-Zuhrī→Ḥumayd | [[Concepts/Ittibāʿ al-Majarra]] |
 | Wijāda | Sufyān trouve un hadith dans un livre et le transmet comme samāʿ | [[Concepts/Al-Ziyāda fī al-kutub]] |
 | Tafarrud | Sulaymān ibn Mūsā seul à transmettre le nikāḥ sans walī | [[Concepts/Tafarrud]] |
@@ -337,35 +405,58 @@ L'ironie : le « savant du Ḥijāz » est celui dont le matériel provient le p
 
 ---
 
-## Schéma — al-Zuhrī, nœud de convergence
+## Al-Zuhrī — le nœud de convergence
 
-```
-              MAÎTRES                              ÉLÈVES
+### Ses maîtres
 
-    ʿUrwa ibn al-Zubayr (Ḥijāz)          Sufyān ibn ʿUyayna (La Mecque)
-    Saʿīd ibn al-Musayyab (Médine)        Ibn Jurayj (La Mecque)
-    Anas ibn Mālik (Basra/Damas)   →  AL-ZUHRĪ  →  Sulaymān ibn Mūsā (Damas)
-    Abū Idrīs al-Khawlānī (Syrie)        Mālik ibn Anas (Médine)
-    Sulaymān ibn Arqam (matrūk)           Maʿmar (Yémen)
-    Ḥumayd ibn ʿAbd al-Raḥmān            Mūsā ibn ʿUqba (Médine)
+| Maître | Région |
+|--------|--------|
+| ʿUrwa ibn al-Zubayr | Ḥijāz |
+| Saʿīd ibn al-Musayyab | Médine |
+| Anas ibn Mālik | Basra / Damas |
+| Abū Idrīs al-Khawlānī | Syrie |
+| Sulaymān ibn Arqam (matrūk) | — |
+| Ḥumayd ibn ʿAbd al-Raḥmān | Médine |
 
-              POUVOIR                           CRITIQUE
+### Ses élèves
 
-    ʿAbd al-Malik (patron)           al-Qaṭṭān : mursals = vent
-    al-Walīd I (4 hadiths faux       al-Shāfiʿī : mursals = rien
-      ajoutés au dīwān)              Ibn Maʿīn : mursals = rien
-    Hishām (2 scribes, 1 an)         al-Dhahabī : mursals = muʿḍal
-    fils du calife (précepteur)      Makhūl : « gâché par les rois »
-    ʿUmar II (commande les dafātir)  ʿAmr ibn ʿUbayd : « serviette des émirs »
+| Élève | Région |
+|-------|--------|
+| Sufyān ibn ʿUyayna | La Mecque |
+| Ibn Jurayj | La Mecque |
+| Sulaymān ibn Mūsā | Damas |
+| Mālik ibn Anas | Médine |
+| Maʿmar | Yémen |
+| Mūsā ibn ʿUqba | Médine |
 
-              DĪWĀN (la chaîne matérielle)
+### Le pouvoir
 
-    Al-Zuhrī dicte → scribes de Hishām (1 an)
-        → dafātir dans le trésor du calife
-            → al-Walīd I colle 4 hadiths faux
-            → cahier voyage en Syrie → La Mecque (wijāda)
-            → post-mortem : dafātir sur bêtes de somme (126H)
-```
+| Calife / patron | Relation avec al-Zuhrī |
+|-----------------|----------------------|
+| ʿAbd al-Malik | Patron — lance la collecte |
+| Al-Walīd I | Colle 4 ḥadīths faux au dīwān ([Tārīkh Dimashq, p. 18507](https://shamela.ws/book/71/18507)) |
+| Hishām | Installe 2 scribes pendant 1 an pour copier ses ḥadīths |
+| Fils du calife | Al-Zuhrī est leur précepteur |
+| ʿUmar II | Commande les *dafātir* officiels des sunans |
+
+### Les critiques
+
+| Critique | Verdict sur ses mursals |
+|----------|----------------------|
+| Al-Qaṭṭān | « vent » |
+| Al-Shāfiʿī | « rien » |
+| Ibn Maʿīn | « rien » |
+| Al-Dhahabī | « pire que mursal — muʿḍal » |
+| Makhūl | « gâché par les rois » |
+| ʿAmr ibn ʿUbayd | « serviette des émirs » |
+
+### Le dīwān — la chaîne matérielle
+
+1. Al-Zuhrī dicte → scribes de Hishām (1 an de copie)
+2. Les *dafātir* sont stockés dans le trésor du calife
+3. Al-Walīd I y colle 4 ḥadīths faux
+4. Un cahier voyage de Syrie → La Mecque (wijāda des Mecquois)
+5. Post-mortem (126H) : les *dafātir* sont acheminés sur des bêtes de somme depuis le trésor — le corpus d'al-Zuhrī circule sans contrôle
 
 ---
 
@@ -391,9 +482,11 @@ L'ironie : le « savant du Ḥijāz » est celui dont le matériel provient le p
 - [[Concepts/Al-Ziyāda fī al-kutub]] — wijāda et corruption des livres
 - [[Concepts/Tafarrud]] — isolement syrien dans la transmission d'al-Zuhrī
 - [[Concepts/Taḥammul al-ḥadīth]] — opacité des formules d'al-Zuhrī
+- [[Concepts/Muṣannaf de ʿAbd al-Razzāq]] — n° 1280, aveu que la pratique précède le ḥadīth
 - [[Concepts/ʿAdālat al-Ṣaḥāba]] — ʿUrwa critique Ibn ʿAbbās
 
 ### Traditions
 - [[Traditions/Interdiction des carnassiers]] — aveu d'al-Zuhrī, vecteur syrien→ḥijāzī
 - [[Traditions/Assassinat de Ka'b ibn al-Ashraf]] — mursals divergents, élèves incompatibles
 - [[Traditions/Massacre des Banū Qurayẓa]] — même schéma de transmission fragile
+- [[Traditions/Tark al-Ṣalāt]] — rattrapage de la prière (Bukhārī 597), mursal via Saʿīd ibn al-Musayyab
