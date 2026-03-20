@@ -135,6 +135,7 @@ Dossiers d'enquête sur des traditions spécifiques — chacun examine les chaî
 - [[Traditions/Ḥadīth Jibrīl|Ḥadīth Jibrīl]]
 - [[Traditions/Ḥadīth Buniya al-Islām|Ḥadīth Buniya al-Islām]]
 - [[Traditions/Hadith Abnāʾ al-Mulūk|Hadith Abnāʾ al-Mulūk]]
+- [[Traditions/Umirtu an uqātila al-nās|Umirtu an uqātila al-nās — « Ordre de combattre les gens »]]
 
 ### Concepts
 
