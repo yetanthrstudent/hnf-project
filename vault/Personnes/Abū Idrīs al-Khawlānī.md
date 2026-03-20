@@ -58,3 +58,12 @@ Voir la [[Traditions/Interdiction des carnassiers|page de la tradition]].
 - **Transmet de** Abū al-Dardā', Abū Dharr, Abū Hurayra, Mu'āwiya, Abū Umāma, Shaddād ibn Aws, 'Ubāda ibn al-Ṣāmit, et d'autres
 - **Al-Zuhrī** le qualifie de « faqīh d'Ahl al-Shām » et apprend de lui
 - **Contemporain de** [[Personnes/Khālid ibn Ma'dān|Khālid ibn Ma'dān]], Muslim ibn Mishkam
+
+## Voir aussi
+
+- [[Traditions/Interdiction des carnassiers]] — la tradition qu'Abū Idrīs transmet à al-Zuhrī, inconnue au Ḥijāz
+- [[Personnes/Khālid ibn Ma'dān]] — transmet le même interdit par une chaîne parallèle
+- [[Personnes/Maymūn ibn Mahrān]] — troisième transmetteur syrien du même interdit
+- [[Personnes/al-Zuhrī]] — apprend l'interdit d'Abū Idrīs (aveu dans Muslim 1932)
+- [[Concepts/Kūfa contre le Chām]] — le Shām comme producteur de normes inconnues au Ḥijāz
+- [[Personnes/Rajā' ibn Ḥaywa]] — même profil de juge omeyyade du Shām

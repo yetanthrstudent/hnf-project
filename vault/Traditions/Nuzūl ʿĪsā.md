@@ -324,7 +324,7 @@ Le retour de ʿĪsā est une doctrine construite sur un **hadith à goulot uniqu
 
 ### Concepts
 - [[Concepts/Caisses de résonance]] — le mécanisme structurel qui produit l'illusion de tawātur
-- [[Concepts/Isrāʾīliyyāt]] — le continuum judéo-chrétien du matériel eschatologique
+- [[Concepts/Isrā'īliyyāt|Isrāʾīliyyāt]] — le continuum judéo-chrétien du matériel eschatologique
 - [[Concepts/Ittibāʿ al-Majarra]] — la chaîne al-Zuhrī→Saʿīd comme attracteur
 
 ### Traditions

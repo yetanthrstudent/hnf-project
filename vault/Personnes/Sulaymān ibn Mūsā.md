@@ -42,3 +42,13 @@ Sulaymān ibn Mūsā (muftī de Damas)
     ↓
 formule le canon des 4 savants régionaux
 ```
+
+## Voir aussi
+
+- [[Personnes/Makhūl al-Shāmī]] — son maître direct, l'autorité du Shām
+- [[Personnes/Maymūn ibn Mahrān]] — l'un des quatre savants régionaux (Jazīra)
+- [[Personnes/al-Zuhrī]] — l'autorité du Ḥijāz dans le classement de Sulaymān
+- [[Personnes/al-Ḥasan al-Baṣrī]] — l'autorité de l'Iraq dans le même classement
+- [[Concepts/Tafarrud]] — son tafarrud depuis al-Zuhrī pour le hadith du nikāḥ sans walī
+- [[Personnes/Ibn Jurayj]] — transmetteur du tafarrud de Sulaymān
+- [[Concepts/Kūfa contre le Chām]] — le cadre dans lequel les autorités régionales prennent sens

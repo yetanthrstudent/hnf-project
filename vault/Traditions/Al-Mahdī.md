@@ -93,7 +93,7 @@ Tārīkh Dimashq ([p. 25151](https://shamela.ws/book/71/25151)) rapporte un autr
 
 On lui demanda : « Tu veux dire [[Personnes/Ka'b al-Ahbar|Kaʿb al-Aḥbār]] ? » Il répondit : « Non. »
 
-La question reste ouverte : qui est ce Kaʿb ? Et pourquoi un poète kaysānite du 1er siècle invoque-t-il un transmetteur de **traditions anciennes** pour fonder une attente messianique ? Le parallèle avec le rôle de [[Personnes/Ka'b al-Ahbar|Kaʿb al-Aḥbār]] dans la diffusion de matériel eschatologique ([[Concepts/Isrāʾīliyyāt|isrāʾīliyyāt]]) est difficile à ignorer.
+La question reste ouverte : qui est ce Kaʿb ? Et pourquoi un poète kaysānite du 1er siècle invoque-t-il un transmetteur de **traditions anciennes** pour fonder une attente messianique ? Le parallèle avec le rôle de [[Personnes/Ka'b al-Ahbar|Kaʿb al-Aḥbār]] dans la diffusion de matériel eschatologique ([[Concepts/Isrā'īliyyāt|isrāʾīliyyāt]]) est difficile à ignorer.
 
 ---
 
@@ -174,5 +174,5 @@ Chaque étape **ajoute** une couche au concept : d'abord un adjectif, puis une g
 - [[Personnes/Ka'b al-Ahbar]] — le mystérieux « Kaʿb » de Kuthayyir
 
 ### Concepts
-- [[Concepts/Isrāʾīliyyāt]] — le substrat judéo-chrétien du matériel eschatologique
+- [[Concepts/Isrā'īliyyāt|Isrāʾīliyyāt]] — le substrat judéo-chrétien du matériel eschatologique
 - [[Concepts/Caisses de résonance]] — les autoroutes par lesquelles le matériel eschatologique se diffuse

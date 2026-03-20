@@ -11,10 +11,10 @@ evaluation:
   positif: "imam, fondateur d'école"
   negatif: "refuse des hadiths du Chām — accusé de rejeter la Sunna par les shāmis"
 sources_cles:
-  - {ref: "Muslim, Ṣaḥīḥ, tradition n°1848", desc: "Hadith sur l'obéissance — qu'Abū Ḥanīfa réfute"}
-  - {ref: "al-Khaṭīb al-Baghdādī, Tārīkh Madīnat al-Salām, t.15 p.532", desc: "Abū Ḥanīfa : 'Laisse-nous tranquille avec ça !'"}
-  - {ref: "al-Khaṭīb al-Baghdādī, Tārīkh Madīnat al-Salām, t.15 p.533", desc: "'C'est un péché' / 'Ce sont des balivernes'"}
-  - {ref: "al-Khaṭīb al-Baghdādī, Tārīkh Madīnat al-Salām, t.15 p.535", desc: "'Il veut voler comme un oiseau ?'"}
+  - {ref: "shamela.ws/book/1727/4726", desc: "Ṣaḥīḥ Muslim n° 1848 — hadith sur l'obéissance qu'Abū Ḥanīfa réfute"}
+  - {ref: "shamela.ws/book/736/8731", desc: "Tārīkh Baghdād t.15 p.532 — 'Laisse-nous tranquille avec ça !'"}
+  - {ref: "shamela.ws/book/736/8732", desc: "Tārīkh Baghdād t.15 p.533 — 'khurāfa / hadīth khurāfa'"}
+  - {ref: "shamela.ws/book/736/8734", desc: "Tārīkh Baghdād t.15 p.535 — 'Il veut voler comme un oiseau ?'"}
 ---
 
 <small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
@@ -48,7 +48,7 @@ Al-Khaṭīb al-Baghdādī (Tārīkh Madīnat al-Salām) est la source principal
 
 ### Le hadith de l'obéissance — « des fables ! »
 
-Quand on rapporte à Abū Ḥanīfa le hadith sur l'obéissance au gouverneur (celui que Muslim retient sous le n° 1848), il le rejette (Khaṭīb, Tārīkh, t.15 p.532) :
+Quand on rapporte à Abū Ḥanīfa le hadith sur l'obéissance au gouverneur ([Muslim n° 1848](https://shamela.ws/book/1727/4726)), il le rejette ([Khaṭīb, Tārīkh, t.15 p.532](https://shamela.ws/book/736/8731)) :
 
 > « خرافة ! »
 >
@@ -58,7 +58,7 @@ Le mot est violent : khurāfa, dans la bouche d'un savant du IIe siècle, est un
 
 ### « Laisse-nous tranquille avec ça ! »
 
-Sur le raf' al-yadayn (lever les mains) dans le jihād — un hadith propagé par les shāmis (Khaṭīb, t.15 p.532) :
+Sur le raf' al-yadayn (lever les mains) dans le jihād — un hadith propagé par les shāmis ([Khaṭīb, t.15 p.532](https://shamela.ws/book/736/8731)) :
 
 > « دعنا من هذا ! »
 >
@@ -66,7 +66,7 @@ Sur le raf' al-yadayn (lever les mains) dans le jihād — un hadith propagé pa
 
 ### « C'est un péché » / « Ce sont des balivernes ! »
 
-Sur d'autres hadiths du Chām (Khaṭīb, t.15 p.533) :
+Sur d'autres hadiths du Chām ([Khaṭīb, t.15 p.533](https://shamela.ws/book/736/8732)) :
 
 > « هذا إثم » / « هذا مُحال »
 >
@@ -74,7 +74,7 @@ Sur d'autres hadiths du Chām (Khaṭīb, t.15 p.533) :
 
 ### « Il veut voler comme un oiseau ? »
 
-Sur le hadith prescrivant de lever les mains lors de l'inclination dans la prière (Khaṭīb, t.15 p.535) :
+Sur le hadith prescrivant de lever les mains lors de l'inclination dans la prière ([Khaṭīb, t.15 p.535](https://shamela.ws/book/736/8734)) :
 
 > « يريد أن يطير ؟ »
 >

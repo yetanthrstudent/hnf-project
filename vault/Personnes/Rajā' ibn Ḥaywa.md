@@ -62,3 +62,13 @@ Ka'b al-Aḥbār (« في بعض الكتب »)     Ibn 'Amr (zamālatain)
 ```
 
 Rajā' est le **pivot** entre la légitimation scripturaire (Ka'b), le pouvoir omeyyade ('Abd al-Malik), et la jurisprudence syrienne (Makhūl → al-Awzā'ī).
+
+## Voir aussi
+
+- [[Personnes/Ka'b al-Ahbar]] — source scripturaire de Rajā' pour la sacralisation de Jérusalem
+- [[Personnes/Ibn 'Amr ibn al-'Āṣ]] — second maître de Rajā', possesseur des [[Traditions/Zamālatain de Yarmūk|zamālatain]]
+- [[Personnes/Makhūl al-Shāmī]] — son élève principal, qui le qualifie de « mon shaykh »
+- [[Personnes/Al-Awzā'ī]] — terminus de la chaîne Rajā' → Makhūl → al-Awzā'ī
+- [[Personnes/Maymūn ibn Mahrān]] — même profil de savant-fonctionnaire omeyyade
+- [[Concepts/Kūfa contre le Chām]] — le cadre politique de la sacralisation de Jérusalem et du Shām
+- [[Traditions/Hijra vers le Shām]] — tradition du canal direct (Ibn 'Amr → Rajā' → Makhūl)

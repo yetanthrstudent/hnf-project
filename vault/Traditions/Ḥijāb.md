@@ -24,6 +24,38 @@ Le voilement des femmes musulmanes est présenté aujourd'hui comme une **obliga
 
 ---
 
+## Le mot « ḥijāb » dans le Coran — Q 33:53
+
+Le seul verset coranique qui utilise le mot **ḥijāb** dans le contexte du voilement est Q 33:53 :
+
+> يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتَ النَّبِيِّ إِلَّا أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَاظِرِينَ إِنَاهُ … وَإِذَا سَأَلْتُمُوهُنَّ مَتَاعًا **فَاسْأَلُوهُنَّ مِن وَرَاءِ حِجَابٍ** ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ
+> « Ô vous qui croyez, n'entrez pas dans les maisons du Prophète sauf si l'on vous y invite pour un repas, sans attendre qu'il soit prêt … Et quand vous leur demandez [à ses épouses] un objet, **demandez-le-leur derrière un rideau** — cela est plus pur pour vos cœurs et pour leurs cœurs. »
+
+Deux éléments sont décisifs :
+
+1. **Le destinataire est exclusif** : le verset s'adresse aux visiteurs des « maisons du Prophète » (*buyūt al-nabī*) et concerne ses **épouses** (*azwāj*). Le ḥijāb coranique au sens strict est un **rideau** (*sitr*) séparant les épouses du Prophète des hommes qui viennent chez elles — pas un vêtement porté en public.
+
+2. **Le contexte narratif** : les exégètes classiques (al-Ṭabarī, al-Qurṭubī) rapportent que le verset a été révélé lors du **mariage du Prophète avec Zaynab bint Jaḥsh**, quand des invités s'attardaient après le repas. Anas ibn Mālik est le transmetteur principal de ce récit de circonstance (*sabab al-nuzūl*).
+
+Le verset suivant (Q 33:53 in fine) ajoute :
+
+> وَمَا كَانَ لَكُمْ أَن تُؤْذُوا رَسُولَ اللَّهِ وَلَا أَن تَنكِحُوا أَزْوَاجَهُ مِن بَعْدِهِ أَبَدًا
+> « Il ne vous appartient pas d'offenser le Messager de Dieu, ni d'épouser ses femmes après lui, jamais. »
+
+Ce contexte confirme que le ḥijāb de Q 33:53 est un **privilège** (ou une contrainte) **spécifique aux Mères des croyants** — pas une prescription universelle. Le mot même de « ḥijāb » (rideau, séparation) désigne une **barrière physique dans un espace domestique**, non un vêtement.
+
+Les trois versets coraniques mobilisés dans le débat sur le voilement sont donc :
+
+| Verset | Objet | Destinataires | Mot-clé |
+|--------|-------|---------------|---------|
+| **Q 33:53** | Rideau domestique | Épouses du Prophète uniquement | *ḥijāb* (rideau) |
+| **Q 33:59** | Vêtement extérieur (jilbāb) | Épouses, filles, femmes des croyants (libres) | *jilbāb* (cape) |
+| **Q 24:31** | Couverture de la poitrine | Toutes les croyantes (*muʾmināt*) | *khimār* (couvre-chef) |
+
+Aucun de ces trois versets ne prescrit ce que le discours contemporain appelle « le ḥijāb » — un foulard couvrant les cheveux porté en public par toute musulmane. Le ḥijāb coranique est un rideau ; le jilbāb est une cape de distinction sociale ; le khimār est un couvre-chef rabattu sur la poitrine.
+
+---
+
 ## Le dévoilement des esclaves — le dossier ʿUmar
 
 Le corpus le plus éclairant sur la nature originelle du voilement est celui des traditions rapportant que **ʿUmar ibn al-Khaṭṭāb frappait les esclaves qui se voilaient**. Ces traditions sont rapportées par des dizaines de transmetteurs, via des chaînes indépendantes, dans les recueils les plus anciens. Ce n'est pas un hadith isolé — c'est un **dossier massif**.
@@ -65,11 +97,20 @@ Et la tradition de Ṣafiyya bt. Abī ʿUbayd (Muṣannaf ʿAbd al-Razzāq, [p. 
 
 ### La tradition d'Anas — les seins à l'air
 
-La tradition la plus crue est celle rapportée dans le Tafsīr de Hūd ibn Muḥakkam (m. ~290H), via Anas ibn Mālik :
+La tradition la plus crue est celle rapportée dans le *Tafsīr* de **Hūd ibn Muḥakkam al-Hawwārī** (m. ~290H), via Anas ibn Mālik :
 
 > كُنّ جواري عمر يخدمننا كاشفات رؤوسهن تضرب ثديهن بادية خدامهن
 
 > « Les esclaves de ʿUmar nous servaient **têtes découvertes, les seins se balançant, les chevilles apparentes**. »
+
+**Appareil critique.** Hūd ibn Muḥakkam est un exégète **ibadite** nord-africain. Son tafsīr, transmis par Abū Bakr al-Hawwārī, est l'un des plus anciens tafsīr ibadites conservés. Il n'est pas référencé dans les ouvrages de *rijāl* sunnites classiques (ni chez al-Mizzī, ni chez al-Dhahabī). La chaîne entre Hūd et Anas n'est pas détaillée dans le manuscrit — ce qui empêche toute évaluation d'isnād au sens sunnite.
+
+Cependant, le **contenu** de cette tradition est corroboré par des voies sunnites indépendantes :
+- La tradition de **Qatāda ← Anas** dans le Muṣannaf d'Ibn Abī Shayba (via Shuʿba) décrit le même scénario : ʿUmar interdisant le voile aux esclaves
+- La tradition d'**Abū Qilāba** (Ibn Abī Shayba) donne la même logique : « le voile est uniquement pour les femmes libres »
+- La tradition de **Ṣafiyya bt. Abī ʿUbayd** (ʿAbd al-Razzāq, al-Bayhaqī) confirme le dévoilement forcé
+
+La tradition de Hūd est donc utilisable comme **témoin corroborant** (*shāhid*), pas comme preuve autonome. Le degré de crudité (seins apparents) est propre à cette version et n'est pas confirmé par les voies sunnites — il doit être traité avec prudence.
 
 ### La position d'Abū Ḥanīfa
 
@@ -150,7 +191,7 @@ Les sources primitives dessinent une évolution en trois étapes :
 
 | Période                    | Le voilement est…                                                                                                                          | Sources                                                    |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| **Ier siècle H**           | Un **marqueur de statut** — les femmes libres se voilent pour être « reconnues » (Q 33:59), les esclaves en sont **interdites**            | 29 traditions sur ʿUmar, Abū Ḥanīfa via Ibrāhīm al-Nakhaʿī |
+| **Ier siècle H**           | Un **marqueur de statut** — les femmes libres se voilent pour être « reconnues » (Q 33:59), les esclaves en sont **interdites**            | traditions sur ʿUmar (sept recueils indépendants), Abū Ḥanīfa via Ibrāhīm al-Nakhaʿī |
 | **IIe siècle H**           | Objet de **discussion juridique** — ʿAṭāʾ autorise le jilbāb sans khimār, les fuqahāʾ débattent de la ʿawra de l'esclave vs la femme libre | Muṣannaf ʿAbd al-Razzāq, n° 5060                           |
 | **IIIe siècle H et après** | Une **obligation universelle** — les distinctions esclave/libre s'estompent, le voile devient un commandement moral universel              | Codification dans les manuels de fiqh                      |
 
@@ -160,7 +201,7 @@ Le passage du système de **distinction** au système d'**obligation** accompagn
 
 ## Comment les madhhabs ont rationalisé la distinction
 
-Le problème est le suivant : les quatre écoles juridiques héritent d'un corpus massif attestant que le voilement est un **marqueur de statut** (les 29 traditions sur ʿUmar). Elles ne peuvent ni ignorer ce corpus ni le rejeter — il est trop bien attesté. Elles doivent donc le **rationaliser** : trouver un cadre juridique qui intègre le dévoilement des esclaves sans remettre en cause l'obligation pour les femmes libres.
+Le problème est le suivant : les quatre écoles juridiques héritent d'un corpus massif attestant que le voilement est un **marqueur de statut** (les traditions sur ʿUmar (sept recueils indépendants)). Elles ne peuvent ni ignorer ce corpus ni le rejeter — il est trop bien attesté. Elles doivent donc le **rationaliser** : trouver un cadre juridique qui intègre le dévoilement des esclaves sans remettre en cause l'obligation pour les femmes libres.
 
 La solution unanime : définir la **ʿawra** (partie du corps à couvrir) de l'esclave comme étant identique à celle de l'homme — **du nombril aux genoux**.
 
@@ -296,6 +337,22 @@ Plusieurs hadiths sont invoqués pour fonder l'obligation de couverture :
 
 Malgré ses faiblesses, ce hadith est le **texte le plus explicite** sur la limitation de la ʿawra féminine au visage et aux mains. Ironie : il est invoqué à la fois par ceux qui autorisent le visage découvert (puisqu'il exclut le visage de la ʿawra) et par ceux qui imposent le voile intégral (qui rejettent ce hadith comme ḍaʿīf et universalisent la couverture).
 
+### 5. Le hadith du vœu — ʿUqba ibn ʿĀmir (al-Nasāʾī 3815)
+
+Al-Nasāʾī rapporte (*Sunan*, Kitāb al-Nudhūr, bāb « idhā nadharat al-marʾa an tamshiya ḥāfiyatan ḥāsiratan ») :
+
+> عَنْ عُقْبَةَ بْنِ عَامِرٍ أَنَّهُ سَأَلَ النَّبِيَّ ﷺ عَنْ أُخْتٍ لَهُ نَذَرَتْ أَنْ تَمْشِيَ حَافِيَةً حَاسِرَةً فَقَالَ رَسُولُ اللَّهِ ﷺ : **مُرْهَا فَلْتَرْكَبْ وَلْتُغَطِّ رَأْسَهَا وَلْتَصُمْ ثَلَاثَةَ أَيَّامٍ**
+> « ʿUqba ibn ʿĀmir demanda au Prophète au sujet de sa sœur qui avait fait le vœu de marcher **pieds nus et tête nue**. Le Prophète dit : "**Dis-lui de monter [une monture], de couvrir sa tête et de jeûner trois jours.**" »
+
+Ce hadith est régulièrement invoqué comme preuve que le Prophète a **ordonné** le couvre-chef — donc que la tête nue est interdite.
+
+**Appareil critique :**
+- Gradé **ḍaʿīf** par al-Dāraquṭnī. La chaîne passe par Yaḥyā ibn Ayyūb al-Miṣrī, que Yaḥyā ibn Maʿīn déclare ḍaʿīf.
+- Le contexte est celui du **nadhr** (vœu) : la sœur de ʿUqba s'impose une **mortification** (marcher pieds nus et tête nue sous le soleil). Le Prophète annule le vœu d'ascèse excessive — conformément au principe bien attesté que « Dieu n'a pas besoin que l'on se punisse ».
+- L'ordre « *fal-tughaṭṭi raʾsahā* » (qu'elle couvre sa tête) est la **négation du vœu**, pas l'énoncé d'une obligation vestimentaire permanente. Le Prophète dit aussi « qu'elle monte » — personne n'en déduit que la marche est interdite aux femmes.
+
+Le raisonnement est limpide : le hadith traite de l'**annulation d'un nadhr** (fiqh des vœux), pas du **ḥukm du voile** (fiqh du vêtement). Son utilisation comme preuve de l'obligation du couvre-chef est un **détournement de contexte** (*iqtiṭāʿ*) — on extrait une phrase de son cadre juridique (les vœux) pour la transférer dans un autre (le vêtement).
+
 ---
 
 ## La tension interne — comment le système se retourne contre lui-même
@@ -324,7 +381,7 @@ Le patrimoine exégétique pose un problème que les fuqahāʾ n'ont jamais rés
 - **Q 24:31** s'adresse aux **muʾmināt** — toutes les croyantes, sans distinction de statut. Si ce verset fonde le khimār, il devrait couvrir les esclaves aussi.
 - **Q 33:59** s'adresse aux **nisāʾ al-muʾminīn** — que les exégètes limitent aux femmes libres, avec pour *ʿilla* la reconnaissance (*yuʿrafna*).
 
-Le dossier ʿUmar (29 traditions) traite exclusivement de **Q 33:59** — le jilbāb comme marqueur. Mais aucune tradition ne rapporte qu'ʿUmar ait exempté les esclaves du **khimār** au sens de Q 24:31. Le patrimoine ne tranche pas cette tension : les fuqahāʾ ont **fusionné** les deux commandements (khimār et jilbāb) en un seul bloc « obligation du voile » — alors que les sources primitives les traitent comme deux prescriptions distinctes avec des *ʿilal* différentes.
+Le dossier ʿUmar traite exclusivement de **Q 33:59** — le jilbāb comme marqueur. Mais aucune tradition ne rapporte qu'ʿUmar ait exempté les esclaves du **khimār** au sens de Q 24:31. Le patrimoine ne tranche pas cette tension : les fuqahāʾ ont **fusionné** les deux commandements (khimār et jilbāb) en un seul bloc « obligation du voile » — alors que les sources primitives les traitent comme deux prescriptions distinctes avec des *ʿilal* différentes.
 
 ### Le paradoxe documenté dans le fiqh
 
@@ -354,20 +411,11 @@ Position paradoxale : Ibn Ḥazm aboutit à l'obligation universelle **non pas**
 
 ### Al-Albānī (m. 1999) — le refus du consensus
 
-**Al-Albānī**, *Jilbāb al-Marʾa al-Muslima* :
+**Al-Albānī**, *Jilbāb al-Marʾa al-Muslima fī l-Kitāb wal-Sunna* ([Shamela](https://shamela.ws/book/21223)), chap. « Ḥukm al-Jilbāb » :
 
-Al-Albānī rejette la distinction esclave/libre pour le jilbāb et considère que Q 33:59 s'adresse à **toutes** les musulmanes. Sa position est remarquable parce qu'elle vient d'un **muḥaddith salafiste** — pas d'un réformiste.
+Al-Albānī rejette la distinction esclave/libre pour le jilbāb et considère que Q 33:59 s'adresse à **toutes** les musulmanes. Il s'appuie sur la généralité du terme « *nisāʾ al-muʾminīn* » et argue que la *ʿilla* du verset (ne pas être harcelées) s'applique à toute femme, pas uniquement aux femmes libres. La position est d'autant plus notable qu'elle vient d'un **muḥaddith traditionaliste** — pas d'un réformiste.
 
-Mais al-Albānī crée un autre problème : il autorise le visage et les mains découverts (suivant le hadith d'Asmāʾ) contre l'avis wahhabite dominant qui impose le niqāb. Il se retrouve donc en porte-à-faux avec l'establishment saoudien tout en défendant l'obligation du jilbāb.
-
-### La position intermédiaire — le ḥijāb comme recommandation
-
-Plusieurs savants contemporains (sans qu'un consensus ne se dégage) distinguent entre :
-- Le **khimār** (couvre-chef) : obligation fondée sur Q 24:31
-- Le **jilbāb** (vêtement ample) : fondé sur Q 33:59, lié à la distinction et potentiellement contextuel
-- Le **niqāb** (couverture du visage) : pas d'obligation selon la majorité
-
-Cette distinction permet de maintenir un degré d'obligation (le khimār) tout en reconnaissant que le jilbāb avait une dimension sociale contextuelle.
+Dans le même ouvrage (chap. « Ḥudūd mā turaʾ al-marʾa »), al-Albānī autorise le **visage et les mains** découverts en s'appuyant sur le hadith d'Asmāʾ (Abū Dāwūd 4104) — qu'il considère renforcé par des *shawāhid* malgré le *irsāl* de Khālid ibn Durayk. Il défend donc simultanément l'obligation universelle du jilbāb **et** le visage découvert — combinaison qui contredit les deux camps dominants du débat contemporain.
 
 ---
 
@@ -393,7 +441,7 @@ Cette distinction permet de maintenir un degré d'obligation (le khimār) tout e
                                    = première fissure
 ```
 
-Le dossier du ḥijāb illustre un mécanisme documentable dans le patrimoine : un système de **distinction par statut** (Ier siècle) est rationalisé par les quatre écoles (IIe-IVe siècle), puis **sapé de l'intérieur** par les juristes eux-mêmes (Ibn Taymiyya, Mālikites) qui reconnaissent que la *ʿilla* du statut ne tient plus face à la réalité de la fitna. Le passage d'une obligation **limitée aux femmes libres** à une obligation **présentée comme universelle** n'a jamais fait l'objet d'un *ijmāʿ* explicite — il s'est produit par l'effacement progressif de la catégorie « esclave » dans le discours juridique, sans que les textes fondateurs (Q 33:59, traditions d'ʿUmar) n'aient été réinterprétés.
+Le dossier du ḥijāb illustre un mécanisme documentable dans le patrimoine : un système de **distinction par statut** (Ier siècle) est rationalisé par les quatre écoles (IIe-IVe siècle), puis **sapé de l'intérieur** par les juristes eux-mêmes (Ibn Taymiyya, Mālikites) qui reconnaissent que la *ʿilla* du statut ne tient plus face à la réalité de la fitna. Le patrimoine maintient simultanément des propositions mutuellement contradictoires — l'obligation fondée sur le statut et l'obligation fondée sur la pudeur — sans qu'un *ijmāʿ* explicite n'ait jamais acté le passage de l'une à l'autre, et sans que les textes fondateurs (Q 33:59, traditions d'ʿUmar) n'aient été réinterprétés.
 
 ---
 
@@ -410,7 +458,7 @@ Le dossier du ḥijāb illustre un mécanisme documentable dans le patrimoine : 
 
 ### Concepts
 - [[Concepts/Al-Ziyāda fī al-kutub]] — l'enrichissement progressif du texte entre les versions
-- [[Concepts/Isrāʾīliyyāt]] — le substrat Ka'b al-Aḥbār dans le matériel sur les femmes
+- [[Concepts/Isrā'īliyyāt|Isrāʾīliyyāt]] — le substrat Ka'b al-Aḥbār dans le matériel sur les femmes
 - [[Concepts/Caisses de résonance]] — les autoroutes par lesquelles le matériel circule
 - [[Concepts/ʿAdālat al-Ṣaḥāba]] — le statut d'ʿUmar comme source de jurisprudence
 - [[Concepts/Taḥammul al-ḥadīth]] — les formules de transmission et leur fiabilité

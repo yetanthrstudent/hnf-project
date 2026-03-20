@@ -170,4 +170,4 @@ Quand un ḥadīth est transmis par l'une de ces autoroutes, il acquiert un **po
 - [[Concepts/Ittibāʿ al-Majarra]] — l'effet d'aspiration de la chaîne dominante
 - [[Concepts/Al-Ziyāda fī al-kutub]] — la falsification matérielle des livres
 - [[Concepts/Taḥammul al-ḥadīth]] — les formules ambiguës (ḥaddathanā vs akhbaranā)
-- [[Concepts/Isrāʾīliyyāt]] — le matériel de Ka'b qui passe par les autoroutes
+- [[Concepts/Isrā'īliyyāt|Isrāʾīliyyāt]] — le matériel de Ka'b qui passe par les autoroutes

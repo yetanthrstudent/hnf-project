@@ -35,3 +35,12 @@ C'est le **même interdit** transmis en parallèle par d'autres fonctionnaires o
 ## Double casquette
 
 Comme [[Rajā' ibn Ḥaywa]] (conseiller et juge) et [[Nawf al-Bikālī]] (qāṣṣ et soldat), Maymūn ibn Mahrān illustre la **fusion** entre savoir religieux et pouvoir administratif omeyyade. Il cumule le rôle de savant reconnu et de haut responsable dans l'appareil d'État de 'Abd al-Malik ibn Marwān.
+
+## Voir aussi
+
+- [[Personnes/Sulaymān ibn Mūsā]] — le formule le classement des quatre savants régionaux où Maymūn représente la Jazīra
+- [[Personnes/Makhūl al-Shāmī]] — l'autorité du Shām dans le même classement
+- [[Personnes/al-Zuhrī]] — l'autorité du Ḥijāz ; reconnaît n'avoir jamais entendu l'interdit des carnassiers
+- [[Traditions/Interdiction des carnassiers]] — la tradition transmise par Maymūn via Ibn 'Abbās
+- [[Concepts/Kūfa contre le Chām]] — le cadre géopolitique des autorités régionales
+- [[Personnes/Rajā' ibn Ḥaywa]] — même profil : savant-fonctionnaire omeyyade
