@@ -120,6 +120,42 @@ Les divergences de lecture ne sont pas cosmétiques. Elles produisent des **dive
 
 La politique des points diacritiques (naqṭ), imposée par Marwān et 'Abd al-Malik, fixe les lectures — et avec elles les doctrines. Les Kūfites récitent différemment pour préserver leur lecture et leur doctrine.
 
+## Question 6 : La prière — divergences rituelles
+
+Le conflit Kūfa/Chām ne se limite pas aux questions doctrinales. Il traverse le corps même de la prière. Les divergences rituelles sont systématiques, et dans presque tous les cas, c'est la position du **Chām** qui l'emporte dans le canon — parce que c'est le camp qui contrôle la production du hadith.
+
+| Question rituelle | Position kūfiote | Position shāmī | Qui l'emporte |
+|---|---|---|---|
+| Qabd/Sadl (mains) | Sadl (bras le long du corps) | Qabd (mains croisées) | Shām |
+| Position des pieds | Écartés | Joints | Shām |
+| Adhān des femmes | Autorisé | Interdit | Shām |
+| Nombre de takbīrāt | Variable | Fixe | Shām |
+| Direction du regard | Vers le sol | Vers la qibla | Shām |
+| Tashahud | Version d'[[Personnes/Ibn Mas'ūd|Ibn Mas'ūd]] | Version d'Ibn ʿUmar / ʿĀʾisha | Shām |
+| Qunut | Au fajr | Abandonné | Shām |
+| Prière du Witr | Obligatoire (wājib), réservée aux « gens du Coran » | — | Sunna non obligatoire |
+| Tarāwīḥ (nb. unités) | 20 | 32 | Variable |
+| Prière de Ḍuḥā | Non pratiquée | — | Non pratiquée à Médine non plus |
+| Salām | Deux | — | — |
+
+### Le qabd comme pratique juive et chrétienne
+
+Le cas du qabd (mains croisées sur la poitrine) est le plus révélateur. La pratique n'est attestée qu'au **Chām** — elle n'a aucune racine kūfie, médinoise ou mecquoise.
+
+[[Personnes/al-Ḥasan al-Baṣrī|Al-Ḥasan al-Baṣrī]] rapporte avoir vu les **grands rabbins de Banū Isrāʾīl** pratiquer le qabd. Mujāhid qualifie cette posture de **pratique des Ahl al-Kitāb** (les gens du Livre — juifs et chrétiens). Ce n'est pas un détail polémique marginal : c'est un constat de deux autorités anciennes indépendantes.
+
+**Al-Shinqīṭī** a démoli les chaînes de transmission du qabd une par une. Le ḥadīth le plus souvent invoqué — celui de **Wāʾil ibn Ḥujr** — est évité par **al-Bukhārī lui-même**, car le transmetteur ʿĀṣim ibn Kulayb ne pouvait avoir entendu cette tradition de son père. Quand Bukhārī refuse un hadith, c'est un signal fort.
+
+### La prière modifiée par les gouverneurs
+
+Les gouverneurs omeyyades modifient les détails concrets de la prière : les horaires, la position des mains (qabd), le nombre de takbīrāt. Puis des **ḥadīths apparaissent** pour légitimer ces modifications a posteriori. Le schéma est toujours le même : le pouvoir change la pratique d'abord, le hadith la canonise ensuite.
+
+C'est la définition même du [[Concepts/ʿAmal al-Sulṭān|ʿAmal al-Sulṭān]] — la Sunna du régime devenue Sunna du Prophète. (Module 17)
+
+### La Sunna comme source d'autorité — un phénomène shāmī
+
+Point décisif : la **Sunna comme source d'autorité juridique** n'existe qu'au **Chām**, pas en Irak. La Kūfa du premier siècle ne connaît pas la Sunna comme catégorie normative autonome — elle connaît le Coran et la pratique des Compagnons (ʿamal). C'est le Chām qui invente le concept de Sunna comme corpus normatif distinct, capable de **primer sur le Coran** (Makhūl : « le Coran a plus besoin de la Sunna »). (Modules 8+14)
+
 ## Synthèse — deux islams
 
 ```

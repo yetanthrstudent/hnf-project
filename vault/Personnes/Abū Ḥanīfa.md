@@ -26,6 +26,22 @@ sources_cles:
 
 Sa position dans le dossier [[Concepts/Kūfa contre le Chām|Kūfa contre le Chām]] est centrale : il incarne le rejet systématique de la Sunna du Chām et la primauté du Coran.
 
+## Persécuté comme « jahmī »
+
+Le terme **jahmī** est une accusation politique, pas une description doctrinale. Les Omeyyades et les premiers ʿAbbāsides l'utilisent contre les opposants — quiconque refuse l'obéissance inconditionnelle au pouvoir ou conteste les hadiths qui la fondent est taxé de « jahmisme ». Abū Ḥanīfa en est l'une des cibles principales : son refus de servir le pouvoir et son rejet des traditions du Chām suffisent à le classer comme hérétique aux yeux de l'appareil religieux officiel. (Module 16)
+
+## Rejet du khabar al-āḥād en matière de ʿaqīda
+
+Position méthodologique, pas sectaire : Abū Ḥanīfa refuse de fonder la **croyance** (ʿaqīda) sur des transmissions uniques (āḥād). Le khabar al-āḥād — un hadith transmis par un seul rapporteur à chaque génération — ne produit pas de certitude (yaqīn), seulement de la probabilité (ẓann). Or la croyance exige la certitude. Cette position est cohérente avec la primauté du Coran : ce qui est **mutawātir** (massivement transmis) fait autorité, le reste est soumis au jugement critique. (Module 16)
+
+## Liens avec les mouvements révolutionnaires anti-omeyyades
+
+Abū Ḥanīfa n'est pas un quiétiste. Il finance et soutient les mouvements de révolte contre les Omeyyades, notamment la révolution de Zayd ibn ʿAlī (122H). Son refus du poste de qāḍī sous al-Manṣūr n'est pas de la fausse modestie — c'est un refus politique de cautionner un pouvoir qu'il considère illégitime. Il meurt en prison pour ce refus. (Module 16)
+
+## Le Witr comme wājib
+
+L'école ḥanafite considère le **witr** comme **wājib** (obligatoire) — position irakienne distincte, en opposition avec les écoles du Ḥijāz et du Chām qui le classent comme sunna mu'akkada (recommandé). Cette position s'inscrit dans la tradition kūfie d'[[Personnes/Ibn Mas'ūd|Ibn Masʿūd]] et de [[Personnes/Hudhayfah ibn al-Yamān|Hudhayfah]] sur la prière. (Module 17)
+
 ## Le cheikh des Kūfites contre la Sunna du Chām
 
 Al-Khaṭīb al-Baghdādī (Tārīkh Madīnat al-Salām) est la source principale de ces anecdotes. Note importante : al-Khaṭīb est **hostile** à Abū Ḥanīfa — il rapporte ces récits pour le discréditer. Mais c'est précisément ce qui les rend précieux : un ennemi doctrinal documente involontairement la position kūfie authentique.
@@ -99,6 +115,7 @@ La victoire de Kūfa est une victoire de forme — le madhhab survit. La victoir
 ## Voir aussi
 
 - [[Concepts/Kūfa contre le Chām]] — la fiche centrale des cinq questions
+- [[Concepts/Ahl al-Sunna wal-Jamā'a]] — l'appellation du camp adverse
 - [[Sufyān al-Thawrī]] — l'autre grand Kūfien, fugitif politique
 - [[Concepts/ʿAmal al-Sulṭān]] — le spectre politique : Abū Ḥanīfa du côté du refus total
 - [[Personnes/Ibn Mas'ūd]] — le fondateur de la tradition kūfie dont Abū Ḥanīfa hérite

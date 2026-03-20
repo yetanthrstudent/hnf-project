@@ -169,6 +169,14 @@ Déjà dans [[Concepts/ʿAdālat al-Ṣaḥāba]] — résumé ici. ʿUrwa ident
 
 ʿUrwa ne dit pas : « Ibn ʿAbbās s'est trompé. » Il dit : sa **source** est un poème, pas une tradition prophétique. Le tābiʿī fait du jarḥ sur le ṣaḥābī — et un jarḥ méthodologique, pas une simple divergence d'opinion. Cet épisode révèle aussi la rigueur intellectuelle de ʿUrwa : il ne se contente pas de contredire, il **identifie la source alternative**.
 
+## ʿUrwa et la construction de la Sīra
+
+ʿUrwa est l'un des **premiers à mettre par écrit des éléments de la Sīra**. Ses lettres au calife ʿAbd al-Malik — documentées ci-dessus — constituent le plus ancien noyau narratif de la biographie prophétique. Ce matériel est ensuite transmis et formalisé par son élève principal, **[[Personnes/al-Zuhrī|al-Zuhrī]]**. Le **monopole de la Sīra par al-Zuhrī** commence ici : c'est lui qui transforme les souvenirs épistolaires de ʿUrwa en traditions avec isnād, et c'est par lui que passe l'essentiel de ce qui deviendra la Sīra canonique. Voir [[Concepts/Critique des sources de la Sīra]] pour une analyse plus large de ce phénomène.
+
+### L'anachronisme de ʿAbd Allāh ibn al-Zubayr — la construction de la mosquée
+
+Une tradition attribuée à **ʿAbd Allāh ibn al-Zubayr** (le frère de ʿUrwa) sur la construction de la mosquée du Prophète contient un **anachronisme révélateur** : elle cite la **maison de Jaʿfar al-Ṣādiq** (m. 148 H) comme repère topographique. Or ʿAbd Allāh ibn al-Zubayr meurt en **73 H** — il ne peut pas avoir mentionné une maison identifiée par un homme né en 80 H et qui ne sera célèbre qu'au milieu du IIᵉ siècle. Ce décalage chronologique trahit une **rétroprojection** : le récit a été composé ou retouché **après** l'époque de Jaʿfar al-Ṣādiq, puis attribué à ʿAbd Allāh ibn al-Zubayr pour lui donner l'autorité d'un témoin oculaire. L'épisode illustre comment les traditions sur la topographie de Médine ont été **réécrites** à mesure que la ville changeait — et comment le nom d'un Compagnon sert de caution à un récit postérieur.
+
 ## Hishām ibn ʿUrwa — le fils qui transmet en Iraq
 
 [[Hishām ibn ʿUrwa]] (m. 146H) est le **fils** et principal transmetteur de ʿUrwa. Deux phases :

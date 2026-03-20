@@ -69,8 +69,41 @@ Al-Ṭabarī ([p. 2226](https://shamela.ws/book/7798/2226)), via Sa'īd ibn Abī
 
 L'image « peaux de brebis / cœurs de loups » est un écho de **Matthieu 7:15**. Par « كتاب الله المنزل » Nawf peut désigner l'Évangile (qui est un « Livre de Dieu révélé » au sens théologique islamique), mais la formulation est ambiguë et le contenu est absorbé dans le commentaire coranique sans marqueur d'extériorité. Al-Quraẓī cherche ensuite à retrouver ce texte dans le Coran et le rattache aux versets sur les hypocrites — raccordement *a posteriori*. Voir [[Concepts/Formule - dans certains Livres|la formule « dans certains Livres »]].
 
+## Filière yéménite d'isrāʾīliyyāt — maillon central
+
+Nawf est le **maillon de transmission** entre [[Ka'b al-Ahbar]] et la diffusion au Shām. Le réseau est documenté :
+
+```
+[[Ka'b al-Ahbar]] (m. 32H, Homs)
+    │
+    │  beau-fils (ابن امرأة كعب)
+    │
+NAWF AL-BIKĀLĪ (~m. 83H, Homs/Damas)
+    │
+    │  qāṣṣ à Homs → imam à Damas
+    │
+    ├──→ [[Shahr ibn Ḥawshab]] (transmetteur direct)
+    ├──→ diffusion au Shām (réseau omeyyade)
+    └──→ [[Wahb ibn Munabbih]] (relais yéménite, génération suivante)
+```
+
+Le circuit est isrāʾīlī dans son contenu et omeyyade dans son cadre institutionnel. Nawf cumule trois caractéristiques qui en font un relais idéal :
+
+1. **Lien familial avec Ka'b** — il est le beau-fils, donc héritier « naturel » du corpus
+2. **Fonction de qāṣṣ** — il diffuse publiquement (prêche) dans la même ville que Ka'b (Homs)
+3. **Service militaire omeyyade** — il meurt au combat dans l'armée du frère du calife
+
+Le lien avec Ka'b n'est pas un détail biographique : c'est la **condition structurelle** de sa fonction de transmetteur. Les matériaux isrāʾīlī de Ka'b passent par Nawf avant d'être absorbés dans le corpus syrien.
+
 ## Chronologie
 
 - Actif sous Muṣ'ab ibn al-Zubayr à **Kufa** (67-72 H) — présence en territoire zubayride
 - Imam et qāṣṣ à **Damas** et **Homs**
 - Mort à **al-Ṭawāna** (~83 H) dans une campagne militaire omeyyade
+
+## Voir aussi
+
+- [[Ka'b al-Ahbar]] — beau-père, source principale
+- [[Wahb ibn Munabbih]] — relais yéménite de la génération suivante
+- [[Concepts/Isrā'īliyyāt]] — le contenu transmis par ce réseau
+- [[Concepts/Quṣṣāṣ]] — la fonction institutionnelle de Nawf

@@ -90,9 +90,9 @@ Dans les deux cas, Shu'ba détecte le tadlīs — il pose la question et obtient
 
 Shu'ba affirme que [[Qatāda ibn Di'āma|Qatāda]] n'a entendu d'Abū al-'Āliya que **3 choses** (Tirmidhī, [p. 318](https://shamela.ws/book/7895/318)). Les trois sont : le hadith d'Omar sur la prière, le hadith d'Ibn 'Abbās sur Yūnus ibn Mattā, et le hadith de 'Alī sur les juges. Voir [[Concepts/Kafaytukum tadlīs thalātha]].
 
-Or **Shu'ba lui-même** transmet dans Ṣaḥīḥ Muslim (n° 165) un hadith de l'Isrā' par la chaîne Qatāda ← Abū al-'Āliya ← Ibn 'Abbās, dans lequel Qatāda déclare : **« سمعت أبا العالية »** — « j'ai entendu Abū al-'Āliya » — la formule de samāʿ la plus forte. Ce hadith (description de Moïse, de 'Īsā, de Mālik gardien de l'enfer, du Dajjāl) **ne figure pas parmi les trois choses**.
+Or **Shu'ba lui-même** transmet dans Ṣaḥīḥ Muslim ([165](https://shamela.ws/book/1727/434)) un hadith de l'Isrā' par la chaîne Qatāda ← Abū al-'Āliya ← Ibn 'Abbās, dans lequel Qatāda déclare : **« سمعت أبا العالية »** — « j'ai entendu Abū al-'Āliya » — la formule de samāʿ la plus forte. Ce hadith (description de Moïse, de 'Īsā, de Mālik gardien de l'enfer, du Dajjāl) **ne figure pas parmi les trois choses**.
 
-Le même hadith est dans Bukhārī (n° 3239, 3396) et dans le Musnad d'Aḥmad (n° 2197, via Shaybān — déclaré ṣaḥīḥ 'alā sharṭ al-shaykhayn). Il est **muttafaq 'alayh** (unanimement reconnu comme authentique) — aucun savant ne peut l'écarter.
+Le même hadith est dans Bukhārī ([3239](https://shamela.ws/book/1681/5155), [3396](https://shamela.ws/book/1681/5388)) et dans le Musnad d'Aḥmad (n° 2197, via Shaybān — déclaré ṣaḥīḥ 'alā sharṭ al-shaykhayn). Il est **muttafaq 'alayh** (unanimement reconnu comme authentique) — aucun savant ne peut l'écarter.
 
 **Shu'ba transmet donc lui-même un 4ᵉ hadith où Qatāda revendique le samāʿ direct d'Abū al-'Āliya, contredisant son propre bilan de « 3 choses seulement ».**
 
@@ -122,6 +122,20 @@ Shu'ba n'accumule pas — contrairement à [[Qatāda ibn Di'āma|Qatāda]] (entr
 - **Patronné par** le calife al-Mahdī (30 000 dirhams + terres)
 - **Contemporain de** Sufyān al-Thawrī (qui lui donne le titre d'Amīr al-Mu'minīn fī l-Ḥadīth)
 - **Contemporain de** [[Ḥammād ibn Zayd]] (Basra) — qui, lui, n'a jamais rencontré [[Qatāda ibn Di'āma|Qatāda]]
+
+## Contrôle qualité systématique
+
+Au-delà de sa garantie pour les trois mudallis, Shuʿba exerce un **contrôle qualité systématique** sur les chaînes de transmission. Il est le principal critique qui vérifie les isnāds, identifie les mudallis, et traque les discontinuités. Son rôle n'est pas celui d'un simple transmetteur passif : il interroge activement ses sources, confronte les versions, et documente les aveux de tadlīs — comme le montrent les cas d'Abū Isḥāq et de Ḥumayd ci-dessus. Ce profil de « contrôleur » est unique dans sa génération et fait de lui le point de confiance du système entier.
+
+## Le ḥadīth de l'imāma — Ṣaḥīḥ Muslim 673
+
+Le ḥadīth sur l'imāma (qui dirige la prière) dans Ṣaḥīḥ Muslim ([673](https://shamela.ws/book/1727/1798)) contient la mention : « **le plus de connaissances sur la Sunna** » (أعلمهم بالسنة). Cette addition est **tardive** et absente des versions les plus exactes. Shuʿba et Ismāʿīl ne rapportent **pas** cette addition. Abū Ḥātim (al-ʿIlal, t. 2 p. 110) considère que la version la plus exacte ne la mentionne pas.
+
+C'est un cas d'école de **ziyāda** (addition) dans le matn : un segment doctrinal (la connaissance de la Sunna comme critère de leadership) est ajouté au texte par des transmetteurs tardifs, tandis que les transmetteurs les plus rigoureux — dont Shuʿba — ne le connaissent pas. La version sans l'addition est celle qui fait autorité selon la critique interne.
+
+## Fabrication du ḥadīth sur la musique
+
+Shuʿba aurait **identifié la fabrication** du ḥadīth sur l'interdiction de la musique (maʿāzif). Son verdict illustre le même pattern que pour les autres cas : le contrôleur détecte le problème, le documente — mais la tradition continue de circuler dans les recueils malgré le signalement.
 
 ## Synthèse
 

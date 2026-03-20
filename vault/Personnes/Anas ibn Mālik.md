@@ -132,7 +132,7 @@ Dimashq [20/394](https://shamela.ws/book/71/9185), Qabūl al-Akhbār [1/191](htt
 
 ### [[ʿUrwa ibn al-Zubayr|ʿUrwa]] — la contradiction sur les ʿumra
 
-[[ʿUrwa ibn al-Zubayr|ʿUrwa]] contredit Anas sur le nombre de ʿumra (pèlerinages mineurs) du Prophète. Anas dit quatre ; ʿUrwa, s'appuyant sur ʿĀʾisha, le corrige (Bukhārī [1778](https://shamela.ws/book/1681/2843)-[1779](https://shamela.ws/book/1681/2844) vs Muwaṭṭaʾ [342](https://shamela.ws/book/1699/1011)). Le texte de ʿĀʾisha est sans appel : **Anas a tort**.
+[[ʿUrwa ibn al-Zubayr|ʿUrwa]] contredit Anas sur le nombre de ʿumra (pèlerinages mineurs) du Prophète. Anas dit quatre ; ʿUrwa, s'appuyant sur ʿĀʾisha, le corrige (Bukhārī [1778](https://shamela.ws/book/1681/2843)–[1779](https://shamela.ws/book/1681/2844) vs Muwaṭṭaʾ [342](https://shamela.ws/book/1699/1011)). Le texte de ʿĀʾisha est sans appel : **Anas a tort**.
 
 ### Abū Khaldah — « Anas a-t-il entendu du Prophète ? »
 
@@ -254,7 +254,7 @@ Fait remarquable : **aucun grand Compagnon ne rapporte d'Anas**. Ses transmetteu
 
 Hadith massivement transmis via Anas (plus de 20 transmetteurs) : des hommes de ʿUkl/ʿUraniyya apostasient, volent les chamelles de la ṣadaqa, tuent le berger. Le Prophète ordonne de leur couper les mains et les pieds, de leur crever les yeux et de les abandonner dans le désert.
 
-**Al-Ḥajjāj** demande explicitement à Anas la punition la plus sévère du Prophète (Bukhārī n° 5685, [p. 8508](https://shamela.ws/book/1681/8508)). Le vendredi suivant, il monte sur le minbar et utilise le hadith pour justifier ses propres mutilations : « أفلا نفعل نحن ذلك في معصية الله ؟ » (Fatḥ al-Bārī, [p. 5903](https://shamela.ws/book/1673/5903)).
+**Al-Ḥajjāj** demande explicitement à Anas la punition la plus sévère du Prophète (Bukhārī [5685](https://shamela.ws/book/1681/8508)). Le vendredi suivant, il monte sur le minbar et utilise le hadith pour justifier ses propres mutilations : « أفلا نفعل نحن ذلك في معصية الله ؟ » (Fatḥ al-Bārī, [p. 5903](https://shamela.ws/book/1673/5903)).
 
 **[[Al-Ḥasan al-Baṣrī]]** blâme Anas d'avoir armé le tyran — et traite al-Ḥajjāj de **shayṭān** (ʿAbd al-Razzāq [9/258](https://shamela.ws/book/13174/18538)). **ʿAlī ibn al-Ḥusayn** (Zayn al-ʿĀbidīn) nie catégoriquement le hadith via une chaîne passant par trois Imams d'Ahl al-Bayt (al-Bayhaqī, Maʿrifat [p. 6826](https://shamela.ws/book/2863/6826)).
 
@@ -269,6 +269,40 @@ Anas lui-même **regrette** d'avoir transmis ce hadith à al-Ḥajjāj :
 > « J'aurais voulu mourir avant de le lui raconter. » (Tārīkh Dimashq [p. 1976](https://shamela.ws/book/71/1976))
 
 Le regret est **stratégique** — Anas ne dit pas que le hadith est faux, il regrette d'avoir armé al-Ḥajjāj. Le schéma est familier : un hadith d'Anas, transmis par le réseau basrien, **sert les intérêts du pouvoir** en place.
+
+## La sénilité documentée — Dāraquṭnī et les Kūfiotes
+
+Le problème de la **sénilité** d'Anas n'est pas une hypothèse moderne — il est documenté par al-Dāraquṭnī et les savants kūfiotes. Anas meurt en 93H à un âge avancé (plus de 100 ans selon la plupart des sources). La question de la fiabilité de sa mémoire dans ses dernières décennies est légitime : un homme qui transmet activement entre ~75H et 93H transmet dans une période où ses facultés sont affaiblies.
+
+**Kūfa ne retenait d'ailleurs pas ses récits** : les Kūfiotes lui reprochaient sa **consommation excessive de ṭalāʾ** (boisson fermentée à base de vin cuit). Ce rejet n'est pas un argument isolé — il converge avec le témoignage de [[Personnes/Shu'ba ibn al-Ḥajjāj|Shuʿba]] qui l'a vu boire du ṭilāʾ « à mi-concentration », et avec celui de Mujāhid qui refuse de l'écouter pour la même raison (« **دعه فإنه يشرب الطلاء** »).
+
+La convergence est remarquable : un homme dont la sénilité est documentée, dont la consommation de ṭilāʾ est attestée par des témoins oculaires, et dont le samāʿ réel est mis en doute par ses contemporains — et pourtant 2286 hadiths lui sont attribués.
+
+---
+
+## La perturbation des chaînes du Miʿrāj
+
+Al-Dāraquṭnī démontre un problème structurel dans le **ḥadīth du Miʿrāj** transmis via Anas. La version canonique (Bukhārī [3207](https://shamela.ws/book/1681/5109), Muslim [164](https://shamela.ws/book/1727/432)) passe par **Mālik ibn Ṣaṣaʿa** ← Anas — mais al-Dāraquṭnī montre que l'erreur dans cette chaîne vient **d'après Anas** : les transmetteurs sont **prolixes** après lui, ajoutant des détails et des personnages absents des versions les plus anciennes.
+
+Le test décisif vient de la version de **[[Thābit al-Bunānī]]** via Anas : cette version **ne mentionne ni Mālik ibn Ṣaṣaʿa ni Abū Dharr**. Ces deux personnages — qui apparaissent dans les versions canoniques comme des témoins ou des intermédiaires — sont des **ajouts tardifs** introduits par les transmetteurs postérieurs à Anas.
+
+```
+VERSION THĀBIT → ANAS (ancienne)
+    Le Prophète raconte le Miʿrāj
+    → PAS de Mālik ibn Ṣaṣaʿa
+    → PAS d'Abū Dharr
+
+VERSION CANONIQUE (tardive)
+    Mālik ibn Ṣaṣaʿa ← Anas
+    + Abū Dharr comme témoin
+    → AJOUTS des transmetteurs postérieurs à Anas
+```
+
+Ce cas illustre le phénomène de l'**inflation narrative** : un récit simple transmis par un Compagnon s'enrichit de détails et de personnages à chaque génération de transmetteurs. Al-Dāraquṭnī attrape le mécanisme, mais la tradition canonique retient la version la plus développée — celle qui est aussi la plus tardive.
+
+Voir aussi : [[Traditions/Isrāʾ et Miʿrāj]]
+
+---
 
 ## Relations
 
@@ -324,3 +358,5 @@ Le résultat : 2286 hadiths attribués à un homme dont les contemporains douten
 ## Voir aussi
 
 - [[Concepts/ʿAmal al-Sulṭān]] — Anas comme Compagnon-gouverneur : incarnation du pouvoir ET transmetteur prolifique
+- [[Traditions/Isrāʾ et Miʿrāj]] — perturbation des chaînes, ajouts tardifs post-Anas (Mālik ibn Ṣaṣaʿa, Abū Dharr)
+- [[Personnes/Thābit al-Bunānī]] — version du Miʿrāj sans les ajouts canoniques

@@ -64,6 +64,14 @@ Bazzār 2799, Ibn Ḥibbān 117. Isnād kūfī :
 
 Les deux versions ne peuvent pas être simultanément authentiques. La question qu'elles posent n'est pas « laquelle est vraie ? » mais « pourquoi la version qui sert le pouvoir est-elle dans Muslim, et celle qui l'affaiblit dans des sources mineures ? »
 
+## Le Miʿrāj — « le Prophète n'a JAMAIS prié à Jérusalem »
+
+Hudhayfah affirme que le Prophète **n'a jamais prié à Jérusalem** lors de l'Isrāʾ — contradiction frontale avec les autres versions du récit qui font de la prière à Bayt al-Maqdis un élément central de l'ascension nocturne. (Module 2)
+
+Cette position converge avec son refus d'al-Quds (voir ci-dessous) : Hudhayfah rejette en bloc la sacralisation de Jérusalem, qu'il s'agisse de pèlerinage ou de récit prophétique. Pour le parti kūfien, la prière à Jérusalem est un **ajout shāmī** destiné à légitimer la centralité politique et religieuse de la Palestine omeyyade.
+
+Le témoignage de Hudhayfah fonctionne comme un **contre-récit kūfien** : si le Prophète avait prié à Jérusalem, comment un Compagnon aussi proche que Hudhayfah — le « gardien du secret » — pourrait-il l'ignorer ou le nier ?
+
 ## La question du Witr
 
 Hudhayfah, en tant que figure kūfie, est mobilisé dans le débat rituel entre Chām et Kūfa sur le Witr :
@@ -98,6 +106,7 @@ Le fait que Muslim ait retenu la version shāmie et non la kūfie n'est pas un h
 
 ## Voir aussi
 
+- [[Traditions/Isrāʾ et Miʿrāj]] — le dossier complet, incluant le déni de Hudhayfah
 - [[Concepts/Kūfa contre le Chām]] — la fiche centrale des cinq questions
 - [[Concepts/Ahl al-Sunna wal-Jamā'a]] — l'appellation du camp shāmī
 - [[Personnes/Abū Ḥanīfa]] — le cheikh kūfien qui rejette la Sunna du Chām

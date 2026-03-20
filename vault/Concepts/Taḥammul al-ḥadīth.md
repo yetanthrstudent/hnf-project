@@ -348,3 +348,4 @@ Le système connaît ses failles — il les documente, les nomme, les hiérarchi
 - **[[Personnes/Ibn Jurayj]]** — tadlīs systématique derrière le ʿan
 - **[[Personnes/Al-Aʿmash]]** — autre mudallis notoire
 - **[[Personnes/Qatāda ibn Di'āma]]** — wijāda par un aveugle : le lecteur fantôme
+- **[[Concepts/Mawqūf élevé en marfūʿ]]** — le raf' contesté comme conséquence du brouillage des formules

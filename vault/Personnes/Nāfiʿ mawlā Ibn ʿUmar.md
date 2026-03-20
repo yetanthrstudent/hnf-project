@@ -8,7 +8,7 @@ origine: "Esclave capturé — origines disputées : Maghreb, Nīshāpūr, Kabou
 role: [muḥaddith]
 evaluation:
   positif: "thiqa thabt faqīh mashhūr — unanime (Ibn Ḥajar) ; « on ne lui connaît aucune erreur » (al-Khalīlī)"
-  probleme: "irsāl depuis ʿUmar, ʿUthmān, Umm Salama, ʿĀʾisha ; iḍṭirāb documenté par al-Dāraquṭnī (ʿIlal 2975)"
+  probleme: "irsāl depuis ʿUmar, ʿUthmān, Umm Salama, ʿĀʾisha ; iḍṭirāb documenté par al-Dāraquṭnī (ʿIlal 2975) ; 397 ḥadīths avec défauts (ʿilal) malgré le statut de thiqa par consensus"
 sources_cles:
   - {ref: "shamela.ws/book/3722/15870", desc: "Tahdhīb al-Kamāl — notice n° 6373 (~8 pages)"}
   - {ref: "shamela.ws/book/9082/4900", desc: "ʿIlal al-Dāraquṭnī — n° 2975 : iḍṭirāb du hadith de la jāriya (3 pages)"}
@@ -125,6 +125,9 @@ Al-Nasāʾī identifie trois hadiths où Nāfiʿ et Sālim (le fils d'Ibn ʿUmar
 | « Fī-mā saqat al-samāʾ al-ʿushr » (dîme) | **Marfūʿ** (du Prophète) | **Mawqūf** (de ʿUmar) | Nāfiʿ préféré |
 | « Man bāʿa ʿabdan wa-lahu māl » (vente d'esclave) | **Marfūʿ** | **Mawqūf** (de ʿUmar) | Nāfiʿ préféré |
 | « Takhruju nār min qibal al-Yaman » (le feu du Yémen) | **Marfūʿ** | **De [[Ka'b al-Ahbar\|Kaʿb al-Aḥbār]]**, pas du Prophète | Nāfiʿ préféré |
+| « Al-nāsu ka-ibil miʾa » (les hommes sont comme cent chameaux) | **Marfūʿ** | **Mawqūf** | Nāfiʿ préféré |
+
+Le quatrième cas (documenté dans la même page d'Ibn Rajab : « وفي حديث "الناس كإبل مائة" أيضا ») confirme le **pattern** : à chaque divergence, Nāfiʿ descend l'attribution là où Sālim l'élève — et les critiques donnent raison à Nāfiʿ. Il ne s'agit pas d'un accident isolé mais d'une tendance structurelle.
 
 Le troisième cas est le plus significatif pour notre propos : ce que Sālim attribue au Prophète, Nāfiʿ l'attribue à **Kaʿb al-Aḥbār**. Les critiques donnent raison à Nāfiʿ — ce qui signifie que même les muḥaddithūn reconnaissent implicitement que du matériel de Kaʿb a été **élevé** au Prophète. C'est le même phénomène documenté dans la chaîne [[Personnes/Al-Aʿmash|al-Aʿmash]] ← Abū Ṣāliḥ ← [[Abū Hurayra]], et le même que dénonce **Ibn Rajab** : « si on listait les hadiths élevés au Prophète qui sont en réalité de Kaʿb, la liste serait longue ».
 
@@ -229,6 +232,41 @@ Al-Dāraquṭnī attrape le passage du stade 4 au stade 3 (والموقوف أص
 
 Et le stade 4 — l'élévation au Prophète — passe par le canal **Suhayl → Abū Ṣāliḥ → Abū Hurayra** : exactement le circuit dont Abū Zurʿa dit هذا خطأ (Q.2022) et dont Aḥmad + Ibn al-Madīnī disent : **rien n'est établi**.
 
+## Autres cas d'iḍṭirāb et d'élévation — pistes à documenter
+
+Cinq cas supplémentaires suivent le même pattern (Nāfiʿ transmet comme marfūʿ ce que d'autres sources arrêtent en mawqūf, ou Nāfiʿ change de source intermédiaire selon les narrations). Al-Dāraquṭnī les examine dans ses ʿIlal (numéros à identifier) :
+
+| Cas | Problème | Source contradictoire |
+|-----|----------|-----------------------|
+| Vêtement traînant des femmes (une coudée) | Source de Nāfiʿ varie : Ṣafiyya bint Abī ʿUbayd / Sulaymān ibn Yasār / Ibn ʿUmar / Umm Salama (mursal) / « une femme inconnue » | Dāraquṭnī, ʿIlal (n° à identifier) |
+| Ablutions une seule fois | Nāfiʿ : marfūʿ (le Prophète lavait une fois) / Dāraquṭnī : mawqūf (pratique d'Ibn ʿUmar) | Dāraquṭnī, ʿIlal |
+| Siwāk avant chaque prière + retarder ʿIshāʾ | Nāfiʿ : d'après Ibn ʿUmar / source réelle : Saʿīd al-Maqburī d'après Abū Hurayra | Dāraquṭnī, ʿIlal |
+| Interdiction de prier au lever/coucher du soleil | Nāfiʿ : marfūʿ (le Prophète a interdit) / **ʿAbd Allāh ibn Dīnār** : mawqūf (parole de ʿUmar à son fils) | À identifier |
+| « La main haute est meilleure que la main basse » | Nāfiʿ : marfūʿ / **ʿAbd Allāh ibn Dīnār** : mawqūf (maxime des Compagnons) | Bukhārī (n° à identifier) |
+
+Le dernier cas est celui où les muḥaddithūn invoquent la règle de **ziyādat al-thiqa** (« quand un transmetteur fiable ajoute quelque chose, on accepte ») pour donner raison à Nāfiʿ contre Ibn Dīnār. Mais la règle fonctionne ici comme une **machine à élever** : chaque fois que Nāfiʿ attribue au Prophète ce qu'un concurrent attribue à un Compagnon, la ziyāda tranche automatiquement en faveur du marfūʿ. Le résultat systémique est une inflation de paroles prophétiques.
+
+---
+
+## 397 ḥadīths avec défauts — le chiffre que personne ne cite
+
+Malgré le consensus unanime sur son statut de **thiqa**, un nombre considérable de transmissions de Nāfiʿ présentent des **défauts** (ʿilal) : **397 ḥadīths** identifiés dans les ouvrages de critique du ḥadīth. Ce chiffre, issu de l'examen systématique des ʿIlal d'al-Dāraquṭnī et des ouvrages apparentés, contredit frontalement la déclaration d'al-Khalīlī selon laquelle « on ne lui connaît aucune erreur ».
+
+Le paradoxe est structurel : un transmetteur jugé **intouchable** par consensus, mais dont **397 traditions** présentent des problèmes documentés — iḍṭirāb (contradiction dans les chaînes), irsāl (interruption), confusion de source, ou divergence avec d'autres transmetteurs du même maître. La tradition résout la contradiction en attribuant systématiquement les défauts aux **élèves** de Nāfiʿ, jamais à Nāfiʿ lui-même. Mais quand les élèves en question sont Mālik, ʿUbaydullāh, Ibn ʿUyayna et Ayyūb — c'est-à-dire les plus grands noms de la génération — l'explication devient moins convaincante que le problème qu'elle prétend résoudre.
+
+---
+
+## La silsilat al-dhahab et [[Personnes/Ibn Jurayj|Ibn Jurayj]]
+
+La chaîne dorée (silsilat al-dhahab) **Mālik → Nāfiʿ → Ibn ʿUmar** est la chaîne la plus prestigieuse du corpus. Mais elle n'est pas la seule voie d'accès à Nāfiʿ. [[Personnes/Ibn Jurayj|Ibn Jurayj]] transmet lui aussi de Nāfiʿ, et les divergences entre les deux canaux sont révélatrices :
+
+- **Mālik** est médinois, contemporain et proche géographiquement de Nāfiʿ — il représente le canal « officiel »
+- **Ibn Jurayj** est mecquois — son accès à Nāfiʿ est moins direct, et ses versions divergent parfois
+
+La question est de savoir si le label « silsilat al-dhahab » a été construit pour **éliminer** les versions concurrentes (comme celles d'Ibn Jurayj) en faveur du canal Mālik. Le résultat systémique est clair : quand Mālik et Ibn Jurayj divergent sur une transmission de Nāfiʿ, c'est Mālik qui l'emporte — non parce que sa version est nécessairement meilleure, mais parce que la chaîne qui la porte est labellisée « en or ».
+
+---
+
 ## Nāfiʿ vs les autres transmetteurs d'Ibn ʿUmar
 
 Qui est le meilleur dans Nāfiʿ ? Le débat révèle que la suprématie de Mālik n'est **pas unanime** :
@@ -247,7 +285,8 @@ Les Iraqiens (Aḥmad, Yaḥyā al-Qaṭṭān) préfèrent ʿUbaydullāh. Les M
 - **Transmet de** Ibn ʿUmar (maître/patron), ʿĀʾisha (mursal ?), Abū Hurayra
 - **Ne transmet PAS de** ʿUmar ibn al-Khaṭṭāb (munqaṭiʿ), ʿUthmān (mursal), Umm Salama (pas de samāʿ)
 - **Transmis par** Mālik, ʿUbaydullāh ibn ʿUmar, Ayyūb al-Sakhtiyānī, Ibn ʿUyayna, Yaḥyā ibn Saʿīd al-Anṣārī, ʿUmar ibn Nāfiʿ (son fils)
-- **Diverge de** Sālim ibn ʿAbd Allāh (fils d'Ibn ʿUmar) dans 3-4 hadiths
+- **Diverge de** Sālim ibn ʿAbd Allāh (fils d'Ibn ʿUmar) dans 4 hadiths documentés
+- **Tafarrud suspect** — [[Al-Awzā'ī]] est le **seul** à rapporter de Nāfiʿ le [[Traditions/Kharijites - Coran - gosier|hadith des Kharijites]] (Ibn Mājah n° 174), alors que Mālik et les autres Médinois ne l'ont pas
 - **Lien avec** [[Ka'b al-Ahbar]] — le hadith du feu du Yémen est de Kaʿb, pas du Prophète
 - **Lien avec** [[Personnes/Suhayl ibn Abī Ṣāliḥ|Suhayl]] — le ghusl du mort : mawqūf chez Nāfiʿ, marfūʿ chez Suhayl → Abū Ṣāliḥ → Abū Hurayra (Aḥmad + Ibn al-Madīnī : لا يصح في الباب شيء)
 
@@ -257,6 +296,7 @@ Les Iraqiens (Aḥmad, Yaḥyā al-Qaṭṭān) préfèrent ʿUbaydullāh. Les M
 - [[Personnes/Ka'b al-Ahbar]] — source réelle du hadith du feu du Yémen
 - [[Personnes/Qatāda ibn Di'āma]] — autre mudallis dont les chaînes souffrent du même type d'iḍṭirāb
 - [[Personnes/Suhayl ibn Abī Ṣāliḥ]] — le canal qui élève le ghusl du mort au marfūʿ
+- [[Personnes/Ibn Jurayj]] — canal mecquois concurrent de Mālik pour la transmission de Nāfiʿ
 
 ---
 

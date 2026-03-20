@@ -39,11 +39,11 @@ Abū Ṣāliḥ se trouve à l'intersection de deux flux :
 - Ce qu'[[Abū Hurayra]] transmet du Prophète
 - Ce qu'Abū Hurayra rapporte **de Kaʿb** (et vice versa)
 
-Muslim 1666a montre les deux flux en action : Abū Hurayra rapporte un hadith, puis dit : « فحدثتها كعبا فقال كعب... » — « je l'ai raconté à Kaʿb, et Kaʿb a dit... ». Les traditions circulent dans les deux sens. Abū Ṣāliḥ reçoit le tout, sans distinguer.
+[Muslim 1666a](https://shamela.ws/book/1727) montre les deux flux en action : Abū Hurayra rapporte un hadith, puis dit : « فحدثتها كعبا فقال كعب... » — « je l'ai raconté à Kaʿb, et Kaʿb a dit... ». Les traditions circulent dans les deux sens. Abū Ṣāliḥ reçoit le tout, sans distinguer.
 
 ## Le fils — Suhayl ibn Abī Ṣāliḥ
 
-[[Personnes/Suhayl ibn Abī Ṣāliḥ|Suhayl]] transmet de son père. Mais : « تُكلِّم في سماعه من أبيه فقيل صحيفة » — on a contesté son audition de son père, on a dit : c'est une **ṣaḥīfa**. Al-Bukhārī l'évite dans le Ṣaḥīḥ. Muslim l'utilise — et Suhayl est le **seul** à élever le hadith « tuʿraḍ al-aʿmāl » au Prophète (Muslim 2565a), là où quatre autres transmetteurs d'Abū Ṣāliḥ le maintiennent mawqūf. → fiche détaillée : [[Personnes/Suhayl ibn Abī Ṣāliḥ]]
+[[Personnes/Suhayl ibn Abī Ṣāliḥ|Suhayl]] transmet de son père. Mais : « تُكلِّم في سماعه من أبيه فقيل صحيفة » — on a contesté son audition de son père, on a dit : c'est une **ṣaḥīfa**. Al-Bukhārī l'évite dans le Ṣaḥīḥ. Muslim l'utilise — et Suhayl est le **seul** à élever le hadith « tuʿraḍ al-aʿmāl » au Prophète ([Muslim 2565a](https://shamela.ws/book/1727)), là où quatre autres transmetteurs d'Abū Ṣāliḥ le maintiennent mawqūf. → fiche détaillée : [[Personnes/Suhayl ibn Abī Ṣāliḥ]]
 
 ## Le problème structurel
 

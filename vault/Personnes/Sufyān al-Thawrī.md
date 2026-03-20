@@ -121,6 +121,14 @@ La position de Sufyān est radicale même parmi les résistants : Abū Ḥanīfa
 
 Le madhhab thawrī s'éteint au IVe siècle, faute de soutien politique. Les quatre écoles survivantes ont toutes trouvé un patron — pas la sienne. La corrélation entre patronage et survie institutionnelle n'est pas un hasard.
 
+## La position kūfiote sur la prière — sadl contre qabd
+
+Sufyān al-Thawrī est un témoin majeur de la **position kūfiote** sur la posture des mains pendant la prière : le **sadl** (bras le long du corps), contre le **qabd** (main droite sur la gauche, posée sur la poitrine ou sous le nombril) défendu par les traditions shāmiyya et ḥijāziyya.
+
+La question n'est pas anecdotique : elle cristallise l'opposition entre deux traditions régionales de fiqh. Les Kūfiens — Abū Ḥanīfa, Sufyān al-Thawrī, [[Personnes/Al-Aʿmash|al-Aʿmash]] — pratiquent le sadl ou ne considèrent pas le qabd comme obligatoire. Le hadith du qabd (« وضع اليمنى على اليسرى في الصلاة ») circule principalement par des chaînes **shāmiyya** et est absent des pratiques kūfiotes les plus anciennes. Sufyān, en tant que fondateur d'un madhhab aujourd'hui éteint, représente cette tradition alternative — et son extinction même illustre la victoire des circuits shāmī et ḥijāzī sur le fiqh kūfien indépendant.
+
+Voir [[Concepts/Qabd et Sadl]] pour le dossier complet et [[Concepts/Kūfa contre le Chām]] pour le contexte géopolitique de cette divergence.
+
 ## Le triangle de Kūfa — al-Aʿmash, Shuʿba, Sufyān
 
 Les trois plus grands muḥaddithīn de Kūfa/Basra au IIe siècle forment un réseau étroit :

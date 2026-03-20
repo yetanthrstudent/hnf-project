@@ -113,7 +113,7 @@ Les deux grandes garnisons irakiennes ne sont pas interchangeables.
 | École juridique | Abū Ḥanīfa (Coran d'abord) | Pas d'école unifiée |
 | Rapport à la Sunna | Méfiance (« خرافة ! ») | Acceptation via le qaṣṣ |
 
-Mais les deux villes partagent une **méfiance commune envers le Shām**. Le Chām a ses propres transmetteurs — [[Personnes/Makhūl al-Shāmī|Makhūl]], [[Personnes/Al-Awzāʿī|al-Awzāʿī]], [[Personnes/Rajā' ibn Ḥaywa|Rajāʾ ibn Ḥaywa]] — et sa propre idéologie : la Sunna prime le Coran, l'obéissance au dirigeant est un devoir, al-Quds est la troisième ville sainte. Kūfa rejette tout cela frontalement. Basra l'absorbe en le reformulant à travers le qaṣṣ — c'est plus subtil, mais le résultat est le même : le matériel omeyyade entre dans le corpus canonique par la porte basrienne.
+Mais les deux villes partagent une **méfiance commune envers le Shām**. Le Chām a ses propres transmetteurs — [[Personnes/Makhūl al-Shāmī|Makhūl]], [[Personnes/Al-Awzā'ī|al-Awzāʿī]], [[Personnes/Rajā' ibn Ḥaywa|Rajāʾ ibn Ḥaywa]] — et sa propre idéologie : la Sunna prime le Coran, l'obéissance au dirigeant est un devoir, al-Quds est la troisième ville sainte. Kūfa rejette tout cela frontalement. Basra l'absorbe en le reformulant à travers le qaṣṣ — c'est plus subtil, mais le résultat est le même : le matériel omeyyade entre dans le corpus canonique par la porte basrienne.
 
 ## Les transmetteurs basriens dans le projet
 

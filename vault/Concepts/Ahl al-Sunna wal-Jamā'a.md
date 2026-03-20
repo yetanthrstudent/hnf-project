@@ -54,6 +54,18 @@ Le rejet est aussi rituel : les Kūfites **excluent les Shāmis du Witr** — il
 
 Al-Bayhaqī (Sunan, n° 4660), Ibn Abī Shayba (Muṣannaf, n° 6964, 6965, 6989) — les sources sont multiples. Le Witr devient un **marqueur identitaire** : prier le Witr « correctement » signifie être du parti du Coran, pas de la Sunna du régime.
 
+## Datation — 100-130H
+
+L'émergence du concept « Ahl al-Sunna wal-Jamā'a » comme catégorie identitaire est confirmée dans la **fourchette 100-130H**. Avant cette date, les sources ne connaissent pas l'expression comme étiquette de groupe. Après 130H, elle est déjà en voie de normalisation. La fenêtre coïncide exactement avec le règne de ʿUmar II (99-101H) et ses suites immédiates — c'est-à-dire avec le moment où le pouvoir omeyyade cherche à se réformer de l'intérieur tout en conservant son emprise doctrinale. (Module 10)
+
+## Le qadar comme outil politique
+
+Le débat sur le **qadar** (libre-arbitre) n'est pas un débat théologique abstrait — c'est un **enjeu politique direct**. Les Omeyyades défendent le **jabr** (la prédestination) parce que le jabr légitime leur pouvoir : si tout est décrété par Allāh, alors la dynastie omeyyade règne par décret divin. Contester le pouvoir, c'est contester le qadar d'Allāh.
+
+Les adversaires — les **Qadarites** — affirment le libre-arbitre humain, ce qui implique que le pouvoir omeyyade n'est pas une fatalité divine mais un **accident politique** contestable. Le lien entre jabr et obéissance au pouvoir est explicite dans la doctrine shāmie : « obéis au dirigeant, même s'il te frappe le dos et prend tes biens » (Muslim 1847) présuppose que le dirigeant est là par décret divin.
+
+Le concept d'Ahl al-Sunna wal-Jamā'a intègre le jabr comme composante doctrinale : la Jamā'a est le groupe qui accepte le pouvoir tel qu'il est, parce qu'il est décrété. Voir [[Concepts/Kūfa contre le Chām]] pour le cadre complet de cette opposition. (Module 10)
+
 ## La victoire d'une étiquette
 
 L'expression « Ahl al-Sunna wal-Jamā'a » s'impose historiquement parce que le camp qui l'a forgée a gagné — politiquement, militairement, institutionnellement. Elle passe du vocabulaire politique omeyyade au vocabulaire théologique abbasside, puis devient le nom de l'orthodoxie musulmane elle-même. Son origine politique est effacée ; elle est rétro-projetée sur le Prophète et ses Compagnons.

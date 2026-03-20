@@ -142,7 +142,7 @@ La divergence Bukhārī/Muslim sur Suhayl est l'une des plus nettes entre les de
 
 ## Le hadith tuʿraḍ al-aʿmāl — le cas d'école
 
-Déjà détaillé dans [[Personnes/Al-Aʿmash]] — résumé ici. Le hadith « les actes des serviteurs sont présentés [à Dieu] chaque lundi et jeudi » (Muslim 2565a) est un test parfait.
+Déjà détaillé dans [[Personnes/Al-Aʿmash]] — résumé ici. Le hadith « les actes des serviteurs sont présentés [à Dieu] chaque lundi et jeudi » ([Muslim 2565a](https://shamela.ws/book/1727)) est un test parfait.
 
 Cinq transmetteurs rapportent ce hadith d'Abū Ṣāliḥ. Quatre le maintiennent **mawqūf** (arrêté à Abū Ṣāliḥ ou à Abū Hurayra, sans attribution au Prophète). Un seul l'élève au Prophète (**marfūʿ**) — et c'est Suhayl :
 
@@ -154,7 +154,7 @@ Cinq transmetteurs rapportent ce hadith d'Abū Ṣāliḥ. Quatre le maintiennen
 | **Al-Musayyab** | Mawqūf |
 | **Suhayl** | **Marfūʿ** (seul) |
 
-Al-Dāraquṭnī tranche (ʿIlal n° 1884) : « ceux qui l'ont arrêté [mawqūf] sont **plus fiables** que ceux qui l'ont élevé [marfūʿ] ».
+Al-Dāraquṭnī tranche ([ʿIlal n° 1884](https://shamela.ws/book/9082)) : « ceux qui l'ont arrêté [mawqūf] sont **plus fiables** que ceux qui l'ont élevé [marfūʿ] ».
 
 Le fait que le seul transmetteur à élever ce hadith au Prophète soit celui dont le samāʿ est contesté et dont la mémoire s'est détériorée n'est pas un hasard isolé — c'est un **pattern** : la ṣaḥīfa contient du matériel dont le statut (prophétique ou non) n'est pas toujours clair, et l'ikhtilāṭ brouille davantage les attributions.
 
@@ -247,6 +247,12 @@ Le lien avec le réseau d'Ibn ʿUmar est direct. Al-Dāraquṭnī, **ʿIlal Q.15
 > **والصحيح قول من قال: عن سهيل، عن عبد الله بن دينار، عن أبي صالح، عن أبي هريرة**
 
 Suhayl transmet d'**[[Personnes/ʿAbd Allāh ibn Dīnār]]** — le même ʿAbd Allāh ibn Dīnār dont la chaîne canonique mène à Ibn ʿUmar. Les deux réseaux (Ibn ʿUmar et Abū Hurayra) ne sont pas parallèles : ils partagent un nœud commun. Voir la fiche [[Personnes/ʿAbd Allāh ibn Dīnār]] pour l'analyse complète du circuit.
+
+## Le réseau Saʿīd al-Maqburī — un tadlīs parallèle
+
+Un cas structurellement analogue touche la chaîne voisine qui mène à [[Abū Hurayra]] via **Saʿīd al-Maqburī**. Saʿīd transmet tantôt de **son père**, d'Abū Hurayra, tantôt **directement** d'Abū Hurayra — sans mentionner son père. L'ambiguïté est créée par l'**omission d'un maillon** : quand Saʿīd dit « ʿan Abī Hurayra », on ne sait pas s'il l'a entendu lui-même ou s'il le tient de son père (Module 11 IBA).
+
+Ce pattern est le miroir de celui de Suhayl : dans les deux cas, un fils transmet du père vers Abū Hurayra, et l'intermédiaire paternel est tantôt mentionné, tantôt omis. La chaîne Saʿīd al-Maqburī → (son père →) Abū Hurayra et la chaîne Suhayl → Abū Ṣāliḥ → Abū Hurayra présentent la même vulnérabilité : l'**effacement du maillon intermédiaire** donne l'illusion d'un samāʿ direct là où la transmission passe par un relais.
 
 ## Relations
 

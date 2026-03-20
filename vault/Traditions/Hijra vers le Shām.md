@@ -39,4 +39,8 @@ Produit pendant la révolte d'Ibn al-Zubayr (64-73 H) pour :
 
 ## Voir aussi
 
+- [[Traditions/Kharijites - Coran - gosier]] — le segment anti-kharijite du même texte, transmis indépendamment par [[Al-Awzā'ī]] avec un tafarrud depuis [[Nāfiʿ mawlā Ibn ʿUmar|Nāfiʿ]]
 - [[Concepts/Kūfa contre le Chām]] — la sacralisation du Shām s'inscrit dans l'opposition entre les deux camps (question 3 : la capitale sacrée)
+- [[Concepts/Critique des sources de la Sīra]] — la convergence artificielle vers Ibn ʿAmr relève du même mécanisme de fabrication documenté dans les sources de la Sīra
+- [[Personnes/Shahr ibn Ḥawshab]] — maillon faible de la chaîne syrienne
+- [[Traditions/Zamālatain de Yarmūk]] — les livres d'Ibn ʿAmr, source documentaire commune

@@ -107,7 +107,7 @@ Les trois Basriens (Qatāda, Ḥumayd, Thābit) forment le noyau des transmetteu
 
 ### Consulter Qatāda sur les lectures du Coran
 
-Le patronage de Khālid ne se limite pas au hadith — il s'étend jusqu'à la **lecture du Coran**. Al-Muḥtasib d'Ibn Jinnī 1/82 ([book/8660](https://shamela.ws/book/8660)) :
+Le patronage de Khālid ne se limite pas au hadith — il s'étend jusqu'à la **lecture du Coran**. Al-Muḥtasib d'Ibn Jinnī 1/82 ([p. 72](https://shamela.ws/book/8660/72)) :
 
 > أرسلني خالد بن عبد الله القسري إلى قتادة أسأله عن حروف من القرآن
 

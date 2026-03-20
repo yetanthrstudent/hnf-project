@@ -107,7 +107,7 @@ Les deux villes partagent une méfiance envers le Shām, mais Basra s'accommode 
 | [[Personnes/Ibn Mas'ūd]] | oui | Fondateur de l'école kūfie |
 | [[Personnes/Sufyān al-Thawrī]] | oui | Imam kūfien, en fuite du pouvoir |
 | [[Personnes/Ibn al-Ashʿath]] | oui | Chef de la révolte, décimation |
-| [[Personnes/Shuʿba ibn al-Ḥajjāj]] | oui | Basrien mais correctif du réseau irakien |
+| [[Personnes/Shu'ba ibn al-Ḥajjāj]] | oui | Basrien mais correctif du réseau irakien |
 
 ## Voir aussi
 

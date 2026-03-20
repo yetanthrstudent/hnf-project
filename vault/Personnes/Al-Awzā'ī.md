@@ -77,6 +77,19 @@ Cette chaîne est entièrement **shāmie** et connecte al-Awzā'ī au réseau Ka
 - **Rajā' ibn Ḥaywa** : conseiller des califes omeyyades (bâtisseur du Dôme du Rocher), figure clé de l'administration omeyyade
 - **Ibn 'Amr** : le possesseur des [[Traditions/Zamālatain de Yarmūk|zamālatain]] et élève de [[Sarj al-Yarmūkī]]
 
+## Al-Walīd ibn Muslim — le double tadlīs (Module 17 IBA)
+
+Le transmetteur principal d'al-Awzāʿī est **al-Walīd ibn Muslim**, et c'est un problème structurel. Al-Walīd pratique **deux formes** de tadlīs simultanément :
+
+1. **Tadlīs al-isnād** : il omet un maillon de la chaîne et prétend avoir entendu directement d'al-Awzāʿī ce qu'il a en réalité reçu d'un intermédiaire.
+2. **Tadlīs al-taswiya** : il **supprime un transmetteur faible** situé entre deux transmetteurs fiables dans la chaîne, « lissant » ainsi l'isnād pour le rendre irréprochable.
+
+La taswiya est la forme la plus destructrice de tadlīs : elle rend la chaîne **invérifiable**. Dans un tadlīs ordinaire, on peut au moins suspecter une coupure au niveau du mudallis. Avec la taswiya, le maillon supprimé peut se trouver **n'importe où** dans la chaîne — même plusieurs générations avant le mudallis. Toute la transmission d'al-Awzāʿī via al-Walīd est donc potentiellement contaminée, et c'est par al-Walīd que passe l'essentiel de son héritage.
+
+## Qabd au Shām
+
+Al-Awzāʿī est cité dans les chaînes du **qabd** (position des mains sur la poitrine pendant la prière) au Shām. Cette pratique, transmise par le réseau syrien, s'oppose au **sadl** (bras le long du corps) pratiqué au Ḥijāz et documenté par Mālik. La divergence illustre la fracture régionale entre écoles juridiques. Voir [[Concepts/Qabd et Sadl]].
+
 ## Relations dans le réseau
 
 - **Maître** : Makhūl al-Shāmī (رأيت مكحولا)

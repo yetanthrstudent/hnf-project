@@ -99,3 +99,4 @@ Shu'ba lui-même, transmetteur du hadith via Maymūn, exprime ses doutes : « أ
 ## Voir aussi
 
 - [[Concepts/Tafarrud]] — le schéma d'isolement dans la transmission
+- [[Concepts/Mawqūf élevé en marfūʿ]] — Shuʿba refuse le raf' du hadith de Maymūn

@@ -272,5 +272,5 @@ Le Coran — qui se présente comme **حكيم** (sage) et **مبين** (clair) 
 - [[Traditions/Ṣawm Ramaḍān]] — l'abrogation contestée de la fidya (Q 2:184)
 - [[Personnes/ʿAṭāʾ ibn Abī Rabāḥ]] — le muftī de La Mecque mange en Ramaḍān malgré l'« abrogation »
 - [[Concepts/Al-Ziyāda fī al-kutub]] — la falsification des livres : ʿUmar refuse de rétablir āyat al-rajm de peur qu'on l'accuse de ziyāda
-- [[Concepts/Isrāʾīliyyāt]] — certaines traditions « abrogées » (comme le rajm) trouvent leur origine dans le droit juif
+- [[Concepts/Isrā'īliyyāt]] — certaines traditions « abrogées » (comme le rajm) trouvent leur origine dans le droit juif
 - [[Personnes/ʿAmr ibn Maymūn al-Awdī]] — la guenon lapidée (Bukhārī 3849) : al-Bukhārī utilise le rajm animal pour renforcer la thèse du rajm comme norme universelle

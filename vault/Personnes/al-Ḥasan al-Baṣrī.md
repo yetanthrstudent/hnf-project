@@ -103,6 +103,12 @@ Ka'b al-Ahbar (m. ~32 H)
             « Anas a dit » (tadlīs)
 ```
 
+## Le qabd et les rabbins — un témoignage clé
+
+Al-Ḥasan al-Baṣrī rapporte avoir vu les **« grands rabbins de Banū Isrāʾīl »** pratiquer le **qabd** (placer la main droite sur la main gauche en prière). Ce témoignage (Module 17 IBA) est l'un des arguments les plus directs pour rattacher le qabd aux pratiques des **Ahl al-Kitāb** plutôt qu'à une sunna prophétique autonome.
+
+Le fait qu'al-Ḥasan — homme qui « lisait les Livres » de la génération précédente, relais des [[Concepts/Isrā'īliyyāt]] de [[Ka'b al-Ahbar|Kaʿb]], et mursil notoire — soit le témoin de cette pratique rabbinique renforce le soupçon que le qabd a transité par le réseau des « lecteurs des Livres » avant d'être intégré au fiqh sunnite comme geste prophétique. Voir [[Concepts/Qabd et Sadl]].
+
 ## Les connexions politiques
 
 ### Kātib du gouverneur du Khurāsān

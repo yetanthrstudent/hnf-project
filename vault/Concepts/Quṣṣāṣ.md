@@ -39,9 +39,51 @@ Ce hadith est utilisé par 'Awf ibn Mālik pour contester le qaṣṣ de [[Ka'b 
 | [[Qatāda ibn Di'āma]] | Basra, Wāsiṭ | al-'Ilal d'Aḥmad [p. 96](https://shamela.ws/book/3617/96) |
 | [[Ḥumayd al-Ṭawīl]] | Basra | Critiqué pour عمل السلطان, transmet de [[Khālid al-Qasrī]] |
 
+## Les quṣṣāṣ : des figures institutionnelles, pas des marginaux (Module 6)
+
+L'image courante du qāṣṣ comme un illuminé de mosquée est trompeuse. Les quṣṣāṣ sont des **figures institutionnelles** — nommés, rémunérés et protégés par le pouvoir politique. Le tableau chronologique ci-dessus le montre : sous Muʿāwiya, ils deviennent des **fonctionnaires mandatés** ; sous ʿUmar ibn ʿAbd al-ʿAzīz, ils touchent un **salaire régulier**. Ce ne sont pas des outsiders du système de transmission : ils en sont des rouages.
+
+### Qatāda comme conteur de cour omeyyade
+
+[[Personnes/Qatāda ibn Di'āma|Qatāda]] n'est pas seulement un muḥaddith basrien : c'est un **conteur de cour**. Il reçoit un **palais** d'un gouverneur omeyyade — un patronage qui illustre la confusion des genres entre prédication populaire et transmission « savante ». Le même individu raconte des histoires eschatologiques au peuple et transmet des isnāds techniques aux collecteurs de hadith. Les deux activités ne sont pas cloisonnées : le contenu circule de l'une à l'autre.
+
+### Abū Hurayra comme qāṣṣ
+
+[[Personnes/Abū Hurayra]] — le Compagnon qui rapporte le plus grand nombre de hadiths dans les recueils canoniques — est aussi documenté comme **qāṣṣ**. Ce double statut est rarement souligné par la tradition apologétique, mais il est crucial : le plus grand « transmetteur » du corpus prophétique est aussi un **conteur public**, avec tout ce que cela implique en termes d'embellissement narratif, de mélange des sources et d'adaptation à l'auditoire.
+
+### La distinction qāṣṣ / muḥaddith — et sa faillite
+
+En théorie, le qāṣṣ (conteur populaire) et le muḥaddith (transmetteur technique) exercent des fonctions distinctes. En pratique, les **mêmes individus** jouent les deux rôles — Qatāda, Abū Hurayra, Ḥumayd al-Ṭawīl. Cette superposition contamine la transmission :
+
+```
+                    MÊME INDIVIDU
+                    ┌─────────────┐
+     QĀṢ           │  Qatāda     │          MUḤADDITH
+  (conteur public)  │  Abū Hurayra│     (transmetteur technique)
+                    │  Ḥumayd     │
+                    └──────┬──────┘
+                           │
+              ┌────────────┴────────────┐
+              │                         │
+    Récits populaires             Isnāds techniques
+    Isrā'īliyyāt                  Chaînes « fiables »
+    Embellissements               Matériel « prophétique »
+              │                         │
+              └────────────┬────────────┘
+                           │
+                    CONTAMINATION
+           Le contenu populaire migre vers
+            les chaînes « authentiques »
+```
+
+Le système classique traite ces individus comme des muḥaddithūn quand il évalue leurs isnāds, mais ignore leur activité de qaṣṣ — comme si les deux registres étaient étanches. Ils ne le sont pas.
+
 ## Voir aussi
 
 - [[Concepts/ʿAmal al-Sulṭān]] — les quṣṣāṣ comme agents culturels du pouvoir, la dimension structurelle du patronage
+- [[Personnes/Qatāda ibn Di'āma]] — conteur de cour omeyyade et muḥaddith
+- [[Personnes/Abū Hurayra]] — Compagnon-qāṣṣ, premier transmetteur du corpus canonique
+- [[Concepts/Isrā'īliyyāt]] — le matériel biblique et para-biblique véhiculé par les quṣṣāṣ
 
 ## Référence académique (hors patrimoine — contexte uniquement)
 

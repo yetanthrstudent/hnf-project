@@ -104,11 +104,11 @@ La même doctrine apparaît via Kulthūm ibn Jubayr (Muṣannaf ʿAbd al-Razzāq
 
 Tārīkh Dimashq ([p. 22339](https://shamela.ws/book/71/22339)) :
 
-> عَنْ مَرْوَانَ بْنِ سَالِمٍ، عَنْ [[Personnes/Khālid ibn Maʿdān|خَالِدِ بْنِ مَعْدَانَ]]، عَنْ عُبَادَةَ بْنِ الصَّامِتِ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **يَكُونُ فِي أُمَّتِي رَجُلَانِ أَحَدُهُمَا وَهْبٌ يَهَبُ اللَّهُ لَهُ الْحِكْمَةَ وَالآخَرُ غَيْلَانُ فِتْنَتُهُ عَلَى هَذِهِ الأُمَّةِ أَشَدُّ مِنْ فِتْنَةِ الشَّيْطَانِ**
+> عَنْ مَرْوَانَ بْنِ سَالِمٍ، عَنْ [[Personnes/Khālid ibn Ma'dān|خَالِدِ بْنِ مَعْدَانَ]]، عَنْ عُبَادَةَ بْنِ الصَّامِتِ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: **يَكُونُ فِي أُمَّتِي رَجُلَانِ أَحَدُهُمَا وَهْبٌ يَهَبُ اللَّهُ لَهُ الْحِكْمَةَ وَالآخَرُ غَيْلَانُ فِتْنَتُهُ عَلَى هَذِهِ الأُمَّةِ أَشَدُّ مِنْ فِتْنَةِ الشَّيْطَانِ**
 
 > « Il y aura dans ma communauté deux hommes : l'un est **Wahb**, à qui Dieu accordera la sagesse — et l'autre est **Ghaylān**, dont la tentation sur cette communauté sera pire que celle de Satan. »
 
-C'est un hadith de **propagande pure** : le Prophète aurait prédit nommément l'opposition entre Wahb (le champion du jabr) et Ghaylān al-Dimashqī (le Qadarite crucifié). La chaîne passe par **Marwān ibn Sālim** (faible) et **[[Personnes/Khālid ibn Maʿdān|Khālid ibn Maʿdān]]** — chef de la police de Homs, proche du pouvoir omeyyade.
+C'est un hadith de **propagande pure** : le Prophète aurait prédit nommément l'opposition entre Wahb (le champion du jabr) et Ghaylān al-Dimashqī (le Qadarite crucifié). La chaîne passe par **Marwān ibn Sālim** (faible) et **[[Personnes/Khālid ibn Ma'dān|Khālid ibn Ma'dān]]** — chef de la police de Homs, proche du pouvoir omeyyade.
 
 ### Le schéma
 
@@ -126,9 +126,38 @@ Les « Livres anciens » (Torah, etc.)
 
 Wahb n'est pas un simple « transmetteur d'isrāʾīliyyāt ». Il est le **bras théologique** de la doctrine jabriyya — celui qui fournit aux Omeyyades un corpus de « preuves scripturaires » invérifiables (les « 72 livres ») pour sacraliser la prédestination. Son pendant et adversaire nommé dans la tradition est Ghaylān — le Qadarite que Hishām fera crucifier.
 
+## Filière yéménite d'isrāʾīliyyāt — Ka'b → Nawf → Wahb
+
+Wahb n'est pas un savant isolé. Il s'inscrit dans un **réseau yéménite structuré** de transmission d'isrāʾīliyyāt :
+
+```
+[[Ka'b al-Ahbar]] (m. 32H) — Ḥimyar, converti
+         │
+    [[Nawf al-Bikālī]] (~m. 83H) — beau-fils de Ka'b, qāṣṣ à Homs
+         │
+    WAHB IBN MUNABBIH (m. 110H) — Abnāʾ/Ṣanʿāʾ, « historien »
+```
+
+Les trois hommes partagent une origine yéménite/ḥimyarite, une spécialisation dans les « Livres anciens », et un rapport fonctionnel au pouvoir omeyyade. La **mythologie ḥimyarite** — rois du Yémen préislamique, tubbaʿ, cosmogonie — est leur matière première, transposée en matière islamique par le biais des isrāʾīliyyāt.
+
+### Rétrojection mythologique ḥimyarite — les tubbaʿ et la Kaʿba
+
+Les récits sur les **tubbaʿ** du Yémen préislamique visitant la Kaʿba, rapportés par Wahb dans Ṭabarī et ailleurs, ne sont pas des données historiques. Ce sont des **constructions littéraires** qui projettent rétroactivement la sacralité de La Mecque sur l'histoire ḥimyarite. Le mécanisme est transparent :
+
+1. Wahb produit un récit où un roi ḥimyarite antique « visite » la Kaʿba et la « revêt » (kiswa)
+2. Ce récit établit un lien entre le Yémen et le sanctuaire mecquois — et par extension, entre les Yéménites de la cour omeyyade et le cœur de l'islam
+3. La source invoquée (« les Livres ») est invérifiable
+
+C'est de la **mythologie politique** — les tubbaʿ au service de la légitimation des Yéménites dans l'espace islamique.
+
+### Ṣuḥuf de Shīth — fabrication littéraire
+
+Wahb rapporte une « Ṣuḥuf » (صحف) — un Livre révélé à **Shīth** (Seth, fils d'Adam). Ce texte n'a aucune attestation indépendante dans les traditions juives, chrétiennes ou samaritaines contemporaines. C'est une **fabrication littéraire** qui utilise le format des « Livres révélés » pour produire du contenu cosmogonique et moral sans ancrage vérifiable. Le procédé est identique à celui des « 72 livres » (voir ci-dessus) : un nombre impressionnant de sources invérifiables mobilisé pour une autorité invérifiable.
+
 ## Voir aussi
 
 - [[Concepts/Qadar]] — le débat politique sur le libre arbitre
 - [[Ka'b al-Ahbar]] — son prédécesseur dans le réseau des isrāʾīliyyāt
+- [[Nawf al-Bikālī]] — maillon intermédiaire du réseau yéménite
 - [[Concepts/Isrā'īliyyāt]] — les « Livres anciens » comme source
 - [[Concepts/ʿAmal al-Sulṭān]] — les savants au service du pouvoir

@@ -93,13 +93,19 @@ Muslim critique explicitement Ḥammād pour ses transmissions de **[[Qatāda ib
 
 Même schéma que [[Shu'ba ibn al-Ḥajjāj|Shuʿba]] avec Abū Isḥāq (voir [[Concepts/Kafaytukum tadlīs thalātha]]) : le système consigne ses propres défaillances sans les résoudre.
 
-## Les hadiths de ṣifāt — la charge anthropomorphiste
+## Principal vecteur des ḥadīths de ṣifāt
+
+Ḥammād n'est pas simplement un transmetteur parmi d'autres de traditions anthropomorphistes — il en est le **principal vecteur**. Ses ḥadīths sur les attributs divins (ṣifāt) sont **concentrés dans sa transmission** et quasi-absents chez les autres transmetteurs fiables de la même génération. Cette concentration exclusive pose un problème structurel : soit il s'agit d'un [[Concepts/Tafarrud|tafarrud]] massif (isolement de transmission à une échelle statistiquement improbable), soit Ḥammād puise dans une **source unique non identifiée** dans sa chaîne — possiblement le matériel inséré par Ibn Abī al-ʿAwjāʾ.
+
+Le paradoxe : les **Ahl al-Ḥadīth** lui font confiance **précisément** pour ce corpus de ṣifāt, qui constitue une base doctrinale de l'anthropomorphisme sunnite. Remettre en question la fiabilité de Ḥammād sur ce point reviendrait à démanteler un pan entier de la théologie des attributs — ce que le système ne peut pas se permettre.
+
+## Les hadiths de ṣifāt — la charge anthropomorphiste (exemples)
 
 Al-Dhahabī note que Ḥammād a **beaucoup de hadiths de ṣifāt** (attributs divins anthropomorphiques). Trois exemples documentés :
 
 ### Le pouce divin — Tirmidhī 3074
 
-Tirmidhī ([p. 5285](https://shamela.ws/book/7895/5285)) — chaîne via Ḥammād, **[[Concepts/Tafarrud|tafarrud]]** (transmission isolée). Le Prophète dit qu'un juif vient et décrit les cieux sur un doigt, les terres sur un doigt, l'eau sur un doigt, etc. Le Prophète rit et confirme.
+Tirmidhī n° 3074 ([p. 5285](https://shamela.ws/book/7895/5285)) — chaîne via Ḥammād, **[[Concepts/Tafarrud|tafarrud]]** (transmission isolée). Le Prophète dit qu'un juif vient et décrit les cieux sur un doigt, les terres sur un doigt, l'eau sur un doigt, etc. Le Prophète rit et confirme.
 
 Le hadith est un tafarrud de Ḥammād — aucune autre voie fiable ne le rapporte indépendamment.
 

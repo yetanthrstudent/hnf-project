@@ -20,12 +20,12 @@ Avant d'examiner les récits détaillés, établissons ce que les **chaînes ind
 
 | Hadith | Isnād | Compagnon | Contenu | Mentionne le nombre ? |
 |--------|-------|-----------|---------|----------------------|
-| Bukhārī 4117, 4122 | Hishām → ʿUrwa → ʿĀʾisha | ʿĀʾisha | Jibrīl ordonne la marche vers Qurayẓa | **Non** |
-| Bukhārī 4118 | Jarīr ibn Ḥāzim → Ḥumayd ibn Hilāl → Anas | Anas | Poussière de la cavalerie | **Non** |
-| Bukhārī 4119 | Juwayriya → Nāfiʿ → Ibn ʿUmar | Ibn ʿUmar | « Que personne ne prie le ʿAṣr sauf chez Qurayẓa » | **Non** |
-| Bukhārī 4028 | Ibn Jurayj → Mūsā ibn ʿUqba → Nāfiʿ → Ibn ʿUmar | Ibn ʿUmar | Naḍīr expulsés, Qurayẓa tués | **Non** (mentionne exécution, pas de nombre) |
-| **Bukhārī 4121** | **Shuʿba → Saʿd ibn Ibrāhīm → Abū Umāma → Abū Saʿīd** | **Abū Saʿīd al-Khudrī** | **Jugement de Saʿd : « tue leurs combattants, capture leurs femmes/enfants »** | **Non** |
-| Abū Dāwud 4404 | Shuʿba → ʿAbd al-Malik ibn ʿUmayr → ʿAṭiyya al-Quraẓī | ʿAṭiyya (prétendu survivant) | Test de puberté (عانة) | **Non** |
+| [Bukhārī 4117](https://shamela.ws/book/1681/6163), [4122](https://shamela.ws/book/1681/6168) | Hishām → ʿUrwa → ʿĀʾisha | ʿĀʾisha | Jibrīl ordonne la marche vers Qurayẓa | **Non** |
+| [Bukhārī 4118](https://shamela.ws/book/1681/6164) | Jarīr ibn Ḥāzim → Ḥumayd ibn Hilāl → Anas | Anas | Poussière de la cavalerie | **Non** |
+| [Bukhārī 4119](https://shamela.ws/book/1681/6165) | Juwayriya → Nāfiʿ → Ibn ʿUmar | Ibn ʿUmar | « Que personne ne prie le ʿAṣr sauf chez Qurayẓa » | **Non** |
+| [Bukhārī 4028](https://shamela.ws/book/1681/6053) | Ibn Jurayj → Mūsā ibn ʿUqba → Nāfiʿ → Ibn ʿUmar | Ibn ʿUmar | Naḍīr expulsés, Qurayẓa tués | **Non** (mentionne exécution, pas de nombre) |
+| **[Bukhārī 4121](https://shamela.ws/book/1681/6167)** | **Shuʿba → Saʿd ibn Ibrāhīm → Abū Umāma → Abū Saʿīd** | **Abū Saʿīd al-Khudrī** | **Jugement de Saʿd : « tue leurs combattants, capture leurs femmes/enfants »** | **Non** |
+| [Abū Dāwud 4404](https://shamela.ws/book/1726/6171) | Shuʿba → ʿAbd al-Malik ibn ʿUmayr → ʿAṭiyya al-Quraẓī | ʿAṭiyya (prétendu survivant) | Test de puberté (عانة) | **Non** |
 
 Six chaînes indépendantes. **Aucune** ne mentionne le chiffre 600-900. Elles évoquent un siège, un jugement de Saʿd ibn Muʿādh, et des représailles — mais jamais le nombre, jamais les tranchées, jamais les épisodes narratifs individuels. L'analyse des ʿilal (ci-dessous) montrera que ces chaînes elles-mêmes sont bien plus fragiles qu'il n'y paraît.
 
@@ -76,7 +76,7 @@ En apparence, un témoignage direct. Mais l'analyse des ʿilal (chaîne 6 ci-des
 
 Les six chaînes indépendantes méritent un examen individuel. Aucune n'est un témoignage oculaire direct et non-problématique de l'exécution elle-même.
 
-### Chaîne 1 : Bukhārī 4117/4122 — Hishām → ʿUrwa → ʿĀʾisha
+### Chaîne 1 : Bukhārī [4117](https://shamela.ws/book/1681/6163)/[4122](https://shamela.ws/book/1681/6168) — Hishām → ʿUrwa → ʿĀʾisha
 
 **Matn** :
 
@@ -99,7 +99,7 @@ L'enjeu politique est massif : un **ordre angélique** de marcher sur un peuple 
 
 **Contenu** : ce hadith ne documente que l'**ordre de marcher** vers Qurayẓa. Aucune information sur le siège, le jugement, ni les exécutions.
 
-### Chaîne 2 : Bukhārī 4118 — Jarīr ibn Ḥāzim → Ḥumayd ibn Hilāl → Anas
+### Chaîne 2 : Bukhārī [4118](https://shamela.ws/book/1681/6164) — Jarīr ibn Ḥāzim → Ḥumayd ibn Hilāl → Anas
 
 **Matn** : Anas rapporte avoir vu la poussière soulevée dans la ruelle des Banū Ghanm par le régiment de Jibrīl lors de la marche vers Qurayẓa.
 
@@ -109,7 +109,7 @@ L'enjeu politique est massif : un **ordre angélique** de marcher sur un peuple 
 
 **Contenu** : purement atmosphérique — de la poussière dans une rue. Valeur probante pour le massacre : **nulle**.
 
-### Chaîne 3 : Bukhārī 4119 — Juwayriya → Nāfiʿ → Ibn ʿUmar
+### Chaîne 3 : Bukhārī [4119](https://shamela.ws/book/1681/6165) — Juwayriya → Nāfiʿ → Ibn ʿUmar
 
 **Matn** :
 
@@ -121,15 +121,15 @@ L'enjeu politique est massif : un **ordre angélique** de marcher sur un peuple 
 
 **Contenu** : un débat de fiqh sur la prière en marche. Ce hadith ne concerne **pas le massacre** — il documente la marche, pas les événements qui suivent. Les commentateurs le citent dans les chapitres sur l'ijtihād, pas sur les exécutions.
 
-### Chaîne 4 : Bukhārī 4028 — Ibn Jurayj → Mūsā ibn ʿUqba → Nāfiʿ → Ibn ʿUmar
+### Chaîne 4 : Bukhārī [4028](https://shamela.ws/book/1681/6053) — Ibn Jurayj → Mūsā ibn ʿUqba → Nāfiʿ → Ibn ʿUmar
 
 **Matn** : un résumé historique contrastant le sort des Banū al-Naḍīr (expulsés) et des Banū Qurayẓa : **فقتل رجالهم وقسم نساءهم وأولادهم وأموالهم بين المسلمين** (« il tua leurs hommes et répartit leurs femmes, enfants et biens entre les musulmans »).
 
 **ʿIlla : nature maghāzī.** Mūsā ibn ʿUqba (m. 141H) est un auteur de maghāzī — Mālik disait de ses maghāzī qu'elles étaient « les plus saines ». Mais ce hadith est un **résumé narratif** d'événements historiques, pas un hadith prophétique au sens strict. Ibn ʿUmar ne dit pas **شهدت** (j'ai été témoin) — il avait ~15 ans lors du Khandaq, et sa présence au siège de Qurayẓa n'est pas établie.
 
-**Le verbe** est **قتل** (qatala, forme I) — « il tua » — pas **قوتلوا** (qūtilū, forme III passive, « ils furent combattus »). Mais le hadith est placé dans le **bāb de Banū al-Naḍīr** (n° 4028), pas dans celui de Qurayẓa — c'est al-Bukhārī qui le classe ici pour le contraste narratif.
+**Le verbe** est **قتل** (qatala, forme I) — « il tua » — pas **قوتلوا** (qūtilū, forme III passive, « ils furent combattus »). Mais le hadith est placé dans le **bāb de Banū al-Naḍīr** ([n° 4028](https://shamela.ws/book/1681/6053)), pas dans celui de Qurayẓa — c'est al-Bukhārī qui le classe ici pour le contraste narratif.
 
-### Chaîne 5 : Bukhārī 4121 — Shuʿba → Saʿd ibn Ibrāhīm → Abū Umāma → Abū Saʿīd
+### Chaîne 5 : Bukhārī [4121](https://shamela.ws/book/1681/6167) — Shuʿba → Saʿd ibn Ibrāhīm → Abū Umāma → Abū Saʿīd
 
 C'est la chaîne **la plus importante** — le seul hadith qui documente le jugement de Saʿd.
 
@@ -159,7 +159,7 @@ Cette critique, transmise par Hishām ibn ʿUrwa d'après ʿĀʾisha, est remarq
 
 Le terme crucial dans le jugement est **مقاتلة** (muqātila — combattants), pas **رجال** (rijāl — hommes). La sentence concerne les « combattants », pas « tous les mâles pubères » — distinction que le récit d'Ibn Isḥāq efface.
 
-### Chaîne 6 : Abū Dāwud 4404 — ʿAbd al-Malik ibn ʿUmayr → ʿAṭiyya al-Quraẓī
+### Chaîne 6 : Abū Dāwud [4404](https://shamela.ws/book/1726/6171) — ʿAbd al-Malik ibn ʿUmayr → ʿAṭiyya al-Quraẓī
 
 C'est la seule chaîne avec un **prétendu témoin direct** (ʿAṭiyya, qui dit être un survivant). C'est aussi la plus **problématique** — à tous les niveaux.
 
@@ -183,7 +183,7 @@ Il a vécu **103 ans** — une longévité extrême qui explique la détériorat
 
 Ibn Ḥajar note : **ما له إلا هذا الحديث الواحد** (« il n'a que ce seul hadith »). Mais le problème va bien au-delà de l'unicité. Qui est ʿAṭiyya ?
 
-Le Tahdhīb al-Kamāl (al-Mizzī, n° 3962) révèle un profil extraordinairement mince :
+Le [Tahdhīb al-Kamāl](https://shamela.ws/book/3722) (al-Mizzī, n° 3962) révèle un profil extraordinairement mince :
 - **Pas de nom de père** — il apparaît simplement comme « ʿAṭiyya al-Quraẓī »
 - **لا يعرف نسبه** — « sa généalogie est inconnue » (Ibn al-Athīr, Asad al-Ghāba)
 - **Dates inconnues** — aucune date de naissance ni de mort n'est enregistrée

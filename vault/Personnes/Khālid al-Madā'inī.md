@@ -51,10 +51,10 @@ Et via al-Bukhārī ([éd. Bashshār p. 5143](https://shamela.ws/book/736/5143))
 
 | Critique             | Jugement                                                              | Source                      |
 | -------------------- | --------------------------------------------------------------------- | --------------------------- |
-| **Al-Bukhārī**       | « matrūk — trakahu 'Alī wa-l-nās »                                    | Tārīkh Baghdād              |
-| **Aḥmad ibn Ḥanbal** | « لا أروي عنه شيئا » (je ne transmets rien de lui)                    | al-'Ilal (5335)             |
-| **Dāraquṭnī**        | « لا أضمن لك هذا، جرحوه » (je ne te garantis pas, ils l'ont critiqué) | Mawsū'at Aqwāl al-Dāraquṭnī |
-| **Ijmā'**            | « أجمع أهل الحديث على ترك حديثه » (unanimité pour l'abandon)          | Tārīkh Baghdād              |
+| **Al-Bukhārī**       | « matrūk — trakahu 'Alī wa-l-nās »                                    | [Tārīkh Baghdād](https://shamela.ws/book/736/5143)              |
+| **Aḥmad ibn Ḥanbal** | « لا أروي عنه شيئا » (je ne transmets rien de lui)                    | [Mawsū'at Aqwāl Aḥmad](https://shamela.ws/book/20881/566)             |
+| **Dāraquṭnī**        | « لا أضمن لك هذا، جرحوه » (je ne te garantis pas, ils l'ont critiqué) | [Mawsū'at Aqwāl al-Dāraquṭnī](https://shamela.ws/book/12764/1309) |
+| **Ijmā'**            | « أجمع أهل الحديث على ترك حديثه » (unanimité pour l'abandon)          | [Tārīkh Baghdād](https://shamela.ws/book/23764/3413)              |
 | **Al-Jāmi'**         | « **كذاب يزيد في الأسانيد** » (menteur qui ajoute aux chaînes)        | Aḥwāl al-Rijāl p. 338       |
 
 ## L'ironie structurelle — al-Layth le vérificateur, victime

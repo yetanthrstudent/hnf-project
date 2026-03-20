@@ -83,10 +83,10 @@ La comparaison des transmissions des **différents élèves de Sufyān** révèl
 
 | Élève de Sufyān | Formulation dans la chaîne |
 |---|---|
-| al-Musnadī (Bukhārī 3032) | « ʿan **Jābir** » |
-| Qutayba (Bukhārī 3031) | « ʿan **Jābir ibn ʿAbd Allāh** » |
-| ʿAlī al-Madīnī (Bukhārī 4037) | « ʿan **Jābir ibn ʿAbd Allāh** » |
-| Ibn Abī ʿUmar (Muslim 1801) | « ʿan **Jābir** » |
+| al-Musnadī ([Bukhārī 3032](https://shamela.ws/book/1681/4802)) | « ʿan **Jābir** » |
+| Qutayba ([Bukhārī 3031](https://shamela.ws/book/1681/4801)) | « ʿan **Jābir ibn ʿAbd Allāh** » |
+| ʿAlī al-Madīnī ([Bukhārī 4037](https://shamela.ws/book/1681/6045)) | « ʿan **Jābir ibn ʿAbd Allāh** » |
+| Ibn Abī ʿUmar ([Muslim 1801](https://shamela.ws/book/1727/3128)) | « ʿan **Jābir** » |
 | Aḥmad ibn Ṣāliḥ (Abū Dāwūd) | « ʿan **Jābir** » |
 | al-Ḥumaydī (Bayhaqī, éd. ʿIlmiyya) | « ʿan **Jābir** » |
 | Ibn Abī al-Wazīr (Tārīkh al-Madīna) | « ʿan **Jābir** » |
@@ -241,7 +241,7 @@ Le même Sufyān ibn ʿUyayna — celui qui fournit la chaîne canonique à al-B
     │
 Saʿīd ibn Masrūq al-Thawrī (m. ~126H, Kūfa) — thiqa (père de Sufyān al-Thawrī)
     │
-ʿUmar ibn Saʿīd al-Thawrī (Kūfa) — ثقة (Taqrīb n° 4906), frère de Sufyān al-Thawrī
+ʿUmar ibn Saʿīd al-Thawrī (Kūfa) — ثقة ([Taqrīb n° 4906](https://shamela.ws/book/8609/4906)), frère de Sufyān al-Thawrī
     │
 SUFYĀN IBN ʿUYAYNA (m. 198H) ◄── le MÊME que la chaîne Bukhārī
     │
@@ -352,7 +352,7 @@ Et il conclut ([p. 89](https://shamela.ws/book/7344/90)) :
 
 Le paradoxe est total : Ibn Taymiyya réduit **tout** au sabb verbal — et par conséquent, les quatre charges supplémentaires d'al-Bayhaqī (ghadr, naqḍ al-ʿahd, ʿadāwa, taḥrīḍ militaire) ne sont pas seulement non documentées, elles sont **explicitement réfutées** par le plus grand juriste ḥanbalite. Al-Bayhaqī surcharge le dossier ; Ibn Taymiyya le dégraisse jusqu'à l'os — et l'os, c'est qu'un homme a été tué par ruse pour avoir écrit des vers.
 
-Al-Bayhaqī est néanmoins cohérent dans son approche : c'est un défenseur systématique de la Sunna qui, une fois qu'il tient un texte à isnād solide, le conserve et le défend — comme il le fait ailleurs avec le [[Traditions/Hadith de ʿUkl|hadith de ʿUkl]]. Il **ne cache pas** la narration embarrassante, il la transmet fidèlement puis la neutralise par le commentaire. C'est précisément cette honnêteté de compilateur qui nous fournit la preuve la plus solide de la contestation.
+Al-Bayhaqī est néanmoins cohérent dans son approche : c'est un défenseur systématique de la Sunna qui, une fois qu'il tient un texte à isnād solide, le conserve et le défend — comme il le fait ailleurs avec le [[Traditions/Hadith de ʿUkl-ʿUraniyya|hadith de ʿUkl]]. Il **ne cache pas** la narration embarrassante, il la transmet fidèlement puis la neutralise par le commentaire. C'est précisément cette honnêteté de compilateur qui nous fournit la preuve la plus solide de la contestation.
 
 ### Al-Bukhārī et cette narration
 
@@ -360,7 +360,7 @@ Al-Bukhārī n'a pas retenu la narration d'Ibn Yāmīn. Pourquoi ? Nous ne le sa
 
 1. **Argument du genre** : la narration est un khabar historique (événement post-prophétique entre Compagnons), pas un hadith marfūʿ — elle ne relèverait pas du projet du Ṣaḥīḥ. Mais cet argument a une limite : al-Bukhārī inclut d'autres matériaux non prophétiques, comme le récit de [[Personnes/ʿAmr ibn Maymūn al-Awdī]] (n° 3849, [p. 5824](https://shamela.ws/book/1681/5824)) — l'observation personnelle d'un tābiʿī sur des singes qui lapident une guenon adultère, placée dans un chapitre normatif pour renforcer la thèse du rajm. Le Ṣaḥīḥ n'est donc pas strictement limité aux marfūʿāt.
 
-2. **Argument de la chaîne** : al-Bukhārī a peut-être eu une réserve technique sur un lien de la chaîne (Sufyān ← ʿUmar ibn Saʿīd ← Saʿīd ibn Masrūq ← ʿAbāya) que nous ignorons — un samāʿ non confirmé, une connexion qu'il jugeait insuffisante. Chaque maillon est thiqa individuellement (ʿUmar ibn Saʿīd : ثقة par unanimité — Taqrīb n° 4906 ; Saʿīd ibn Masrūq : thiqa par consensus ; ʿAbāya : thiqa), mais cela ne signifie pas que Bukhārī validait cette combinaison.
+2. **Argument de la chaîne** : al-Bukhārī a peut-être eu une réserve technique sur un lien de la chaîne (Sufyān ← ʿUmar ibn Saʿīd ← Saʿīd ibn Masrūq ← ʿAbāya) que nous ignorons — un samāʿ non confirmé, une connexion qu'il jugeait insuffisante. Chaque maillon est thiqa individuellement (ʿUmar ibn Saʿīd : ثقة par unanimité — [Taqrīb n° 4906](https://shamela.ws/book/8609/4906) ; Saʿīd ibn Masrūq : thiqa par consensus ; ʿAbāya : thiqa), mais cela ne signifie pas que Bukhārī validait cette combinaison.
 
 3. **Choix de contenu** : al-Bukhārī a retenu le récit qui fonde une règle juridique et écarté la contestation. Mais on ne peut pas l'affirmer sans preuve — ce serait un procès d'intention.
 

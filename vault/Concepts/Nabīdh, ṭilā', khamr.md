@@ -290,6 +290,24 @@ L'accusation est frontale : le changement d'**une seule lettre** (سُكْر →
 
 **3. Al-Nasāʾī lui-même** — dans les Sunan al-Kubrā, il classe à côté des versions marfūʿa deux versions **mawqūfa** : l'une sur **ʿAṭāʾ** (n° 5598) et l'autre sur **Ibn Sīrīn** (n° 5599), qui disent « كل مسكر حرام » comme **leur propre parole**, pas celle du Prophète.
 
+## L'interdiction — une position de ʿUmar rétrojetée
+
+Les ḥadīths les plus anciens sur l'interdiction des boissons alcoolisées ne remontent pas au Prophète — ils remontent à **ʿUmar ibn al-Khaṭṭāb**. C'est ʿUmar qui ordonne la flagellation des Compagnons buveurs au Shām. C'est ʿUmar qui négocie la cuisson du ṭilāʾ aux deux tiers. C'est la **position juridique de l'époque de ʿUmar** qui est en jeu, pas une norme prophétique évidente.
+
+Le processus est documenté : une pratique de ʿUmar (interdiction + flagellation) devient une parole des gens (قول الناس : كل مسكر حرام), puis un rescrit califal (ʿUmar II, ~100H), puis un hadith prophétique dans les collections canoniques (~200-300H). La rétrojection est complète — la position de ʿUmar est devenue la parole du Prophète. (Module 11)
+
+## Le clivage géographique — un terrain de bataille juridique
+
+La distinction nabīdh/khamr/ṭilāʾ n'est pas une querelle de vocabulaire — c'est un **terrain de bataille juridique** entre régions. **Kūfa** adopte la position la plus permissive : seul le khamr (vin de raisin pur) est ḥarām au sens strict, le nabīdh est licite, et l'ivresse seule est interdite. Le **Ḥijāz et le Shām** tendent vers l'interdiction totale de toute boisson fermentée.
+
+Ce clivage recoupe exactement la fracture décrite dans [[Concepts/Kūfa contre le Chām]] : Kūfa fonde ses interdits sur le **Coran strict** (qui ne mentionne que le khamr), tandis que le Shām et le Ḥijāz étendent les interdits par la **Sunna** — c'est-à-dire par le hadith produit et diffusé par le pouvoir. La boisson est un marqueur identitaire autant que doctrinal. (Module 11)
+
+## [[Personnes/Anas ibn Mālik|Anas ibn Mālik]] et le ṭilāʾ — le reproche des Kūfites
+
+Les Kūfites reprochaient à **Anas ibn Mālik** sa consommation excessive de **ṭilāʾ** (boisson fermentée à base de moût de raisin cuit). Le reproche est significatif : Anas est un Compagnon du Prophète, serviteur personnel du Prophète pendant dix ans — et il boit. Les Kūfites ne lui reprochent pas de boire (eux-mêmes boivent du nabīdh), mais de boire du **ṭilāʾ**, la boisson du Shām, et d'en abuser.
+
+L'anecdote confirme que l'interdiction totale n'existait pas à cette époque : même ceux qui critiquent Anas ne contestent pas le principe de boire — ils contestent la **quantité** et le **type** de boisson. (Module 2)
+
 ## Synthèse — chaque camp a sa boisson, chaque camp a ses buveurs
 
 ```

@@ -105,7 +105,7 @@ Des centaines de muḥaddithūn tués, noyés, crucifiés ou dispersés. Al-Ḥa
 
 ### 2. La fracture Irak vs. Shām — renforcée
 
-La révolte a creusé la coupure entre les réseaux irakiens (oppositionnels) et les réseaux syro-hijaziens (pro-pouvoir). Les savants irakiens survivants sont marqués comme **suspects politiques**. Les Syriens — [[Personnes/Al-Awzāʿī|al-Awzāʿī]], [[Personnes/Makhūl al-Shāmī|Makhūl]], les cercles de Damas — restent dans l'orbite du pouvoir. Cette fracture est la même que documente [[Concepts/Kūfa contre le Chām]].
+La révolte a creusé la coupure entre les réseaux irakiens (oppositionnels) et les réseaux syro-hijaziens (pro-pouvoir). Les savants irakiens survivants sont marqués comme **suspects politiques**. Les Syriens — [[Personnes/Al-Awzā'ī|al-Awzāʿī]], [[Personnes/Makhūl al-Shāmī|Makhūl]], les cercles de Damas — restent dans l'orbite du pouvoir. Cette fracture est la même que documente [[Concepts/Kūfa contre le Chām]].
 
 ### 3. Saʿīd ibn Jubayr — rupture dans la chaîne
 

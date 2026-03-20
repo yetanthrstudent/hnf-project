@@ -14,6 +14,10 @@ evaluation:
 sources_cles:
   - {ref: "shamela.ws/book/3722", desc: "Tahdhīb al-Kamāl — entrée n° 5573, vol. 26, pp. 341-348"}
   - {ref: "shamela.ws/book/10906/3837", desc: "Siyar — al-Dhahabī : الإمام العلامة الصادق"}
+  - {ref: "shamela.ws/book/1293", desc: "Tahdhīb al-Tahdhīb — Ibn Ḥajar, notice Muḥammad ibn Kaʿb"}
+  - {ref: "shamela.ws/book/146", desc: "Ṭabaqāt Ibn Saʿd — ثقة عالم كثير الحديث ورع"}
+  - {ref: "shamela.ws/book/1726/6171", desc: "Abū Dāwud n° 4404 — ḥadīth ʿAṭiyya (critère du لم ينبت)"}
+  - {ref: "shamela.ws/book/8609", desc: "Taqrīb al-Tahdhīb — Ibn Ḥajar"}
 ---
 
 <small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
@@ -29,14 +33,15 @@ Le problème n'est pas la fiabilité au sens technique — personne ne le décla
 
 | Dimension | Détail | Source |
 |-----------|--------|--------|
-| Nasab | Muḥammad ibn Kaʿb ibn Sulaym (ou ibn Ḥayyān ibn Sulaym ibn Asad) | Tahdhīb al-Kamāl, n° 5573 |
+| Nasab | Muḥammad ibn Kaʿb ibn Sulaym (ou ibn Ḥayyān ibn Sulaym ibn Asad) | [Tahdhīb al-Kamāl, n° 5573](https://shamela.ws/book/3722) |
 | Kunya | Abū Ḥamza, ou Abū ʿAbd Allāh | idem |
-| Lieu initial | **Kūfa** | Tahdhīb al-Kamāl : سكن الكوفة ثم تحول إلى المدينة |
+| Lieu initial | **Kūfa** | [Tahdhīb al-Kamāl](https://shamela.ws/book/3722) : سكن الكوفة ثم تحول إلى المدينة |
 | Lieu final | **Médine** (achète des biens) | idem |
 | Naissance | ~40H — fin du califat de ʿAlī | Yaʿqūb ibn Shayba |
 | Mort | 108H (Abū Maʿshar, al-Tirmidhī) / 117-120H (al-Wāqidī, Ibn Maʿīn) | Tahdhīb al-Kamāl |
 | Circonstances | Toit d'une mosquée s'effondre sur lui (al-Rabadha ?) | Siyar |
 | Évaluation | **thiqa unanime** | voir tableau ci-dessous |
+| Notices | [Tahdhīb al-Kamāl](https://shamela.ws/book/3722) · [Tahdhīb al-Tahdhīb](https://shamela.ws/book/1293) · [Siyar](https://shamela.ws/book/10906/3837) · [Taqrīb](https://shamela.ws/book/8609) |
 
 ## La nisba « al-Quraẓī » — d'où vient-elle ?
 

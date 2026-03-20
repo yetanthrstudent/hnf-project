@@ -62,6 +62,20 @@ Le tafarrud est un **point isolé** dans une chaîne — un Syrien seul à rappo
 
 Le cas paradigmatique est **[[Personnes/Muʿāwiya ibn Ṣāliḥ]]** — un Ḥimṣī devenu qāḍī d'al-Andalus, qui revient vers 154H avec ~200 hadiths uniques (*ifrādāt*). Si le tafarrud rend la vérification **difficile**, l'ighrāb la rend **impossible** : il n'y avait pas de collecteurs de hadith en al-Andalus pour fournir des *mutābaʿāt*.
 
+## Les Ṣaḥīḥayn au crible : les statistiques de Dāraquṭnī (Module 17)
+
+Le tafarrud n'est pas un phénomène marginal cantonné aux recueils mineurs. **Al-Dāraquṭnī** (m. 385 H), dans son *Kitāb al-Tatabbuʿ*, a systématiquement passé au crible les deux recueils réputés les plus fiables de la tradition sunnite et y a identifié un nombre significatif de traditions problématiques :
+
+| Recueil | Ḥadīths faibles identifiés |
+|---------|---------------------------|
+| **Ṣaḥīḥ al-Bukhārī** | 78 |
+| **Ṣaḥīḥ Muslim** | 100 |
+| **Communs aux deux** | 32 |
+
+Ces chiffres sont remarquables à double titre. D'abord, ils émanent d'un **critique classique** — pas d'un orientaliste moderne — ce qui rend l'objection « vous appliquez des critères étrangers » inopérante. Ensuite, ils montrent que le label « ṣaḥīḥ » n'est pas une garantie absolue : même à l'intérieur des recueils canoniques, les critiques internes ont identifié des traditions qui ne satisfont pas leurs propres critères de fiabilité.
+
+Le tafarrud est l'un des défauts les plus fréquemment relevés par Dāraquṭnī dans ces traditions : un transmetteur isolé rapporte un texte que ses pairs ne connaissent pas, et pourtant Bukhārī ou Muslim l'ont inclus. Le « consensus des savants » sur la fiabilité des Ṣaḥīḥayn est donc un **consensus tardif** qui a dû gommer les critiques formulées par les contemporains et successeurs immédiats des compilateurs.
+
 ## Voir aussi
 
 - [[Concepts/Ighrāb]] — importation de matériel invérifiable du lointain

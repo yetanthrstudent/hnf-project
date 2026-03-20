@@ -76,6 +76,17 @@ Elle s'inscrit dans la question 4 du dossier [[Concepts/Kūfa contre le Chām]] 
 
 Via la chaîne Makhūl ← [[Rajā' ibn Ḥaywa]] ← [[Ibn 'Amr ibn al-'Āṣ|Ibn 'Amr]], Makhūl est connecté au possesseur des [[Traditions/Zamālatain de Yarmūk|zamālatain]] et au réseau de [[Ka'b al-Ahbar]]. Rajā' ibn Ḥaywa transmet lui-même de Ka'b (via son fils 'Āṣim, shamela.ws/book/329/288).
 
+## Rôle dans la transmission shāmī et le pouvoir omeyyade
+
+Makhūl n'est pas un simple transmetteur : c'est le **faqīh officiel** du Shām sous les Omeyyades. Quand 'Abd al-Malik ibn Marwān demande qui est le juriste de référence de la Syrie, la réponse est unanime : **Makhūl** ([Dimashq p. 27813](https://shamela.ws/book/71/27813)). Sa position fait de lui un rouage essentiel de la **légitimation religieuse** du pouvoir omeyyade.
+
+Le réseau qu'il connecte est entièrement **shāmī et étatique** :
+- En amont : [[Rajā' ibn Ḥaywa]] (conseiller califal, bâtisseur du Dôme du Rocher) qu'il appelle « mon shaykh »
+- En aval : [[Al-Awzā'ī]] (fondateur de l'école juridique syrienne) et [[Sulaymān ibn Mūsā]] (muftī de Damas)
+- Transversalement : il transmet la doctrine de la **primauté de la Sunna sur le Coran** — une position qui sert directement le pouvoir, car elle permet de légiférer au-delà du texte coranique
+
+Cette position de la Sunna au-dessus du Coran s'inscrit dans l'antagonisme structurel documenté dans [[Concepts/Kūfa contre le Chām]] : le Shām produit des normes extra-coraniques (interdiction des carnassiers, qabd dans la prière) légitimées par la Sunna, tandis que les Kūfites ([[Personnes/Abū Ḥanīfa|Abū Ḥanīfa]] en tête) refusent tout interdit qui ne figure pas dans le Coran.
+
 ## Qadarisme
 
 [[Al-Awzā'ī]] défend Makhūl contre l'accusation de qadarisme : « لم يبلغنا أن أحدا من التابعين تكلم في القدر إلا هذين الرجلين: الحسن ومكحولا، فكشفنا عن ذلك، فإذا هو باطل » — « Seuls al-Ḥasan et Makhūl auraient parlé du qadar parmi les Tābi'ūn, nous avons vérifié et c'est faux. »

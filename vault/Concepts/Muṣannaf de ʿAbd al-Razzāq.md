@@ -200,6 +200,26 @@ Ils **savaient** — et malgré cela, le Muṣannaf a continué à circuler, et 
 
 ---
 
+## L'aveu d'al-Zuhrī — la pratique précède le ḥadīth (n° 1280)
+
+Le Muṣannaf contient un passage remarquable (n° 1280), transmis par Maʿmar d'après [[Personnes/al-Zuhrī|al-Zuhrī]] :
+
+> « Tout le monde pratiquait cela, et ce n'est pas dans toutes choses que nous retrouvons une chaîne de transmission. »
+
+C'est un **aveu majeur** : al-Zuhrī reconnaît que certaines pratiques étaient en vigueur **avant** qu'un isnād ne soit construit pour les justifier. L'isnād n'est pas le véhicule originel de la pratique — c'est une **construction a posteriori** qui fournit une légitimation prophétique à des usages déjà établis. Quand la pratique existe sans isnād, le réflexe du système est de *produire* un isnād, pas de remettre en question la pratique.
+
+Ce passage confirme ce que la critique interne suggère par ailleurs : l'isnād est un outil de **rationalisation rétrospective**, pas de transmission fidèle.
+
+---
+
+## Le hadith des femmes en enfer — la version occultée (t. 3, p. 280)
+
+Le Muṣannaf ʿAbd al-Razzāq (t. 3, p. 280) conserve une version du hadith des « femmes en enfer » transmise par **Dāwūd ibn Qays**, qui est **différente** de celle retenue par al-Bukhārī. Cette version n'est pas rabaissante pour les femmes — elle ne contient pas les éléments misogynes (ingratitude envers le mari, déficience de la raison et de la religion) qui caractérisent la version canonique.
+
+L'existence de cette version alternative pose une question structurelle : pourquoi al-Bukhārī a-t-il retenu la version la plus hostile aux femmes alors qu'une version non rabaissante circulait dans un recueil plus ancien ? Le choix n'est pas neutre — il reflète les **présupposés sociaux** du compilateur, pas une nécessité de la critique d'isnād.
+
+---
+
 ## Voir aussi
 
 - [[Concepts/Falsification des nusakh]] — cas d'al-Layth et ʿAbd al-Razzāq (couches 1 et 2)

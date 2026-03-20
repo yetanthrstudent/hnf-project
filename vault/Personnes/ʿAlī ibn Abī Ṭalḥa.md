@@ -28,7 +28,7 @@ Il est connu pour une seule chose : porter une **ṣaḥīfa de tafsīr** attrib
 
 > « De personne. »
 
-— Ṣāliḥ ibn Muḥammad Jazara, rapporté dans Tahdhīb al-Kamāl (20/490)
+— Ṣāliḥ ibn Muḥammad Jazara, rapporté dans [Tahdhīb al-Kamāl (20/490)](https://shamela.ws/book/5765)
 
 ## Profil
 
@@ -50,13 +50,13 @@ La divergence sur la date de mort est considérable : **23 ans** d'écart. Si 12
 | Critique | Verdict | Source |
 |----------|---------|--------|
 | al-ʿIjlī | **Thiqa** | Ikmal Tahdhīb al-Kamāl (9/347) |
-| al-Nasāʾī | **Laysa bihi baʾs** (acceptable) | Tahdhīb al-Kamāl (20/490) |
+| al-Nasāʾī | **Laysa bihi baʾs** (acceptable) | [Tahdhīb al-Kamāl (20/490)](https://shamela.ws/book/5765) |
 | Ibn Ḥibbān | Cité dans les **Thiqāt** — mais ajoute **lam yarahu** (ne l'a pas vu [Ibn ʿAbbās]) | al-Thiqāt (7/211) |
 | Ibn Khalfūn | Cité dans les **Thiqāt** | Ikmal (9/347) |
 | Ibn Ḥajar | **Ṣadūq qad yukhṭiʾ** (sincère, peut se tromper) | Taqrīb (1/698) |
-| Aḥmad ibn Ḥanbal | **Lahu ashyāʾ munkarāt** (il a des choses rejetées) | Tahdhīb al-Tahdhīb (3/171) |
-| Abū Dāwūd | **Mustaqīm fī al-ḥadīth** — mais **lahu raʾy sawʾ : kāna yarā al-sayf** | Tahdhīb al-Kamāl (20/490) |
-| al-Fasawī | **Ḍaʿīf al-ḥadīth, laysa bi-maḥmūd al-madhhab** — puis : **laysa bi-matrūk wa-lā huwa ḥujja** | Tahdhīb al-Kamāl (20/490) |
+| Aḥmad ibn Ḥanbal | **Lahu ashyāʾ munkarāt** (il a des choses rejetées) | [Tahdhīb al-Tahdhīb (3/171)](https://shamela.ws/book/1293) |
+| Abū Dāwūd | **Mustaqīm fī al-ḥadīth** — mais **lahu raʾy sawʾ : kāna yarā al-sayf** | [Tahdhīb al-Kamāl (20/490)](https://shamela.ws/book/5765) |
+| al-Fasawī | **Ḍaʿīf al-ḥadīth, laysa bi-maḥmūd al-madhhab** — puis : **laysa bi-matrūk wa-lā huwa ḥujja** | [Tahdhīb al-Kamāl (20/490)](https://shamela.ws/book/5765) |
 | al-ʿUqaylī | Cité **parmi les faibles** | Ikmal (9/347) |
 
 Le verdict d'**Abū Dāwūd** est révélateur : le hadith est « droit » (*mustaqīm*), mais l'homme a une « mauvaise opinion » (*raʾy sawʾ*) — il **prônait la révolte armée** (*kāna yarā al-sayf*). Al-Fasawī formule un jugement à double tranchant : ni abandonné (*matrūk*), ni argument probant (*ḥujja*) — un entre-deux qui résume bien le personnage.
@@ -67,12 +67,12 @@ C'est le point décisif. **Tous** les critiques qui abordent la question s'accor
 
 | Critique | Formulation | Source |
 |----------|-------------|--------|
-| **Duḥaym** | لم يسمع من ابن عباس التفسير — « il n'a pas entendu le tafsīr d'Ibn ʿAbbās » | al-Jarḥ wa-l-Taʿdīl (6/188) |
+| **Duḥaym** | لم يسمع من ابن عباس التفسير — « il n'a pas entendu le tafsīr d'Ibn ʿAbbās » | [al-Jarḥ wa-l-Taʿdīl (6/188)](https://shamela.ws/book/1451/1330) |
 | **Ibn Ḥibbān** | روى عن ابن عباس الناسخ والمنسوخ ولم يره — « il a transmis le nāsikh wa-l-mansūkh d'Ibn ʿAbbās sans l'avoir vu » | al-Thiqāt (7/211) |
-| **Abū Ḥātim** | عن ابن عباس مرسل — « d'Ibn ʿAbbās : mursal » | al-Jarḥ wa-l-Taʿdīl (6/188) |
-| **al-Mizzī** | مرسل بينهما مجاهد — « mursal, entre eux il y a Mujāhid » | Tahdhīb al-Kamāl (20/490) |
-| **Ibn Ḥajar** | ولم يسمع منه بينهما مجاهد — « il n'a pas entendu de lui, entre eux il y a Mujāhid » | Tahdhīb al-Tahdhīb (3/171) |
-| **Ṣāliḥ Jazara** | ممن سمع التفسير ؟ قال : من لا أحد — « De qui a-t-il entendu le tafsīr ? — De personne. » | Tahdhīb al-Kamāl (20/490) |
+| **Abū Ḥātim** | عن ابن عباس مرسل — « d'Ibn ʿAbbās : mursal » | [al-Jarḥ wa-l-Taʿdīl (6/188)](https://shamela.ws/book/1451/1330) |
+| **al-Mizzī** | مرسل بينهما مجاهد — « mursal, entre eux il y a Mujāhid » | [Tahdhīb al-Kamāl (20/490)](https://shamela.ws/book/5765) |
+| **Ibn Ḥajar** | ولم يسمع منه بينهما مجاهد — « il n'a pas entendu de lui, entre eux il y a Mujāhid » | [Tahdhīb al-Tahdhīb (3/171)](https://shamela.ws/book/1293) |
+| **Ṣāliḥ Jazara** | ممن سمع التفسير ؟ قال : من لا أحد — « De qui a-t-il entendu le tafsīr ? — De personne. » | [Tahdhīb al-Kamāl (20/490)](https://shamela.ws/book/5765) |
 | **al-Fasawī** | روى عن ابن عباس الناسخ والمنسوخ ولم يره — idem Ibn Ḥibbān | Tuḥfat al-Taḥṣīl (1/362) |
 
 Le **témoignage clé** est celui de **Duḥaym**, rapporté par Abū Ḥātim dans le Jarḥ : après avoir affirmé que ʿAlī n'a pas entendu le tafsīr d'Ibn ʿAbbās, il enchaîne avec une chaîne alternative — **ʿAlī ibn Abī Ṭalḥa ← Mujāhid** — révélant l'intermédiaire réel.
@@ -196,7 +196,7 @@ Abū Dāwūd rapporte qu'il **prônait la révolte armée** (*kāna yarā al-say
 
 ## Shuyūkh réels (ceux dont il a effectivement entendu)
 
-D'après Abū Ḥātim (al-Jarḥ wa-l-Taʿdīl, 6/188) :
+D'après Abū Ḥātim ([al-Jarḥ wa-l-Taʿdīl, 6/188](https://shamela.ws/book/1451/1330)) :
 
 | Maître | Lieu | Notes |
 |--------|------|-------|

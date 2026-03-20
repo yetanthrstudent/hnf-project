@@ -14,6 +14,7 @@ evaluation:
 sources_cles:
   - {ref: "shamela.ws/book/711/269", desc: "Ṣaḥīḥ Muslim — Ibn Jurayj ← akhbaranī Abū al-Zubayr ← Jābir (tark al-ṣalāt)"}
   - {ref: "shamela.ws/book/794/309", desc: "Mu'jam al-Mudallisīn — Ibn Ḥibbān sur Yāsīn al-Zayyāt derrière la nuskha d'Abū al-Zubayr"}
+  - {ref: "shamela.ws/book/21872", desc: "Tahdhīb al-Kamāl — notice biographique d'Abū al-Zubayr"}
 ---
 
 <small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
@@ -105,6 +106,12 @@ Zuhayr interrogea Abū al-Zubayr sur un hadith. Abū al-Zubayr admit que l'infor
 | **Ibn Ḥajar** | Le classe parmi les mudallis |
 
 La divergence est significative : les critiques classiques le déclarent thiqa, mais al-Shāfi'ī exige une corroboration, et la preuve documentaire (al-Layth) montre que son corpus est un **mélange non trié**.
+
+## La règle du tadlīs — seul Layth est accepté (Module 17 IBA)
+
+Le tadlīs d'Abū al-Zubayr est si systématique et si documenté que les critiques ont fini par établir une **règle pratique** : parmi tous ses transmetteurs, **seules les transmissions via al-Layth ibn Saʿd sont acceptées sans réserve**. La raison est précisément l'épisode des deux livres : al-Layth est le **seul** à avoir pris la peine de distinguer ce qu'Abū al-Zubayr avait entendu directement de Jābir de ce qu'il avait reçu par intermédiaire. Tous les autres — [[Personnes/Ibn Jurayj|Ibn Jurayj]], Zuhayr, et les dizaines de transmetteurs qui ont pris de lui — ont accepté le **bloc** sans vérification.
+
+Cette règle revient à admettre que la **majorité** de la transmission d'Abū al-Zubayr est suspecte par défaut. Pour un transmetteur déclaré « thiqa thabt » par Ibn al-Madīnī, c'est un aveu remarquable : la confiance théorique ne résiste pas à l'examen pratique. Voir la notice biographique complète dans [Tahdhīb al-Kamāl](https://shamela.ws/book/21872).
 
 ## Le lien avec la ṣaḥīfa d'al-Yashkurī
 

@@ -13,7 +13,7 @@ evaluation:
   paradoxe: "Le maître principal d'al-Shāfiʿī est rejeté par la tradition qui canonise al-Shāfiʿī"
 sources_cles:
   - {ref: "shamela.ws/book/10906/5576", desc: "Siyar (ṭ. Risāla) — notice complète avec l'anecdote de la faʾs"}
-  - {ref: "shamela.ws/book/1290/158", desc: "Tahdhīb al-Tahdhīb — jarḥ et taʿdīl sur 3 pages"}
+  - {ref: "shamela.ws/book/1293/158", desc: "Tahdhīb al-Tahdhīb — jarḥ et taʿdīl sur 3 pages"}
   - {ref: "shamela.ws/book/12579/275", desc: "al-Kāmil (Ibn ʿAdī) — l'examen empirique le plus détaillé, pp. 275-289"}
   - {ref: "shamela.ws/book/13241/2537", desc: "Sharḥ Musnad al-Shāfiʿī — Ibrāhīm via Jaʿfar : لا والله ما سمل"}
   - {ref: "shamela.ws/book/9344/1436", desc: "Musnad al-Shāfiʿī — hadith de ʿUkl via Ibrāhīm nommément"}

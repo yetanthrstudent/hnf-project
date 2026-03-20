@@ -52,6 +52,23 @@ Thābit → Ḥumayd → « Anas a dit » : la chaîne réelle est masquée par 
 
 L'association Thābit → Anas est tellement automatique (~90% de ses traditions) qu'elle fonctionne comme un **attracteur** : quand un transmetteur prend de Thābit un hadith qui passe par un autre maillon, il le raccorde instinctivement à Anas. C'est le cas documenté d'**al-Mubārak ibn Faḍāla** dans le hadith « quand un homme aime son frère » — Abū Ḥātim diagnostique un **[[Concepts/Ittibāʿ al-Majarra|ittibāʿ al-majarra]]** : la vraie chaîne passe par Ḥabīb ibn Ṣubayʿa al-Ḍubaʿī, pas par Anas. C'est [[Personnes/Ḥammād ibn Salama|Ḥammād ibn Salama]], le plus fiable des élèves de Thābit, qui préserve la chaîne correcte.
 
+## Le Miʿrāj sans Mālik ibn Saʿṣaʿa — l'argument par l'absence
+
+La version du **Miʿrāj** (l'ascension nocturne) transmise par Thābit al-Bunānī d'après [[Anas ibn Mālik]] pose un problème majeur pour les autres versions de ce récit (Module 2).
+
+Thābit — classé **thiqa maʾmūn**, le plus fiable des transmetteurs d'Anas — transmet le récit du Miʿrāj **sans mentionner** :
+- **[[Mālik ibn Saʿṣaʿa]]** — le Compagnon présumé par lequel Anas dit avoir reçu la tradition dans les autres versions
+- **Abū Dharr** — autre Compagnon ajouté dans certaines variantes
+
+L'argument est structurel : **quand le transmetteur le plus fiable d'un Compagnon ne connaît pas un élément présent chez d'autres transmetteurs, cet élément est suspect**. Si Anas avait réellement transmis le Miʿrāj via Mālik ibn Saʿṣaʿa, Thābit — qui a passé des décennies auprès d'Anas et dont le corpus représente ~90% de traditions anassiennes — l'aurait su.
+
+L'absence de Mālik ibn Saʿṣaʿa chez Thābit converge avec d'autres indices :
+1. **[[Qatāda ibn Di'āma]]** est le **seul** transmetteur d'Anas qui connaît Mālik ibn Saʿṣaʿa — un mudallis notoire.
+2. **Al-Nasāʾī** identifie la transmission à partir d'Anas comme le point de perturbation.
+3. **Mālik ibn Saʿṣaʿa** n'a aucune existence biographique indépendante en dehors de ce seul hadith.
+
+La version de Thābit fonctionne comme un **témoin négatif** : elle montre à quoi ressemble le récit **avant** les ajouts de [[Qatāda ibn Di'āma|Qatāda]]. Voir [[Traditions/Isrāʾ et Miʿrāj]].
+
 ## Relations
 
 - **Transmet de** [[Anas ibn Mālik]]

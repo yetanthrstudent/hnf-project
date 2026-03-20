@@ -1,6 +1,6 @@
 ---
 type: hadith
-theme: [ḥudūd, khamr, instabilité textuelle, tadlīs basrien]
+theme: [ḥudūd, khamr, instabilité textuelle, tadlīs basrien, rétrojection, clivage régional, isrāʾīliyyāt]
 matn_resume: "Le Prophète a frappé un homme qui avait bu du vin — versions contradictoires sur l'instrument, le nombre de coups et les acteurs."
 sources:
   - {ref: "shamela.ws/book/8361/7318", desc: "Nasā'ī — Shuʿba ← Qatāda ← Anas : 2 palmes, ~40 coups"}
@@ -10,6 +10,12 @@ sources:
   - {ref: "shamela.ws/book/12579/2194", desc: "Ibn ʿAdī, al-Kāmil — Yaḥyā ibn Maʿīn sur Shabbāba"}
   - {ref: "shamela.ws/book/12579/2195", desc: "Ibn ʿAdī — Shabbāba : chaîne avec al-Ḥasan intercalé"}
   - {ref: "shamela.ws/book/5997/19", desc: "al-Ḥākim — Qatāda مشهور بالتدليس عنهما"}
+  - {ref: "shamela.ws/book/1681/10202", desc: "Bukhārī (éd. Ṣaḥīḥ) — même ḥadīth via Hishām + Shuʿba"}
+  - {ref: "shamela.ws/book/13174", desc: "Muṣannaf ʿAbd al-Razzāq — Compagnons buveurs au Shām"}
+voir_aussi:
+  - "[[Concepts/Nabīdh, ṭilā', khamr]]"
+  - "[[Personnes/Ka'b al-Ahbar]]"
+  - "[[Concepts/Kūfa contre le Chām]]"
 ---
 
 <small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
@@ -153,6 +159,34 @@ Si un hadith prophétique clair sur le ḥadd al-khamr circulait dès le premier
 
 Le même phénomène s'observe pour d'autres questions (le port de l'or, par exemple) : des hadiths explicites apparaissent au IIᵉ siècle sur des sujets où les savants du Ier siècle n'avaient pas de tradition prophétique connue.
 
+## L'interdiction — une position de ʿUmar rétrojetée
+
+Les ḥadīths les plus anciens sur l'interdiction de l'alcool et la sanction du buveur ne remontent pas au Prophète — ils remontent à **ʿUmar ibn al-Khaṭṭāb**. C'est ʿUmar qui ordonne la flagellation des Compagnons buveurs au Shām. C'est ʿUmar qui consulte les gens pour fixer la peine à 80 coups. C'est ʿUmar qui négocie la cuisson du ṭilāʾ. Le récit même du jald — dans ses versions les plus détaillées (Bayhaqī 2, [p. 19959](https://shamela.ws/book/7861/19959)) — montre que le passage de ~40 à 80 coups est une **décision politique de ʿUmar**, justifiée par l'argument que « les gens se sont rapprochés des terres fertiles » (إن الناس قد دنوا من الريف).
+
+Le processus est documenté en détail dans [[Concepts/Nabīdh, ṭilā', khamr]] : la formule « كل مسكر حرام » (tout enivrant est ḥarām) commence comme une **parole des gens** (قول الناس), identifiée comme telle par Ibrāhīm al-Nakhaʿī (~96H), puis devient un rescrit califal sous ʿUmar ibn ʿAbd al-ʿAzīz (~100H), puis un hadith prophétique dans les collections canoniques (~200-300H). La position juridique de ʿUmar a été **rétrojetée** sur le Prophète. (Module 11)
+
+## Le clivage Kūfa / Ḥijāz sur la distinction nabīdh / khamr / ṭilāʾ
+
+La question du jald ne peut être comprise indépendamment du **clivage régional** sur la nature même de ce qui est interdit. Kūfa, le Ḥijāz et le Shām divergent profondément :
+
+- **Kūfa** : seul le khamr (vin de raisin pur) est ḥarām au sens coranique strict. Le nabīdh (boisson fermentée de dattes) est licite. Seule l'**ivresse** (sukr) est interdite, pas la substance. Position d'Ibrāhīm al-Nakhaʿī, héritée par [[Personnes/Abū Ḥanīfa|Abū Ḥanīfa]].
+- **Le Shām** : le ṭilāʾ (moût de raisin cuit) est autorisé jusqu'au rescrit de ʿUmar ibn ʿAbd al-ʿAzīz (~100H). Les Compagnons du Shām boivent — et se défendent par le Coran (5:93).
+- **Le Ḥijāz** : tend vers l'interdiction totale, mais Mālik rapporte « كل مسكر حرام » comme **parole d'Ibn ʿUmar** (mawqūf), pas du Prophète.
+
+Ce clivage explique pourquoi les versions du jald divergent autant : il n'y avait **pas de norme prophétique claire** au Ier siècle. Les ḥadīths sur la sanction du buveur cristallisent au IIᵉ siècle pour trancher un débat régional déjà vieux d'un siècle. Voir [[Concepts/Nabīdh, ṭilā', khamr]] et [[Concepts/Kūfa contre le Chām]] pour l'analyse complète du clivage.
+
+## Le rajm sous Muʿāwiya et l'influence de Ka'b
+
+Le lien entre l'alcool et les ḥudūd omeyyades ne s'arrête pas au jald. Le **rajm** (lapidation pour adultère) est appliqué sous le califat de [[Personnes/Mu'āwiya ibn Abī Sufyān|Muʿāwiya]] avec l'intervention directe de **[[Personnes/Ka'b al-Ahbar|Ka'b al-Ahbar]]** — le rabbin yéménite converti, détenteur auto-déclaré de la Torah. La lapidation est une peine **biblique** (Deutéronome 22:23-24), absente du Coran en tant que peine prescrite. L'implication de Ka'b confirme le circuit de transfert normatif : une règle juridique **mosaïque** passe dans la pratique islamique via Ka'b et le pouvoir omeyyade.
+
+Le schéma est le même que pour le jald : une **pratique du pouvoir** (ici omeyyade, guidé par Ka'b) est ensuite rétrojetée sur le Prophète via des ḥadīths canoniques. Le droit pénal islamique — jald, rajm — porte la marque de cette double influence : le califat et les [[Concepts/Isrā'īliyyāt|isrāʾīliyyāt]]. (Modules 8+14)
+
+## Shuʿba et la fabrication du ḥadīth sur la musique
+
+[[Personnes/Shu'ba ibn al-Ḥajjāj|Shuʿba]] — le même transmetteur qui est au cœur de la chaîne du jald — aurait identifié la **fabrication** d'un ḥadīth sur l'interdiction de la musique. Le cas est significatif : Shuʿba, présenté comme le grand vérificateur qui « protège » contre le tadlīs de Qatāda (voir [[Concepts/Kafaytukum tadlīs thalātha]]), repère lui-même la fabrication dans un domaine connexe — les interdits liés aux plaisirs (vin, musique).
+
+Si Shuʿba détecte la fabrication dans un ḥadīth sur la musique, la question se pose : a-t-il appliqué le même filtre aux ḥadīths sur le vin qu'il transmet lui-même ? Les divergences entre ses propres élèves (voir le tableau supra) suggèrent que non. La « protection » de Shuʿba est sélective — elle fonctionne quand il identifie un faux, mais elle n'empêche pas l'instabilité textuelle dans les traditions qu'il rapporte. (Modules 8+14)
+
 ## Relations
 
 - **Transmetteur principal** : [[Personnes/Qatāda ibn Di'āma]] — qāṣṣ basrien, mudallis notoire d'après Anas et al-Ḥasan
@@ -162,3 +196,7 @@ Le même phénomène s'observe pour d'autres questions (le port de l'or, par exe
 - **Voir** [[Concepts/Kafaytukum tadlīs thalātha]] — la « protection » de Shuʿba contre le tadlīs
 - **Voir** [[Concepts/Ittibāʿ al-Majarra]] — la cristallisation des chaînes après les transmetteurs
 - **Voir** [[Concepts/Lam asmaʿ]] — l'absence de savoir n'est pas un savoir de l'absence
+- **Voir** [[Concepts/Nabīdh, ṭilā', khamr]] — le clivage régional sur les boissons, la rétrojection de « kull muskir ḥarām »
+- **Voir** [[Personnes/Ka'b al-Ahbar]] — le rajm omeyyade sous influence isrāʾīlī
+- **Voir** [[Concepts/Kūfa contre le Chām]] — le cadre structurel du conflit doctrinal
+- **Voir** [[Concepts/Isrā'īliyyāt]] — le transfert normatif biblique dans le droit pénal

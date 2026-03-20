@@ -18,14 +18,14 @@ sources_cles:
 
 # Rajā' ibn Ḥaywa
 
-**Conseiller des califes omeyyades**, juge, figure clé de la sacralisation de **Bayt al-Maqdis** (Jérusalem). Abū al-Miqdām al-Kindī al-Shāmī al-Filasṭīnī (p. 7908). Troisième ṭabaqa des tābi'ūn du Shām (Ibn Sa'd, p. 7907).
+**Conseiller des califes omeyyades**, juge, figure clé de la sacralisation de **Bayt al-Maqdis** (Jérusalem). Abū al-Miqdām al-Kindī al-Shāmī al-Filasṭīnī ([Dimashq p. 7908](https://shamela.ws/book/71/7908)). Troisième ṭabaqa des tābi'ūn du Shām (Ibn Sa'd, [p. 7907](https://shamela.ws/book/71/7907)).
 
 ## Identité
 
-- Tribu : **Kinda** — « أنا من الذين أنعم الله عليهم بالإسلام وعدادي في كندة » (p. 7907)
+- Tribu : **Kinda** — « أنا من الذين أنعم الله عليهم بالإسلام وعدادي في كندة » ([p. 7907](https://shamela.ws/book/71/7907))
 - Origine palestinienne (فلسطيني)
-- **Qāḍī** (juge) — p. 7908
-- Transmetteur fiable : « رجاء يحدث كما سمع » — « Rajā' transmet comme il a entendu » (Ibn 'Awn, p. 7908)
+- **Qāḍī** (juge) — [p. 7908](https://shamela.ws/book/71/7908)
+- Transmetteur fiable : « رجاء يحدث كما سمع » — « Rajā' transmet comme il a entendu » (Ibn 'Awn, [p. 7908](https://shamela.ws/book/71/7908))
 
 ## Transmission de Ka'b al-Aḥbār
 
@@ -44,8 +44,8 @@ La connexion **Ka'b → Rajā' → 'Abd al-Malik** dessine le circuit de la sacr
 ## Relations dans le réseau
 
 - **Transmet de** [[Ka'b al-Ahbar]] (via son fils 'Āṣim)
-- **Transmet de** [[Ibn 'Amr ibn al-'Āṣ|'Abd Allāh ibn 'Amr]] et de Mu'āwiya (p. 7908)
-- **Maître de** [[Makhūl al-Shāmī]] — qui l'appelle « mon shaykh » (p. 27815)
+- **Transmet de** [[Ibn 'Amr ibn al-'Āṣ|'Abd Allāh ibn 'Amr]] et de Mu'āwiya ([p. 7908](https://shamela.ws/book/71/7908))
+- **Maître de** [[Makhūl al-Shāmī]] — qui l'appelle « mon shaykh » ([Dimashq p. 27815](https://shamela.ws/book/71/27815))
 - **Conseiller de** 'Abd al-Malik ibn Marwān (construction du Dôme)
 - **Chaîne clé** : [[Al-Awzā'ī]] ← [[Makhūl al-Shāmī|Makhūl]] ← **Rajā'** ← [[Ibn 'Amr ibn al-'Āṣ|Ibn 'Amr]]
 

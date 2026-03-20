@@ -5,7 +5,7 @@ acteurs_cles:
   - {nom: "Maʿbad al-Juhanī", role: "premier Qadarite connu, crucifié ~80H"}
   - {nom: "Ghaylān al-Dimashqī", role: "Qadarite de Damas, mains et pieds coupés, crucifié ~105H"}
   - {nom: "Al-Ḥasan al-Baṣrī", role: "suspecté de qadarisme, auteur présumé de la Risāla à ʿAbd al-Malik"}
-  - {nom: "Qatāda ibn Diʿāma", role: "accusé de qadarisme tout en restant thiqa"}
+  - {nom: "Qatāda ibn Di'āma", role: "accusé de qadarisme tout en restant thiqa"}
   - {nom: "Wāṣil ibn ʿAṭāʾ", role: "transition du qadarisme vers le muʿtazilisme"}
 shamela:
   siyar_mabad: {pages: [10906/3339], desc: "Siyar — Maʿbad al-Juhanī"}
@@ -99,7 +99,7 @@ Ces paroles sont parvenues à **Hishām ibn ʿAbd al-Malik**, alors prince héri
 
 Quand ʿUmar II apprit les vues qadarites de Ghaylān, il le convoqua pour un débat avec **Iyās ibn Muʿāwiya**. Ghaylān se rétracta en apparence. Mais après la mort de ʿUmar (101H), il revint à ses doctrines.
 
-**Le débat avec al-Awzāʿī** : Hishām, devenu calife, ordonna un débat public. [[Personnes/Al-Awzāʿī|Al-Awzāʿī]] posa quatre questions sur le décret divin. À chacune, Ghaylān répondit : **« لَا عِلْمَ لِي بِهَذَا »** — « Je n'ai aucune connaissance à ce sujet. » Al-Awzāʿī déclara : **« القدرية خصماء الله عز وجل في الأرض »** — « Les Qadarites sont les adversaires de Dieu sur terre. »
+**Le débat avec al-Awzāʿī** : Hishām, devenu calife, ordonna un débat public. [[Personnes/Al-Awzā'ī|Al-Awzā'ī]] posa quatre questions sur le décret divin. À chacune, Ghaylān répondit : **« لَا عِلْمَ لِي بِهَذَا »** — « Je n'ai aucune connaissance à ce sujet. » Al-Awzā'ī déclara : **« القدرية خصماء الله عز وجل في الأرض »** — « Les Qadarites sont les adversaires de Dieu sur terre. »
 
 **L'exécution** : on lui coupa les mains et les pieds. Il fut crucifié à **Bāb Kaysān** (Damas). Mutilé et crucifié, **il continuait à haranguer la foule** — Hishām ordonna qu'on lui coupe la langue, après quoi il mourut.
 
@@ -123,9 +123,9 @@ Problème d'authenticité : certains chercheurs (dont Suleiman Mourad, *Early Is
 
 **Pourquoi al-Ḥasan n'a pas été exécuté** : son prestige était trop grand. Maʿbad était un militant armé qu'on pouvait crucifier. Ghaylān était un mawlā excentrique. Al-Ḥasan était le pôle intellectuel de Basra — le tuer aurait provoqué une révolte. Le système a préféré l'absorber, puis inventer sa rétractation.
 
-### Qatāda ibn Diʿāma — le Qadarite canonique
+### Qatāda ibn Di'āma — le Qadarite canonique
 
-[[Personnes/Qatāda ibn Diʿāma|Qatāda]] est unanimement reconnu comme **thiqa thabt** (fiable et solide) — et accusé de qadarisme. Les deux faits coexistent dans les mêmes notices biographiques.
+[[Personnes/Qatāda ibn Di'āma|Qatāda]] est unanimement reconnu comme **thiqa thabt** (fiable et solide) — et accusé de qadarisme. Les deux faits coexistent dans les mêmes notices biographiques.
 
 **Abū Dāwūd** essaie de sauver le dossier : « Rien n'est authentique concernant Qatāda et le qadar » (لَيْسَ يَصِحُّ عَنْ قَتَادَةَ فِي القَدَرِ شَيْءٌ). Aḥmad ibn Ḥanbal invoque, encore une fois, la **tawba** : il s'est repenti, comme son maître al-Ḥasan.
 
@@ -267,12 +267,12 @@ Encore ʿUmar mawlā Ghufra — avec un isnād qui fait intervenir **trois Compa
 ʿUmar ibn ʿAbd Allāh mawlā Ghufra est le **personnage central** du réseau anti-qadarite : trois des sept voies passent par lui. Profil :
 
 - **Ḍaʿīf** (faible) selon le consensus des critiques
-- **Qāṣṣ** — prédicateur-conteur, comme [[Personnes/Qatāda ibn Diʿāma|Qatāda]]
+- **Qāṣṣ** — prédicateur-conteur, comme [[Personnes/Qatāda ibn Di'āma|Qatāda]]
 - **Irsāl massif** — ne peut pas avoir entendu directement des Compagnons qu'il cite
 - Son ami est **Abū Khālid al-Khushanī** ([p. 6037](https://shamela.ws/book/71/6037)), qui transmet des hadiths sur la peste (la Jābiya = Damas) et l'innovation — même milieu damascène
 - **Mālik** le connaissait personnellement mais **refuse de prendre de la science de lui** — « je ne prenais pas de science de lui » (botta en touche)
 
-ʿUmar mawlā Ghufra est un **qāṣṣ damascène** qui produit des hadiths anti-qadarites en série, les rattachant à divers Compagnons via des chaînes déconnectées. C'est l'équivalent local de ce que [[Personnes/Qatāda ibn Diʿāma|Qatāda]] fait à Basra pour d'autres thèmes — le qaṣṣ génère le hadith.
+ʿUmar mawlā Ghufra est un **qāṣṣ damascène** qui produit des hadiths anti-qadarites en série, les rattachant à divers Compagnons via des chaînes déconnectées. C'est l'équivalent local de ce que [[Personnes/Qatāda ibn Di'āma|Qatāda]] fait à Basra pour d'autres thèmes — le qaṣṣ génère le hadith.
 
 ### L'ironie structurelle
 
@@ -304,7 +304,7 @@ Tārīkh Dimashq ([p. 22339](https://shamela.ws/book/71/22339)) :
 
 > « Il y aura dans ma communauté deux hommes : l'un est **Wahb**, à qui Dieu accordera la sagesse — et l'autre est **Ghaylān**, dont la tentation sera **pire que celle de Satan**. »
 
-Chaîne : **Marwān ibn Sālim** (faible) ← **[[Personnes/Khālid ibn Maʿdān|Khālid ibn Maʿdān]]** (chef de la police de Homs) ← ʿUbāda. Un hadith où le Prophète **prédit nommément** l'opposition entre le champion du jabr (Wahb) et le champion du qadar (Ghaylān) — fabriqué après les faits, transmis par le chef de la police.
+Chaîne : **Marwān ibn Sālim** (faible) ← **[[Personnes/Khālid ibn Ma'dān|Khālid ibn Ma'dān]]** (chef de la police de Homs) ← ʿUbāda. Un hadith où le Prophète **prédit nommément** l'opposition entre le champion du jabr (Wahb) et le champion du qadar (Ghaylān) — fabriqué après les faits, transmis par le chef de la police.
 
 ### L'utilisation politique directe — ʿUmar ibn ʿAbd al-ʿAzīz
 
@@ -395,8 +395,8 @@ Le « consensus » sunnite sur la prédestination — celui qui sera plus tard c
 
 - [[Traditions/Ḥadīth Jibrīl]] — le préambule anti-qadarite et le double tafarrud
 - [[Personnes/al-Ḥasan al-Baṣrī]] — la Risāla au calife et l'accusation de qadarisme
-- [[Personnes/Qatāda ibn Diʿāma]] — accusé de qadarisme malgré son statut de thiqa
-- [[Personnes/Al-Awzāʿī]] — le débat avec Ghaylān al-Dimashqī
+- [[Personnes/Qatāda ibn Di'āma]] — accusé de qadarisme malgré son statut de thiqa
+- [[Personnes/Al-Awzā'ī]] — le débat avec Ghaylān al-Dimashqī
 - [[Personnes/Makhūl al-Shāmī]] — faqīh du Shām sous les Omeyyades
 - [[Concepts/ʿAmal al-Sulṭān]] — les savants patronnés par le pouvoir
-- [[Concepts/Ahl al-Sunna wal-Jamāʿa]] — la construction du « consensus » sunnite
+- [[Concepts/Ahl al-Sunna wal-Jamā'a]] — la construction du « consensus » sunnite

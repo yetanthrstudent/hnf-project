@@ -140,6 +140,40 @@ Aucun savant majeur ne l'a affaibli.
 
 L'intégralité du patrimoine de ce hadith repose sur un transmetteur unique — un mudallis avéré dont Shu'ba affirme qu'il n'a « réellement entendu d'Anas que cinq hadiths », qui avoue avoir masqué ses sources à ses interlocuteurs, et dont les élèves divergent sur le statut mawqūf/marfū'. Le tafarrud de Ḥumayd est traité comme un non-problème parce que ses transmetteurs *à lui* (Ḥammād, Ibn 'Ulayya, Ibn Abī 'Adī) sont fiables. Le raisonnement porte sur la qualité de la chaîne *en aval* de Ḥumayd sans peser le fait structurel qu'un point unique de transmission — quel que soit le nombre de ramifications qu'il produit ensuite — reste un point unique.
 
+## Tadlīs confirmé — les intermédiaires masqués
+
+Le tadlīs de Ḥumayd ne se limite pas à la confusion Anas/Thābit documentée ci-dessus. Module 17 confirme un mécanisme plus large : Ḥumayd **entre des intermédiaires entre lui et [[Anas ibn Mālik]]**, qu'il masque ensuite pour présenter la tradition comme un samāʿ direct. La chaîne réelle est plus longue — et plus fragile — que la chaîne déclarée.
+
+## Confusion « nuit du Destin » / « nuits du Ramaḍān »
+
+Un cas de **déformation progressive** éclaire le rôle de Ḥumayd dans la fabrication de traditions (Module 17).
+
+La tradition sur l'expiation des péchés par la prière nocturne existe en deux versions contradictoires, portées par deux élèves d'[[Abū Hurayra]] :
+
+| Transmetteur | Version | Texte |
+|-------------|---------|-------|
+| **Al-Aʿraj** (ʿAbd al-Raḥmān ibn Hurmuz) | « **la nuit du Destin** » (laylat al-qadr) | « من قام ليلة القدر إيمانا واحتسابا غفر له ما تقدم من ذنبه » |
+| **Ḥumayd al-Ṭawīl** | « **les nuits du Ramaḍān** » | Extension à l'ensemble du mois |
+
+La version d'**al-Aʿraj** — « celui qui prie **la nuit du Destin** avec foi et en espérant la récompense, ses péchés antérieurs lui seront pardonnés » — correspond à la parole originale, qui remonte à **[[Ka'b al-Ahbar]]**. C'est une tradition sur une nuit unique, pas sur un mois entier.
+
+Ḥumayd **élargit** la tradition à l'ensemble du Ramaḍān — une inflation qui transforme une pratique ponctuelle en obligation mensuelle. Le processus est typique de la déformation par étapes :
+
+```
+Ka'b al-Ahbar (source réelle)
+    │
+    « la nuit du Destin »
+    │
+    ↓
+Abū Hurayra (relais)
+    │
+    ├── al-Aʿraj → « la nuit du Destin » (version préservée)
+    │
+    └── Ḥumayd al-Ṭawīl → « les nuits du Ramaḍān » (version inflatée)
+```
+
+Le cas illustre comment un mudallis qui confond ses sources produit non pas une erreur mineure, mais une **mutation normative** — le passage d'une nuit exceptionnelle à un mois de pratique obligatoire.
+
 ## Relations
 
 - **Transmet de** [[Khālid ibn 'Abd Allāh al-Qasrī]] — transmetteur direct du gouverneur

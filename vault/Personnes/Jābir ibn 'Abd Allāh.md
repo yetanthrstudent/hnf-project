@@ -54,7 +54,7 @@ La critique « **yusnidu kathīran** » (يسند كثيرا — il attribue tro
 
 ### 'Amr ibn Dīnār — l'aveu et la confusion
 
-Shu'ba demande directement à 'Amr (Musnad Aḥmad 3/368) :
+Shu'ba demande directement à 'Amr ([Musnad Aḥmad](https://shamela.ws/book/25794) 3/368) :
 
 > « قلت لعمرو : أنت سمعته من جابر ؟ قال : لا »
 >

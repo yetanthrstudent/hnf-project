@@ -84,6 +84,20 @@ CAS 1 : AL-LAYTH IBN SA'D          CAS 2 : 'ABD AL-RAZZĀQ
                                      MUṢANNAF CORROMPU
 ```
 
+## Scribes falsificateurs identifiés (Module 12)
+
+Au-delà des deux cas majeurs détaillés ci-dessus, les sources classiques nomment **plusieurs scribes professionnels** reconnus comme faussaires — des copistes dont le métier même leur donnait accès aux manuscrits qu'ils corrompaient :
+
+| Faussaire | Identification |
+|-----------|---------------|
+| **Khālid ibn Qāsim** | Scribe falsificateur identifié par la critique classique |
+| **Khālid ibn Najīḥ** | Scribe falsificateur |
+| **Ḥabīb ibn Abī Ḥabīb** | Scribe falsificateur — copiste du **[[Concepts/Muṣannaf de ʿAbd al-Razzāq|Muwaṭṭaʾ de Mālik]]** |
+
+Le cas de Ḥabīb ibn Abī Ḥabīb est particulièrement significatif : il était le **copiste attitré** du Muwaṭṭaʾ de Mālik, ce qui signifie que l'un des textes fondateurs du droit islamique a circulé à travers les mains d'un faussaire reconnu. Le Muwaṭṭaʾ a ainsi fait l'objet de **falsifications documentées** — un fait qui relativise considérablement l'autorité textuelle qu'on lui accorde.
+
+Le schéma est le même que pour Khālid al-Madā'inī et le neveu de Ma'mar : le faussaire n'est pas un inconnu extérieur, mais un **professionnel de l'écrit** dont la position même lui donne accès et crédibilité. La falsification est d'autant plus efficace qu'elle est indétectable par le système classique du jarḥ wa ta'dīl, qui évalue les *transmetteurs oraux*, pas les *copistes*.
+
 ## Conséquence systémique
 
 La falsification des nusakh frappe le **niveau le plus fondamental** de la transmission : le livre lui-même. La critique classique du hadith (jarḥ wa ta'dīl) évalue les **transmetteurs** — elle suppose que les livres sont intègres. Quand un faussaire externe modifie le contenu d'un livre attribué à un thiqa, le système entier de vérification est court-circuité :
@@ -101,3 +115,4 @@ C'est le **point aveugle** du système : la critique évalue les hommes, pas les
 - [[Personnes/Abū al-Zubayr al-Makkī]] — dont al-Layth est le seul vérificateur
 - [[Personnes/Jābir ibn 'Abd Allāh]] — la ṣaḥīfa dont la chaîne de confiance est doublement brisée
 - [[Personnes/Ibn Jurayj]] — autre canal vers Abū al-Zubayr, contaminé par Yāsīn al-Zayyāt
+- [[Concepts/Muṣannaf de ʿAbd al-Razzāq]] — triple couche de corruption documentée
