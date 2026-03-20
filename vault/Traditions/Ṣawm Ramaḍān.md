@@ -328,15 +328,19 @@ La tradition a mobilisé **quatre stratégies** pour neutraliser le sens du vers
 
 **Le fait qu'on ait besoin de quatre stratégies incompatibles pour neutraliser un seul verset est la preuve la plus éloquente que ce verset dit bien ce qu'il semble dire** : ceux qui peuvent jeûner ont le choix de payer la fidya à la place — et le jeûne est « meilleur », pas obligatoire.
 
-### Le Coran ne dit pas « abrogation »
+### Les conditions du naskh ne sont pas réunies
 
 La thèse du naskh de 2:184 par 2:185 n'est pas un argument de circonstance — c'est la position majoritaire, portée par des autorités majeures. Al-Ṭabarī lui-même, tout en rejetant la qirāʾa يُطَوَّقُونَهُ comme contraire au muṣḥaf, accepte une forme de naskh. Le poids de cette position doit être reconnu.
 
-Cependant, il faut noter que cette thèse présuppose la validité du mécanisme de naskh lui-même — un concept dont les fondements, les critères et les usages feront l'objet d'une [[Concepts/Naskh|étude dédiée]]. Dans le cadre de ce dossier, nous nous limitons à observer les tensions textuelles :
+Mais accepter le naskh comme mécanisme valide n'implique pas qu'il s'applique ici. Les uṣūliyyūn eux-mêmes posent des conditions au naskh — et aucune n'est satisfaite dans ce cas :
 
-Le verset 2:185 ne dit pas « nous avons abrogé le verset précédent ». Il prescrit le jeûne à celui qui est présent pendant le mois (فَمَن شَهِدَ مِنكُمُ الشَّهْرَ فَلْيَصُمْهُ). Les deux versets sont **consécutifs dans la même sourate** — l'un offre une option, l'autre indique la préférence. La lecture la plus naturelle est **complémentaire**, pas abrogatoire.
+**1. Le naskh exige une contradiction réelle (taʿāruḍ) entre deux normes.** Or 2:184 et 2:185 ne se contredisent pas. L'un dit : « ceux qui peuvent jeûner ont l'option de la fidya, mais jeûner est meilleur ». L'autre dit : « quiconque est présent pendant le mois, qu'il jeûne ». Le premier pose un choix avec préférence, le second formule l'injonction générale. Ce sont deux niveaux d'un même discours — une recommandation et son horizon — pas deux normes incompatibles. Tant qu'on peut les lire ensemble sans contradiction, le naskh est **interdit** (*al-jamʿ awlā min al-naskh* — la conciliation prime sur l'abrogation), et c'est un principe que les uṣūliyyūn de toutes les écoles reconnaissent.
 
-L'affirmation « c'est abrogé » vient des Compagnons et des tābiʿīn — pas du texte lui-même.
+**2. Le naskh exige deux moments législatifs distincts.** Les versets 2:183-185 forment un seul passage continu, révélé dans un même contexte. 2:185 n'est pas une révélation postérieure venue corriger 2:184 — c'est la phrase suivante du même discours. Abroger un verset par le verset qui le suit immédiatement dans le même passage, c'est dire que Dieu a légiféré et s'est contredit dans le même souffle. C'est précisément ce qu'Ibn al-Jawzī dénonce (voir ci-dessous).
+
+**3. L'affirmation d'abrogation est humaine, pas textuelle.** Ce n'est pas le Coran qui dit « j'ai abrogé le verset précédent » — ce sont des Compagnons (Ibn ʿUmar, Salama ibn al-Akwaʿ) qui le déclarent. Or une déclaration de Compagnon n'a pas le statut d'un texte révélé. Face à elle, on a une déclaration contraire d'un autre Compagnon (Ibn ʿAbbās : « لَيْسَتْ بِمَنْسُوخَةٍ ») — transmise par cinq voies. C'est un désaccord entre Compagnons, pas un fait textuel établi.
+
+L'argument ne porte donc pas sur la légitimité du naskh en général — il porte sur le fait que **ce cas précis ne remplit pas les conditions que les partisans du naskh eux-mêmes exigent**. Même en leur accordant le mécanisme, l'application échoue. Le concept de naskh fera l'objet d'une [[Concepts/Naskh|étude dédiée]].
 
 **Ibn al-Jawzī** (m. 597H) fournit un argument textuel décisif dans *Nawāsikh al-Qurʾān* ([p. 56](https://shamela.ws/book/38121/56)). Après avoir présenté la thèse de l'abrogation (les « jours comptés » = 3 jours/mois, abrogés par « شهر رمضان »), il écrit :
 
