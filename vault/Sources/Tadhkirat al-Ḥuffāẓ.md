@@ -94,38 +94,38 @@ L'absence d'un individu dans cette liste n'implique pas nécessairement qu'il n'
 
 ## Troisième génération (ṭabaqa 3)
 
-| Page | ID | Nom court | Translittération | Mort | Fiche |
-|------|-----|-----------|-----------------|------|-------|
-| 52 | 66 | الحسن البصري | al-Ḥasan al-Baṣrī | 110 H | [[Personnes/al-Ḥasan al-Baṣrī]] |
-| 52 | 67 | جابر بن زيد | Jābir b. Zayd | 103 H | |
-| 53 | 68 | مرثد بن عبد الله اليزني | Murthad b. ʿAbdallāh al-Yazanī | | |
-| 53 | 69 | إبراهيم التيمي | Ibrāhīm al-Taymī | | |
-| 54 | 70 | إبراهيم النخعي | Ibrāhīm b. Yazīd al-Nakhaʿī | | |
-| 54 | 71 | علي زين العابدين | ʿAlī Zayn al-ʿĀbidīn | | |
-| 55 | 72 | يحيى بن يعمر | Yaḥyā b. Yaʿmar | | |
-| 55 | 73 | سعيد بن جبير | Saʿīd b. Jubayr | | |
-| 57 | 74 | محمد بن سيرين | Muḥammad b. Sīrīn | | |
-| 57 | 75 | عبيد الله بن عبد الله بن عتبة | ʿUbayd Allāh b. ʿAbdallāh b. ʿUtba | | |
-| 58 | 76 | عامر الشعبي | ʿĀmir al-Shaʿbī | | |
-| 63 | 77 | سالم بن عبد الله بن عمر | Sālim b. ʿAbdallāh b. ʿUmar | | |
-| 64 | 78 | أبو صالح السمان ذكوان | Abū Ṣāliḥ al-Sammān Dhakwān | | [[Personnes/Dhakwān Abū Ṣāliḥ al-Sammān]] |
-| 64 | 79 | طاووس بن كيسان | Ṭāwūs b. Kaysān | | |
-| 65 | 80 | عطاء بن يسار | ʿAṭāʾ b. Yasār | | |
-| 65 | 81 | سليمان بن يسار | Sulaymān b. Yasār | | |
-| 66 | 82 | خارجة بن زيد بن ثابت | Khārija b. Zayd b. Thābit | | |
-| 66 | 83 | مجاهد بن جبر | Mujāhid b. Jabr | | [[Personnes/Mujāhid]] |
-| 67 | 84 | خالد بن معدان | Khālid b. Maʿdān | | [[Personnes/Khālid ibn Ma'dān]] |
-| 67 | 85 | أبو قلابة الجرمي | Abū Qilāba al-Jarmī | | |
-| 68 | 86 | أبو بردة | Abū Burdah | | |
-| 68 | 87 | عكرمة | ʿIkrima | | |
-| 69 | 88 | القاسم بن محمد بن أبي بكر | al-Qāsim b. Muḥammad b. Abī Bakr | | |
-| 70 | 89 | الأعرج | al-Aʿraj | | |
-| 70 | 90 | عطاء بن أبي رباح | ʿAṭāʾ b. Abī Rabāḥ | 114 H | [[Personnes/ʿAṭāʾ ibn Abī Rabāḥ]] |
-| 71 | 91 | ميمون بن مهران | Maymūn b. Mihrān | | [[Personnes/Maymūn ibn Mahrān]] |
-| 71 | 92 | نافع المدني | Nāfiʿ al-Madanī | | [[Personnes/Nāfiʿ mawlā Ibn ʿUmar]] |
-| 72 | 93 | وهب بن منبه | Wahb b. Munabbih | | [[Personnes/Wahb ibn Munabbih]] |
-| 73 | 94 | ابن أبي مليكة | Ibn Abī Mulaykah | | |
-| 73 | 95 | عبد الله بن بريدة | ʿAbdallāh b. Barīda | | |
+| Page | ID  | Nom court                     | Translittération                   | Mort  | Fiche                                     |
+| ---- | --- | ----------------------------- | ---------------------------------- | ----- | ----------------------------------------- |
+| 52   | 66  | الحسن البصري                  | al-Ḥasan al-Baṣrī                  | 110 H | [[Personnes/al-Ḥasan al-Baṣrī]]           |
+| 52   | 67  | جابر بن زيد                   | Jābir b. Zayd                      | 103 H |                                           |
+| 53   | 68  | مرثد بن عبد الله اليزني       | Murthad b. ʿAbdallāh al-Yazanī     |       |                                           |
+| 53   | 69  | إبراهيم التيمي                | Ibrāhīm al-Taymī                   |       |                                           |
+| 54   | 70  | إبراهيم النخعي                | Ibrāhīm b. Yazīd al-Nakhaʿī        |       |                                           |
+| 54   | 71  | علي زين العابدين              | ʿAlī Zayn al-ʿĀbidīn               |       |                                           |
+| 55   | 72  | يحيى بن يعمر                  | Yaḥyā b. Yaʿmar                    |       |                                           |
+| 55   | 73  | سعيد بن جبير                  | Saʿīd b. Jubayr                    |       |                                           |
+| 57   | 74  | محمد بن سيرين                 | Muḥammad b. Sīrīn                  |       |                                           |
+| 57   | 75  | عبيد الله بن عبد الله بن عتبة | ʿUbayd Allāh b. ʿAbdallāh b. ʿUtba |       |                                           |
+| 58   | 76  | عامر الشعبي                   | ʿĀmir al-Shaʿbī                    |       |                                           |
+| 63   | 77  | سالم بن عبد الله بن عمر       | Sālim b. ʿAbdallāh b. ʿUmar        |       |                                           |
+| 64   | 78  | أبو صالح السمان ذكوان         | Abū Ṣāliḥ al-Sammān Dhakwān        |       | [[Personnes/Dhakwān Abū Ṣāliḥ al-Sammān]] |
+| 64   | 79  | طاووس بن كيسان                | Ṭāwūs b. Kaysān                    |       |                                           |
+| 65   | 80  | عطاء بن يسار                  | ʿAṭāʾ b. Yasār                     |       |                                           |
+| 65   | 81  | سليمان بن يسار                | Sulaymān b. Yasār                  |       |                                           |
+| 66   | 82  | خارجة بن زيد بن ثابت          | Khārija b. Zayd b. Thābit          |       |                                           |
+| 66   | 83  | مجاهد بن جبر                  | Mujāhid b. Jabr                    |       | [[Personnes/Mujāhid]]                     |
+| 67   | 84  | خالد بن معدان                 | Khālid b. Maʿdān                   |       | [[Personnes/Khālid ibn Ma'dān]]           |
+| 67   | 85  | أبو قلابة الجرمي              | Abū Qilāba al-Jarmī                |       |                                           |
+| 68   | 86  | أبو بردة                      | Abū Burdah                         |       |                                           |
+| 68   | 87  | عكرمة                         | ʿIkrima                            |       |                                           |
+| 69   | 88  | القاسم بن محمد بن أبي بكر     | al-Qāsim b. Muḥammad b. Abī Bakr   |       |                                           |
+| 70   | 89  | الأعرج                        | al-Aʿraj                           |       |                                           |
+| 70   | 90  | عطاء بن أبي رباح              | ʿAṭāʾ b. Abī Rabāḥ                 | 114 H | [[Personnes/ʿAṭāʾ ibn Abī Rabāḥ]]         |
+| 71   | 91  | ميمون بن مهران                | Maymūn b. Mihrān                   |       | [[Personnes/Maymūn ibn Mahrān]]           |
+| 71   | 92  | نافع المدني                   | Nāfiʿ al-Madanī                    |       | [[Personnes/Nāfiʿ mawlā Ibn ʿUmar]]       |
+| 72   | 93  | وهب بن منبه                   | Wahb b. Munabbih                   |       | [[Personnes/Wahb ibn Munabbih]]           |
+| 73   | 94  | ابن أبي مليكة                 | Ibn Abī Mulaykah                   |       |                                           |
+| 73   | 95  | عبد الله بن بريدة             | ʿAbdallāh b. Barīda                |       |                                           |
 
 ## Quatrième génération (ṭabaqa 4)
 
