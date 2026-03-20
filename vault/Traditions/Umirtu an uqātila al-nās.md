@@ -1,5 +1,5 @@
 ---
-title: أُمرتُ أن أُقاتل الناس
+title: Umirtu an uqātila al-nās
 aliases:
   - Hadith du combat
   - Hadith de la guerre
@@ -191,11 +191,17 @@ Ibn Ḥajar note que ʿUmar utilise la **variante 3** (celle qui ne mentionne qu
 
 Ibn Ḥajar tente de concilier en disant qu'Abū Bakr avait accès à une version « plus complète ». Mais cette conciliation est un aveu : si les deux plus proches Compagnons du Prophète ne s'accordent pas sur le contenu du hadith, que vaut la prétendue certitude du tawātur ?
 
-### 3. Ibn Taymiyya (m. 728 H)
+### 3. Ibn Taymiyya (m. 728 H) — Qāʿida fī qitāl al-kuffār
 
-Ibn Taymiyya interprète le hadith comme s'appliquant exclusivement aux **mushrikūn arabes** de la péninsule, et soutient que la jizya est l'alternative pour les Gens du Livre. Il insiste que le combat n'est **pas** pour forcer la conversion, mais pour lever la « fitna » (oppression empêchant la pratique de l'Islam).
+Dans sa *Qāʿida mukhtaṣara fī qitāl al-kuffār wa-muhādanatihim* ([p. 88](https://shamela.ws/book/147669/88)), Ibn Taymiyya commente directement ce hadith :
 
-Cette lecture circulaire est remarquable : on combat « les gens » pour supprimer l'oppression, mais ce sont « les gens » qui définissent ce qu'est l'oppression. Le hadith dit « jusqu'à ce qu'ils croient » — pas « jusqu'à ce qu'ils cessent l'oppression ».
+> ليس المراد: أني أمرت أن أقاتل كل أحد إلى هذه الغاية فإن هذا خلاف النص والإجماع
+>
+> « Le sens n'est **pas** : "J'ai reçu l'ordre de combattre **tout le monde** jusqu'à cette limite" — car cela est contraire aux textes et au consensus. »
+
+Sa position ([p. 80-84](https://shamela.ws/book/147669/80)) est que le combat vise exclusivement **من قاتلنا** / **أهل المقاتلة** — « ceux qui nous combattent » / « les belligérants » — pas les non-croyants en tant que tels. Il attribue cette position au **jumhūr** (Abū Ḥanīfa, Mālik, Aḥmad) et l'oppose à celle d'al-Shāfiʿī pour qui le kufr en soi justifie le combat. La jizya est l'alternative pour tous les kuffār, et le combat n'est pas pour forcer la conversion, mais pour lever la « fitna » — l'oppression empêchant la pratique de l'Islam ([p. 84-87](https://shamela.ws/book/147669/84), citant al-Ṣārim al-Maslūl 2/514-515).
+
+Cette lecture pose un problème. L'objection prévisible est la suivante : ce n'est pas « les gens » qui définissent la fitna, c'est Dieu — via le Coran (« وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ », al-Baqara 2:193). Ibn Taymiyya dirait donc que la définition n'est pas circulaire, puisque la fitna est définie par la révélation, pas par les combattants. Mais le problème se déplace sans se résoudre : le hadith ne dit pas « combattre les gens jusqu'à ce que la fitna cesse » — il dit « **jusqu'à ce qu'ils attestent** qu'il n'y a de dieu qu'Allāh ». La condition de cessation n'est pas la fin d'une oppression, c'est un acte de foi. Ibn Taymiyya substitue donc au texte du hadith le texte du verset — ce qui revient à admettre que le hadith, pris tel quel, est intenable, et qu'il faut le réécrire à travers le Coran pour le sauver.
 
 ### 4. L'objection de ʿUmar — un moment fondateur
 
