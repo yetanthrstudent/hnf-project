@@ -64,6 +64,22 @@ Le matériel sort par **trois canaux** :
 2. **Le canal Abū Hurayra** — Abū Hurayra transmet d'Ibn ʿAmr (Mustadrak n° 8558, [[Traditions/Hijra vers le Shām|hijra vers le Shām]]). Le matériel est fixé dans la [[Personnes/Hammām ibn Munabbih|ṣaḥīfa de Hammām]].
 3. **Le canal direct** — des traditions du tafsīr sont transmises directement depuis Ibn ʿAmr via des tābiʿīn syriens ([[Rajā' ibn Ḥaywa|Rajā']] → [[Personnes/Makhūl al-Shāmī|Makhūl]] → [[Al-Awzā'ī]]).
 
+## La question de fond — le recours aux sources externes
+
+Avant la controverse sur le mélange des sources, il y a une question préalable que les sources classiques ne posent pas explicitement, mais dont les données qu'elles fournissent permettent de formuler :
+
+**Pourquoi un Compagnon du Prophète ﷺ utilise-t-il abondamment des manuscrits scripturaires externes ?**
+
+Ibn ʿAmr a accompagné le Prophète. Il disposait d'un accès direct à l'enseignement prophétique. Or il récupère à Yarmūk deux charges de chameau de manuscrits judéo-chrétiens — et la tradition reconnaît qu'il **transmettait depuis eux** (« fa-kāna yuḥaddithu minhumā » — Ibn Kathīr). Ce recours est suffisamment massif pour que ses contemporains le lui reprochent : « لا تحدثنا عن الزاملتين ».
+
+Les sources permettent de dégager deux hypothèses :
+
+1. **Le matériel prophétique disponible ne couvrait pas tous les domaines.** Les sujets sur lesquels Ibn ʿAmr transmet abondamment — cosmogonie, eschatologie détaillée, géographie sacrée, récits des prophètes antérieurs — ne faisaient peut-être pas l'objet d'un enseignement prophétique aussi développé que ce que les recueils ultérieurs suggèrent. Ibn ʿAmr aurait alors complété avec du matériel scripturaire, et une partie de ce matériel aurait ensuite circulé sous des isnāds prophétiques.
+
+2. **La frontière entre les sources n'était pas encore formalisée.** Le Prophète lui-même avait dit : « حدثوا عن بني إسرائيل ولا حرج » — « Transmettez des Banū Isrāʾīl sans gêne » (Bukhārī n° 3461). Pour un Compagnon du Ier siècle, la distinction entre parole prophétique, enseignement scripturaire et savoir de Ka'b n'était pas nécessairement étanche. C'est la génération suivante — les tābiʿīn, puis les muḥaddithūn — qui a formalisé ces catégories. Le matériel, lui, circulait déjà.
+
+Le profil d'Ibn ʿAmr est cohérent avec cette lecture : son interlocuteur privilégié est **[[Ka'b al-Ahbar]]**, avec qui il partage et échange du matériel scripturaire. Al-Ṭabarī note qu'Ibn ʿAmr « يقرأ الكتب » — « lisait les Livres » ([Tafsīr p. 6687](https://shamela.ws/book/43/6687)). Cette pratique de lecture et de transmission croisée est documentée, pas polémique — c'est un fait que les sources classiques elles-mêmes rapportent.
+
 ## Le paradoxe d'Ibn ʿAmr
 
 La tradition reconnaît **deux faits simultanés** :

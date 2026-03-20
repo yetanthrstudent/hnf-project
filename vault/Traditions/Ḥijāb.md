@@ -11,6 +11,8 @@ sources_cles:
   - {ref: "shamela.ws/book/13174/5429", desc: "Muṣannaf ʿAbd al-Razzāq — ʿAṭāʾ : jilbāb sans khimār, pas de problème"}
   - {ref: "shamela.ws/book/13174/5430", desc: "Muṣannaf ʿAbd al-Razzāq — ʿUmar : vous envoyez vos esclaves en parure tenter les gens ?"}
   - {ref: "sunnah.com/muslim:2128", desc: "Muslim 2128 — kāsiyāt ʿāriyāt, via Suhayl ← Abū Ṣāliḥ ← Abū Hurayra"}
+  - {ref: "sunnah.com/bukhari:4213", desc: "Bukhārī — Ṣafiyya bint Ḥuyayy, le voile comme test de statut"}
+  - {ref: "sunnah.com/abudawud:4104", desc: "Abū Dāwūd 4104 — hadith d'Asmāʾ (visage et mains), mursal"}
 ---
 
 <small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
@@ -156,6 +158,245 @@ Le passage du système de **distinction** au système d'**obligation** accompagn
 
 ---
 
+## Comment les madhhabs ont rationalisé la distinction
+
+Le problème est le suivant : les quatre écoles juridiques héritent d'un corpus massif attestant que le voilement est un **marqueur de statut** (les 29 traditions sur ʿUmar). Elles ne peuvent ni ignorer ce corpus ni le rejeter — il est trop bien attesté. Elles doivent donc le **rationaliser** : trouver un cadre juridique qui intègre le dévoilement des esclaves sans remettre en cause l'obligation pour les femmes libres.
+
+La solution unanime : définir la **ʿawra** (partie du corps à couvrir) de l'esclave comme étant identique à celle de l'homme — **du nombril aux genoux**.
+
+### Les quatre positions
+
+#### Ḥanafiyya
+
+**Al-Sarakhsī** (m. 483H), *al-Mabsūṭ* :
+
+> عَوْرَةُ الْأَمَةِ مَا بَيْنَ سُرَّتِهَا إِلَى رُكْبَتِهَا
+> « La ʿawra de l'esclave est ce qui se trouve **entre le nombril et les genoux**. »
+
+**Al-Kāsānī** (m. 587H), *Badāʾiʿ al-Ṣanāʾiʿ* :
+
+> وَأَمَّا الْأَمَةُ فَعَوْرَتُهَا كَعَوْرَةِ الرَّجُلِ
+> « Quant à l'esclave femme, sa ʿawra est **comme la ʿawra de l'homme**. »
+
+Le raisonnement ḥanafite est le plus explicitement fonctionnel : l'esclave travaille, sort, sert les invités — la couvrir comme une femme libre serait une **gêne pratique** (*mashaqqa*).
+
+#### Mālikiyya
+
+**Khalīl ibn Isḥāq** (m. 776H), *al-Mukhtaṣar* :
+
+> وَلِلْأَمَةِ كَالرَّجُلِ
+> « [La ʿawra] de l'esclave est **comme celle de l'homme**. »
+
+Les Mālikites ajoutent une nuance : si l'esclave est **belle** (*jamīla*), certains recommandent qu'elle se couvre davantage — mais par *istiḥbāb* (recommandation), pas par obligation. Cette nuance est la première fissure dans le système de distinction.
+
+#### Shāfiʿiyya
+
+**Al-Nawawī** (m. 676H), *al-Majmūʿ* :
+
+> وَعَوْرَةُ الْأَمَةِ مَا بَيْنَ السُّرَّةِ وَالرُّكْبَةِ
+> « La ʿawra de l'esclave femme est ce qui se trouve **entre le nombril et le genou**. »
+
+Al-Nawawī précise que c'est le **consensus** (*ittifāq*) des Shāfiʿites. Il mentionne un avis isolé attribué à al-Muzanī qui étendrait la ʿawra de l'esclave à celle de la femme libre, mais le rejette.
+
+#### Ḥanbaliyya
+
+**Ibn Qudāma** (m. 620H), *al-Mughnī* :
+
+> وَعَوْرَةُ الْأَمَةِ كَعَوْرَةِ الرَّجُلِ السُّرَّةُ وَالرُّكْبَةُ
+> « La ʿawra de l'esclave femme est comme celle de l'homme — **le nombril et le genou**. »
+
+### Tableau récapitulatif
+
+| Madhhab | ʿAwra de l'esclave | ʿAwra de la femme libre | Source principale |
+|---------|-------------------|------------------------|-------------------|
+| Ḥanafī | Nombril–genou | Tout sauf visage et mains | al-Sarakhsī, *al-Mabsūṭ* ; al-Kāsānī, *Badāʾiʿ* |
+| Mālikī | Nombril–genou (+ istiḥbāb si belle) | Tout sauf visage et mains | Khalīl, *al-Mukhtaṣar* |
+| Shāfiʿī | Nombril–genou | Tout sauf visage et mains | al-Nawawī, *al-Majmūʿ* |
+| Ḥanbalī | Nombril–genou | Tout sauf visage (avis dominant) | Ibn Qudāma, *al-Mughnī* |
+
+L'unanimité est frappante : **les quatre écoles** traitent le corps de l'esclave femme comme le corps d'un homme. Ce n'est pas un avis marginal — c'est le **consensus juridique classique**.
+
+### Les six stratégies de rationalisation
+
+Les juristes classiques ne se contentent pas de fixer la ʿawra — ils **justifient** pourquoi l'esclave n'a pas la même obligation de couverture. Six arguments sont mobilisés :
+
+**1. La nécessité pratique (*mashaqqa*)**
+L'esclave sort constamment, sert les invités, fait les courses — se voiler serait une gêne insupportable. C'est l'argument le plus fréquent chez les Ḥanafites (al-Sarakhsī).
+
+**2. La distinction sociale (*tamyīz / tashabbuh*)**
+Le voile **identifie** les femmes libres. Permettre aux esclaves de le porter brouille les catégories sociales. C'est l'argument explicite d'ʿUmar dans les traditions : « **ne te fais pas passer pour une femme libre** ».
+
+**3. L'argument coranique (Q 33:59 — femmes libres seulement)**
+Le verset dit « *nisāʾ al-muʾminīn* » — les exégètes classiques limitent ce terme aux femmes libres. L'argument est que le Coran **n'a jamais visé les esclaves** dans le commandement du jilbāb.
+
+**4. La moindre fitna**
+L'esclave, étant de rang inférieur, suscite **moins de convoitise** que la femme libre — elle a donc moins besoin de protection par le voile. C'est l'argument le plus embarrassant : il revient à dire que le harcèlement dépend du statut social de la victime, pas de son corps.
+
+**5. L'assimilation aux femmes âgées (*qawāʿid*)**
+Certains assimilent l'esclave aux femmes ménopausées (Q 24:60 : « *laysā ʿalayhinna junāḥun an yaḍaʿna thiyābahunna*» — « il ne leur est pas reproché de déposer leurs vêtements »). Le raisonnement : comme les femmes âgées sont « hors du marché matrimonial », les esclaves le sont aussi de par leur statut.
+
+**6. La spécificité temporelle (Ibn Taymiyya)**
+
+**Ibn Taymiyya** (m. 728H), *Ḥijāb al-Marʾa wa-Libāsuhā fī l-Ṣalāt* :
+
+> كَانَ ذَلِكَ فِي زَمَنِ الْعِفَّةِ وَقِلَّةِ الْفَسَادِ
+> « C'était à **une époque de chasteté et de faible corruption**. »
+
+Ibn Taymiyya introduit la première **brèche** dans le consensus : il reconnaît que la distinction esclave/libre était adaptée à un contexte spécifique, et suggère que dans un contexte de fitna, les esclaves **belles** (*al-imāʾ al-jamīlāt al-turkiyyāt*) devraient se couvrir. C'est le premier pas vers l'universalisation — si la fitna commande la couverture, le statut social devient secondaire.
+
+---
+
+## Les fondements textuels de l'obligation — la position dominante
+
+Pour traiter le sujet de fond en comble, il faut exposer **les meilleurs arguments** en faveur de l'obligation universelle du voilement. Voici les textes sur lesquels repose la position dominante.
+
+### 1. Le verset du khimār — Q 24:31
+
+> وَقُل لِّلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ
+> « Dis aux croyantes de baisser leur regard, de garder leur chasteté, de ne pas montrer leur parure sauf ce qui en est apparent, et de **rabattre leur khimār sur leur ouverture de poitrine**. »
+
+C'est le verset central. L'argument : le khimār (voile qui couvre la tête) est **présupposé** — les femmes le portaient déjà sur la tête, le verset leur demande de le **rabattre** (*yaḍribna*) sur la poitrine (juyūb). Le commandement n'est pas « portez un khimār », mais « rabattez votre khimār [que vous portez déjà] sur vos poitrines ».
+
+**Les enjeux du verset :**
+- « *Illā mā ẓahara minhā* » — « sauf ce qui en est apparent » : dispute classique sur ce qui est « apparent ». **Ibn ʿAbbās** (voie Mujāhid / ʿIkrima) : le visage et les mains. **Ibn Masʿūd** : les vêtements extérieurs seulement (i.e. rien du corps ne peut apparaître).
+- Le verset s'adresse aux **muʾmināt** (croyantes) — sans distinguer libres et esclaves. C'est l'argument le plus fort pour l'universalisation : si les croyantes *en général* doivent couvrir, cela inclut les esclaves croyantes.
+- **Tension avec le dossier ʿUmar** : si Q 24:31 s'adresse à *toutes* les croyantes, pourquoi ʿUmar en exempte-t-il les esclaves ? Deux réponses possibles : (a) ʿUmar considère que Q 33:59 (jilbāb, vêtement distinct) ne s'applique pas aux esclaves, mais Q 24:31 (khimār) s'y applique — distinction entre deux types de couverture ; (b) ʿUmar agit selon le ʿurf (coutume) qui prime sur la compréhension littérale.
+
+### 2. Le verset du jilbāb — Q 33:59
+
+> يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاءِ الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ذَٰلِكَ أَدْنَىٰ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ
+> « Ô Prophète, dis à tes épouses, à tes filles et aux femmes des croyants de ramener sur elles leurs jilbābs — cela est plus propre à ce qu'elles soient **reconnues** et ne soient pas harcelées. »
+
+Le jilbāb est un vêtement ample (cape, manteau) qui se distingue du khimār (voile de tête). Ce verset est **plus faible** pour l'obligation universelle car :
+- La *ʿilla* (raison) est explicite : « *an yuʿrafna* » — « qu'elles soient reconnues ». Reconnues comme femmes libres, par opposition aux esclaves.
+- C'est précisément le verset invoqué par ʿUmar pour **interdire** le jilbāb aux esclaves. Si la raison est la reconnaissance de statut, le verset ne fonde pas une obligation de pudeur universelle.
+
+### 3. Le hadith de Ṣafiyya bint Ḥuyayy — le voile comme marqueur de statut (Bukhārī)
+
+Al-Bukhārī rapporte (Ṣaḥīḥ, Kitāb al-Nikāḥ) :
+
+> قَالُوا: مَا نَدْرِي أَتَزَوَّجَهَا أَمِ اتَّخَذَهَا أُمَّ وَلَدٍ ؟ فَقَالُوا: إِنْ حَجَبَهَا فَهِيَ امْرَأَتُهُ ، وَإِنْ لَمْ يَحْجُبْهَا فَهِيَ أُمُّ وَلَدٍ. فَلَمَّا أَرَادَ أَنْ يَرْكَبَ حَجَبَهَا ، فَعَرَفُوا أَنَّهُ تَزَوَّجَهَا
+> « Les gens disaient : "On ne sait pas s'il l'a épousée ou s'il en a fait une umm walad [concubine-mère]." Ils dirent : "**S'il la voile, c'est son épouse ; s'il ne la voile pas, c'est une umm walad.**" Quand il s'apprêta à monter, il la voila — et ils surent qu'il l'avait épousée. »
+
+Ce hadith est **dévastateur** pour la thèse de l'obligation universelle, bien qu'il soit rapporté dans le Ṣaḥīḥ le plus canonique. Il montre que **les Compagnons eux-mêmes** utilisent le voilement comme critère de distinction entre épouse et concubine — pas comme obligation religieuse universelle. Le raisonnement est limpide : si **toutes** les femmes devaient être voilées, le test serait inutile.
+
+### 4. Les hadiths sur la ʿawra de la femme
+
+Plusieurs hadiths sont invoqués pour fonder l'obligation de couverture :
+
+**Hadith de ʿĀʾisha** (Abū Dāwūd, n° 4104) :
+
+> يَا أَسْمَاءُ إِنَّ الْمَرْأَةَ إِذَا بَلَغَتِ الْمَحِيضَ لَمْ تَصْلُحْ أَنْ يُرَى مِنْهَا إِلَّا هَذَا وَهَذَا وَأَشَارَ إِلَى وَجْهِهِ وَكَفَّيْهِ
+> « Ô Asmāʾ, quand la femme atteint l'âge des menstrues, il ne convient pas qu'on voie d'elle autre chose que **ceci et cela** — et il montra son visage et ses mains. »
+
+**Problèmes de chaîne :**
+- La chaîne passe par **Khālid ibn Durayk** ← ʿĀʾisha, et Khālid n'a **pas rencontré ʿĀʾisha** (mursal). Abū Dāwūd le signale lui-même.
+- La chaîne comporte **Saʿīd ibn Bashīr** — déclaré ḍaʿīf par al-Nasāʾī, Yaḥyā ibn Maʿīn, et d'autres.
+- Abū Dāwūd commente : « هذا مرسل ، خالد بن دريك لم يدرك عائشة » — « C'est un mursal, Khālid ibn Durayk n'a pas rencontré ʿĀʾisha. »
+
+Malgré ses faiblesses, ce hadith est le **texte le plus explicite** sur la limitation de la ʿawra féminine au visage et aux mains. Ironie : il est invoqué à la fois par ceux qui autorisent le visage découvert (puisqu'il exclut le visage de la ʿawra) et par ceux qui imposent le voile intégral (qui rejettent ce hadith comme ḍaʿīf et universalisent la couverture).
+
+---
+
+## La tension interne — comment le système se retourne contre lui-même
+
+Le patrimoine classique contient les éléments de sa propre contradiction. Le système « voile = distinction de statut » est cohérent **tant que ses prémisses tiennent**. Or les juristes eux-mêmes documentent les fissures.
+
+### La brèche d'Ibn Taymiyya
+
+**Ibn Taymiyya** (m. 728H), *Ḥijāb al-Marʾa wa-Libāsuhā fī l-Ṣalāt* :
+
+> فَإِنَّ كَثِيرًا مِنَ الْإِمَاءِ الْجَمِيلَاتِ التُّرْكِيَّاتِ لَا يَكُونُ لِلرَّجُلِ عَلَيْهِنَّ مِنَ الْقُدْرَةِ مَا يَكُونُ لَهُ عَلَى الْحُرَّةِ الدَّمِيمَةِ
+> « Beaucoup **d'esclaves turques belles** — l'homme n'a pas sur elles le même pouvoir que sur une femme libre laide. »
+
+L'argument est pragmatique : si une esclave belle provoque plus de fitna qu'une femme libre laide, le critère de statut social ne tient plus. C'est le **premier juriste majeur** à reconnaître que la logique du système de voilement par statut est devenue incohérente **de l'intérieur**. Ibn Taymiyya ne cite pas de contexte extérieur — il constate que la *ʿilla* (raison juridique) invoquée par le consensus (la moindre fitna de l'esclave) est **empiriquement fausse** dans les cas qu'il observe.
+
+### La contradiction des Mālikites
+
+La nuance mālikite relevée plus haut — recommander le voile pour l'esclave **belle** (*jamīla*) — trahit la même fissure. Si le voile est un marqueur de statut, la beauté de l'esclave est **sans rapport**. Si en revanche la beauté de l'esclave justifie qu'on la couvre, alors le fondement du voile n'est plus le statut mais la **fitna** — et dans ce cas, pourquoi ne pas couvrir toutes les femmes ?
+
+Les Mālikites ne tirent pas cette conclusion. Mais elle est **logiquement inscrite** dans leur propre nuance.
+
+### Q 24:31 contre Q 33:59 — la contradiction coranique interne
+
+Le patrimoine exégétique pose un problème que les fuqahāʾ n'ont jamais résolu de façon satisfaisante :
+
+- **Q 24:31** s'adresse aux **muʾmināt** — toutes les croyantes, sans distinction de statut. Si ce verset fonde le khimār, il devrait couvrir les esclaves aussi.
+- **Q 33:59** s'adresse aux **nisāʾ al-muʾminīn** — que les exégètes limitent aux femmes libres, avec pour *ʿilla* la reconnaissance (*yuʿrafna*).
+
+Le dossier ʿUmar (29 traditions) traite exclusivement de **Q 33:59** — le jilbāb comme marqueur. Mais aucune tradition ne rapporte qu'ʿUmar ait exempté les esclaves du **khimār** au sens de Q 24:31. Le patrimoine ne tranche pas cette tension : les fuqahāʾ ont **fusionné** les deux commandements (khimār et jilbāb) en un seul bloc « obligation du voile » — alors que les sources primitives les traitent comme deux prescriptions distinctes avec des *ʿilal* différentes.
+
+### Le paradoxe documenté dans le fiqh
+
+Le résultat est un **paradoxe interne au patrimoine** : les manuels de fiqh énoncent simultanément :
+
+1. Le voile est obligatoire pour les femmes libres (consensus des quatre écoles)
+2. L'esclave en est exemptée — sa ʿawra est celle de l'homme (consensus des quatre écoles)
+3. La fitna est la raison de la couverture (argument invoqué par trois des six stratégies)
+4. Mais l'esclave belle provoque plus de fitna que la femme libre laide (Ibn Taymiyya, Mālikites)
+
+Les propositions 1-2 et 3-4 sont **mutuellement contradictoires**. Le patrimoine classique les maintient côte à côte sans les résoudre — signe que le système de distinction, cohérent au Ier siècle, a cessé de l'être dans le fiqh tardif, **par l'aveu même de ses propres auteurs**.
+
+---
+
+## Voix dissidentes au sein de la tradition
+
+### Ibn Ḥazm (m. 456H) — l'égalité radicale
+
+**Ibn Ḥazm**, *al-Muḥallā*, masʾala n° 313 :
+
+> لَا فَرْقَ بَيْنَ الْحُرَّةِ وَالْأَمَةِ فِي ذَلِكَ
+> « Il n'y a **aucune différence** entre la femme libre et l'esclave à ce sujet. »
+
+Ibn Ḥazm rejette **intégralement** la distinction. Son argument est ẓāhirite (littéraliste) : Q 24:31 s'adresse aux **muʾmināt** (croyantes) sans distinction — donc l'esclave croyante a la même obligation que la femme libre. Il qualifie la distinction de **bidʿa** (innovation) sans fondement dans le Coran ni dans la Sunna authentique.
+
+Position paradoxale : Ibn Ḥazm aboutit à l'obligation universelle **non pas** en ignorant le problème de l'esclavage, mais en le confrontant. Il considère que les traditions sur ʿUmar **ne constituent pas une preuve** parce qu'elles ne sont pas une Sunna prophétique — ce sont des actes d'un Compagnon, et les actes des Compagnons ne fondent pas de jurisprudence dans l'école ẓāhirite.
+
+### Al-Albānī (m. 1999) — le refus du consensus
+
+**Al-Albānī**, *Jilbāb al-Marʾa al-Muslima* :
+
+Al-Albānī rejette la distinction esclave/libre pour le jilbāb et considère que Q 33:59 s'adresse à **toutes** les musulmanes. Sa position est remarquable parce qu'elle vient d'un **muḥaddith salafiste** — pas d'un réformiste.
+
+Mais al-Albānī crée un autre problème : il autorise le visage et les mains découverts (suivant le hadith d'Asmāʾ) contre l'avis wahhabite dominant qui impose le niqāb. Il se retrouve donc en porte-à-faux avec l'establishment saoudien tout en défendant l'obligation du jilbāb.
+
+### La position intermédiaire — le ḥijāb comme recommandation
+
+Plusieurs savants contemporains (sans qu'un consensus ne se dégage) distinguent entre :
+- Le **khimār** (couvre-chef) : obligation fondée sur Q 24:31
+- Le **jilbāb** (vêtement ample) : fondé sur Q 33:59, lié à la distinction et potentiellement contextuel
+- Le **niqāb** (couverture du visage) : pas d'obligation selon la majorité
+
+Cette distinction permet de maintenir un degré d'obligation (le khimār) tout en reconnaissant que le jilbāb avait une dimension sociale contextuelle.
+
+---
+
+## Synthèse
+
+```
+  Ier siècle H                    IIe-IVe siècle                   VIIe-VIIIe siècle
+  ───────────                      ─────────────                    ─────────────────
+  DISTINCTION                      RATIONALISATION                  CONTRADICTION
+                                                                    INTERNE
+  ʿUmar frappe                     4 madhhabs :                     Ibn Taymiyya :
+  les esclaves      ──────►        ʿawra esclave =     ──────►      « les belles
+  qui se voilent                   ʿawra homme                      esclaves turques
+                                   (nombril–genou)                  provoquent plus
+  Q 33:59 =                                                         de fitna qu'une
+  « être reconnues »               6 stratégies de                  femme libre
+  comme LIBRES                     justification                    laide »
+                                   (mashaqqa, tamyīz,               = la ʿilla du
+  Q 24:31 =                        moindre fitna...)                système s'effondre
+  « muʾmināt »                                                     de l'INTÉRIEUR
+  (TOUTES les                      Mālikites : istiḥbāb
+   croyantes)                      si l'esclave est belle
+                                   = première fissure
+```
+
+Le dossier du ḥijāb illustre un mécanisme documentable dans le patrimoine : un système de **distinction par statut** (Ier siècle) est rationalisé par les quatre écoles (IIe-IVe siècle), puis **sapé de l'intérieur** par les juristes eux-mêmes (Ibn Taymiyya, Mālikites) qui reconnaissent que la *ʿilla* du statut ne tient plus face à la réalité de la fitna. Le passage d'une obligation **limitée aux femmes libres** à une obligation **présentée comme universelle** n'a jamais fait l'objet d'un *ijmāʿ* explicite — il s'est produit par l'effacement progressif de la catégorie « esclave » dans le discours juridique, sans que les textes fondateurs (Q 33:59, traditions d'ʿUmar) n'aient été réinterprétés.
+
+---
+
 ## Voir aussi
 
 ### Personnes
@@ -165,8 +406,11 @@ Le passage du système de **distinction** au système d'**obligation** accompagn
 - [[Personnes/Qatāda ibn Di'āma]] — transmetteur des traditions ʿUmar via Anas
 - [[Personnes/Suhayl ibn Abī Ṣāliḥ]] — pivot de la version marfūʿ enrichie (Muslim 2128)
 - [[Personnes/Dhakwān Abū Ṣāliḥ al-Sammān]] — intermédiaire Abū Hurayra, vecteur de la confusion Ka'b
+- [[Personnes/Ibn Jurayj]] — transmetteur de la position de ʿAṭāʾ (jilbāb sans khimār)
 
 ### Concepts
 - [[Concepts/Al-Ziyāda fī al-kutub]] — l'enrichissement progressif du texte entre les versions
 - [[Concepts/Isrāʾīliyyāt]] — le substrat Ka'b al-Aḥbār dans le matériel sur les femmes
 - [[Concepts/Caisses de résonance]] — les autoroutes par lesquelles le matériel circule
+- [[Concepts/ʿAdālat al-Ṣaḥāba]] — le statut d'ʿUmar comme source de jurisprudence
+- [[Concepts/Taḥammul al-ḥadīth]] — les formules de transmission et leur fiabilité
