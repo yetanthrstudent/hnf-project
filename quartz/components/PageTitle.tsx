@@ -44,7 +44,7 @@ PageTitle.css = `
 }
 
 :root[saved-theme="dark"] .page-logo {
-  background-color: var(--light);
+  background-color: var(--dark);
 }
 `
 
