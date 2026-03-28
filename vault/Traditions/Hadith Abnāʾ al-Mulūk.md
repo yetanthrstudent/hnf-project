@@ -2,12 +2,23 @@
 type: hadith
 theme: [mawḍūʿ, chaîne al-Aʿmash, Abū Ṣāliḥ, Abū Hurayra]
 matn_resume: "Hadith sur les « fils des rois » — mawḍūʿ (forgé) par consensus, transmis par la chaîne al-Aʿmash → Abū Ṣāliḥ → Abū Hurayra."
+sources:
+  - {ref: "shamela.ws/book/23118/23", desc: "Nuskhat Wakīʿ — la chaîne al-Aʿmash ← Abū Ṣāliḥ ← Abū Hurayra"}
+  - {ref: "shamela.ws/book/1290/1065", desc: "Tahdhīb al-Tahdhīb — al-Aʿmash et Abū Ṣāliḥ"}
 ---
 
 <small>*Note méthodologique. Ce texte est un essai critique à thèse assumée. Il n'a pas pour objectif de proposer une synthèse académique neutre, mais d'examiner la robustesse d'un récit canonique en mettant en évidence les tensions présentes dans ses chaînes de transmission et ses versions. Le lecteur est invité à évaluer ce travail selon la solidité des sources mobilisées et la cohérence interne de l'argumentation.*</small>
 
 
 # Hadith Abnāʾ al-Mulūk — un mawḍūʿ dans la chaîne des Ṣaḥīḥayn
+
+## Le texte
+
+Le hadith est transmis sous plusieurs variantes. La plus commune :
+
+> « نَحْنُ الْآخِرُونَ السَّابِقُونَ يَوْمَ الْقِيَامَةِ بَيْدَ أَنَّ كُلَّ أُمَّةٍ أُوتِيَتِ الْكِتَابَ مِنْ قَبْلِنَا وَأُوتِينَاهُ مِنْ بَعْدِهِمْ [...] لا تُقَدِّمُوا بَيْنَ يَدَيْ أَمِيرِكُمْ وَلا تَتَّخِذُوا أَبْنَاءَ الْمُلُوكِ أَرْبَابًا »
+
+La partie « *lā tattakhidhū abnāʾ al-mulūk arbāban* » (« ne prenez pas les fils des rois pour seigneurs ») est la section déclarée mawḍūʿ. Le contenu est anecdotique — c'est le **véhicule** qui compte, pas la cargaison.
 
 ## Le problème
 

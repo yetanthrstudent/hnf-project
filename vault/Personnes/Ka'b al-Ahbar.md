@@ -362,3 +362,14 @@ La mythologie de Ka'b — un rabbin ḥimyarite qui sacralise la Kaʿba à parti
 Le **rajm** (lapidation pour adultère) est appliqué sous le califat de [[Personnes/Mu'āwiya ibn Abī Sufyān|Muʿāwiya]] avec l'intervention directe de **Ka'b**. Ce point est significatif : la lapidation est une peine **biblique** (Deutéronome 22:23-24), absente du Coran en tant que peine prescrite. L'implication de Ka'b — rabbin converti, expert auto-déclaré de la Torah — dans l'application de cette peine sous Muʿāwiya confirme le circuit de transfert normatif : une règle juridique **mosaïque** passe dans la pratique islamique via Ka'b et le pouvoir omeyyade.
 
 (Source : Modules 8+14 IBA, Uṣūl al-Fiqh)
+
+## Voir aussi
+
+- [[Personnes/Nawf al-Bikālī]] — beau-fils (ابن امرأة كعب), canal syrien (→ Shahr → Qatāda)
+- [[Personnes/Tubā'ī ibn 'Āmir]] — beau-fils (ابن امرأة كعب), canal égyptien (→ Mujāhid, ʿAṭā')
+- [[Personnes/Ibn 'Amr ibn al-'Āṣ]] — possesseur des zamālatain, interlocuteur principal
+- [[Personnes/Abū Hurayra]] — co-transmetteur, confusion Ka'b/Prophète documentée
+- [[Personnes/Sarj al-Yarmūkī]] — même profil de converti savant scripturaire
+- [[Traditions/Zamālatain de Yarmūk]] — la source écrite parallèle au matériel oral de Ka'b
+- [[Concepts/Isrā'īliyyāt]] — le phénomène global
+- [[Personnes/Wahb ibn Munabbih]] — relais yéménite de la génération suivante

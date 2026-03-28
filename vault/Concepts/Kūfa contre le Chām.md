@@ -23,7 +23,7 @@ L'examen des sources classiques fait apparaître une fracture nette : il y a un 
 
 Le même Compagnon — [[Personnes/Hudhayfah ibn al-Yamān|Hudhayfah ibn al-Yamān]] — pose la même question au Prophète : « Que faire en cas de fitna ? » Deux circuits de transmission livrent deux réponses contradictoires.
 
-**Le Chām répond : obéis au dirigeant.** La version shāmie (Muslim 1847) :
+**Le Chām répond : obéis au dirigeant.** La version shāmie ([Muslim 1847](https://shamela.ws/book/1727/4724)) :
 
 > « الزم جماعة المسلمين وإمامهم [...] فاسمع وأطع الأمير وإن ضرب ظهرك وأخذ مالك »
 >

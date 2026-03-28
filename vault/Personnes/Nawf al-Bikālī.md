@@ -37,6 +37,7 @@ Beau-fils de [[Ka'b al-Ahbar]] (ابن امرأة كعب — mentionné 5 fois d
 ## Relations
 
 - **Beau-fils de** [[Ka'b al-Ahbar]] (fils de la femme de Ka'b)
+- **L'autre beau-fils de Ka'b** : [[Personnes/Tubā'ī ibn 'Āmir|Tubā'ī ibn 'Āmir]] — même désignation (ابن امرأة كعب), même matériel scripturaire (y compris Matthieu 7:15). Lien biologique non confirmé par les sources (patronymes et sous-tribus différents), mais parallélisme fonctionnel documenté. Nawf alimente le canal syrien (→ Shahr → Qatāda), Tubā'ī le canal égyptien (→ Mujāhid, ʿAṭā')
 - **Transmet à** [[Shahr ibn Ḥawshab]] (maillon suivant du réseau)
 - **A entendu** [[Ibn 'Amr ibn al-'Āṣ]], Thawbān, Abū Ayyūb al-Anṣārī
 - **Mort au service de** [[Mu'āwiya ibn Abī Sufyān|les Omeyyades]] (armée de Muḥammad ibn Marwān)
@@ -104,6 +105,9 @@ Le lien avec Ka'b n'est pas un détail biographique : c'est la **condition struc
 ## Voir aussi
 
 - [[Ka'b al-Ahbar]] — beau-père, source principale
+- [[Personnes/Tubā'ī ibn 'Āmir|Tubā'ī ibn 'Āmir]] — frère probable, l'autre beau-fils de Ka'b (canal égyptien)
+- [[Personnes/Shahr ibn Ḥawshab]] — élève de Nawf, maillon suivant du canal syrien
 - [[Wahb ibn Munabbih]] — relais yéménite de la génération suivante
 - [[Concepts/Isrā'īliyyāt]] — le contenu transmis par ce réseau
 - [[Concepts/Quṣṣāṣ]] — la fonction institutionnelle de Nawf
+- [[Traditions/Hijra vers le Shām]] — tradition transmise via Nawf → Shahr → Qatāda

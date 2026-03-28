@@ -9,7 +9,7 @@ evaluation:
   positif: "Compagnon — intouchable dans le système classique"
   tension: "Même Compagnon, hadiths contradictoires entre Chām et Kūfa"
 sources_cles:
-  - {ref: "Muslim, Ṣaḥīḥ, tradition n°1847", desc: "Version shāmie — obéis à l'émir"}
+  - {ref: "shamela.ws/book/1727/4724", desc: "Ṣaḥīḥ Muslim n° 1847 — version shāmie : obéis à l'émir"}
   - {ref: "Bazzar, al-Baḥr al-Zakhkhār, t.7 p.226-227 n°2799", desc: "Version kūfie — étudie le Livre de Dieu"}
   - {ref: "Ibn Ḥibbān, al-Iḥsān fī Taqrīb Ṣaḥīḥ Ibn Ḥibbān, t.1 p.323 n°117", desc: "Version kūfie — tiens-toi au Livre de Dieu"}
   - {ref: "Ibn Abī Shayba, Muṣannaf, t.3 p.327 n°7617", desc: "Hudhayfah refuse Bayt al-Maqdis"}
@@ -30,7 +30,7 @@ Le scénario est identique dans les deux versions : Hudhayfah demande au Prophè
 
 ### Version du Chām — obéis à l'émir
 
-Muslim 1847. Isnād shāmī :
+[Muslim 1847](https://shamela.ws/book/1727/4724). Isnād shāmī :
 
 > « الزم جماعة المسلمين وإمامهم [...] فاسمع وأطع الأمير وإن ضرب ظهرك وأخذ مالك »
 >

@@ -62,7 +62,7 @@ L'émergence du concept « Ahl al-Sunna wal-Jamā'a » comme catégorie identita
 
 Le débat sur le **qadar** (libre-arbitre) n'est pas un débat théologique abstrait — c'est un **enjeu politique direct**. Les Omeyyades défendent le **jabr** (la prédestination) parce que le jabr légitime leur pouvoir : si tout est décrété par Allāh, alors la dynastie omeyyade règne par décret divin. Contester le pouvoir, c'est contester le qadar d'Allāh.
 
-Les adversaires — les **Qadarites** — affirment le libre-arbitre humain, ce qui implique que le pouvoir omeyyade n'est pas une fatalité divine mais un **accident politique** contestable. Le lien entre jabr et obéissance au pouvoir est explicite dans la doctrine shāmie : « obéis au dirigeant, même s'il te frappe le dos et prend tes biens » (Muslim 1847) présuppose que le dirigeant est là par décret divin.
+Les adversaires — les **Qadarites** — affirment le libre-arbitre humain, ce qui implique que le pouvoir omeyyade n'est pas une fatalité divine mais un **accident politique** contestable. Le lien entre jabr et obéissance au pouvoir est explicite dans la doctrine shāmie : « obéis au dirigeant, même s'il te frappe le dos et prend tes biens » ([Muslim 1847](https://shamela.ws/book/1727/4724)) présuppose que le dirigeant est là par décret divin.
 
 Le concept d'Ahl al-Sunna wal-Jamā'a intègre le jabr comme composante doctrinale : la Jamā'a est le groupe qui accepte le pouvoir tel qu'il est, parce qu'il est décrété. Voir [[Concepts/Kūfa contre le Chām]] pour le cadre complet de cette opposition. (Module 10)
 
